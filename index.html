@@ -2,103 +2,109 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Convocatorias de Cooperación - Fundación EPM</title>
   <style>
     body {
       font-family: Arial, sans-serif;
       margin: 0;
-      padding: 0;
-      background-color: #f4f8f5;
+      background-color: #f4f8f5; /* verde claro de fondo */
       color: #333;
     }
 
     header {
-      background-color: #00843D;
-      color: white;
-      padding: 15px 30px;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
+      background-color: #00794c; /* verde institucional EPM */
+      padding: 20px;
+      text-align: center;
     }
 
-    header img {
-      height: 60px;
+    .brand-card {
+      background: #fff;
+      border-radius: 24px;
+      padding: 20px;
+      box-shadow: 0 6px 20px rgba(0,0,0,.15);
+      display: inline-block;
+      margin: auto;
     }
 
-    header h1 {
-      margin: 0;
-      font-size: 1.8em;
+    .brand-card img {
+      width: 100%;
+      max-width: 240px; /* Logo más grande */
+      height: auto;
+      object-fit: contain;
     }
 
     main {
-      padding: 30px;
+      padding: 40px 20px;
       max-width: 1200px;
       margin: auto;
     }
 
-    h2 {
-      color: #00843D;
-      margin-top: 40px;
+    h1 {
+      color: #00794c;
+      text-align: center;
+      margin-bottom: 10px;
+    }
+
+    p.intro {
+      text-align: center;
+      font-size: 18px;
+      margin-bottom: 40px;
+    }
+
+    .dashboard {
+      background: #fff;
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 6px 15px rgba(0,0,0,.1);
+      margin-bottom: 40px;
     }
 
     iframe {
       width: 100%;
       height: 600px;
       border: none;
-      margin: 20px 0;
-    }
-
-    a {
-      color: #00843D;
-      font-weight: bold;
-      text-decoration: none;
-    }
-
-    a:hover {
-      text-decoration: underline;
+      border-radius: 8px;
     }
 
     footer {
-      background-color: #00843D;
-      color: white;
+      background: #00794c;
+      color: #fff;
       text-align: center;
       padding: 15px;
-      margin-top: 40px;
+      font-size: 14px;
     }
   </style>
 </head>
 <body>
-  <!-- Encabezado -->
+
+  <!-- Encabezado con logo -->
   <header>
-    <img src="fundacion-epm-25.png" alt="Fundación EPM 25 años">
-    <h1>Convocatorias de Cooperación</h1>
+    <div class="brand-card">
+      <img src="fundacion-epm-25.png" alt="Fundación EPM 25 años">
+    </div>
   </header>
 
   <!-- Contenido principal -->
   <main>
-    <p>
+    <h1>Convocatorias de Cooperación</h1>
+    <p class="intro">
       Explora oportunidades de cooperación, becas y financiación para proyectos con impacto. 
-      Visualiza los datos en tiempo real desde nuestro tablero institucional de Power BI.
+      Visualiza los datos en tiempo real desde nuestro tablero de Power BI.
     </p>
 
-    <h2>Dashboard Power BI</h2>
-    <!-- Inserta tu enlace de Power BI -->
-    <iframe 
-      src="https://app.powerbi.com/view?r=eyJrIjoiNzI3MmM1MjktZTRlZS00YWRkLTk3YTAtNTk4NDlhNzY5YTFlIiwidCI6ImYzNTFhN2NiLWY5NGEtNGRmMC05NjI3LWFlMDMwY2NlZjdjNCIsImMiOjR9" 
-      allowFullScreen="true">
-    </iframe>
-
-    <h2>Convocatorias Cámara de Comercio de Bogotá</h2>
-    <p>
-      <a href="https://www.ccb.org.co/servicios/haz-crecer-tu-empresa/logra-liquidez-y-financiacion/convocatoria-para-cofinanciar-proyectos/convocatorias-cooperacion-tecnica" target="_blank">
-        Ver convocatoria en la CCB
-      </a>
-    </p>
+    <!-- Dashboard Power BI -->
+    <div class="dashboard">
+      <iframe title="Dashboard Power BI" 
+        src="TU_URL_DE_POWERBI"
+        allowFullScreen="true"></iframe>
+    </div>
   </main>
 
   <!-- Pie de página -->
   <footer>
-    Fundación EPM © 2025
+    Fundación EPM – Educación, Agua y Desarrollo Sostenible
   </footer>
+
 </body>
 </html>
