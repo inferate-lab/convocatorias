@@ -39,22 +39,16 @@
       border-radius: 10px;
       box-shadow: 0 2px 8px rgba(0,0,0,.2);
       background: #fff;
+      overflow: hidden; /* oculta lo que quede fuera */
+      height: 650px; /* altura visible del tablero */
     }
     .iframe-wrapper iframe{
       width: 100%;
-      height: 750px; /* tamaño visible del tablero */
+      height: 900px; /* el tablero real más alto */
       border: 0;
       display: block;
-    }
-    /* Tapa para cubrir la franja roja inferior */
-    .cover-bottom {
-      position: absolute;
-      bottom: 0;
-      left: 0;
-      width: 100%;
-      height: 60px;   /* ajusta el alto para tapar justo la franja roja */
-      background-color: #e6f4ea; /* mismo fondo de la página */
-      z-index: 2;
+      position: relative;
+      top: -100px; /* mueve hacia arriba lo visible para que se corte abajo */
     }
     footer{
       background-color:#008000;
@@ -90,7 +84,6 @@
       <iframe 
         src="https://app.powerbi.com/view?r=eyJrIjoiNzI3MmM1MjktZTRlZS00YWRkLTk3YTAtNTk4NDlhNzY5YTFlIiwidCI6ImYzNTFhN2NiLWY5NGEtNGRmMC05NjI3LWFlMDMwY2NlZjdjNCIsImMiOjR9" 
         allowfullscreen="true"></iframe>
-      <div class="cover-bottom"></div>
     </div>
   </section>
 
