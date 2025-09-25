@@ -25,3 +25,77 @@
       box-shadow: 0 2px 6px rgba(0,0,0,0.2);
     }
     h1 {
+      text-align: center;
+      margin: 20px 0;
+      color: #006400;
+    }
+    section {
+      padding: 20px;
+      text-align: center;
+    }
+    :root{
+      --visible-height: 780px;
+      --iframe-height: 860px;
+      --iframe-shift: 40px;  /* mueve hacia ABAJO */
+    }
+    .iframe-container {
+      width: 95%;
+      height: var(--visible-height);
+      margin: 20px auto;
+      overflow: hidden;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+      position: relative;
+    }
+    .iframe-container iframe {
+      width: 100%;
+      height: var(--iframe-height);
+      border: none;
+      position: relative;
+      top: var(--iframe-shift);
+    }
+    footer {
+      background-color: #008000;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      margin-top: 30px;
+    }
+    a {
+      color: #0044cc;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <img src="fundacion-epm-25.png" alt="Fundación EPM 25 años">
+  </header>
+
+  <h1>Convocatorias de Cooperación</h1>
+  <section>
+    <p>Explora oportunidades de cooperación, becas y financiación para proyectos con impacto. Visualiza los datos en <b>tiempo real</b> desde nuestro tablero de Power BI.</p>
+  </section>
+
+  <section>
+    <div class="iframe-container">
+      <iframe src="https://app.powerbi.com/view?r=eyJrIjoiNzI3MmM1MjktZTRlZS00YWRkLTk3YTAtNTk4NDlhNzY5YTFlIiwidCI6ImYzNTFhN2NiLWY5NGEtNGRmMC05NjI3LWFlMDMwY2NlZjdjNCIsImMiOjR9" allowfullscreen="true"></iframe>
+    </div>
+  </section>
+
+  <section>
+    <h2>Convocatorias Internacionales</h2>
+    <p><a href="https://www.ccb.org.co/servicios/haz-crecer-tu-empresa/logra-liquidez-y-financiacion/convocatoria-para-cofinanciar-proyectos/convocatorias-cooperacion-tecnica" target="_blank">Ver más convocatorias</a></p>
+  </section>
+
+  <footer>
+    Fundación EPM © 2025 - Educación y Cooperación
+  </footer>
+
+</body>
+</html>
