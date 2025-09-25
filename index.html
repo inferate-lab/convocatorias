@@ -1,158 +1,87 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Convocatorias de Cooperación - Fundación EPM</title>
-  <meta name="description" content="Explora oportunidades de cooperación, becas y financiación con impacto. Datos en tiempo real desde nuestro tablero Power BI." />
   <style>
-    :root{
-      --epm-green:#009639;           /* verde institucional */
-      --epm-green-700:#007a2f;
-      --text:#1a1a1a;
-      --muted:#6b7280;
-      --bg:#f5f7f7;
-      --card:#ffffff;
-      --border:#e6ece8;
-      --overlay-height:64px;         /* ajusta para tapar más/menos del pie del reporte */
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #e6f4ea; /* Fondo verde claro institucional */
+      margin: 0;
+      padding: 0;
+      color: #333;
     }
-    *,*::before,*::after{box-sizing:border-box}
-    html,body{margin:0;padding:0}
-    body{
-      font-family: system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,"Noto Sans",sans-serif;
-      color:var(--text);
-      background:
-        radial-gradient(1200px 600px at 10% -10%, rgba(0,150,57,.10), transparent 60%),
-        radial-gradient(900px 500px at 110% -20%, rgba(0,150,57,.08), transparent 60%),
-        var(--bg);
-      line-height:1.6;
+    header {
+      background-color: #008000;
+      padding: 20px;
+      text-align: center;
     }
-    a{color:var(--epm-green);text-decoration:none}
-    a:hover{text-decoration:underline}
-
-    /* Contenedor base */
-    .container{max-width:1180px;margin-inline:auto;padding:clamp(16px,2vw,24px)}
-
-    /* HERO con gradiente EPM */
-    .hero{
-      background: linear-gradient(165deg, var(--epm-green) 0%, var(--epm-green-700) 100%);
-      color:#fff; padding:clamp(24px, 5vw, 56px) 0; position:relative; overflow:hidden;
+    header img {
+      max-height: 140px;
+      background: white;
+      padding: 15px;
+      border-radius: 12px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.2);
     }
-    .hero .row{
-      display:grid; grid-template-columns: 200px 1fr; gap: clamp(16px,3vw,28px); align-items:center;
+    h1 {
+      text-align: center;
+      margin: 20px 0;
+      color: #006400;
     }
-    /* Tarjeta del logo — grande, blanco y con sombra */
-    .brand-card{
-      background:#fff; border-radius:24px; padding:24px;
-      box-shadow:0 10px 30px rgba(0,0,0,.18);
-      display:flex; align-items:center; justify-content:center;
-      max-width:320px; margin:auto;
+    section {
+      padding: 20px;
+      text-align: center;
     }
-    .brand-card img{ width:100%; max-width:280px; height:auto; object-fit:contain; }
-
-    .hero h1{ margin:0 0 6px; font-size:clamp(22px,3.4vw,40px); font-weight:800; letter-spacing:.2px }
-    .hero p{ margin:8px 0 0; font-size:clamp(14px,1.6vw,18px); opacity:.95 }
-
-    /* Tarjeta principal */
-    .card{
-      margin-top:clamp(18px,3vw,28px);
-      background:var(--card);
-      border-radius:18px;
-      box-shadow:0 14px 40px rgba(0,0,0,.08);
-      overflow:hidden;
-      border:1px solid rgba(0,0,0,.05);
+    iframe {
+      width: 95%;
+      height: 650px;
+      border: none;
+      margin: 20px auto;
+      display: block;
+      position: relative;
+      z-index: 1;
     }
-    .card-header{
-      padding:clamp(14px,2vw,18px) clamp(16px,2.4vw,22px);
-      border-bottom:1px solid rgba(0,0,0,.06);
-      display:flex; align-items:center; gap:10px; background:#fff;
+    /* Cubrir la franja roja del reporte Power BI */
+    .cover-bar {
+      position: absolute;
+      background-color: #e6f4ea; /* mismo fondo de la página */
+      top: 600px; /* ajustar según la franja roja */
+      left: 2.5%;
+      width: 95%;
+      height: 60px;
+      z-index: 2;
     }
-    .card-title{ margin:0; font-weight:800; color:#0a3c2b }
-    .pill{
-      margin-left:auto;
-      background:rgba(0,150,57,.12); color:var(--epm-green);
-      border:1px solid rgba(0,150,57,.25);
-      padding:4px 10px; border-radius:999px; font-size:12px; font-weight:700;
+    footer {
+      background-color: #008000;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      margin-top: 30px;
     }
-    .card-body{ padding:clamp(12px,2.4vw,22px) }
-
-    /* Power BI embed + overlay para tapar el pie */
-    .powerbi-wrap{
-      position:relative; width:100%;
-      aspect-ratio:16/9;            /* responsive */
-      min-height:640px;             /* alto mínimo generoso */
-      background:#f3f5f4;
-      border-radius:14px; border:1px solid rgba(0,0,0,.06);
-      overflow:hidden;
+    a {
+      color: #0044cc;
+      text-decoration: none;
+      font-weight: bold;
     }
-    .powerbi-wrap iframe{
-      position:absolute; inset:0; width:100%; height:100%; border:0; background:#fff;
-    }
-    .powerbi-wrap .overlay{
-      position:absolute; left:0; right:0; bottom:0;
-      height:var(--overlay-height);
-      background:#fff; pointer-events:none;   /* no bloquea clics */
-    }
-
-    footer{
-      margin-top:clamp(24px,5vw,56px);
-      color:var(--muted); font-size:14px; text-align:center;
-      padding:clamp(16px,3vw,24px) 0 56px;
-    }
-
-    /* Responsive */
-    @media (max-width:768px){
-      .hero .row{ grid-template-columns:1fr; }
-      .brand-card{ max-width:320px; }
-      .powerbi-wrap{ min-height:520px; }
+    a:hover {
+      text-decoration: underline;
     }
   </style>
 </head>
 <body>
 
-  <!-- HERO con logo grande -->
-  <section class="hero">
-    <div class="container">
-      <div class="row">
-        <div class="brand-card">
-          <!-- Ajusta el nombre del archivo si tu logo se llama distinto -->
-          <img src="fundacion-epm-25.png" alt="Fundación EPM 25 años" />
-        </div>
-        <div>
-          <h1>Convocatorias de Cooperación</h1>
-          <p>
-            Explora oportunidades de cooperación, becas y financiación con impacto.
-            Visualiza los datos en tiempo real desde nuestro tablero de Power BI.
-          </p>
-        </div>
-      </div>
-    </div>
+  <!-- Encabezado con logo -->
+  <header>
+    <img src="fundacion-epm-25.png" alt="Fundación EPM 25 años">
+  </header>
+
+  <!-- Título -->
+  <h1>Convocatorias de Cooperación</h1>
+  <section>
+    <p>Explora oportunidades de cooperación, becas y financiación para proyectos con impacto. Visualiza los datos en tiempo real desde nuestro tablero de Power BI.</p>
   </section>
 
-  <!-- Tarjeta con el embed de Power BI -->
-  <div class="container">
-    <article class="card" aria-label="Dashboard Power BI">
-      <header class="card-header">
-        <h2 class="card-title">Dashboard Power BI</h2>
-        <span class="pill">Microsoft Power BI</span>
-      </header>
-      <div class="card-body">
-        <div class="powerbi-wrap">
-          <!-- Tu URL real del reporte (ya integrada) -->
-          <iframe
-            title="Dashboard Convocatorias"
-            src="https://app.powerbi.com/view?r=eyJrIjoiNzI3MmM1MjktZTRlZS00YWRkLTk3YTAtNTk4NDlhNzY5YTFlIiwidCI6ImYzNTFhN2NiLWY5NGEtNGRmMC05NjI3LWFlMDMwY2NlZjdjNCIsImMiOjR9"
-            allowfullscreen="true">
-          </iframe>
-          <!-- Capa para tapar el pie rojo del reporte -->
-          <div class="overlay"></div>
-        </div>
-      </div>
-    </article>
-  </div>
-
-  <footer>
-    Fundación EPM · Medellín, Colombia
-  </footer>
-</body>
-</html>
+  <!-- Power BI incrustado -->
+  <section style="position: relative;">
+    <iframe src="https://app.powerbi.com/view?r=eyJrIjoiNzI3MmM1MjktZTRlZS00YWRkLTk3YTAtNTk4NDlhNzY5YTFlIiwidCI6ImYzNTFhN2NiLWY5NGEtNGRmMC05NjI3LWFlMDMwY2NlZ
