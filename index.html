@@ -42,15 +42,26 @@
       position: relative;
       z-index: 1;
     }
-    /* Cubrir solo la franja roja inferior */
+    /* Cubrir la franja roja inferior */
     .cover-bar {
       position: absolute;
-      background-color: #e6f4ea; /* mismo fondo de la página */
+      background-color: #e6f4ea; 
       bottom: 0;
       left: 2.5%;
       width: 95%;
-      height: 45px; /* solo la franja inferior */
+      height: 45px;
       z-index: 2;
+    }
+    /* Cubrir el logo rojo de Bogotá */
+    .cover-logo {
+      position: absolute;
+      background-color: #e6f4ea;
+      bottom: 10px;   /* Ajusta la distancia desde el borde inferior */
+      right: 40px;    /* Ajusta la distancia desde el borde derecho */
+      width: 120px;   /* Ancho del bloque que tapa el logo */
+      height: 40px;   /* Alto del bloque */
+      z-index: 3;
+      border-radius: 6px;
     }
     footer {
       background-color: #008000;
@@ -86,6 +97,7 @@
   <section style="position: relative;">
     <iframe src="https://app.powerbi.com/view?r=eyJrIjoiNzI3MmM1MjktZTRlZS00YWRkLTk3YTAtNTk4NDlhNzY5YTFlIiwidCI6ImYzNTFhN2NiLWY5NGEtNGRmMC05NjI3LWFlMDMwY2NlZjdjNCIsImMiOjR9" allowfullscreen="true"></iframe>
     <div class="cover-bar"></div>
+    <div class="cover-logo"></div>
   </section>
 
   <!-- Enlace a convocatorias -->
