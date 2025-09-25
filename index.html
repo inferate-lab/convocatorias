@@ -42,14 +42,14 @@
       position: relative;
       z-index: 1;
     }
-    /* Cubrir la franja roja del reporte Power BI */
+    /* Cubrir solo la franja roja inferior */
     .cover-bar {
       position: absolute;
       background-color: #e6f4ea; /* mismo fondo de la página */
-      top: 600px; /* ajustar según la franja roja */
+      bottom: 0;
       left: 2.5%;
       width: 95%;
-      height: 60px;
+      height: 45px; /* solo la franja inferior */
       z-index: 2;
     }
     footer {
@@ -84,4 +84,20 @@
 
   <!-- Power BI incrustado -->
   <section style="position: relative;">
-    <iframe src="https://app.powerbi.com/view?r=eyJrIjoiNzI3MmM1MjktZTRlZS00YWRkLTk3YTAtNTk4NDlhNzY5YTFlIiwidCI6ImYzNTFhN2NiLWY5NGEtNGRmMC05NjI3LWFlMDMwY2NlZ
+    <iframe src="https://app.powerbi.com/view?r=eyJrIjoiNzI3MmM1MjktZTRlZS00YWRkLTk3YTAtNTk4NDlhNzY5YTFlIiwidCI6ImYzNTFhN2NiLWY5NGEtNGRmMC05NjI3LWFlMDMwY2NlZjdjNCIsImMiOjR9" allowfullscreen="true"></iframe>
+    <div class="cover-bar"></div>
+  </section>
+
+  <!-- Enlace a convocatorias -->
+  <section>
+    <h2>Convocatorias Internacionales</h2>
+    <p><a href="https://www.ccb.org.co/servicios/haz-crecer-tu-empresa/logra-liquidez-y-financiacion/convocatoria-para-cofinanciar-proyectos/convocatorias-cooperacion-tecnica" target="_blank">Ver más convocatorias</a></p>
+  </section>
+
+  <!-- Pie de página -->
+  <footer>
+    Fundación EPM © 2025 - Educación y Cooperación
+  </footer>
+
+</body>
+</html>
