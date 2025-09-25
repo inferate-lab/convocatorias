@@ -43,24 +43,24 @@
         margin:20px auto;
         position:relative;
         overflow:hidden;        /* Esconde lo que sobresalga */
-        height:620px;           /* Altura visible (ajusta si hace falta) */
+        height:630px;           /* Altura visible */
         border-radius:10px;
         background:#fff;
         box-shadow:0 2px 8px rgba(0,0,0,.2);
       "
     >
-      <!-- Reporte real: un poco más alto, desplazado hacia ARRIBA, y escalado -->
+      <!-- Reporte real: un poco más alto, desplazado apenas hacia ARRIBA y escalado -->
       <iframe
         src="https://app.powerbi.com/view?r=eyJrIjoiNzI3MmM1MjktZTRlZS00YWRkLTk3YTAtNTk4NDlhNzY5YTFlIiwidCI6ImYzNTFhN2NiLWY5NGEtNGRmMC05NjI3LWFlMDMwY2NlZjdjNCIsImMiOjR9"
         allowfullscreen="true"
         style="
-          width:104%;            /* un pelín más ancho para que no se vean bordes */
-          height:900px;          /* más alto que la ventana para poder “recortar” abajo */
+          width:104%;
+          height:940px;          /* más alto que la ventana para poder recortar */
           border:0;
           display:block;
           position:relative;
-          top:-60px;             /* MUESTRA MÁS ARRIBA (ajusta -40 / -80 si lo prefieres) */
-          transform:scale(0.96); /* reduce un poquito el tamaño del tablero */
+          top:-12px;             /* ¡MUESTRA la parte de ARRIBA! (acércalo a 0 si quieres ver más arriba) */
+          transform:scale(0.94); /* reduce un poquito el tamaño del tablero */
           transform-origin: top center;
         "
       ></iframe>
@@ -70,17 +70,12 @@
         style="
           position:absolute;
           left:0; right:0; bottom:0;
-          height:88px;           /* tapa el pie rojo; sube/baja este número si hiciera falta */
-          background:#e6f4ea;    /* mismo color que el fondo de página */
+          height:120px;          /* tapa el pie rojo; sube a 130-140px si hiciera falta */
+          background:#e6f4ea;    /* mismo color que el fondo */
           pointer-events:none;
         "
       ></div>
     </div>
-
-    <p style="margin-top:6px;font-size:13px;color:#4d4d4d;">
-      Si aún ves parte del borde rojo: refresca con <b>Ctrl+F5</b> y prueba ajustar <b>top</b> a <code>-70px</code> o <code>-80px</code>,
-      y/o la máscara inferior <b>height</b> a <code>96px</code>.
-    </p>
   </section>
 
   <section>
