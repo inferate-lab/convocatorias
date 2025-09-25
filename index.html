@@ -5,10 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Convocatorias de Cooperación - Fundación EPM</title>
   <style>
-    /* --------- Estilos generales --------- */
     body {
       font-family: Arial, sans-serif;
-      background-color: #e6f4ea;  /* verde claro institucional */
+      background-color: #e6f4ea;
       margin: 0;
       color: #333;
     }
@@ -33,47 +32,30 @@
       padding: 14px 20px;
       text-align: center;
     }
-
-    /* --------- Control preciso del recorte/posición del reporte --------- */
-    :root{
-      /* Alto visible del “marco” (lo que se ve) */
-      --visible-height: 780px;
-
-      /* Alto del iframe (contenido interno) – debe ser MAYOR para poder recortar */
-      --iframe-height: 980px;
-
-      /* Desplazamiento del contenido del iframe:
-         NEGATIVO = mover hacia ARRIBA (muestra más de arriba y corta abajo)
-         POSITIVO = mover hacia ABAJO
-      */
-      --iframe-shift: -120px;  /* Ajusta: -100, -120, -140, -160 hasta que desaparezca la franja roja inferior */
-    }
     .iframe-wrapper{
       width: 95%;
-      margin: 16px auto 6px;
-      height: var(--visible-height);
-      overflow: hidden;         /* recorta lo que sobresale (la franja roja inferior) */
+      margin: 20px auto;
+      position: relative;
       border-radius: 10px;
       box-shadow: 0 2px 8px rgba(0,0,0,.2);
-      background: #fff;         /* da un borde limpio alrededor */
-      position: relative;
+      background: #fff;
     }
     .iframe-wrapper iframe{
       width: 100%;
-      height: var(--iframe-height);
+      height: 750px; /* tamaño visible del tablero */
       border: 0;
-      position: relative;
-      top: var(--iframe-shift);  /* Movimiento real del contenido */
+      display: block;
     }
-
-    /* --------- Link CCB y footer --------- */
-    a{
-      color:#0044cc;
-      text-decoration: none;
-      font-weight: 700;
+    /* Tapa para cubrir la franja roja inferior */
+    .cover-bottom {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      height: 60px;   /* ajusta el alto para tapar justo la franja roja */
+      background-color: #e6f4ea; /* mismo fondo de la página */
+      z-index: 2;
     }
-    a:hover{ text-decoration: underline; }
-
     footer{
       background-color:#008000;
       color:#fff;
@@ -81,16 +63,20 @@
       padding:18px;
       margin-top: 18px;
     }
+    a{
+      color:#0044cc;
+      font-weight: 700;
+      text-decoration: none;
+    }
+    a:hover{ text-decoration: underline; }
   </style>
 </head>
 <body>
 
-  <!-- Encabezado con logo -->
   <header>
     <img src="fundacion-epm-25.png" alt="Fundación EPM 25 años">
   </header>
 
-  <!-- Título y descripción -->
   <h1>Convocatorias de Cooperación</h1>
   <section>
     <p>
@@ -99,17 +85,15 @@
     </p>
   </section>
 
-  <!-- Power BI con recorte controlado -->
   <section>
     <div class="iframe-wrapper">
       <iframe 
         src="https://app.powerbi.com/view?r=eyJrIjoiNzI3MmM1MjktZTRlZS00YWRkLTk3YTAtNTk4NDlhNzY5YTFlIiwidCI6ImYzNTFhN2NiLWY5NGEtNGRmMC05NjI3LWFlMDMwY2NlZjdjNCIsImMiOjR9" 
-        allowfullscreen="true">
-      </iframe>
+        allowfullscreen="true"></iframe>
+      <div class="cover-bottom"></div>
     </div>
   </section>
 
-  <!-- Enlace a más convocatorias -->
   <section>
     <h2>Convocatorias Internacionales</h2>
     <p>
@@ -122,5 +106,6 @@
   <footer>
     Fundación EPM © 2025 - Educación y Cooperación
   </footer>
+
 </body>
 </html>
