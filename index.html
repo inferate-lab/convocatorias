@@ -6,16 +6,16 @@
   <title>Convocatorias de Cooperación - Fundación EPM</title>
   <style>
     :root{
+      /* AJUSTES RÁPIDOS (tócalos si hace falta) */
       --page-bg:   #e6f4ea;
-      --green-600: #008000;
-      --green-800: #006400;
+      --green-600: #008000;   /* header/footer */
+      --green-800: #006400;   /* títulos */
       --ink:       #333;
 
-      /* AJUSTES RÁPIDOS */
-      --report-height: 900px;   /* Alto visible del contenedor */
-      --zoom:          1.06;    /* Aumenta para “empujar” fuera el borde rojo */
-      --shiftY:       -30px;    /* Desplaza hacia arriba tras el zoom (más negativo = sube más) */
-      --radius:         8px;
+      --visible-height: 920px;  /* Alto VISIBLE del contenedor (lo que se ve) */
+      --shift-up:       -38px;  /* Desplazamiento hacia arriba del iframe (más negativo = sube más) */
+      --max-width:      1400px; /* Tope de ancho en desktop */
+      --radius:           8px;
     }
 
     *{ box-sizing: border-box }
@@ -26,6 +26,7 @@
       color: var(--ink);
     }
 
+    /* Header con fondo verde y logo */
     header{
       background: var(--green-600);
       padding: 22px 16px;
@@ -46,37 +47,31 @@
     }
     section{ padding: 0 16px; text-align: center }
 
-    /* Contenedor visible (recorta el exceso tras el zoom) */
-    .pbi-frame{
+    /* CONTENEDOR QUE RECORTA (overflow hidden) */
+    .pbi-crop{
       width: 95%;
-      max-width: 1400px;
+      max-width: var(--max-width);
       margin: 20px auto 0;
-      height: var(--report-height);
-      overflow: hidden;           /* recorte clave */
+      height: var(--visible-height);   /* ← lo que se ve */
+      overflow: hidden;                /* ← recorta lo que sobresale (incluida la franja roja) */
       border-radius: var(--radius);
       box-shadow: 0 8px 24px rgba(0,0,0,.12);
-      background: #fff;
+      background: #fff;                /* por si tarda en cargar */
       position: relative;
     }
 
-    /* El “lienzo” interno que envuelve el iframe y se escala/mueve */
-    .pbi-canvas{
-      position: absolute;
-      inset: 0;
-      transform-origin: top center;       /* ancla el zoom arriba */
-      transform: translateY(var(--shiftY)) scale(var(--zoom));
-    }
-
-    /* El iframe ocupa todo el canvas (que a su vez está escalado) */
-    .pbi-canvas iframe{
+    /* IFRAME desplazado hacia arriba para empujar la franja roja fuera del recorte */
+    .pbi-crop iframe{
       width: 100%;
-      height: 100%;
+      height: calc(var(--visible-height) - var(--shift-up)); /* compensar el desplazamiento */
       border: 0;
       display: block;
       background: #fff;
+      /* Empuja el contenido hacia arriba: */
+      margin-top: var(--shift-up);
     }
 
-    /* CTA */
+    /* Enlace */
     .cta{ margin: 12px auto 0; padding-bottom: 10px }
     .cta a{
       color: #0044cc;
@@ -93,13 +88,13 @@
       margin-top: 26px;
     }
 
-    /* Responsive */
+    /* Responsive: ajusta visible-height y el shift si hace falta */
     @media (max-width: 992px){
-      :root{ --report-height: 820px; --zoom: 1.05; --shiftY: -26px }
+      :root{ --visible-height: 820px; --shift-up: -34px }
       header img{ max-height: 120px }
     }
     @media (max-width: 600px){
-      :root{ --report-height: 720px; --zoom: 1.04; --shiftY: -22px }
+      :root{ --visible-height: 720px; --shift-up: -30px }
       header img{ max-height: 106px }
     }
   </style>
@@ -118,15 +113,13 @@
     </p>
   </section>
 
-  <!-- Power BI con zoom+recorte: tapa la parte inferior roja sin overlays -->
-  <div class="pbi-frame">
-    <div class="pbi-canvas">
-      <iframe
-        title="Convocatorias internacionales – Power BI"
-        src="https://app.powerbi.com/view?r=eyJrIjoiNzI3MmM1MjktZTRlZS00YWRkLTk3YTAtNTk4NDlhNzY5YTFlIiwidCI6ImYzNTFhN2NiLWY5NGEtNGRmMC05NjI3LWFlMDMwY2NlZjdjNCIsImMiOjR9"
-        allowfullscreen="true"
-      ></iframe>
-    </div>
+  <!-- Power BI: RECORTE por overflow + desplazamiento hacia arriba -->
+  <div class="pbi-crop">
+    <iframe
+      title="Convocatorias internacionales – Power BI"
+      src="https://app.powerbi.com/view?r=eyJrIjoiNzI3MmM1MjktZTRlZS00YWRkLTk3YTAtNTk4NDlhNzY5YTFlIiwidCI6ImYzNTFhN2NiLWY5NGEtNGRmMC05NjI3LWFlMDMwY2NlZjdjNCIsImMiOjR9"
+      allowfullscreen="true"
+    ></iframe>
   </div>
 
   <section class="cta">
