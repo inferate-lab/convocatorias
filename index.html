@@ -2,30 +2,28 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Convocatorias de Cooperación - Fundación EPM</title>
-
   <style>
     :root{
-      /* AJUSTES RÁPIDOS */
-      --report-height: 1200px; /* Alto del tablero en desktop (sube a 1300/1400 si quieres) */
-      --mask-height:  92px;    /* Altura que tapa la franja roja inferior (sube si asoma algo) */
-
       --page-bg:   #e6f4ea;
-      --green-600: #008000;  /* header/footer */
-      --green-800: #006400;  /* títulos */
+      --green-600: #008000;   /* header/footer */
+      --green-800: #006400;   /* títulos */
       --ink:       #333;
+
+      /* Ajustes rápidos */
+      --report-height: 1000px; /* ← un poco más pequeño */
+      --mask-height:      72px; /* ← tapa solo la franja inferior */
     }
 
-    *{ box-sizing: border-box; }
-    html,body{ margin:0; padding:0; }
+    *{ box-sizing: border-box }
+    html,body{ margin:0; padding:0 }
     body{
       font-family: Arial, Helvetica, sans-serif;
       background: var(--page-bg);
       color: var(--ink);
     }
 
-    /* Header con fondo verde y logo */
     header{
       background: var(--green-600);
       padding: 22px 16px;
@@ -36,7 +34,7 @@
       background: #fff;
       padding: 15px;
       border-radius: 12px;
-      box-shadow: 0 2px 6px rgba(0,0,0,.20);
+      box-shadow: 0 2px 6px rgba(0,0,0,.2);
     }
 
     h1{
@@ -44,68 +42,51 @@
       margin: 20px 0 8px;
       color: var(--green-800);
     }
-    section{ padding: 0 16px; text-align: center; }
 
-    /* El contenedor ahora ocupa casi todo el ancho de la pantalla,
-       centrado y con tope de 1800 px para monitores muy grandes */
-    .report-wrap{
-      width: min(98vw, 1800px);
+    section{ padding: 0 16px; text-align: center }
+
+    /* Contenedor del embed para alinear máscara = ancho iframe */
+    .pbi-wrap{
+      width: 95%;
+      max-width: 1400px;      /* límite de ancho */
       margin: 20px auto 0;
-      position: relative;      /* para posicionar los overlays */
-      overflow: hidden;        /* recorta cualquier cosa que sobresalga */
+      position: relative;     /* clave para posicionar la máscara */
       border-radius: 8px;
-      box-shadow: 0 10px 28px rgba(0,0,0,.12);
-      background: #fff;        /* por si tarda en cargar */
+      overflow: hidden;       /* recorta el overlay exacto al borde */
+      box-shadow: 0 8px 24px rgba(0,0,0,.12);
+      background: #fff;       /* por si tarda en cargar */
     }
 
-    /* Iframe del Power BI */
-    .report{
+    .pbi-wrap iframe{
       display: block;
       width: 100%;
       height: var(--report-height);
       border: 0;
-      position: relative;
-      z-index: 1;
+      background: #fff;
     }
 
-    /* Tapa la franja roja con degradado suave para fundirse */
-    .cover-bottom{
+    /* Máscara: SOLO abajo. Si asoma algo rojo, sube --mask-height */
+    .pbi-mask-bottom{
       position: absolute;
-      left: 0; right: 0;
-      bottom: 0;
+      left: 0; right: 0; bottom: 0;
       height: var(--mask-height);
-      z-index: 2;
-      pointer-events: none;
+      pointer-events: none;   /* no bloquea interacción */
       background-image: linear-gradient(
         to bottom,
         rgba(230,244,234,0) 0%,
-        rgba(230,244,234,.55) 32%,
+        rgba(230,244,234,.65) 45%,
         var(--page-bg) 100%
       );
     }
 
-    /* “Bleed” externo: se extiende 8px por fuera por si el informe
-       deja 1–2 px visibles en el borde de abajo */
-    .cover-bleed{
-      position: absolute;
-      left: -8px; right: -8px;
-      bottom: -8px;
-      height: calc(var(--mask-height) + 16px);
-      background: var(--page-bg);
-      z-index: 1; /* por debajo del degradado, por encima del reporte */
-      pointer-events: none;
-    }
-
-    /* CTA */
-    .cta{ margin: 12px auto 0; padding-bottom: 10px; }
+    .cta{ margin: 12px auto 0; padding-bottom: 10px }
     .cta a{
       color: #0044cc;
       text-decoration: none;
       font-weight: bold;
     }
-    .cta a:hover{ text-decoration: underline; }
+    .cta a:hover{ text-decoration: underline }
 
-    /* Footer */
     footer{
       background: var(--green-600);
       color: #fff;
@@ -114,23 +95,19 @@
       margin-top: 26px;
     }
 
-    /* Responsive: ajusta el alto en pantallas más pequeñas */
-    @media (max-width: 1200px){
-      :root{ --report-height: 1100px; }
-    }
+    /* Responsive: ajustar alto en pantallas pequeñas */
     @media (max-width: 992px){
-      :root{ --report-height: 980px; }
-      header img{ max-height: 120px; }
+      :root{ --report-height: 880px }
+      header img{ max-height: 120px }
     }
     @media (max-width: 600px){
-      :root{ --report-height: 840px; }
-      header img{ max-height: 106px; }
+      :root{ --report-height: 760px; --mask-height: 64px }
+      header img{ max-height: 106px }
     }
   </style>
 </head>
 <body>
 
-  <!-- Encabezado con logo -->
   <header>
     <img src="fundacion-epm-25.png" alt="Fundación EPM 25 años" />
   </header>
@@ -143,21 +120,16 @@
     </p>
   </section>
 
-  <!-- Power BI grande con máscaras reforzadas -->
-  <div class="report-wrap">
+  <!-- Power BI (más compacto) con máscara SOLO en el borde inferior -->
+  <div class="pbi-wrap">
     <iframe
-      class="report"
-      src="https://app.powerbi.com/view?r=eyJrIjoiNzI3MmM1MjktZTRlZS00YWRkLTk3YTAtNTk4NDlhNzY5YTFlIiwidCI6ImYzNTFhN2NiLWY5NGEtNGRmMC05NjI3LWFlMDMwY2NlZjdjNCIsImMiOjR9&chromeless=true&filterPaneEnabled=false&navContentPaneEnabled=false"
-      allowfullscreen="true"
       title="Convocatorias internacionales – Power BI"
+      src="https://app.powerbi.com/view?r=eyJrIjoiNzI3MmM1MjktZTRlZS00YWRkLTk3YTAtNTk4NDlhNzY5YTFlIiwidCI6ImYzNTFhN2NiLWY5NGEtNGRmMC05NjI3LWFlMDMwY2NlZjdjNCIsImMiOjR9"
+      allowfullscreen="true"
     ></iframe>
-
-    <!-- Máscara: degradado y bleed para cubrir cualquier resto rojo -->
-    <div class="cover-bottom" aria-hidden="true"></div>
-    <div class="cover-bleed"  aria-hidden="true"></div>
+    <div class="pbi-mask-bottom" aria-hidden="true"></div>
   </div>
 
-  <!-- Enlace a más convocatorias -->
   <section class="cta">
     <p>
       <a href="https://www.ccb.org.co/servicios/haz-crecer-tu-empresa/logra-liquidez-y-financiacion/convocatoria-para-cofinanciar-proyectos/convocatorias-cooperacion-tecnica"
