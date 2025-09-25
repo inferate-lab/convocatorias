@@ -1,115 +1,107 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Convocatorias de Cooperación - Fundación EPM</title>
   <style>
-    :root{
-      --visible-height: 780px;  /* alto visible */
-      --iframe-height:  860px;  /* alto real */
-      --iframe-shift:   -40px;  /* mueve el contenido hacia arriba */
-
-      --page-bg:   #e6f4ea;
-      --green-600: #008000;
-      --green-800: #006400;
-      --ink:       #333;
-      --max-width: 1400px;
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #e6f4ea;
+      margin: 0;
+      padding: 0;
+      color: #333;
     }
-
-    *{ box-sizing: border-box }
-    body{
-      font-family: Arial, Helvetica, sans-serif;
-      background: var(--page-bg);
-      margin:0; padding:0;
-      color: var(--ink);
-    }
-
-    header{
-      background: var(--green-600);
-      padding: 22px 16px;
+    header {
+      background-color: #008000;
+      padding: 20px;
       text-align: center;
     }
-    header img{
+    header img {
       max-height: 140px;
-      background: #fff;
+      background: white;
       padding: 15px;
       border-radius: 12px;
-      box-shadow: 0 2px 6px rgba(0,0,0,.2);
+      box-shadow: 0 2px 6px rgba(0,0,0,0.2);
     }
-
-    h1{
+    h1 {
       text-align: center;
-      margin: 20px 0 8px;
-      color: var(--green-800);
+      margin: 20px 0;
+      color: #006400;
     }
-    section{ padding: 0 16px; text-align: center }
-
-    .pbi-crop{
+    section {
+      padding: 20px;
+      text-align: center;
+    }
+    /* Definimos variables para controlar el tamaño y el recorte */
+    :root{
+      --visible-height: 780px;
+      --iframe-height: 860px;
+      --iframe-shift: -80px;
+    }
+    .iframe-container {
       width: 95%;
-      max-width: var(--max-width);
-      margin: 20px auto;
       height: var(--visible-height);
+      margin: 20px auto;
       overflow: hidden;
-      border-radius: 8px;
-      box-shadow: 0 8px 24px rgba(0,0,0,.12);
-      background: #fff;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+      position: relative;
     }
-
-    .pbi-crop iframe{
+    .iframe-container iframe {
       width: 100%;
       height: var(--iframe-height);
-      border: 0;
-      display: block;
-      margin-top: var(--iframe-shift); /* mueve el contenido */
+      border: none;
+      position: relative;
+      top: var(--iframe-shift);
     }
-
-    .cta{ margin: 12px auto 0; padding-bottom: 10px }
-    .cta a{
+    footer {
+      background-color: #008000;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      margin-top: 30px;
+    }
+    a {
       color: #0044cc;
       text-decoration: none;
       font-weight: bold;
     }
-    .cta a:hover{ text-decoration: underline }
-
-    footer{
-      background: var(--green-600);
-      color: #fff;
-      text-align: center;
-      padding: 20px 16px;
-      margin-top: 26px;
+    a:hover {
+      text-decoration: underline;
     }
   </style>
 </head>
 <body>
 
+  <!-- Encabezado con logo -->
   <header>
-    <img src="fundacion-epm-25.png" alt="Fundación EPM 25 años" />
+    <img src="fundacion-epm-25.png" alt="Fundación EPM 25 años">
   </header>
 
+  <!-- Título -->
   <h1>Convocatorias de Cooperación</h1>
   <section>
-    <p>
-      Explora oportunidades de cooperación, becas y financiación para proyectos con impacto.
-      Visualiza los datos en <b>tiempo real</b> desde nuestro tablero de Power BI.
-    </p>
+    <p>Explora oportunidades de cooperación, becas y financiación para proyectos con impacto. Visualiza los datos en <b>tiempo real</b> desde nuestro tablero de Power BI.</p>
   </section>
 
-  <div class="pbi-crop">
-    <iframe
-      title="Convocatorias internacionales – Power BI"
-      src="https://app.powerbi.com/view?r=eyJrIjoiNzI3MmM1MjktZTRlZS00YWRkLTk3YTAtNTk4NDlhNzY5YTFlIiwidCI6ImYzNTFhN2NiLWY5NGEtNGRmMC05NjI3LWFlMDMwY2NlZjdjNCIsImMiOjR9"
-      allowfullscreen="true"
-    ></iframe>
-  </div>
-
-  <section class="cta">
-    <p>
-      <a href="https://www.ccb.org.co/servicios/haz-crecer-tu-empresa/logra-liquidez-y-financiacion/convocatoria-para-cofinanciar-proyectos/convocatorias-cooperacion-tecnica"
-         target="_blank" rel="noopener">Ver más convocatorias</a>
-    </p>
+  <!-- Power BI incrustado -->
+  <section>
+    <div class="iframe-container">
+      <iframe src="https://app.powerbi.com/view?r=eyJrIjoiNzI3MmM1MjktZTRlZS00YWRkLTk3YTAtNTk4NDlhNzY5YTFlIiwidCI6ImYzNTFhN2NiLWY5NGEtNGRmMC05NjI3LWFlMDMwY2NlZjdjNCIsImMiOjR9" allowfullscreen="true"></iframe>
+    </div>
   </section>
 
-  <footer>Fundación EPM © 2025</footer>
+  <!-- Enlace -->
+  <section>
+    <h2>Convocatorias Internacionales</h2>
+    <p><a href="https://www.ccb.org.co/servicios/haz-crecer-tu-empresa/logra-liquidez-y-financiacion/convocatoria-para-cofinanciar-proyectos/convocatorias-cooperacion-tecnica" target="_blank">Ver más convocatorias</a></p>
+  </section>
+
+  <!-- Pie -->
+  <footer>
+    Fundación EPM © 2025 - Educación y Cooperación
+  </footer>
+
 </body>
 </html>
