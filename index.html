@@ -6,27 +6,25 @@
   <title>Convocatorias de Cooperación - Fundación EPM</title>
   <style>
     :root{
-      /* AJUSTES RÁPIDOS (tócalos si hace falta) */
-      --page-bg:   #e6f4ea;
-      --green-600: #008000;   /* header/footer */
-      --green-800: #006400;   /* títulos */
-      --ink:       #333;
+      /* Ajusta SOLO estos dos valores si hiciera falta */
+      --visible-height: 780px;  /* Alto visible (lo que se ve) */
+      --iframe-height:  820px;  /* Alto real del iframe (un poco mayor) */
 
-      --visible-height: 920px;  /* Alto VISIBLE del contenedor (lo que se ve) */
-      --shift-up:       -38px;  /* Desplazamiento hacia arriba del iframe (más negativo = sube más) */
-      --max-width:      1400px; /* Tope de ancho en desktop */
-      --radius:           8px;
+      --page-bg:   #e6f4ea;
+      --green-600: #008000;
+      --green-800: #006400;
+      --ink:       #333;
+      --max-width: 1400px;
     }
 
     *{ box-sizing: border-box }
-    html,body{ margin:0; padding:0 }
     body{
       font-family: Arial, Helvetica, sans-serif;
       background: var(--page-bg);
+      margin:0; padding:0;
       color: var(--ink);
     }
 
-    /* Header con fondo verde y logo */
     header{
       background: var(--green-600);
       padding: 22px 16px;
@@ -47,31 +45,25 @@
     }
     section{ padding: 0 16px; text-align: center }
 
-    /* CONTENEDOR QUE RECORTA (overflow hidden) */
+    /* CONTENEDOR que recorta la parte baja (oculta la franja 'Bogotá') */
     .pbi-crop{
       width: 95%;
       max-width: var(--max-width);
-      margin: 20px auto 0;
-      height: var(--visible-height);   /* ← lo que se ve */
-      overflow: hidden;                /* ← recorta lo que sobresale (incluida la franja roja) */
-      border-radius: var(--radius);
+      margin: 20px auto;
+      height: var(--visible-height);   /* lo visible */
+      overflow: hidden;                /* lo de abajo queda oculto */
+      border-radius: 8px;
       box-shadow: 0 8px 24px rgba(0,0,0,.12);
-      background: #fff;                /* por si tarda en cargar */
-      position: relative;
+      background: #fff;
     }
 
-    /* IFRAME desplazado hacia arriba para empujar la franja roja fuera del recorte */
     .pbi-crop iframe{
       width: 100%;
-      height: calc(var(--visible-height) - var(--shift-up)); /* compensar el desplazamiento */
+      height: var(--iframe-height);    /* un poco más alto que lo visible */
       border: 0;
       display: block;
-      background: #fff;
-      /* Empuja el contenido hacia arriba: */
-      margin-top: var(--shift-up);
     }
 
-    /* Enlace */
     .cta{ margin: 12px auto 0; padding-bottom: 10px }
     .cta a{
       color: #0044cc;
@@ -86,16 +78,6 @@
       text-align: center;
       padding: 20px 16px;
       margin-top: 26px;
-    }
-
-    /* Responsive: ajusta visible-height y el shift si hace falta */
-    @media (max-width: 992px){
-      :root{ --visible-height: 820px; --shift-up: -34px }
-      header img{ max-height: 120px }
-    }
-    @media (max-width: 600px){
-      :root{ --visible-height: 720px; --shift-up: -30px }
-      header img{ max-height: 106px }
     }
   </style>
 </head>
@@ -113,7 +95,7 @@
     </p>
   </section>
 
-  <!-- Power BI: RECORTE por overflow + desplazamiento hacia arriba -->
+  <!-- Se ve la parte superior roja, se oculta la franja roja inferior -->
   <div class="pbi-crop">
     <iframe
       title="Convocatorias internacionales – Power BI"
