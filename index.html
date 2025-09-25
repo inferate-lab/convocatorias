@@ -1,115 +1,182 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Convocatorias de Cooperación - Fundación EPM</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #e6f4ea; /* Fondo verde claro institucional */
-      margin: 0;
-      padding: 0;
-      color: #333;
-    }
-    header {
-      background-color: #008000;
-      padding: 20px;
-      text-align: center;
-    }
-    header img {
-      max-height: 140px;
-      background: white;
-      padding: 15px;
-      border-radius: 12px;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.2);
-    }
-    h1 {
-      text-align: center;
-      margin: 20px 0;
-      color: #006400;
-    }
-    section {
-      padding: 20px;
-      text-align: center;
-    }
-    iframe {
-      width: 95%;
-      height: 650px;
-      border: none;
-      margin: 20px auto;
-      display: block;
-      position: relative;
-      z-index: 1;
-    }
-    /* Cubrir la franja roja inferior */
-    .cover-bar {
-      position: absolute;
-      background-color: #e6f4ea; 
-      bottom: 0;
-      left: 2.5%;
-      width: 95%;
-      height: 45px;
-      z-index: 2;
-    }
-    /* Cubrir el logo rojo de Bogotá */
-    .cover-logo {
-      position: absolute;
-      background-color: #e6f4ea;
-      bottom: 10px;   /* Ajusta la distancia desde el borde inferior */
-      right: 40px;    /* Ajusta la distancia desde el borde derecho */
-      width: 120px;   /* Ancho del bloque que tapa el logo */
-      height: 40px;   /* Alto del bloque */
-      z-index: 3;
-      border-radius: 6px;
-    }
-    footer {
-      background-color: #008000;
-      color: white;
-      text-align: center;
-      padding: 20px;
-      margin-top: 30px;
-    }
-    a {
-      color: #0044cc;
-      text-decoration: none;
-      font-weight: bold;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Convocatorias de Cooperación – Fundación EPM</title>
+
+<!-- Paleta Fundación EPM -->
+<style>
+  :root{
+    --epm-green: #009639;   /* verde institucional */
+    --epm-dark:  #006B3F;   /* verde oscuro apoyo */
+    --bg-soft:   #E8F5E9;   /* fondo suave verdoso */
+    --ink:       #13322B;   /* texto */
+  }
+
+  /* Reset breve y tipografía */
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0}
+  body{
+    font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color:var(--ink);
+    background: linear-gradient(#F7FBF8, var(--bg-soft));
+  }
+
+  /* Cabecera con logo */
+  .header{
+    display:flex; align-items:center; justify-content:center;
+    padding:28px 16px 10px;
+  }
+  .brand{
+    display:flex; align-items:center; gap:16px;
+    background: #fff;
+    border-radius: 18px;
+    padding: 14px 18px;
+    box-shadow: 0 10px 24px rgba(0,0,0,.08);
+    border: 1px solid rgba(0,0,0,.06);
+  }
+  .brand__logo{
+    width: 210px; height:auto; display:block;
+    filter: drop-shadow(0 2px 6px rgba(0,0,0,.12));
+  }
+  .brand__title{
+    line-height:1.15; margin:0;
+  }
+  .brand__title span{
+    display:block;
+  }
+  .brand__title .kicker{
+    color:var(--epm-dark);
+    font-weight:600;
+    letter-spacing:.02em;
+    font-size:.95rem;
+  }
+  .brand__title .main{
+    color:var(--epm-green);
+    font-weight:800;
+    font-size: clamp(1.35rem, 2.2vw, 1.7rem);
+  }
+
+  /* Contenedor general */
+  .wrap{
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 10px 18px 40px;
+  }
+
+  /* Intro */
+  .intro{
+    text-align:center;
+    margin: 4px auto 18px;
+    color:#2b5348;
+  }
+
+  /* Tarjeta del reporte */
+  .report-card{
+    background:#fff;
+    border-radius: 16px;
+    box-shadow: 0 14px 32px rgba(0,0,0,.10);
+    border:1px solid rgba(0,0,0,.06);
+    padding: 12px 12px 0 12px; /* sin padding inferior para que la máscara se pegue abajo */
+    position:relative;       /* clave para la máscara */
+  }
+
+  /* El iframe (reporte) — grande y responsive */
+  .report{
+    width: 100%;
+    height: 860px;           /* alto cómodo en desktop */
+    border: 0;
+    border-radius: 12px;
+    display:block;
+  }
+
+  /* MÁSCARA: tapa la franja/branding rojo de Bogotá sin bloquear clicks */
+  .powerbi-mask{
+    position:absolute;
+    left: 12px;
+    right: 12px;
+    bottom: 0;
+    height: 46px;            /* AJUSTABLE: si se ve algo rojo, sube a 52–60px */
+    background: #fff;        /* mismo color que la tarjeta */
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    box-shadow: 0 -6px 18px rgba(0,0,0,.08);
+    pointer-events: none;    /* no tapa interacciones del reporte */
+    z-index: 9;
+  }
+
+  /* Bloque de enlaces */
+  .links{
+    display:flex; justify-content:center; gap:14px;
+    margin: 14px auto 0;
+    flex-wrap: wrap;
+  }
+  .btn{
+    display:inline-flex; align-items:center; gap:8px;
+    background:var(--epm-green);
+    color:#fff; text-decoration:none;
+    padding:10px 16px;
+    border-radius: 999px;
+    border:1px solid rgba(0,0,0,.06);
+    box-shadow: 0 6px 16px rgba(0,150,57,.25);
+    transition: transform .08s ease, box-shadow .12s ease;
+    font-weight:600;
+  }
+  .btn:hover{ transform: translateY(-1px); box-shadow: 0 8px 18px rgba(0,150,57,.28); }
+  .btn:active{ transform: translateY(0); }
+
+  /* Responsivo */
+  @media (max-width: 1024px){
+    .report{ height: 780px; }
+  }
+  @media (max-width: 720px){
+    .brand{ padding: 12px 14px; }
+    .brand__logo{ width: 180px; }
+    .report{ height: 720px; }
+  }
+  @media (max-width: 480px){
+    .report{ height: 640px; }
+  }
+</style>
 </head>
 <body>
 
-  <!-- Encabezado con logo -->
-  <header>
-    <img src="fundacion-epm-25.png" alt="Fundación EPM 25 años">
+  <!-- Cabecera con logo y título -->
+  <header class="header">
+    <div class="brand">
+      <img class="brand__logo" src="./fundacion-epm-25.png" alt="Fundación EPM – 25 años" />
+      <h1 class="brand__title">
+        <span class="kicker">Fundación EPM</span>
+        <span class="main">Convocatorias de Cooperación</span>
+      </h1>
+    </div>
   </header>
 
-  <!-- Título -->
-  <h1>Convocatorias de Cooperación</h1>
-  <section>
-    <p>Explora oportunidades de cooperación, becas y financiación para proyectos con impacto. Visualiza los datos en tiempo real desde nuestro tablero de Power BI.</p>
-  </section>
+  <main class="wrap">
+    <p class="intro">
+      Explora oportunidades de cooperación, becas y financiación para proyectos con impacto.
+      Visualiza los datos en tiempo real desde nuestro tablero de Power BI.
+    </p>
 
-  <!-- Power BI incrustado -->
-  <section style="position: relative;">
-    <iframe src="https://app.powerbi.com/view?r=eyJrIjoiNzI3MmM1MjktZTRlZS00YWRkLTk3YTAtNTk4NDlhNzY5YTFlIiwidCI6ImYzNTFhN2NiLWY5NGEtNGRmMC05NjI3LWFlMDMwY2NlZjdjNCIsImMiOjR9" allowfullscreen="true"></iframe>
-    <div class="cover-bar"></div>
-    <div class="cover-logo"></div>
-  </section>
+    <!-- Tarjeta del reporte -->
+    <section class="report-card" aria-label="Dashboard de Power BI">
+      <iframe
+        class="report"
+        title="Convocatorias internacionales – Power BI"
+        src="https://app.powerbi.com/view?r=eyJrIjoiNzI3MmM1MjktZTRlZS00YWRkLTk3YTAtNTk4NDlhNzY5YTFlIiwidCI6ImYzNTFhN2NiLWY5NGEtNGRmMC05NjI3LWFlMDMwY2NlZjdjNCIsImMiOjR9"
+        allowfullscreen
+      ></iframe>
 
-  <!-- Enlace a convocatorias -->
-  <section>
-    <h2>Convocatorias Internacionales</h2>
-    <p><a href="https://www.ccb.org.co/servicios/haz-crecer-tu-empresa/logra-liquidez-y-financiacion/convocatoria-para-cofinanciar-proyectos/convocatorias-cooperacion-tecnica" target="_blank">Ver más convocatorias</a></p>
-  </section>
+      <!-- Máscara que tapa la franja roja inferior del reporte -->
+      <div class="powerbi-mask" aria-hidden="true"></div>
+    </section>
 
-  <!-- Pie de página -->
-  <footer>
-    Fundación EPM © 2025 - Educación y Cooperación
-  </footer>
-
+    <!-- Enlace adicional -->
+    <div class="links">
+      <a class="btn" href="https://www.ccb.org.co/servicios/haz-crecer-tu-empresa/logra-liquidez-y-financiacion/convocatoria-para-cofinanciar-proyectos/convocatorias-cooperacion-tecnica"
+         target="_blank" rel="noopener">Ver más convocatorias</a>
+    </div>
+  </main>
 </body>
 </html>
