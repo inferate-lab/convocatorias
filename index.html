@@ -7,13 +7,15 @@
   <style>
     :root{
       --page-bg:   #e6f4ea;
-      --green-600: #008000;   /* header/footer */
-      --green-800: #006400;   /* títulos */
+      --green-600: #008000;
+      --green-800: #006400;
       --ink:       #333;
 
-      /* Ajustes rápidos */
-      --report-height: 1000px; /* ← un poco más pequeño */
-      --mask-height:      72px; /* ← tapa solo la franja inferior */
+      /* AJUSTES RÁPIDOS */
+      --report-height: 900px;   /* Alto visible del contenedor */
+      --zoom:          1.06;    /* Aumenta para “empujar” fuera el borde rojo */
+      --shiftY:       -30px;    /* Desplaza hacia arriba tras el zoom (más negativo = sube más) */
+      --radius:         8px;
     }
 
     *{ box-sizing: border-box }
@@ -42,43 +44,39 @@
       margin: 20px 0 8px;
       color: var(--green-800);
     }
-
     section{ padding: 0 16px; text-align: center }
 
-    /* Contenedor del embed para alinear máscara = ancho iframe */
-    .pbi-wrap{
+    /* Contenedor visible (recorta el exceso tras el zoom) */
+    .pbi-frame{
       width: 95%;
-      max-width: 1400px;      /* límite de ancho */
+      max-width: 1400px;
       margin: 20px auto 0;
-      position: relative;     /* clave para posicionar la máscara */
-      border-radius: 8px;
-      overflow: hidden;       /* recorta el overlay exacto al borde */
+      height: var(--report-height);
+      overflow: hidden;           /* recorte clave */
+      border-radius: var(--radius);
       box-shadow: 0 8px 24px rgba(0,0,0,.12);
-      background: #fff;       /* por si tarda en cargar */
+      background: #fff;
+      position: relative;
     }
 
-    .pbi-wrap iframe{
-      display: block;
+    /* El “lienzo” interno que envuelve el iframe y se escala/mueve */
+    .pbi-canvas{
+      position: absolute;
+      inset: 0;
+      transform-origin: top center;       /* ancla el zoom arriba */
+      transform: translateY(var(--shiftY)) scale(var(--zoom));
+    }
+
+    /* El iframe ocupa todo el canvas (que a su vez está escalado) */
+    .pbi-canvas iframe{
       width: 100%;
-      height: var(--report-height);
+      height: 100%;
       border: 0;
+      display: block;
       background: #fff;
     }
 
-    /* Máscara: SOLO abajo. Si asoma algo rojo, sube --mask-height */
-    .pbi-mask-bottom{
-      position: absolute;
-      left: 0; right: 0; bottom: 0;
-      height: var(--mask-height);
-      pointer-events: none;   /* no bloquea interacción */
-      background-image: linear-gradient(
-        to bottom,
-        rgba(230,244,234,0) 0%,
-        rgba(230,244,234,.65) 45%,
-        var(--page-bg) 100%
-      );
-    }
-
+    /* CTA */
     .cta{ margin: 12px auto 0; padding-bottom: 10px }
     .cta a{
       color: #0044cc;
@@ -95,13 +93,13 @@
       margin-top: 26px;
     }
 
-    /* Responsive: ajustar alto en pantallas pequeñas */
+    /* Responsive */
     @media (max-width: 992px){
-      :root{ --report-height: 880px }
+      :root{ --report-height: 820px; --zoom: 1.05; --shiftY: -26px }
       header img{ max-height: 120px }
     }
     @media (max-width: 600px){
-      :root{ --report-height: 760px; --mask-height: 64px }
+      :root{ --report-height: 720px; --zoom: 1.04; --shiftY: -22px }
       header img{ max-height: 106px }
     }
   </style>
@@ -120,14 +118,15 @@
     </p>
   </section>
 
-  <!-- Power BI (más compacto) con máscara SOLO en el borde inferior -->
-  <div class="pbi-wrap">
-    <iframe
-      title="Convocatorias internacionales – Power BI"
-      src="https://app.powerbi.com/view?r=eyJrIjoiNzI3MmM1MjktZTRlZS00YWRkLTk3YTAtNTk4NDlhNzY5YTFlIiwidCI6ImYzNTFhN2NiLWY5NGEtNGRmMC05NjI3LWFlMDMwY2NlZjdjNCIsImMiOjR9"
-      allowfullscreen="true"
-    ></iframe>
-    <div class="pbi-mask-bottom" aria-hidden="true"></div>
+  <!-- Power BI con zoom+recorte: tapa la parte inferior roja sin overlays -->
+  <div class="pbi-frame">
+    <div class="pbi-canvas">
+      <iframe
+        title="Convocatorias internacionales – Power BI"
+        src="https://app.powerbi.com/view?r=eyJrIjoiNzI3MmM1MjktZTRlZS00YWRkLTk3YTAtNTk4NDlhNzY5YTFlIiwidCI6ImYzNTFhN2NiLWY5NGEtNGRmMC05NjI3LWFlMDMwY2NlZjdjNCIsImMiOjR9"
+        allowfullscreen="true"
+      ></iframe>
+    </div>
   </div>
 
   <section class="cta">
