@@ -6,9 +6,9 @@
   <title>Convocatorias de Cooperación - Fundación EPM</title>
   <style>
     :root{
-      /* Ajusta SOLO estos dos valores si hiciera falta */
-      --visible-height: 780px;  /* Alto visible (lo que se ve) */
-      --iframe-height:  820px;  /* Alto real del iframe (un poco mayor) */
+      --visible-height: 780px;  /* alto visible */
+      --iframe-height:  860px;  /* alto real */
+      --iframe-shift:   -40px;  /* mueve el contenido hacia arriba */
 
       --page-bg:   #e6f4ea;
       --green-600: #008000;
@@ -45,13 +45,12 @@
     }
     section{ padding: 0 16px; text-align: center }
 
-    /* CONTENEDOR que recorta la parte baja (oculta la franja 'Bogotá') */
     .pbi-crop{
       width: 95%;
       max-width: var(--max-width);
       margin: 20px auto;
-      height: var(--visible-height);   /* lo visible */
-      overflow: hidden;                /* lo de abajo queda oculto */
+      height: var(--visible-height);
+      overflow: hidden;
       border-radius: 8px;
       box-shadow: 0 8px 24px rgba(0,0,0,.12);
       background: #fff;
@@ -59,9 +58,10 @@
 
     .pbi-crop iframe{
       width: 100%;
-      height: var(--iframe-height);    /* un poco más alto que lo visible */
+      height: var(--iframe-height);
       border: 0;
       display: block;
+      margin-top: var(--iframe-shift); /* mueve el contenido */
     }
 
     .cta{ margin: 12px auto 0; padding-bottom: 10px }
@@ -95,7 +95,6 @@
     </p>
   </section>
 
-  <!-- Se ve la parte superior roja, se oculta la franja roja inferior -->
   <div class="pbi-crop">
     <iframe
       title="Convocatorias internacionales – Power BI"
