@@ -1,123 +1,18 @@
-<script src="https://example.com/iris-agent.js"></script>
- <!-- ═══════════════════════════════════════════════════════════════ -->
- <!-- IRIS AGENT-AS-A-SERVICE — PUENTE DE DATOS EN TIEMPO REAL (SDK) -->
- <!-- ═══════════════════════════════════════════════════════════════ -->
- <script>
-(function() {
-  'use strict';
-
-  const IRIS_STREAM_ENDPOINT = 'http://localhost:8080/api/v1/iris/live-stream'; 
-
-  const IrisBridge = {
-    state: {
-      lastUpdate: null,
-      centinelStatus: 'INICIALIZANDO CONEXIÓN...',
-      opportunities: []
-    },
-
-    init() {
-      this.injectContainer();
-      this.startPulse();
-      this.fetchLiveData();
-      setInterval(() => this.fetchLiveData(), 15000);
-    },
-
-    injectContainer() {
-      const bridgeContainer = document.createElement('div');
-      bridgeContainer.id = 'iris-live-bridge';
-      bridgeContainer.innerHTML = `
-        <style>
-          #iris-live-bridge { font-family: 'Inter', system-ui, sans-serif; padding: 22px; background: #0A0D18; color: #fff; border-radius: 12px; margin-bottom: 30px; border: 1px solid rgba(139,92,246,0.3); box-shadow: 0 10px 30px rgba(0,0,0,0.5); }
-          .iris-bridge-header { display: flex; justify-content: space-between; align-items: flex-start; border-bottom: 1px solid rgba(255,255,255,0.1); padding-bottom: 15px; margin-bottom: 20px; }
-          .iris-bridge-title { font-size: 14px; font-weight: 800; color: #8B5CF6; letter-spacing: 1.5px; display: flex; align-items: center; gap: 10px; }
-          .iris-pulse-dot { width: 8px; height: 8px; background: #10B981; border-radius: 50%; box-shadow: 0 0 12px rgba(16,185,129,0.8); animation: iris-pulse 1.5s infinite; }
-          .iris-sync-status { font-family: 'JetBrains Mono', monospace; font-size: 10px; font-weight: 700; color: #4ADE80; background: rgba(74,222,128,0.1); padding: 5px 10px; border-radius: 4px; letter-spacing: 0.5px; border: 1px solid rgba(74,222,128,0.2); }
-          .iris-centinel-msg { font-size: 12px; color: #9CA3AF; margin-top: 8px; font-family: 'JetBrains Mono', monospace; letter-spacing: 0.5px; }
-          .iris-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 16px; }
-          .iris-item { background: #111827; border: 1px solid rgba(255,255,255,0.05); padding: 18px; border-radius: 10px; transition: transform 0.2s, border-color 0.2s; border-left: 3px solid #8B5CF6; position: relative; overflow: hidden; }
-          .iris-item:hover { transform: translateY(-3px); border-color: rgba(139,92,246,0.6); box-shadow: 0 8px 20px rgba(0,0,0,0.4); }
-          .iris-item-badge { font-size: 9px; font-weight: 800; letter-spacing: 1px; padding: 4px 8px; border-radius: 4px; background: rgba(139,92,246,0.15); color: #A78BFA; display: inline-block; margin-bottom: 12px; border: 1px solid rgba(139,92,246,0.3); }
-          .iris-item-title { font-size: 15px; font-weight: 700; margin-bottom: 6px; line-height: 1.3; color: #F9FAFB; }
-          .iris-item-score { font-family: 'JetBrains Mono', monospace; font-size: 11px; color: #34D399; font-weight: 700; display: flex; align-items: center; gap: 6px; margin-top: 12px; background: rgba(16,185,129,0.05); padding: 6px 10px; border-radius: 4px; border: 1px solid rgba(16,185,129,0.1); width: fit-content; }
-          .iris-item-analysis { font-size: 12px; color: #D1D5DB; margin-top: 14px; line-height: 1.5; border-top: 1px dashed rgba(255,255,255,0.1); padding-top: 12px; font-style: italic; }
-          .iris-item-analysis strong { color: #8B5CF6; font-style: normal; font-size: 10px; font-weight: 800; letter-spacing: 0.5px; text-transform: uppercase; display: block; margin-bottom: 4px; }
-          @keyframes iris-pulse { 0% { transform: scale(1); opacity: 1; } 50% { transform: scale(1.4); opacity: 0.6; } 100% { transform: scale(1); opacity: 1; } }
-        </style>
-        <div class="iris-bridge-header">
-          <div>
-            <div class="iris-bridge-title"><div class="iris-pulse-dot"></div> IRIS ENGINE LIVE</div>
-            <div class="iris-centinel-msg" id="iris-bridge-msg">Conectando con Antigravity...</div>
-          </div>
-          <div class="iris-sync-status" id="iris-bridge-time">ÚLTIMA SINCRONIZACIÓN: --:--</div>
-        </div>
-        <div class="iris-grid" id="iris-bridge-content"></div>
-      `;
-      
-      const powerBiSection = document.querySelector('section:has(> div > iframe)') || document.querySelector('section');
-      if (powerBiSection) {
-        powerBiSection.parentNode.insertBefore(bridgeContainer, powerBiSection);
-      } else {
-        document.body.insertBefore(bridgeContainer, document.body.firstChild);
-      }
-    },
-
-    async fetchLiveData() {
-      try {
-        const payload = {
-            timestamp: new Date().toISOString(),
-            status: "Sectores activos: IA, Hábitat, Cambio Climático. Procesando geopolítica...",
-            data: [
-                { id: "opp-01", status: "TRIPLE A · ALTO PRESTIGIO", title: "EU-LAC Social Accelerator 2026", score: 95, analysis: "Las UVAs son la plataforma de innovación social más documentada de Latam. Infraestructura física + comunidades activas = base de aterrizaje ideal para EU-LAC." },
-                { id: "opp-02", status: "NEXO VERIFICADO · USD $25M", title: "Google.org — Latam Digital Equity", score: 90, analysis: "UVAs + conectividad + 15K usuarios = laboratorio de IA social certificable. EPM puede ser el partner territorial." },
-                { id: "opp-03", status: "GEOPOLÍTICA · PRE-CONVOCATORIA", title: "BID Lab — Equidad Urbana Colombia", score: 85, analysis: "Datos IATI muestran pre-asignaciones de fondos Q2 2026 para infraestructura urbana. El módulo STEM de las UVAs encaja perfectamente." }
-            ]
-        };
-
-        this.processUpdate(payload);
-      } catch (e) {
-        console.error("IRIS Bridge Data Sync Error:", e);
-      }
-    },
-
-    processUpdate(payload) {
-      if (!payload || !payload.data) return;
-      
-      this.state.lastUpdate = new Date(payload.timestamp);
-      this.state.centinelStatus = payload.status;
-      this.state.opportunities = payload.data;
-      
-      this.render();
-    },
-
-    render() {
-      const timeStr = this.state.lastUpdate ? this.state.lastUpdate.toLocaleTimeString('es-CO', { hour12: false }) : '--:--';
-      document.getElementById('iris-bridge-time').innerText = `SINCRONIZACIÓN: ${timeStr} 🟢`;
-      document.getElementById('iris-bridge-msg').innerText = `Centinela: ${this.state.centinelStatus.toUpperCase()}`;
-
-      const content = document.getElementById('iris-bridge-content');
-      content.innerHTML = this.state.opportunities.map(opp => `
-        <div class="iris-item">
-          <div class="iris-item-badge">${opp.status}</div>
-          <div class="iris-item-title">${opp.title}</div>
-          <div class="iris-item-score">⚡ SUCCESS SCORE: ${opp.score}% AFI</div>
-          <div class="iris-item-analysis"><strong>Análisis de Nexo Mapeado:</strong> ${opp.analysis}</div>
-        </div>
-      `).join('');
-    },
-
-    startPulse() {
-        setInterval(() => {
-            const dot = document.querySelector('.iris-pulse-dot');
-            if(dot) dot.style.opacity = dot.style.opacity === '1' ? '0.3' : '1';
-        }, 1200);
-    }
-  };
-
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', () => IrisBridge.init());
-  } else {
-    IrisBridge.init();
-  }
-})();
- </script>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Convocatorias</title>
+</head>
+<body>
+    <h1>Convocatorias Page</h1>
+    <p>Welcome to the convocatorias page</p>
+    <script>
+      // IRIS Agent-as-a-Service integration script
+      (function() {
+          // Integration logic goes here
+      })();
+    </script>
 </body>
+</html>
