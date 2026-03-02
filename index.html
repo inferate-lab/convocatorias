@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IRIS — Inteligencia de Fondos | Fundación Grupo EPM</title>
+    <meta name="description"
+        content="Sistema de monitoreo y traje de oportunidades de financiamiento para Fundación Grupo EPM">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&family=Roboto+Mono:wght@400;500;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+    <!-- HEADER -->
+    <header class="header">
+        <div class="header-inner">
+            <div class="brand">
+                <div class="brand-icon">
+                    <img src="epm-logo.png" alt="Logo Fundación Grupo EPM"
+                        style="width: 40px; height: 40px; border-radius: 4px; object-fit: contain;">
+                </div>
+                <div>
+                    <h1 class="brand-name">Fundación Grupo EPM</h1>
+                    <p class="brand-sub">Intelligence & Research Intelligence System</p>
+                </div>
+            </div>
+            <div class="header-meta">
+                <div class="status-indicator" id="systemStatus">
+                    <span class="pulse-dot"></span>
+                    <span id="statusText">Sistema Activo</span>
+                </div>
+                <div class="last-scan">
+                    <span class="label">Último análisis:</span>
+                    <span id="lastScanTime" class="mono">—</span>
+                </div>
+                <button class="btn-scan" id="runScanBtn" onclick="runFullScan()">
+                    <svg viewBox="0 0 20 20" fill="none">
+                        <path
+                            d="M10 2v4M10 14v4M2 10h4M14 10h4M4.93 4.93l2.83 2.83M12.24 12.24l2.83 2.83M4.93 15.07l2.83-2.83M12.24 7.76l2.83-2.83"
+                            stroke="currentColor" stroke-width="1.5" stroke-linecap="round" />
+                    </svg>
+                    Ejecutar Escaneo
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- MAIN -->
+    <main class="main">
+
+        <!-- STATS ROW -->
+        <section class="stats-row">
+            <div class="stat-card stat-red">
+                <div class="stat-icon">🔴</div>
+                <div class="stat-body">
+                    <div class="stat-number" id="countRed">0</div>
+                    <div class="stat-label">Alertas Rojas</div>
+                    <div class="stat-desc">Triple A — Acción inmediata</div>
+                </div>
+            </div>
+            <div class="stat-card stat-amber">
+                <div class="stat-icon">🟡</div>
+                <div class="stat-body">
+                    <div class="stat-number" id="countAmber">0</div>
+                    <div class="stat-label">Intel de Fondo</div>
+                    <div class="stat-desc">Análisis semanal</div>
+                </div>
+            </div>
+            <div class="stat-card stat-green">
+                <div class="stat-icon">🟢</div>
+                <div class="stat-body">
+                    <div class="stat-number" id="countSilent">0</div>
+                    <div class="stat-label">Señales Silenciosas</div>
+                    <div class="stat-desc">Shadow-Work activo</div>
+                </div>
+            </div>
+            <div class="stat-card stat-gray">
+                <div class="stat-icon">⚫</div>
+                <div class="stat-body">
+                    <div class="stat-number" id="countNoise">0</div>
+                    <div class="stat-label">Descartados</div>
+                    <div class="stat-desc">Ruido filtrado</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- TRIAGE BOARD -->
+        <section class="triage-section">
+
+            <!-- LEVEL 1: RED ALERT -->
+            <div class="triage-panel panel-red">
+                <div class="panel-header">
+                    <div class="panel-title-group">
+                        <div class="level-badge badge-red">NIVEL 1</div>
+                        <h2 class="panel-title">🔴 Alerta Roja — Triple A</h2>
+                    </div>
+                    <div class="panel-meta">Alto Presupuesto · Alto Prestigio · Baja Fricción</div>
+                </div>
+                <div class="panel-body" id="redAlertContainer">
+                    <div class="empty-state">
+                        <div class="empty-icon">📡</div>
+                        <p>Sin alertas activas. El sistema monitorea continuamente.</p>
+                        <p class="empty-sub">Ejecuta un escaneo para buscar oportunidades Triple A.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- LEVEL 2: BACKGROUND INTEL -->
+            <div class="triage-panel panel-amber">
+                <div class="panel-header">
+                    <div class="panel-title-group">
+                        <div class="level-badge badge-amber">NIVEL 2</div>
+                        <h2 class="panel-title">🟡 Inteligencia de Fondo</h2>
+                    </div>
+                    <div class="panel-meta">Tendencias · Políticas · Señales del Mercado</div>
+                </div>
+                <div class="panel-body" id="intelContainer">
+                    <div class="empty-state">
+                        <div class="empty-icon">🔍</div>
+                        <p>Mapa de oportunidades estratégicas pendiente de generación.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- SHADOW WORK ENGINE -->
+            <div class="triage-panel panel-purple">
+                <div class="panel-header">
+                    <div class="panel-title-group">
+                        <div class="level-badge badge-purple">SHADOW</div>
+                        <h2 class="panel-title">🔮 Motor Shadow-Work</h2>
+                    </div>
+                    <div class="panel-meta">Señales Silenciosas · Validación de Capacidad · Consorcios</div>
+                </div>
+                <div class="panel-body" id="shadowContainer">
+                    <div class="empty-state">
+                        <div class="empty-icon">⚙️</div>
+                        <p>El motor de inferencia está en reposo.</p>
+                        <p class="empty-sub">Activar con escaneo completo.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- LEVEL 3: NOISE LOG -->
+            <div class="triage-panel panel-gray">
+                <div class="panel-header">
+                    <div class="panel-title-group">
+                        <div class="level-badge badge-gray">NIVEL 3</div>
+                        <h2 class="panel-title">⚫ Ruido Descartado</h2>
+                    </div>
+                    <div class="panel-meta">Filtros duros aplicados automáticamente</div>
+                </div>
+                <div class="panel-body panel-body-compact" id="noiseContainer">
+                    <div class="empty-state">
+                        <p>Sin registros de descarte aún.</p>
+                    </div>
+                </div>
+            </div>
+
+        </section>
+
+        <!-- SCAN LOG / OUTPUT PROTOCOL -->
+        <section class="output-section">
+            <div class="output-header">
+                <h2>📋 Protocolo de Salida — Voz del Sistema</h2>
+                <div class="output-actions">
+                    <button class="btn-secondary" onclick="clearLog()">Limpiar</button>
+                    <button class="btn-secondary" onclick="exportLog()">Exportar</button>
+                </div>
+            </div>
+            <div class="output-terminal" id="outputTerminal">
+                <div class="terminal-line terminal-system">
+                    <span class="mono terminal-time">[08:46:14]</span>
+                    <span class="terminal-tag tag-system">SISTEMA</span>
+                    <span>IRIS inicializado. Protocol de salida activo. Aguardando primer escaneo...</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- CAPACITY VALIDATOR -->
+        <section class="capacity-section">
+            <div class="capacity-header">
+                <h2>⚖️ Validador de Capacidad — Filtro Informe 2024</h2>
+            </div>
+            <div class="capacity-body">
+                <div class="capacity-form">
+                    <div class="form-group">
+                        <label>Presupuesto requerido por la convocatoria (USD)</label>
+                        <input type="number" id="reqBudget" placeholder="ej. 300000" class="form-input">
+                    </div>
+                    <div class="form-group">
+                        <label>Donante</label>
+                        <input type="text" id="reqDonor" placeholder="ej. USAID, Gates Foundation..."
+                            class="form-input">
+                    </div>
+                    <div class="form-group">
+                        <label>¿Requiere cofinanciación?</label>
+                        <select id="reqCofinancing" class="form-input">
+                            <option value="no">No</option>
+                            <option value="si">Sí</option>
+                        </select>
+                    </div>
+                    <button class="btn-validate" onclick="validateCapacity()">Validar Capacidad →</button>
+                </div>
+                <div class="capacity-result" id="capacityResult">
+                    <div class="result-placeholder">Ingresa los datos de la convocatoria para validar si cumplimos los
+                        requisitos financieros del informe 2024.</div>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- FOOTER -->
+    <footer class="footer">
+        <div class="footer-inner">
+            <p>Fundación Grupo EPM 2026®</p>
+        </div>
+    </footer>
+
+    <!-- DOSSIER MODAL -->
+    <div class="modal-overlay" id="dossierModal" onclick="closeDossier(event)">
+        <div class="modal-box">
+            <div class="modal-header">
+                <h2>📁 Dossier de Carpintería</h2>
+                <button class="modal-close" onclick="closeDossierBtn()">✕</button>
+            </div>
+            <div class="modal-body" id="dossierContent">
+            </div>
+            <div class="modal-footer">
+                <button class="btn-secondary" onclick="closeDossierBtn()">Cerrar</button>
+                <button class="btn-scan" onclick="exportDossier()">Exportar Dossier</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- SCHEDULER MODAL -->
+    <div class="modal-overlay" id="schedulerModal" onclick="closeScheduler(event)">
+        <div class="modal-box modal-wide">
+            <div class="modal-header">
+                <h2>🕐 Configurar Escaneo Autónomo</h2>
+                <button class="modal-close" onclick="closeSchedulerBtn()">✕</button>
+            </div>
+            <div class="modal-body">
+                <div class="scheduler-info">
+                    <div class="scheduler-step">
+                        <div class="step-num">1</div>
+                        <div>
+                            <h3>Instalar Node.js</h3>
+                            <p>Descarga e instala Node.js desde <strong>nodejs.org</strong> si no lo tienes.</p>
+                        </div>
+                    </div>
+                    <div class="scheduler-step">
+                        <div class="step-num">2</div>
+                        <div>
+                            <h3>Instalar dependencias</h3>
+                            <code
+                                class="code-block">cd inteligencia-fondos<br>npm install node-cron axios cheerio</code>
+                        </div>
+                    </div>
+                    <div class="scheduler-step">
+                        <div class="step-num">3</div>
+                        <div>
+                            <h3>Ejecutar el agente autónomo</h3>
+                            <code class="code-block">node scheduler.js</code>
+                            <p>El agente correrá escaneos cada 6 horas y guardará resultados en <code>data/scans/</code>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="scheduler-step">
+                        <div class="step-num">4</div>
+                        <div>
+                            <h3>Abrir dashboard cada vez que entres</h3>
+                            <p>IRIS habrá trabajado mientras no estabas. Els resultados pre-clasificados te esperan.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button class="btn-secondary" onclick="closeSchedulerBtn()">Cerrar</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- FLOATING ACTIONS -->
+    <div class="fab-group">
+        <button class="fab fab-secondary" title="Configurar escaneo autónomo" onclick="openScheduler()">🕐</button>
+        <button class="fab fab-primary" title="Ejecutar escaneo ahora" onclick="runFullScan()">
+            <svg viewBox="0 0 24 24" fill="none">
+                <path
+                    d="M12 2v4M12 18v4M2 12h4M18 12h4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83"
+                    stroke="currentColor" stroke-width="2" stroke-linecap="round" />
+            </svg>
+        </button>
+    </div>
+
+    <script src="data/profile.json" type="application/json" id="profileData"></script>
+    <script src="scanner.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>

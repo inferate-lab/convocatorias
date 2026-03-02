@@ -1,0 +1,82 @@
+{
+  "organization": {
+    "name": "Fundación [Tu Organización]",
+    "territory": "Medellín, Colombia",
+    "type": "Fundación sin ánimo de lucro",
+    "focus_areas": [
+      "Infraestructura social comunitaria",
+      "Gestión del conocimiento",
+      "Apropiación tecnológica",
+      "Resiliencia comunitaria",
+      "Bibliotecas públicas",
+      "Ecosistemas de aprendizaje"
+    ],
+    "key_assets": [
+      "UVAs (Unidades de Vida Articulada)",
+      "Red de bibliotecas comunitarias",
+      "Plataforma de gestión del conocimiento",
+      "Alianzas con comunidades barriales",
+      "Equipo técnico especializado"
+    ]
+  },
+  "report_2024": {
+    "page_15_financials": {
+      "execution_capacity_cop": 500000000,
+      "execution_capacity_usd": 125000,
+      "execution_capacity_label": "COP $500M / USD $125K",
+      "note": "ACTUALIZA ESTE VALOR con la cifra real de la pág. 15 de tu informe 2024",
+      "average_project_size_usd": 80000,
+      "max_comfortable_execution_usd": 200000
+    },
+    "certifications": [
+      "Personería jurídica vigente",
+      "RUT al día",
+      "Estados financieros auditados 2024"
+    ],
+    "track_record": {
+      "years_operating": 10,
+      "beneficiaries_2024": 15000,
+      "note": "ACTUALIZA con cifras reales del informe"
+    }
+  },
+  "triage_config": {
+    "level1_red_alert": {
+      "min_budget_usd": 100000,
+      "preferred_donors": ["EU", "USAID", "Gates Foundation", "IDB", "UNDP", "Open Society", "Skoll Foundation"],
+      "friction_threshold": "low",
+      "description": "Triple A: Alto Presupuesto, Alto Prestigio, Baja Fricción"
+    },
+    "level2_background_intel": {
+      "categories": ["policy_change", "donor_trend", "reputation_award", "silent_signal"],
+      "report_frequency": "weekly"
+    },
+    "level3_noise_discard": {
+      "max_budget_usd": 10000,
+      "exclude_types": ["beca_individual", "curso_formacion", "subsidio_persona"],
+      "note": "AJUSTA el monto mínimo según tus criterios"
+    }
+  },
+  "silent_signals_config": {
+    "watch_territories": ["Medellín", "Antioquia", "Colombia"],
+    "watch_companies": ["Google", "Microsoft", "Meta", "Amazon", "Apple", "Telefónica", "EPM", "Bancolombia"],
+    "impact_keywords": ["responsabilidad social", "inversión social", "impacto comunitario", "ESG", "sostenibilidad"],
+    "opportunity_template": "Hay un movimiento de capital de {company} en el territorio. Podemos ofrecer las UVAs como centros de impacto para su responsabilidad social corporativa."
+  },
+  "consortium_partners": [
+    {
+      "name": "Universidad de Antioquia",
+      "strength": "Capacidad financiera y técnica académica",
+      "contact": "PENDIENTE"
+    },
+    {
+      "name": "Alcaldía de Medellín — Subdirección de Bibliotecas",
+      "strength": "Legitimidad institucional pública",
+      "contact": "PENDIENTE"
+    },
+    {
+      "name": "Corporación Con-Vivamos",
+      "strength": "Trabajo territorial barrial",
+      "contact": "PENDIENTE"
+    }
+  ]
+}
