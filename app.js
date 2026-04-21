@@ -237,7 +237,7 @@ async function runFullScan() {
     await delay(400);
     OutputProtocol.voice('system', 'Motor tripartito activo. Equilibrio: 🌿 Ambiental · ⚡ Tecnológico · 🤝 Social. Sin sesgos de sector.');
     await delay(500);
-    OutputProtocol.voice('geo', 'Escaneando: TED (UE), Grants.gov, UNGM, IATI, Mission Innovation, Ellen MacArthur, RAEng, academias nacionales globales...');
+    OutputProtocol.voice('geo', 'Escaneando (Grants, Awards, Prizes, Nominations, Open Calls, Call for entries): TED (UE), Grants.gov, UNGM, Suqia UAE, Zayed, IWA, SURA, Scotiabank...');
     await delay(500);
     OutputProtocol.voice('geo', 'Procesando señales geopolíticas: COP16 compromisos biodiversidad, H₂ verde MI-8, Global Gateway EU €300M, GBIF urban data...');
     await delay(600);
