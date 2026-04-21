@@ -281,23 +281,6 @@ const GLOBAL_RADAR = [
         tipo: 'roja'
     },
     {
-        id: 'rainforest_trust_2026',
-        titulo: 'Rainforest Trust — Community-Based Conservation Colombia',
-        donante: 'Rainforest Trust',
-        fuente: 'Rainforest Trust Grants Portal',
-        sector: 'Conservación de Bosques',
-        presupuesto_usd: 180_000,
-        fecha_cierre: '2026-04-01',
-        estado: 'ACTIVA',
-        pais_elegible: 'Colombia ✓',
-        afinidad_pivot: 78,
-        pivot: 'La presencia territorial de EPM en Antioquia incluye zonas de amortiguamiento de bosques. Pivot: estructurar un componente de corredor ecológico en las áreas de influencia de UVAs.',
-        obstaculo: 'El foco es conservación in situ — EPM debe articular un componente de gestión ambiental territorial no urbano. Alianza con Corantioquia como soporte técnico.',
-        fuente_url: 'https://www.rainforesttrust.org/grants/',
-        tags: ['CORREDOR ECOLÓGICO', 'PIVOT AMBIENTAL', 'VIABLE CON ALIANZA'],
-        tipo: 'fondo'
-    },
-    {
         id: 'gef_sgp_colombia',
         titulo: 'GEF Small Grants Programme — Ciclo 8 Colombia',
         donante: 'Global Environment Facility / UNDP',
@@ -509,23 +492,6 @@ const GLOBAL_RADAR = [
         tags: ['MODELO UVA DOCUMENTADO', 'ONU PRIORITARIO', 'MATCH URBANO 87%'],
         tipo: 'roja'
     },
-    {
-        id: 'usaid_peace_colombia',
-        titulo: 'USAID — Colombia Peace and Stabilization Fund',
-        donante: 'USAID Colombia',
-        fuente: 'Grants.gov / USAID Colombia Mission',
-        sector: 'Paz / Convivencia',
-        presupuesto_usd: 400_000,
-        fecha_cierre: '2026-04-15',
-        estado: 'ACTIVA',
-        pais_elegible: 'Colombia ✓ (programa específico)',
-        afinidad_pivot: 89,
-        pivot: 'Las UVAs nacieron como instrumentos de paz urbana en comunas de violencia histórica en Medellín. Ese origen es exactamente el narrative de USAID para Colombia.',
-        obstaculo: 'USAID requiere reporte financiero auditado en inglés. Iniciar traducción de pág. 15 del Informe 2024.',
-        fuente_url: 'https://www.usaid.gov/colombia',
-        tags: ['USAID COLOMBIA', 'NARRATIVA DE PAZ', 'MATCH UVAs 89%'],
-        tipo: 'roja'
-    },
 
     // ─── SECTOR: SALUD MENTAL Y TEJIDO SOCIAL ────────────────
     {
@@ -616,23 +582,6 @@ const GLOBAL_RADAR = [
         fuente_url: 'https://www.unicef.org/colombia/',
         tags: ['UNICEF COLOMBIA', 'PRIMERA INFANCIA', 'PIVOT UVAs COMO ESPACIO SEGURO'],
         tipo: 'fondo'
-    },
-    {
-        id: 'stem_education_latam_eu',
-        titulo: 'Erasmus+ — Educación STEM y Robótica en Latam (EU-Colombia)',
-        donante: 'European Commission / Erasmus+',
-        fuente: 'TED / EACEA Erasmus+ International Partnerships',
-        sector: 'Educación STEM / Robótica',
-        presupuesto_usd: 450_000,
-        fecha_cierre: '2026-04-01',
-        estado: 'ACTIVA',
-        pais_elegible: 'Colombia ✓ (Socio Internacional Erasmus+)',
-        afinidad_pivot: 89,
-        pivot: 'Las UVAs ya tienen salas de tecnología y STEM. Pivot: formalizar un currículo de robótica + IA con universidades europeas bajo el marco Erasmus+ International, posicionando EPM como hub territorial.',
-        obstaculo: 'Requiere consorcio con al menos 1 universidad europea y 1 institución de formación colombiana (EAFIT ideal).',
-        fuente_url: 'https://erasmus-plus.ec.europa.eu/',
-        tags: ['ERASMUS+', 'STEM ROBÓTICA', 'CONSORCIO EU-EAFIT', 'MATCH 89%'],
-        tipo: 'roja'
     },
 
     // ─── SECTOR: DERECHOS Y PUEBLOS ──────────────────────────

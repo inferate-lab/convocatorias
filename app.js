@@ -67,6 +67,7 @@ function dimBadge(opp) {
 
 // Tag CSS helper
 function tagCss(tag) {
+    if (tag === 'NUEVA') return 'tag tag-warn pulse'; // Highlighting new opportunities
     if (tag.includes('TRIPLE A') || tag.includes('USD') || tag.includes('ROJA')) return 'tag tag-warn';
     if (tag.includes('MATCH') || tag.includes('%') || tag.includes('VIABLE')) return 'tag tag-match';
     if (tag.includes('PIVOT') || tag.includes('SEÑAL')) return 'tag';
@@ -95,7 +96,7 @@ function filterByDimension(dim) {
 function renderRedAlerts(opps) {
     const container = document.getElementById('redAlertContainer');
     if (!opps.length) {
-        container.innerHTML = `<div class="empty-state"><div class="empty-icon">📡</div><p>Sin alertas en esta dimensión.</p></div>`;
+        container.innerHTML = `<div class="empty-state"><div class="empty-icon">📡</div><p>Buscando nuevas oportunidades en tiempo real...</p><p class="empty-sub">Monitorizando fuentes estratégicas (Adidas, GSMA, etc.) sin resultados vigentes detectados hoy.</p></div>`;
         return;
     }
     container.innerHTML = '';
@@ -138,7 +139,7 @@ function renderRedAlerts(opps) {
 function renderIntel(opps) {
     const container = document.getElementById('intelContainer');
     if (!opps.length) {
-        container.innerHTML = `<div class="empty-state"><div class="empty-icon">🔍</div><p>Sin inteligencia de fondo.</p></div>`;
+        container.innerHTML = `<div class="empty-state"><div class="empty-icon">🔍</div><p>Buscando nuevas oportunidades en tiempo real...</p><p class="empty-sub">Monitorizando inteligencia de fondo post-limpieza.</p></div>`;
         return;
     }
     container.innerHTML = '';
