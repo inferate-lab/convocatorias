@@ -38,6 +38,7 @@ const OutputProtocol = {
             educacion: ['tag-cyan', '📚 EDUCACIÓN'],
             cultural: ['tag-amber', '🎭 CULTURAL'],
             social: ['tag-purple', '🤝 SOCIAL'],
+            estrategica: ['tag-warn', '⭐ ESTRATÉGICA'],
             general: ['tag-system', '🌐 GENERAL'],
         };
         const [tagClass, tagLabel] = tagMap[level] || ['tag-system', 'INFO'];
@@ -60,9 +61,9 @@ const OutputProtocol = {
 // Dimension badge helper
 function dimBadge(opp) {
     const d = opp._dimension || 'social';
-    const map = { ambiental: '🌿', tecnologico: '⚡', social: '🤝' };
-    const colors = { ambiental: 'tag-match', tecnologico: 'tag-cyan-badge', social: 'tag' };
-    return `<span class="tag ${colors[d] || 'tag'}">${map[d] || '🤝'} ${d.charAt(0).toUpperCase() + d.slice(1)}</span>`;
+    const map = { ambiental: '🌿', educacion: '📚', cultural: '🎭', social: '🤝', estrategica: '⭐' };
+    const colors = { ambiental: 'tag-match', educacion: 'tag-cyan-badge', cultural: 'tag-warn', social: 'tag', estrategica: 'tag-warn pulse' };
+    return `<span class="tag ${colors[d] || 'tag'}">${map[d] || '⭐'} ${d.charAt(0).toUpperCase() + d.slice(1)}</span>`;
 }
 
 // Tag CSS helper
@@ -110,9 +111,9 @@ function renderRedAlerts(opps) {
         <div class="opp-title">${opp.titulo}</div>
         <div class="opp-budget">${opp.presupuesto_usd > 0 ? `USD $${(opp.presupuesto_usd / 1000).toFixed(0)}K` : '🏆 Premio'}</div>
       </div>
-      <div class="opp-donor">${opp.donante} &nbsp;·&nbsp; <span style="color:#6B7280;font-size:10px;">${opp.sector}</span></div>
-      <div style="font-size:10px;color:#5a9430;margin-bottom:8px;font-family:var(--font-mono);">📡 ${opp.fuente} &nbsp;·&nbsp; ${opp.pais_elegible}</div>
-      <div class="opp-desc" style="font-size:11px;color:#374151;margin-bottom:8px;font-style:italic;">🔄 PIVOT: ${opp.pivot?.substring(0, 120)}...</div>
+      <div class="opp-donor">${opp.donante} &nbsp;·&nbsp; <span style="color:rgba(255,255,255,0.6);font-size:10px;">${opp.sector}</span></div>
+      <div style="font-size:10px;color:rgba(255,255,255,0.8);margin-bottom:8px;font-family:var(--font-mono);">📡 ${opp.fuente} &nbsp;·&nbsp; ${opp.pais_elegible}</div>
+      <div class="opp-desc" style="font-size:11px;color:rgba(255,255,255,0.9);margin-bottom:8px;font-style:italic;">🔄 PIVOT: ${opp.pivot?.substring(0, 120)}...</div>
       <div class="opp-tags">
         ${dimBadge(opp)}
         ${(opp.tags || []).map(t => `<span class="${tagCss(t)}">${t}</span>`).join('')}
@@ -122,7 +123,7 @@ function renderRedAlerts(opps) {
         <div class="match-label"><span>Vector de Afinidad Estratégica</span><span>${opp.afinidad_pivot}%</span></div>
         <div class="match-track"><div class="match-fill" style="width:0%" data-target="${opp.afinidad_pivot}"></div></div>
       </div>
-      <div style="font-size:10px;color:#e08a00;margin-bottom:10px;">⚠ OBSTÁCULO: ${opp.obstaculo?.substring(0, 100)}...</div>
+      <div style="font-size:10px;color:#ffca28;margin-bottom:10px;">⚠ OBSTÁCULO: ${opp.obstaculo?.substring(0, 100)}...</div>
       <div class="opp-actions">
         <button class="btn-dossier" onclick="openDossier('${opp.id}')">📁 Dossier de Carpintería</button>
         <button class="btn-detail" onclick="window.open('${opp.fuente_url}','_blank')">Fuente →</button>
@@ -151,7 +152,7 @@ function renderIntel(opps) {
       <div class="intel-category">${opp.sector?.toUpperCase()} · ${opp.afinidad_pivot}% AFINIDAD · ${opp.estado}</div>
       <div class="intel-title">${opp.titulo}</div>
       <div class="intel-desc">${opp.donante} · ${opp.presupuesto_usd > 0 ? `USD $${opp.presupuesto_usd.toLocaleString()}` : 'No monetario'} · Límite: ${opp.fecha_cierre}</div>
-      <div style="font-size:10px;color:#0064b5;margin-top:6px;">🔄 ${opp.pivot?.substring(0, 100)}...</div>
+      <div style="font-size:10px;color:rgba(255,255,255,0.8);margin-top:6px;">🔄 ${opp.pivot?.substring(0, 100)}...</div>
       <button class="btn-detail" style="margin-top:8px;font-size:10px;" onclick="openDossier('${opp.id}')">📁 Dossier</button>
     `;
         container.appendChild(item);
@@ -213,7 +214,7 @@ function updateStats(results) {
     animateNumber('countNoise', results.descartados.length);
     // Update dimension bars if elements exist
     const dims = results.byDimension || {};
-    ['ambiental', 'social', 'educacion', 'cultural', 'general'].forEach(d => {
+    ['ambiental', 'social', 'educacion', 'cultural', 'estrategica'].forEach(d => {
         const el = document.getElementById(`dimCount_${d}`);
         if (el) el.textContent = (dims[d] || []).length;
     });
@@ -248,7 +249,7 @@ async function runFullScan() {
     OutputProtocol.voice('pivot', 'Motor de Pivotaje v3 activo. No reportamos links. Reportamos Movimientos Estratégicos.');
     await delay(400);
 
-    const results = TriageEngine_v2.runScan();
+    const results = await TriageEngine_v2.runScan();
     currentScanResults = results;
 
     const dims = results.byDimension || {};
@@ -302,13 +303,13 @@ function openDossier(oppId) {
     <div style="margin-bottom:16px;padding:16px;background:rgba(${opp.tipo === 'roja' ? '217,43,58' : '224,138,0'},.05);border:1px solid rgba(${opp.tipo === 'roja' ? '217,43,58' : '224,138,0'},.2);border-radius:10px;">
       <div style="font-size:10px;color:${opp.tipo === 'roja' ? '#d92b3a' : '#e08a00'};font-weight:700;letter-spacing:1px;margin-bottom:6px;">${opp.tipo === 'roja' ? '🔴 ALERTA ROJA' : '🟡 INTEL DE FONDO'} &nbsp;·&nbsp; ${opp.sector?.toUpperCase()}</div>
       <div style="font-size:17px;font-weight:800;margin-bottom:4px;color:#0f172a;">${opp.titulo}</div>
-      <div style="font-size:12px;color:#0064b5;">${opp.donante}</div>
-      <div style="font-size:11px;color:#5a9430;margin-top:4px;">📡 Fuente Radar: ${opp.fuente}</div>
+      <div style="font-size:12px;color:rgba(255,255,255,0.8);">${opp.donante}</div>
+      <div style="font-size:11px;color:rgba(255,255,255,0.8);margin-top:4px;">📡 Fuente Radar: ${opp.fuente}</div>
       <div style="display:flex;gap:12px;margin-top:10px;flex-wrap:wrap;">
-        <div style="font-size:11px;color:#374151;">💰 <strong style="color:#5a9430;">${opp.presupuesto_usd > 0 ? `USD $${opp.presupuesto_usd.toLocaleString()}` : 'No monetario'}</strong></div>
-        <div style="font-size:11px;color:#374151;">📅 <strong style="color:#e08a00;">${opp.fecha_cierre}</strong></div>
-        <div style="font-size:11px;color:#374151;">🎯 <strong style="color:#004b8d;">${opp.afinidad_pivot}%</strong></div>
-        <div style="font-size:11px;color:#374151;">🌍 ${opp.pais_elegible}</div>
+        <div style="font-size:11px;color:rgba(255,255,255,0.9);">💰 <strong style="color:rgba(255,255,255,0.8);">${opp.presupuesto_usd > 0 ? `USD $${opp.presupuesto_usd.toLocaleString()}` : 'No monetario'}</strong></div>
+        <div style="font-size:11px;color:rgba(255,255,255,0.9);">📅 <strong style="color:#ffca28;">${opp.fecha_cierre}</strong></div>
+        <div style="font-size:11px;color:rgba(255,255,255,0.9);">🎯 <strong style="color:#004b8d;">${opp.afinidad_pivot}%</strong></div>
+        <div style="font-size:11px;color:rgba(255,255,255,0.9);">🌍 ${opp.pais_elegible}</div>
       </div>
     </div>
 
@@ -318,14 +319,14 @@ function openDossier(oppId) {
     </div>
 
     <div class="dossier-section">
-      <div class="dossier-section-title" style="color:#e08a00;">⚠ Obstáculo Crítico</div>
+      <div class="dossier-section-title" style="color:#ffca28;">⚠ Obstáculo Crítico</div>
       <div class="dossier-win-analysis" style="color:#b45309;">${opp.obstaculo}</div>
     </div>
 
     ${needsC ? `
     <div class="dossier-section">
       <div class="dossier-section-title" style="color:#F59E0B;">🤝 Consorcio Recomendado</div>
-      <div style="padding:12px;background:rgba(224,138,0,.07);border:1px solid rgba(224,138,0,.2);border-radius:8px;font-size:12px;color:#374151;">
+      <div style="padding:12px;background:rgba(224,138,0,.07);border:1px solid rgba(224,138,0,.2);border-radius:8px;font-size:12px;color:rgba(255,255,255,0.9);">
         El presupuesto (USD $${opp.presupuesto_usd.toLocaleString()}) supera la ejecución autónoma segura (USD $${EPM_PLATFORM.financiero.max_autonomo_usd.toLocaleString()}).<br><br>
         <strong style="color:#0f172a;">Socios pre-identificados:</strong><br>
         ${EPM_PLATFORM.activos.capital_humano.map(s => '• ' + s).join('<br>')}
