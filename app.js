@@ -1,7 +1,8 @@
 /**
- * IRIS — App Core v3.0
- * PROTOCOLO: EXPLORADOR DE FRONTERA GLOBAL
- * Equilibrio Tripartito: 🌿 Ambiental | ⚡ Tecnológico | 🤝 Social
+ * CENTINELA v5.0 — App Core
+ * FUNDACIÓN GRUPO EPM · NODO DE INTELIGENCIA ESTRATÉGICA AUTÓNOMA
+ * Sincronización: 5 de Mayo de 2026
+ * Purga ejecutada: 9 registros eliminados (vencidos al 5-May-2026)
  */
 
 // Estado global
@@ -234,9 +235,9 @@ async function runFullScan() {
     overlay.innerHTML = '<div class="scan-beam"></div>';
     document.body.appendChild(overlay);
 
-    OutputProtocol.voice('system', '━━━ IRIS v3.0 — EXPLORADOR DE FRONTERA GLOBAL iniciado ━━━');
+    OutputProtocol.voice('system', '━━━ CENTINELA v5.0 — NODO DE INTELIGENCIA ESTRATÉGICA AUTóNOMA iniciado ━━━');
     await delay(400);
-    OutputProtocol.voice('system', 'Motor tripartito activo. Equilibrio: 🌿 Ambiental · ⚡ Tecnológico · 🤝 Social. Sin sesgos de sector.');
+    OutputProtocol.voice('system', 'Protocolo activo. Sincronización: 5-May-2026. Purga ejecutada: 9 registros eliminados. Fuentes activas verificadas.');
     await delay(500);
     OutputProtocol.voice('geo', 'Escaneando (Grants, Awards, Prizes, Nominations, Open Calls, Call for entries): TED (UE), Grants.gov, UNGM, Suqia UAE, Zayed, IWA, SURA, Scotiabank...');
     await delay(500);
@@ -451,9 +452,9 @@ function animateNumber(id, target) {
 // INIT v3.0
 // ============================================================
 document.addEventListener('DOMContentLoaded', () => {
-    OutputProtocol.voice('system', 'IRIS v3.0 inicializado — EXPLORADOR DE FRONTERA GLOBAL activo.');
+    OutputProtocol.voice('system', 'CENTINELA v5.0 inicializado — NODO DE INTELIGENCIA ESTRATÉGICA AUTÓNOMA activo. Sincronización: 5 Mayo 2026.');
     OutputProtocol.voice('system', `Protocolo: 🌿 Ambiental · ⚡ Tecnológico · 🤝 Social. Fuentes: TED·UNGM·IATI·RAEng·Mission Innovation·MacArthur·Academias Globales.`);
-    OutputProtocol.voice('geo', 'Señales Frontera activas: H₂ Verde · Economía Circular · Biodiversidad Urbana · Academias de Ingeniería · Corporaciones Descarbonización.');
+    OutputProtocol.voice('geo', 'Purga ejecutada: GSMA (cerró 6-Abr), Hilton Prize (cerró 30-Abr), WISE Qatar (cerró 30-Abr), UNODC (cerró 1-May), World Habitat (cerró 1-May), Global Water Challenge (cerró 30-Abr) y 3 más eliminados.');
 
     // Inject dimension filter bar
     const statsRow = document.querySelector('.stats-row');

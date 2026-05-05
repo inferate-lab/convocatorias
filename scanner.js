@@ -88,7 +88,7 @@ const GLOBAL_RADAR = [
         sector: 'Agua / Medio Ambiente',
         dimension: 'ambiental',
         presupuesto_usd: 1000000,
-        fecha_cierre: '2026-10-15',
+        fecha_cierre: '2026-09-30',
         estado: 'VENTANA ABIERTA - Premio',
         pais_elegible: 'Global ✓',
         afinidad_pivot: 90,
@@ -106,7 +106,7 @@ const GLOBAL_RADAR = [
         sector: 'Agua, Energía y Salud',
         dimension: 'social',
         presupuesto_usd: 600000,
-        fecha_cierre: '2026-06-25',
+        fecha_cierre: '2026-06-22',
         estado: 'ABIERTA',
         pais_elegible: 'Global ✓',
         afinidad_pivot: 90,
@@ -188,24 +188,6 @@ const GLOBAL_RADAR = [
         pivot: 'Espacios comunitarios deportivos y juveniles en las UVAs.',
         obstaculo: 'Foco estricto en inclusión juvenil deportiva.',
         fuente_url: 'https://www.adidasfoundation.org/rfp/',
-        tags: ['OBLIGATORIA', 'GENERAL'],
-        tipo: 'fondo'
-    },
-    {
-        id: 'gsma_innovation',
-        titulo: 'GSMA Innovation Fund for Connectivity',
-        donante: 'GSMA',
-        fuente: 'GSMA Portal',
-        sector: 'Tecnología / Conectividad',
-        dimension: 'general',
-        presupuesto_usd: 250_000,
-        fecha_cierre: '2026-05-15',
-        estado: 'ACTIVA',
-        pais_elegible: 'Global / Colombia ✓',
-        afinidad_pivot: 85,
-        pivot: 'Conectividad comunitaria en infraestructuras EPM.',
-        obstaculo: 'Pide innovación tecnológica medible.',
-        fuente_url: 'https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/gsma-innovation-fund/',
         tags: ['OBLIGATORIA', 'GENERAL'],
         tipo: 'fondo'
     },
@@ -334,23 +316,6 @@ const GLOBAL_RADAR = [
         fuente_url: 'https://www.ashoka.org/en-co',
         tags: ['ALTO PRESTIGIO', 'NOMINACIÓN REQUERIDA', 'RETORNO REPUTACIÓN'],
         tipo: 'fondo'
-    },
-    {
-        id: 'skoll_foundation_2026',
-        titulo: 'Skoll Award for Social Entrepreneurship 2026',
-        donante: 'Skoll Foundation',
-        fuente: 'Skoll Foundation Portal',
-        sector: 'Emprendimiento Social',
-        presupuesto_usd: 1_500_000,
-        fecha_cierre: '2026-09-01',
-        estado: 'VENTANA ABIERTA',
-        pais_elegible: 'Colombia ✓',
-        afinidad_pivot: 85,
-        pivot: 'La Fundación EPM tiene el modelo de escala que Skoll busca: impacto sistémico en una ciudad completa, replicable en Latam.',
-        obstaculo: 'Proceso de nominación anual — se requiere nominador externo. Contactar Skoll Fellow latinoamericano como nominador.',
-        fuente_url: 'https://skoll.org/about/skoll-award/',
-        tags: ['TRIPLE A', 'USD $1.5M', 'ESCALA SISTÉMICA'],
-        tipo: 'roja'
     },
 
     // ─── SECTOR: CONSERVACIÓN Y BIODIVERSIDAD ─────────────────
@@ -566,23 +531,6 @@ const GLOBAL_RADAR = [
     },
 
     // ─── SECTOR: SEGURIDAD Y CONVIVENCIA URBANA ─────────────
-    {
-        id: 'unodc_crime_prevention',
-        titulo: 'UNODC — Crime Prevention Through Urban Design (CPTED)',
-        donante: 'UNODC / ONU',
-        fuente: 'UNGM / UNODC Programme Office Colombia',
-        sector: 'Seguridad / Urbanismo',
-        presupuesto_usd: 300_000,
-        fecha_cierre: '2026-05-01',
-        estado: 'ACTIVA',
-        pais_elegible: 'Colombia ✓',
-        afinidad_pivot: 87,
-        pivot: 'El modelo UVA de Medellín está documentado académicamente como caso de éxito global en prevención del crimen mediante diseño urbano. EPM como custodio institucional del modelo = credibilidad máxima.',
-        obstaculo: 'UNODC Colombia tiene oficina local — contacto directo facilita el proceso.',
-        fuente_url: 'https://www.unodc.org/unodc/en/crime-and-criminal-justice/',
-        tags: ['MODELO UVA DOCUMENTADO', 'ONU PRIORITARIO', 'MATCH URBANO 87%'],
-        tipo: 'roja'
-    },
 
     // ─── SECTOR: SALUD MENTAL Y TEJIDO SOCIAL ────────────────
     {
@@ -637,23 +585,6 @@ const GLOBAL_RADAR = [
         fuente_url: 'https://www.iadb.org/en',
         tags: ['BID PRIORITARIO', 'ACTIVO ÚNICO AGUA', 'CONSORCIO EPM AGUAS'],
         tipo: 'roja'
-    },
-    {
-        id: 'global_water_challenge',
-        titulo: 'Global Water Challenge — Water Innovation for Communities',
-        donante: 'Global Water Challenge (Coalición: USAID, Coca-Cola, GAP)',
-        fuente: 'GWC Portal / Coalición Sector Privado',
-        sector: 'Agua Potable / Innovación',
-        presupuesto_usd: 250_000,
-        fecha_cierre: '2026-04-30',
-        estado: 'ACTIVA',
-        pais_elegible: 'Colombia ✓',
-        afinidad_pivot: 85,
-        pivot: 'EPM tiene infraestructura de agua potable real en comunidades. El GWC busca soluciones implementadas, no pilotos. Ventaja competitiva máxima.',
-        obstaculo: 'Coalición multi-actor — el proceso requiere demostrar impacto ya existente, no proyectado.',
-        fuente_url: 'https://www.globalwaterchallenge.org/',
-        tags: ['COALICIÓN PRIVADA', 'AGUA REAL NO PILOTO', 'MATCH 85%'],
-        tipo: 'fondo'
     },
 
     // ─── SECTOR: PRIMERA INFANCIA Y EDUCACIÓN ────────────────
@@ -712,57 +643,6 @@ const GLOBAL_RADAR = [
     },
 
     // ─── SECTOR: RECONOCIMIENTOS Y PREMIOS ───────────────────
-    {
-        id: 'hilton_humanitarian_prize',
-        titulo: 'Hilton Humanitarian Prize 2026 — $2M USD',
-        donante: 'Conrad N. Hilton Foundation',
-        fuente: 'Hilton Foundation / Nominacion por Pares',
-        sector: 'Premio de Reconocimiento / Humanitario',
-        presupuesto_usd: 2_000_000,
-        fecha_cierre: '2026-06-30',
-        estado: 'ACTIVA — Nominación requerida',
-        pais_elegible: 'Colombia ✓',
-        afinidad_pivot: 82,
-        pivot: 'Las UVAs de Medellín son reconocidas mundialmente como modelo de transformación urbana. EPM como garante institucional del modelo = candidato natural al Hilton Prize.',
-        obstaculo: 'Requiere nominación de organización internacional. Estrategia: contactar ICLEI, UN-Habitat o Ashoka para nominación.',
-        fuente_url: 'https://www.hiltonfoundation.org/hilton-humanitarian-prize/',
-        tags: ['USD $2M', 'RETORNO REPUTACIÓN MÁXIMO', 'PREMIO GLOBAL', 'NOMINACIÓN'],
-        tipo: 'roja'
-    },
-    {
-        id: 'wise_education_prize_qatar',
-        titulo: 'WISE Prize for Education — Qatar Foundation',
-        donante: 'Qatar Foundation / WISE',
-        fuente: 'WISE Portal Qatar (árabe/inglés)',
-        sector: 'Premio Educación / Internacional',
-        presupuesto_usd: 500_000,
-        fecha_cierre: '2026-04-30',
-        estado: 'ACTIVA',
-        pais_elegible: 'Colombia ✓',
-        afinidad_pivot: 80,
-        pivot: 'WISE premia ecosistemas educativos que transforman comunidades. Las Bibliotecas EPM + UVAs son exactamente ese modelo. Presentar como "EcoSistema Educativo Comunitario Medellín".',
-        obstaculo: 'Proceso en inglés y árabe. Formulario extenso. Requiere nominación externa o presentación institucional con carta del Alcalde.',
-        fuente_url: 'https://www.wise-qatar.org/wise-prize-for-education/',
-        tags: ['QATAR FOUNDATION', 'USD $500K', 'PREMIO EDUCACIÓN', 'IDIOMA: EN/AR'],
-        tipo: 'fondo'
-    },
-    {
-        id: 'uclg_metropolis_award',
-        titulo: 'UCLG — Metropolis Award on Democracy and Governance',
-        donante: 'UCLG Metropolis / Red de Ciudades',
-        fuente: 'UCLG Network / Metropolis Secretariat',
-        sector: 'Premio Gobernanza Urbana',
-        presupuesto_usd: 0,
-        fecha_cierre: '2026-05-01',
-        estado: 'ACTIVA',
-        pais_elegible: 'Colombia ✓ (Medellín miembro)',
-        afinidad_pivot: 88,
-        pivot: 'No monetario pero ALTO retorno de reputación. El modelo UVA como democracia espacial urbana es exactamente el foco del premio. Incrementa credibilidad ante donantes multilaterales.',
-        obstaculo: 'Postulación a través de Alcaldía de Medellín. Acción: articular con Secretaría de Participación.',
-        fuente_url: 'https://www.metropolis.org/',
-        tags: ['RECONOCIMIENTO', 'RETORNO REPUTACIÓN', 'VÍA ALCALDÍA', 'SIN MONTO'],
-        tipo: 'fondo'
-    },
 
     // ─── SECTOR: COOPERACIÓN BILATERAL EMERGENTE ───────────────
     {
@@ -818,40 +698,6 @@ const GLOBAL_RADAR = [
     },
 
     // ─── SECTOR: RECONOCIMIENTO SIMBÓLICO ────────────────────
-    {
-        id: 'un_habitat_scroll_honour',
-        titulo: 'UN-Habitat — Scroll of Honour Award 2026',
-        donante: 'ONU / UN-Habitat',
-        fuente: 'UN-Habitat Award Programme',
-        sector: 'Premio ONU / Asentamientos Humanos',
-        presupuesto_usd: 0,
-        fecha_cierre: '2026-04-30',
-        estado: 'ACTIVA — Nominación abierta',
-        pais_elegible: 'Colombia ✓',
-        afinidad_pivot: 93,
-        pivot: 'Match perfecto: UN-Habitat premia iniciativas que mejoran asentamientos humanos. Las UVAs transformaron los barrios más violentos de Medellín en espacios de dignidad. Es el caso que este premio busca.',
-        obstaculo: 'Nominación vía Ministerio de Vivienda Colombia o Alcaldía de Medellín. Ambos son aliados potenciales.',
-        fuente_url: 'https://unhabitat.org/scroll-of-honour',
-        tags: ['ONU UN-HABITAT', 'RECONOCIMIENTO GLOBAL', 'MATCH 93%', 'SIN MONTO'],
-        tipo: 'roja'
-    },
-    {
-        id: 'world_habitat_award',
-        titulo: 'World Habitat Award 2026 — Building and Social Housing Foundation',
-        donante: 'World Habitat / BSHF (UK)',
-        fuente: 'World Habitat Awards Portal',
-        sector: 'Premio Hábitat / Vivienda Social',
-        presupuesto_usd: 10_000,
-        fecha_cierre: '2026-05-01',
-        estado: 'ACTIVA',
-        pais_elegible: 'Colombia ✓',
-        afinidad_pivot: 91,
-        pivot: 'Las UVAs son exactamente lo que el World Habitat Award busca: vivienda digna + espacio comunitario + transformación territorial. El modelo Medellín ganó este premio anteriormente — repetirlo con EPM como protagonista.',
-        obstaculo: 'Proceso de postulación es público y abierto. Sin consorcio requerido. APLICAR YA.',
-        fuente_url: 'https://world-habitat.org/world-habitat-awards/',
-        tags: ['APLICAR AHORA', 'MATCH 91%', 'BAJO COSTO', 'ALTO RETORNO'],
-        tipo: 'roja'
-    },
 
     // ─── DIMENSIÓN AMBIENTAL: HIDRÓGENO VERDE ─────────────────
     {
