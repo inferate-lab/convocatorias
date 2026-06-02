@@ -1,0 +1,18 @@
+[2026-06-02T20:14:19.615Z] [INFO] Iniciando purga. CUTOFF: 2026-06-02
+[2026-06-02T20:14:19.619Z] [REMOVED] fundacion_sura - VENCIDA
+[2026-06-02T20:14:19.619Z] [REMOVED] eu_lac_social_accelerator - VENCIDA
+[2026-06-02T20:14:19.619Z] [REMOVED] mellon_foundation_libraries - VENCIDA
+[2026-06-02T20:14:19.619Z] [REMOVED] iberbibliotecas_2026 - VENCIDA
+[2026-06-02T20:14:19.620Z] [REMOVED] eu_digital_decade_latam - VENCIDA
+[2026-06-02T20:14:19.620Z] [REMOVED] wellcome_trust_mental_health - VENCIDA
+[2026-06-02T20:14:19.620Z] [REMOVED] fundacion_bancolombia_2026 - VENCIDA
+[2026-06-02T20:14:19.620Z] [REMOVED] idb_agua_resiliencia - VENCIDA
+[2026-06-02T20:14:19.620Z] [REMOVED] open_society_latam - VENCIDA
+[2026-06-02T20:14:19.620Z] [REMOVED] german_giz_colombia - VENCIDA
+[2026-06-02T20:14:19.620Z] [REMOVED] afd_france_colombie - VENCIDA
+[2026-06-02T20:14:19.621Z] [REMOVED] eu_plastic_pact_latam - VENCIDA
+[2026-06-02T20:14:19.621Z] [REMOVED] raeng_global_challenges - VENCIDA
+[2026-06-02T20:14:19.621Z] [REMOVED] schneider_electric_foundation - VENCIDA
+[2026-06-02T20:14:19.622Z] [SUCCESS] Purga completada. Eliminadas: 14
+[2026-06-02T20:14:19.622Z] [INFO] Tamaño: 58942 → 45438 bytes
+[2026-06-02T20:14:19.622Z] [DETAILS] ELIMINADAS: fundacion_sura (2026-05-30), eu_lac_social_accelerator (2026-05-15), mellon_foundation_libraries (2026-06-01), iberbibliotecas_2026 (2026-05-31), eu_digital_decade_latam (2026-05-30), wellcome_trust_mental_health (2026-05-15), fundacion_bancolombia_2026 (2026-05-30), idb_agua_resiliencia (2026-06-01), open_society_latam (2026-05-15), german_giz_colombia (2026-06-01), afd_france_colombie (2026-05-15), eu_plastic_pact_latam (2026-05-30), raeng_global_challenges (2026-06-01), schneider_electric_foundation (2026-05-31)

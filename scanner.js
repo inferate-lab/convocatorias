@@ -152,25 +152,6 @@ const GLOBAL_RADAR = [
         tags: ['NUEVA', 'OBLIGATORIA', 'GENERAL'],
         tipo: 'fondo'
     },
-    {
-        id: 'fundacion_sura',
-        titulo: 'Fundación SURA - Gestión Cultural',
-        donante: 'Fundación SURA',
-        fuente: 'Fundación SURA Portal',
-        sector: 'Cultura',
-        dimension: 'cultural',
-        presupuesto_usd: 150000,
-        fecha_cierre: '2026-05-30',
-        estado: 'CONVOCATORIA ABIERTA',
-        pais_elegible: 'Colombia ✓',
-        afinidad_pivot: 95,
-        pivot: 'Zayed / Sura -> Gestión Cultural.',
-        obstaculo: 'Requiere alianzas locales.',
-        fuente_url: 'https://www.fundacionsura.com/',
-        tags: ['NUEVA', 'OBLIGATORIA', 'CULTURAL'],
-        tipo: 'roja'
-    },
-
 
     // ─── SECTOR: FUENTES OBLIGATORIAS GLOBALES ─────────────────
     {
@@ -284,23 +265,6 @@ const GLOBAL_RADAR = [
 
     // ─── SECTOR: ACELERACIÓN E INNOVACIÓN SOCIAL ─────────────────
     {
-        id: 'eu_lac_social_accelerator',
-        titulo: 'EU-LAC Social Accelerator Programme 2026',
-        donante: 'European Union / FIIAPP',
-        fuente: 'TED / Diario Oficial UE',
-        sector: 'Aceleración Social',
-        presupuesto_usd: 400_000,
-        fecha_cierre: '2026-05-15',
-        estado: 'ACTIVA',
-        pais_elegible: 'Colombia ✓',
-        afinidad_pivot: 95,
-        pivot: 'Las UVAs son la plataforma de aceleración social más documentada de Latam. Nuestra infraestructura física + comunidades activas = base de aterrizaje ideal para el programa EU-LAC.',
-        obstaculo: 'Verificar convocatoria exacta en ec.europa.eu/info/funding-tenders; puede requerir consorcio con actor europeo.',
-        fuente_url: 'https://ec.europa.eu/info/funding-tenders/',
-        tags: ['TRIPLE A', 'EU PRIORITARIO', 'MATCH ACELERACIÓN 95%', 'PIVOT: UVAs COMO HUB'],
-        tipo: 'roja'
-    },
-    {
         id: 'ashoka_changemakers_2026',
         titulo: 'Ashoka Changemakers — Social Systems Change',
         donante: 'Ashoka Foundation',
@@ -373,40 +337,6 @@ const GLOBAL_RADAR = [
 
     // ─── SECTOR: CULTURA, PATRIMONIO Y BIBLIOTECAS ─────────────
     {
-        id: 'mellon_foundation_libraries',
-        titulo: 'Mellon Foundation — Libraries as Community Anchors',
-        donante: 'Andrew W. Mellon Foundation',
-        fuente: 'Mellon Foundation Grants Portal (USA)',
-        sector: 'Cultura / Bibliotecas',
-        presupuesto_usd: 750_000,
-        fecha_cierre: '2026-06-01',
-        estado: 'ACTIVA',
-        pais_elegible: 'Colombia ✓',
-        afinidad_pivot: 93,
-        pivot: 'Las Bibliotecas EPM son exactamente el modelo "biblioteca como ancla comunitaria" que Mellon busca: acceso, cultura, conocimiento y cohesión social en un mismo espacio físico.',
-        obstaculo: 'Mellon prioriza modelos con publicaciones académicas. Acción: articular un paper de impacto con Universidad de Antioquia para fortalecer la propuesta.',
-        fuente_url: 'https://www.mellon.org/grants',
-        tags: ['TRIPLE A', 'MATCH BIBLIOTECAS 93%', 'DONANTE PRIORITARIO'],
-        tipo: 'roja'
-    },
-    {
-        id: 'iberbibliotecas_2026',
-        titulo: 'Iberbibliotecas — Programa Iberoamericano de Bibliotecas Públicas',
-        donante: 'OEI / Iberbibliotecas',
-        fuente: 'OEI Colombia / Red Iberamericana',
-        sector: 'Bibliotecas / Cultura',
-        presupuesto_usd: 80_000,
-        fecha_cierre: '2026-05-31',
-        estado: 'ACTIVA',
-        pais_elegible: 'Colombia ✓',
-        afinidad_pivot: 98,
-        pivot: 'Match perfecto: Iberbibliotecas financia exactamente lo que hacemos. Sin pivot requerido.',
-        obstaculo: 'Alta competencia iberoamericana. Diferenciador: datos de impacto cuantificados (15K beneficiarios, modelo 10 años).',
-        fuente_url: 'https://www.iberbibliotecas.org/',
-        tags: ['MATCH 98%', 'SIN PIVOT', 'ALTA COMPETENCIA'],
-        tipo: 'roja'
-    },
-    {
         id: 'unesco_memoria_mundo',
         titulo: 'UNESCO — Memory of the World Programme / Intangible Heritage',
         donante: 'UNESCO',
@@ -457,23 +387,6 @@ const GLOBAL_RADAR = [
         obstaculo: 'Rolling basis — aplicar ya. Requiere registro en Microsoft for Nonprofits.',
         fuente_url: 'https://www.microsoft.com/en-us/nonprofits',
         tags: ['CONVOCATORIA PERMANENTE', 'APLICAR HOY', 'IA COMUNITARIA'],
-        tipo: 'roja'
-    },
-    {
-        id: 'eu_digital_decade_latam',
-        titulo: 'EU Digital Decade External Action — Digital4Development Latam',
-        donante: 'European Commission / DG CONNECT',
-        fuente: 'TED / Diario Oficial UE',
-        sector: 'Digitalización / Cooperación',
-        presupuesto_usd: 600_000,
-        fecha_cierre: '2026-05-30',
-        estado: 'PRE-CONVOCATORIA — Presupuesto asignado en IATI',
-        pais_elegible: 'Colombia ✓',
-        afinidad_pivot: 85,
-        pivot: 'EPM tiene infraestructura digital en comunidades vulnerables. Pivot: posicionarse como "operador de transición digital comunitaria" con evidencia de impacto en UVAs.',
-        obstaculo: 'Requiere consorcio europeo. Pre-identificar: Fiiapp, GIZ, o universidades españolas como partners UE.',
-        fuente_url: 'https://ec.europa.eu/digital4development',
-        tags: ['EU PRIORITARIO', 'PRE-CONVOCATORIA IATI', 'REQUIERE CONSORCIO EU'],
         tipo: 'roja'
     },
     {
@@ -533,59 +446,8 @@ const GLOBAL_RADAR = [
     // ─── SECTOR: SEGURIDAD Y CONVIVENCIA URBANA ─────────────
 
     // ─── SECTOR: SALUD MENTAL Y TEJIDO SOCIAL ────────────────
-    {
-        id: 'wellcome_trust_mental_health',
-        titulo: 'Wellcome Trust — Mental Health in Communities Programme',
-        donante: 'Wellcome Trust (UK)',
-        fuente: 'Wellcome Trust Grants Portal',
-        sector: 'Salud Mental / Tejido Social',
-        presupuesto_usd: 650_000,
-        fecha_cierre: '2026-05-15',
-        estado: 'ACTIVA',
-        pais_elegible: 'Colombia ✓',
-        afinidad_pivot: 83,
-        pivot: 'Las bibliotecas comunitarias de EPM son espacios probados de recuperación de tejido social. Pivot: instrumentalizar el impacto en "bienestar mental comunitario" con datos de satisfacción de usuarios.',
-        obstaculo: 'Wellcome requiere evaluación de impacto rigurosa. Articular con facultad de psicología de EAFIT o UdeA para el componente de medición.',
-        fuente_url: 'https://wellcome.org/grant-funding',
-        tags: ['UK WELLCOME', 'SALUD MENTAL', 'PIVOT BIBLIOTECAS'],
-        tipo: 'fondo'
-    },
-    {
-        id: 'fundacion_bancolombia_2026',
-        titulo: 'Fundación Bancolombia — Economía del Conocimiento Antioquia',
-        donante: 'Fundación Bancolombia / Grupo Bancolombia',
-        fuente: 'Silent Signal RSC / Informe ESG Bancolombia 2025',
-        sector: 'Desarrollo Social / Conocimiento',
-        presupuesto_usd: 200_000,
-        fecha_cierre: '2026-05-30',
-        estado: 'SEÑAL ACTIVA — Informe ESG 2025',
-        pais_elegible: 'Colombia ✓',
-        afinidad_pivot: 91,
-        pivot: 'Bancolombia redirigió su fondo a "economía del conocimiento en territorios vulnerables" — definición exacta del modelo EPM. Ventaja: mismo territorio Antioquia.',
-        obstaculo: 'Opera por invitación o contacto directo. Acción: reunión con Gerencia de Sostenibilidad Bancolombia vía red EPM-Grupo Empresarial.',
-        fuente_url: 'https://www.fundacionbancolombia.org/',
-        tags: ['SEÑAL SILENCIOSA', 'MATCH 91%', 'TERRITORIO COMPARTIDO', 'REUNIÓN DIRECTA'],
-        tipo: 'roja'
-    },
 
     // ─── SECTOR: AGUA Y BIOTECNOLOGÍA ────────────────────────
-    {
-        id: 'idb_agua_resiliencia',
-        titulo: 'BID — Agua y Resiliencia Hídrica para Ciudades Intermedias',
-        donante: 'BID / Banco Interamericano de Desarrollo',
-        fuente: 'IATI Data Flow / BID Lab',
-        sector: 'Agua / Biotecnología',
-        presupuesto_usd: 700_000,
-        fecha_cierre: '2026-06-01',
-        estado: 'ACTIVA',
-        pais_elegible: 'Colombia ✓',
-        afinidad_pivot: 90,
-        pivot: 'EPM gestiona agua para millones de colombianos. Activo único en América Latina. Pivot: posicionar Planta de Tratamiento EPM + comunidades de las UVAs como laboratorio de resiliencia hídrica.',
-        obstaculo: 'Requiere componente técnico de ingeniería. Consorcio con EPM Aguas (empresa hermana) como actor técnico y Fundación EPM como brazo social.',
-        fuente_url: 'https://www.iadb.org/en',
-        tags: ['BID PRIORITARIO', 'ACTIVO ÚNICO AGUA', 'CONSORCIO EPM AGUAS'],
-        tipo: 'roja'
-    },
 
     // ─── SECTOR: PRIMERA INFANCIA Y EDUCACIÓN ────────────────
     {
@@ -624,44 +486,10 @@ const GLOBAL_RADAR = [
         tags: ['FORD FOUNDATION', 'DERECHOS PARTICIPACIÓN', 'PIVOT NARRATIVA'],
         tipo: 'fondo'
     },
-    {
-        id: 'open_society_latam',
-        titulo: 'Open Society Foundations — Latin America Program',
-        donante: 'Open Society Foundations (Soros)',
-        fuente: 'OSF Grants Portal',
-        sector: 'Sociedad Abierta / Participación',
-        presupuesto_usd: 300_000,
-        fecha_cierre: '2026-05-15',
-        estado: 'ACTIVA',
-        pais_elegible: 'Colombia ✓',
-        afinidad_pivot: 79,
-        pivot: 'OSF financia organizaciones que fortalecen ecosistemas de participación democrática. Las bibliotecas EPM son espacios de deliberación ciudadana documentados. Pivot: enfatizar el componente de "ciudadanía informada".',
-        obstaculo: 'OSF en Latam 2026 tiene foco en países con crisis democrática. Colombia elegible, pero no prioritaria. Articular narrativa con contexto de elecciones 2026.',
-        fuente_url: 'https://www.opensocietyfoundations.org/grants',
-        tags: ['OSF LATAM', 'CIUDADANÍA', 'DEMOCRACIA'],
-        tipo: 'fondo'
-    },
 
     // ─── SECTOR: RECONOCIMIENTOS Y PREMIOS ───────────────────
 
     // ─── SECTOR: COOPERACIÓN BILATERAL EMERGENTE ───────────────
-    {
-        id: 'german_giz_colombia',
-        titulo: 'GIZ — Programa de Cooperación Colombia (Deutsche Gesellschaft)',
-        donante: 'GIZ / Gobierno Federal Alemán (Deutsch)',
-        fuente: 'GIZ Colombia / Diario Oficial Alemán',
-        sector: 'Cooperación Bilateral / Alemania',
-        presupuesto_usd: 350_000,
-        fecha_cierre: '2026-06-01',
-        estado: 'ACTIVA — Convocatoria en alemán abierta',
-        pais_elegible: 'Colombia ✓ (País socio GIZ)',
-        afinidad_pivot: 83,
-        pivot: 'GIZ tiene programa activo en Colombia con foco en transformación social y urbana. Las UVAs son el caso de éxito más visible del país. Pivot: propuesta bilingüe ES/DE.',
-        obstaculo: 'Convocatoria parcialmente en alemán. Requiere traducción y posiblemente consultor GIZ local como facilitador.',
-        fuente_url: 'https://www.giz.de/en/worldwide/340.html',
-        tags: ['ALEMANIA GIZ', 'IDIOMA: DE', 'BILATERAL', 'PAÍS SOCIO'],
-        tipo: 'fondo'
-    },
     {
         id: 'japon_jica_colombia',
         titulo: 'JICA — Cooperación Técnica Japón-Colombia (日本)',
@@ -677,23 +505,6 @@ const GLOBAL_RADAR = [
         obstaculo: 'Canal oficial a través de Embajada de Japón en Bogotá. Proceso en inglés/español.',
         fuente_url: 'https://www.jica.go.jp/colombia/',
         tags: ['JAPÓN JICA', 'CIUDAD RESILIENTE', 'DIPLOMACIA CULTURAL'],
-        tipo: 'fondo'
-    },
-    {
-        id: 'afd_france_colombie',
-        titulo: 'AFD — Agence Française Développement: Villes Inclusives (Français)',
-        donante: 'Agence Française de Développement / Francia',
-        fuente: 'AFD Portal / Coopération France-Colombie',
-        sector: 'Cooperación Bilateral / Francia',
-        presupuesto_usd: 420_000,
-        fecha_cierre: '2026-05-15',
-        estado: 'ACTIVA',
-        pais_elegible: 'Colombia ✓',
-        afinidad_pivot: 81,
-        pivot: 'Francia tiene programa de cooperación con Colombia en "ciudades inclusivas". El modelo de urbanismo social de Medellín es admirado en Francia. Pivot: presentar UVAs como "urbanisme social participatif".',
-        obstaculo: 'Documentación parcialmente en francés. Embajada de Francia en Bogotá tiene attaché de cooperación — punto de contacto directo.',
-        fuente_url: 'https://www.afd.fr/en/colombia',
-        tags: ['FRANCIA AFD', 'IDIOMA: FR', 'VILLES INCLUSIVES', 'BILATERAL'],
         tipo: 'fondo'
     },
 
@@ -756,24 +567,6 @@ const GLOBAL_RADAR = [
         tags: ['ECONOMÍA CIRCULAR', 'MADERA PLÁSTICA', 'RESIDUOS', 'MATCH 85%'],
         tipo: 'roja'
     },
-    {
-        id: 'eu_plastic_pact_latam',
-        titulo: 'EU Plastics Pact LATAM — Waste to Value Communities',
-        donante: 'European Commission / Ellen MacArthur / PNUMA',
-        fuente: 'PNUMA / EU Plastics Pact Network',
-        sector: 'Economía Circular / Plásticos',
-        dimension: 'ambiental',
-        presupuesto_usd: 300_000,
-        fecha_cierre: '2026-05-30',
-        estado: 'ACTIVA',
-        pais_elegible: 'Colombia ✓',
-        afinidad_pivot: 82,
-        pivot: 'Las comunidades alrededor de las UVAs pueden ser los centros de recolección y transformación. Pivot: "Comunidades Circulares EPM" — redes de reciclaje comunitario con trazabilidad digital y salida a mercados de madera plástica.',
-        obstaculo: 'Requiere componente de empresa de transformación de plásticos en el consorcio.',
-        fuente_url: 'https://www.unep.org/explore-topics/chemicals-waste/what-we-do/plastic-pact-network',
-        tags: ['PLÁSTICOS LATAM', 'EU PNUMA', 'RESIDUOS COMUNITARIOS', 'TRAZABILIDAD'],
-        tipo: 'fondo'
-    },
 
     // ─── DIMENSIÓN AMBIENTAL: BIODIVERSIDAD URBANA ─────────────
     {
@@ -815,24 +608,6 @@ const GLOBAL_RADAR = [
 
     // ─── DIMENSIÓN TECNOLÓGICA: ACADEMIAS DE INGENIERÍA GLOBALES ──
     {
-        id: 'raeng_global_challenges',
-        titulo: 'Royal Academy of Engineering — Africa & South Asia Programmes (con Colombia)',
-        donante: 'Royal Academy of Engineering (RAEng) / UK',
-        fuente: 'RAEng Grants Portal / FCDO',
-        sector: 'Ingeniería / Desarrollo Internacional',
-        dimension: 'tecnologico',
-        presupuesto_usd: 350_000,
-        fecha_cierre: '2026-06-01',
-        estado: 'ACTIVA — Extensión LAC en exploración',
-        pais_elegible: 'Colombia ✓ (programa GCRF/ODA)',
-        afinidad_pivot: 88,
-        pivot: 'EPM tiene el mayor portafolio de ingeniería de servicios públicos en Colombia. Pivot: posicionar EPM + EAFIT como "Academy of Engineering" emergente de Latam y aplicar como partner técnico en los programas de RAEng que se extienden a LAC.',
-        obstaculo: 'RAEng no tiene programa LAC formal aún — este es el momento de ingresar. Estrategia: contactar a través de Embajada Británica en Bogotá (British Council + FCDO).',
-        fuente_url: 'https://raeng.org.uk/global',
-        tags: ['RAENG UK', 'INGENIERÍA GLOBAL', 'BRITISH COUNCIL', 'SEÑAL EMERGENTE'],
-        tipo: 'roja'
-    },
-    {
         id: 'national_academies_latam_stem',
         titulo: 'InterAcademy Partnership — STEM en Ciudades de Latam',
         donante: 'InterAcademy Partnership / Academias Nacionales Globales',
@@ -869,24 +644,6 @@ const GLOBAL_RADAR = [
         fuente_url: 'https://www.alstom.com/alstom-foundation',
         tags: ['ALSTOM FOUNDATION', 'MOVILIDAD SOSTENIBLE', 'METRO MEDELLÍN', 'INFRAESTRUCTURA'],
         tipo: 'fondo'
-    },
-    {
-        id: 'schneider_electric_foundation',
-        titulo: 'Schneider Electric Foundation — Energy for All (Latinoamérica)',
-        donante: 'Schneider Electric Foundation',
-        fuente: 'Schneider Foundation Grants Portal / Informe ESG 2025',
-        sector: 'Acceso Energético / Sostenibilidad',
-        dimension: 'tecnologico',
-        presupuesto_usd: 300_000,
-        fecha_cierre: '2026-05-31',
-        estado: 'ACTIVA',
-        pais_elegible: 'Colombia ✓',
-        afinidad_pivot: 87,
-        pivot: 'EPM gestiona energía para millones. La Fundación EPM trabaja en comunidades que comparten territorio con la infraestructura energética. Pivot: "Eficiencia Energética Comunitaria en UVAs" — instalar paneles solares + medidores inteligentes en UVAs como modelo de acceso energético sostenible.',
-        obstaculo: 'Schneider Electric tiene oficina en Colombia. Contacto directo con su gerencia de sostenibilidad vía red del Grupo EPM.',
-        fuente_url: 'https://www.se.com/ww/en/about-us/schneider-electric-foundation/',
-        tags: ['SCHNEIDER FOUNDATION', 'ENERGÍA COMUNIDADES', 'SOLAR UVAs', 'USD $300K'],
-        tipo: 'roja'
     },
     {
         id: 'total_energies_foundation',
@@ -927,7 +684,6 @@ const GLOBAL_RADAR = [
         tipo: 'roja'
     }
 ];
-
 
 // ============================================================
 // MOTOR DE CLASIFICACIÓN v3 — EXPLORADOR DE FRONTERA GLOBAL
