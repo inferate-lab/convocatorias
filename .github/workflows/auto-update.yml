@@ -1,0 +1,56 @@
+name: CENTINELA v5.0 — Sincronización Automática
+
+on:
+  schedule:
+    - cron: '0 5 * * *'
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+    - name: 📥 Checkout código
+      uses: actions/checkout@v4
+
+    - name: ⚙️ Setup Node.js 18
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+
+    - name: 📦 Instalar dependencias
+      run: npm install
+
+    - name: 🧹 Ejecutar purga de vencidas
+      run: node purge.js
+
+    - name: ✅ Validar integridad scanner.js
+      run: |
+        node -e "
+          const fs = require('fs');
+          const content = fs.readFileSync('scanner.js', 'utf8');
+          if (!content.includes('GLOBAL_RADAR')) {
+            console.error('❌ GLOBAL_RADAR no encontrado');
+            process.exit(1);
+          }
+          console.log('✅ Validación exitosa: scanner.js íntegro');
+        "
+
+    - name: 📝 Configurar git
+      run: |
+        git config --global user.name "CENTINELA Bot"
+        git config --global user.email "centinela@antigravity.local"
+
+    - name: 💾 Commit cambios
+      run: |
+        git add scanner.js purge.log
+        git commit -m "🤖 CENTINELA v5.0 — Sincronización automática $(date -u +%Y-%m-%d\ %H:%M:%S\ UTC)" || echo "ℹ️ Sin cambios para confirmar"
+
+    - name: 🚀 Push a main
+      run: git push origin main
+
+    - name: ✨ Resumen
+      if: always()
+      run: echo "✅ Ciclo de CENTINELA completado"
