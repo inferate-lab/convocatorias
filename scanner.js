@@ -301,23 +301,6 @@ const GLOBAL_RADAR = [
         tipo: 'roja'
     },
     {
-        id: 'gef_sgp_colombia',
-        titulo: 'GEF Small Grants Programme — Ciclo 8 Colombia',
-        donante: 'Global Environment Facility / UNDP',
-        fuente: 'Programa Colombia UNDP / UNGM',
-        sector: 'Medio Ambiente',
-        presupuesto_usd: 50_000,
-        fecha_cierre: '2026-06-15',
-        estado: 'ACTIVA',
-        pais_elegible: 'Colombia ✓',
-        afinidad_pivot: 80,
-        pivot: 'Educación ambiental en UVAs + gestión de agua EPM = acceso directo al GEF. Pivot: proyecto de "biodiversidad urbana y huertas agroecológicas" en comunas de Medellín.',
-        obstaculo: 'Presupuesto bajo para proyecto puente. Ideal para fortalecer track record ambiental antes de GEF grande.',
-        fuente_url: 'https://sgp.undp.org/country-pages/45-colombia.html',
-        tags: ['VIABLE AUTÓNOMAMENTE', 'TRACK RECORD AMBIENTAL', 'PUENTE ESTRATÉGICO'],
-        tipo: 'fondo'
-    },
-    {
         id: 'cop31_climate_finance',
         titulo: 'Fondo de Adaptación Climática COP31 — Ciudades Resilientes',
         donante: 'Adaptation Fund / UNFCCC',
@@ -409,23 +392,6 @@ const GLOBAL_RADAR = [
 
     // ─── SECTOR: DESARROLLO URBANO Y RESILIENCIA ─────────────
     {
-        id: 'bloomberg_philanthropies_2026',
-        titulo: 'Bloomberg Philanthropies — Cities Initiative Latin America',
-        donante: 'Bloomberg Philanthropies',
-        fuente: 'Bloomberg Cities Network',
-        sector: 'Desarrollo Urbano',
-        presupuesto_usd: 800_000,
-        fecha_cierre: '2026-06-15',
-        estado: 'ACTIVA',
-        pais_elegible: 'Colombia ✓ (Medellín es ciudad Bloomberg certificada)',
-        afinidad_pivot: 92,
-        pivot: 'Medellín es ya una "Bloomberg City". EPM como actor ejecutor: ventaja competitiva máxima. Las UVAs son el modelo urbano que Bloomberg quiere exportar a otras ciudades.',
-        obstaculo: 'Aplicación usualmente canalizada por Alcaldía. Estrategia: postulación conjunta Fundación EPM + Alcaldía de Medellín.',
-        fuente_url: 'https://www.bloomberg.org/public-health/cities-and-places/',
-        tags: ['TRIPLE A', 'VENTAJA BLOOMBERG CITY', 'USD $800K', 'ALCALDÍA COMO ALIADO'],
-        tipo: 'roja'
-    },
-    {
         id: 'c40_cities_2026',
         titulo: 'C40 Cities — Climate Finance Lab for Resilient Cities',
         donante: 'C40 / Bloomberg / Rockefeller',
@@ -450,23 +416,6 @@ const GLOBAL_RADAR = [
     // ─── SECTOR: AGUA Y BIOTECNOLOGÍA ────────────────────────
 
     // ─── SECTOR: PRIMERA INFANCIA Y EDUCACIÓN ────────────────
-    {
-        id: 'unicef_early_childhood',
-        titulo: 'UNICEF — Early Childhood Development Innovation Fund',
-        donante: 'UNICEF Colombia',
-        fuente: 'UNICEF Colombia Office / UNGM',
-        sector: 'Primera Infancia',
-        presupuesto_usd: 300_000,
-        fecha_cierre: '2026-06-15',
-        estado: 'ACTIVA',
-        pais_elegible: 'Colombia ✓',
-        afinidad_pivot: 87,
-        pivot: 'Los espacios comunitarios de las UVAs tienen programas de primera infancia activos en comunas de Medellín. UNICEF busca "espacios seguros de desarrollo infantil". Tenemos la infraestructura.',
-        obstaculo: 'Requiere datos de cobertura de primera infancia específicos. Solicitar al área de programas EPM estadísticas 0-5 años.',
-        fuente_url: 'https://www.unicef.org/colombia/',
-        tags: ['UNICEF COLOMBIA', 'PRIMERA INFANCIA', 'PIVOT UVAs COMO ESPACIO SEGURO'],
-        tipo: 'fondo'
-    },
 
     // ─── SECTOR: DERECHOS Y PUEBLOS ──────────────────────────
     {
@@ -627,24 +576,6 @@ const GLOBAL_RADAR = [
     },
 
     // ─── DIMENSIÓN TECNOLÓGICA: CORPORACIONES DESCABORNIZACIÓN ──
-    {
-        id: 'alstom_foundation_engineering',
-        titulo: 'Alstom Foundation — Sustainable Mobility & Infrastructure Communities',
-        donante: 'Alstom Foundation (Francia)',
-        fuente: 'Alstom Foundation Grants / Informe RSE Alstom 2025',
-        sector: 'Movilidad Sostenible / Infraestructura',
-        dimension: 'tecnologico',
-        presupuesto_usd: 250_000,
-        fecha_cierre: '2026-06-15',
-        estado: 'ACTIVA',
-        pais_elegible: 'Colombia ✓',
-        afinidad_pivot: 80,
-        pivot: 'Alstom busca organizaciones que conecten infraestructura de movilidad con comunidades. Medellín es referente global en Metro + Cable + urbanismo social. EPM es el actor que conecta esa infraestructura con las comunidades.',
-        obstaculo: 'Alstom opera por referencia de red. Estrategia: contacto a través de Metro de Medellín (que tiene relación con Alstom por sus trenes) como presentador.',
-        fuente_url: 'https://www.alstom.com/alstom-foundation',
-        tags: ['ALSTOM FOUNDATION', 'MOVILIDAD SOSTENIBLE', 'METRO MEDELLÍN', 'INFRAESTRUCTURA'],
-        tipo: 'fondo'
-    },
     {
         id: 'total_energies_foundation',
         titulo: 'TotalEnergies Foundation — Acceso Energético y Clima Latam',

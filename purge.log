@@ -55,3 +55,11 @@
 [2026-06-15T10:50:55.377Z] [INFO] Iniciando purga. CUTOFF: 2026-06-15
 [2026-06-15T10:50:55.382Z] [SUCCESS] Purga completada. Eliminadas: 0
 [2026-06-15T10:50:55.382Z] [INFO] Tamaño: 47085 → 47085 bytes
+[2026-06-16T10:02:42.250Z] [INFO] Iniciando purga. CUTOFF: 2026-06-16
+[2026-06-16T10:02:42.255Z] [REMOVED] gef_sgp_colombia - VENCIDA
+[2026-06-16T10:02:42.255Z] [REMOVED] bloomberg_philanthropies_2026 - VENCIDA
+[2026-06-16T10:02:42.255Z] [REMOVED] unicef_early_childhood - VENCIDA
+[2026-06-16T10:02:42.255Z] [REMOVED] alstom_foundation_engineering - VENCIDA
+[2026-06-16T10:02:42.256Z] [SUCCESS] Purga completada. Eliminadas: 4
+[2026-06-16T10:02:42.256Z] [INFO] Tamaño: 47085 → 43157 bytes
+[2026-06-16T10:02:42.256Z] [DETAILS] ELIMINADAS: gef_sgp_colombia (2026-06-15), bloomberg_philanthropies_2026 (2026-06-15), unicef_early_childhood (2026-06-15), alstom_foundation_engineering (2026-06-15)
