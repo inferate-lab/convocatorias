@@ -63,3 +63,6 @@
 [2026-06-16T10:02:42.256Z] [SUCCESS] Purga completada. Eliminadas: 4
 [2026-06-16T10:02:42.256Z] [INFO] Tamaño: 47085 → 43157 bytes
 [2026-06-16T10:02:42.256Z] [DETAILS] ELIMINADAS: gef_sgp_colombia (2026-06-15), bloomberg_philanthropies_2026 (2026-06-15), unicef_early_childhood (2026-06-15), alstom_foundation_engineering (2026-06-15)
+[2026-06-17T09:26:29.078Z] [INFO] Iniciando purga. CUTOFF: 2026-06-17
+[2026-06-17T09:26:29.083Z] [SUCCESS] Purga completada. Eliminadas: 0
+[2026-06-17T09:26:29.083Z] [INFO] Tamaño: 43157 → 43157 bytes
