@@ -99,24 +99,6 @@ const GLOBAL_RADAR = [
         tipo: 'roja'
     },
     {
-        id: 'zayed_sustainability',
-        titulo: 'Zayed Sustainability Prize',
-        donante: 'UAE Government',
-        fuente: 'Zayed Prize Portal',
-        sector: 'Agua, Energía y Salud',
-        dimension: 'social',
-        presupuesto_usd: 600000,
-        fecha_cierre: '2026-06-22',
-        estado: 'ABIERTA',
-        pais_elegible: 'Global ✓',
-        afinidad_pivot: 90,
-        pivot: 'Zayed / Sura -> Gestión Social.',
-        obstaculo: 'Competencia alta.',
-        fuente_url: 'https://zayedsustainabilityprize.com/',
-        tags: ['NUEVA', 'OBLIGATORIA', 'SOCIAL', 'PREMIO'],
-        tipo: 'roja'
-    },
-    {
         id: 'iwa_network',
         titulo: 'IWA Bio-cluster and Innovation Awards',
         donante: 'International Water Association',
