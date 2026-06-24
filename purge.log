@@ -86,3 +86,6 @@
 [2026-06-23T08:24:56.811Z] [SUCCESS] Purga completada. Eliminadas: 1
 [2026-06-23T08:24:56.811Z] [INFO] Tamaño: 43157 → 42528 bytes
 [2026-06-23T08:24:56.811Z] [DETAILS] ELIMINADAS: zayed_sustainability (2026-06-22)
+[2026-06-24T08:18:26.947Z] [INFO] Iniciando purga. CUTOFF: 2026-06-24
+[2026-06-24T08:18:26.951Z] [SUCCESS] Purga completada. Eliminadas: 0
+[2026-06-24T08:18:26.952Z] [INFO] Tamaño: 42528 → 42528 bytes
