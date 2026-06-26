@@ -92,3 +92,6 @@
 [2026-06-25T08:18:16.839Z] [INFO] Iniciando purga. CUTOFF: 2026-06-25
 [2026-06-25T08:18:16.844Z] [SUCCESS] Purga completada. Eliminadas: 0
 [2026-06-25T08:18:16.844Z] [INFO] Tamaño: 42528 → 42528 bytes
+[2026-06-26T08:26:04.362Z] [INFO] Iniciando purga. CUTOFF: 2026-06-26
+[2026-06-26T08:26:04.366Z] [SUCCESS] Purga completada. Eliminadas: 0
+[2026-06-26T08:26:04.366Z] [INFO] Tamaño: 42528 → 42528 bytes
