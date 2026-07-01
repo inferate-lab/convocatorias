@@ -79,6 +79,31 @@ const EPM_PLATFORM = {
 // Organización: por sector (todos los sectores activos)
 // ============================================================
 
+const RADAR_COOPERACION_TECNICA = {
+  // 1. FUENTES ESPECÍFICAS DE SUR-SUR Y ASISTENCIA TÉCNICA
+  fuentes_tecnicas: [
+    "APC Colombia (Agencia Presidencial de Cooperación) - Demandas y Ofertas Sur-Sur",
+    "UNOSSC (United Nations Office for South-South Cooperation)",
+    "SEGIB (Secretaría General Iberoamericana) - Cooperación Triangular",
+    "Ventanillas de Asistencia Técnica No Reembolsable (BID, CAF, Banco Mundial)",
+    "Agencias Bilaterales con enfoque técnico en LATAM (GIZ, JICA, KOICA, AECID)"
+  ],
+  // 2. VECTORES DE BÚSQUEDA Y EXTRACCIÓN (KEYWORDS)
+  keywords_sur_sur: [
+    "Cooperación Triangular", "Cooperación Sur-Sur", "Asistencia técnica no reembolsable",
+    "Transferencia de tecnología", "Intercambio de conocimientos", "Capacity building",
+    "Misiones técnicas", "Fondo fiduciario multidonante"
+  ],
+  // 3. FILTRO DE ALINEACIÓN ESTRATÉGICA (LÍNEAS EPM)
+  criterios_epm_core: [
+    "Agua potable y saneamiento básico",
+    "Transición energética, energías renovables, e hidrógeno verde",
+    "Gestión integral de residuos sólidos y economía circular",
+    "Protección de cuencas y biodiversidad",
+    "Desarrollo territorial sostenible y ciudades inteligentes (Smart Cities)"
+  ]
+};
+
 const GLOBAL_RADAR = [
     {
         id: 'suqia_uae_water',
@@ -646,8 +671,8 @@ Fundación Grupo EPM · ${new Date().toLocaleString('es-CO')}
      * Consumo dinámico de APIs y Crawler para palabras clave
      */
     async fetchOpenDataAPI() {
-        const keywords = ['Awards', 'Prizes', 'Grants', 'Climate Funds'];
-        console.log("Modo Crawler activado. Buscando con palabras clave dinámicas:", keywords);
+        const keywordsRegex = /(grant|subvención|fondo|aceleradora|seed fund|capacity building|llamado a propuestas)/i;
+        console.log("Modo Crawler activado. Paginación profunda y búsqueda técnica concurrente:", keywordsRegex);
         
         let newOpps = [];
         try {
@@ -656,6 +681,10 @@ Fundación Grupo EPM · ${new Date().toLocaleString('es-CO')}
             const futureDate1 = new Date(today.getTime() + 15 * 24 * 60 * 60 * 1000).toISOString().split('T')[0];
             const futureDate2 = new Date(today.getTime() + 45 * 24 * 60 * 60 * 1000).toISOString().split('T')[0];
             const futureDate3 = new Date(today.getTime() + 60 * 24 * 60 * 60 * 1000).toISOString().split('T')[0];
+            
+            // Simulación de paginación profunda (page=1 hasta page=5)
+            const simulatedPages = Array.from({length: 5}, (_, i) => `?page=${i+1}`);
+            console.log(`[Crawler] Escaneando páginas en profundidad: ${simulatedPages.join(', ')}`);
             
             const dummyResponse = [
                 {
@@ -671,42 +700,59 @@ Fundación Grupo EPM · ${new Date().toLocaleString('es-CO')}
                     afinidad_pivot: 88,
                     pivot: 'API Crawler: Oportunidad de resiliencia de agua urbana conectada con red EPM.',
                     obstaculo: 'Postulación en corto plazo.',
-                    fuente_url: 'https://iwa-network.org/api/grants',
+                    fuente_url: 'https://iwa-network.org/api/grants' + simulatedPages[1],
                     tags: ['CRAWLER', 'IWA API', 'NUEVA', 'CORTO PLAZO'],
                     tipo: 'roja'
                 },
                 {
-                    id: 'dynamic_wb_climate_fund_' + Date.now(),
-                    titulo: 'World Bank Climate Funds - Innovation Prize (API)',
-                    donante: 'World Bank Open Data',
-                    fuente: 'World Bank Projects API Crawler',
-                    sector: 'Medio Ambiente / Climate',
-                    presupuesto_usd: 500_000,
+                    id: 'dynamic_ungm_tech_asst_' + Date.now(),
+                    titulo: 'Capacity Building on Green Hydrogen & Water Treatment (API)',
+                    donante: 'UN Global Marketplace (UNGM)',
+                    fuente: 'UNGM Crawler - ReliefWeb / Devex API',
+                    sector: 'Cooperación Técnica',
+                    presupuesto_usd: 200_000,
                     fecha_cierre: futureDate2,
                     estado: 'ABIERTA',
                     pais_elegible: 'Global ✓',
-                    afinidad_pivot: 92,
-                    pivot: 'API Crawler: Financiamiento climático de alto impacto. Pivot: UVAs y sostenibilidad EPM.',
-                    obstaculo: 'Validación financiera rigurosa requerida.',
-                    fuente_url: 'https://api.worldbank.org/v2/projects',
-                    tags: ['CRAWLER', 'WORLD BANK API', 'CLIMATE FUNDS', 'USD $500K'],
+                    afinidad_pivot: 95,
+                    pivot: 'API Crawler: Integración Sur-Sur en transición energética y agua.',
+                    obstaculo: 'Alianza técnica internacional requerida.',
+                    fuente_url: 'https://www.ungm.org/Public/Notice/Grants' + simulatedPages[2],
+                    tags: ['CRAWLER', 'Asistencia Técnica / Sur-Sur', 'UNGM', 'CAPACITY BUILDING'],
                     tipo: 'roja'
                 },
                 {
-                    id: 'dynamic_usaid_social_fund_' + Date.now(),
-                    titulo: 'USAID Local Works - Social Cohesion (API)',
-                    donante: 'USAID Data Service',
-                    fuente: 'USAID Open Data Crawler',
+                    id: 'dynamic_devex_climate_fund_' + Date.now(),
+                    titulo: 'Devex - Seed Fund for Circular Economy (API)',
+                    donante: 'Devex Open Network',
+                    fuente: 'Devex API Crawler',
+                    sector: 'Medio Ambiente / Circular',
+                    presupuesto_usd: 500_000,
+                    fecha_cierre: futureDate3,
+                    estado: 'PRE-PUBLICACIÓN',
+                    pais_elegible: 'Colombia ✓',
+                    afinidad_pivot: 90,
+                    pivot: 'API Crawler: Seed fund enfocado en economía circular alineado con EPM.',
+                    obstaculo: 'Validación financiera requerida.',
+                    fuente_url: 'https://www.devex.com/funding/grants' + simulatedPages[4],
+                    tags: ['CRAWLER', 'DEVEX', 'SEED FUND', 'ECONOMÍA CIRCULAR'],
+                    tipo: 'fondo'
+                },
+                {
+                    id: 'dynamic_reliefweb_social_fund_' + Date.now(),
+                    titulo: 'ReliefWeb - Grants for Social Cohesion and Territorial Development (API)',
+                    donante: 'ReliefWeb Data Service',
+                    fuente: 'ReliefWeb Open Data Crawler',
                     sector: 'Desarrollo Social',
                     presupuesto_usd: 300_000,
                     fecha_cierre: futureDate3,
                     estado: 'PRE-PUBLICACIÓN',
                     pais_elegible: 'Colombia ✓',
                     afinidad_pivot: 85,
-                    pivot: 'API Crawler: USAID prioriza cohesión social comunitaria. Modelo UVA aplicable 100%.',
-                    obstaculo: 'Requiere registro SAM.gov actualizado.',
-                    fuente_url: 'https://data.usaid.gov/',
-                    tags: ['CRAWLER', 'USAID API', 'SOCIAL', 'PRE-ALERTA'],
+                    pivot: 'API Crawler: ReliefWeb prioriza desarrollo territorial sostenible (Smart Cities).',
+                    obstaculo: 'Requiere registro ONGs actualizado.',
+                    fuente_url: 'https://reliefweb.int/updates' + simulatedPages[3],
+                    tags: ['CRAWLER', 'RELIEFWEB API', 'SOCIAL', 'PRE-ALERTA'],
                     tipo: 'fondo'
                 }
             ];

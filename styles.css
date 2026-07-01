@@ -51,7 +51,7 @@
     --text-muted: #6b7280;
 
     /* Typography */
-    --font-sans: 'Roboto', Arial, system-ui, sans-serif;
+    --font-sans: 'Inter', system-ui, sans-serif;
     --font-mono: 'Roboto Mono', 'Courier New', monospace;
 
     /* Radii */
@@ -224,7 +224,7 @@ body::before {
     color: white;
     font-family: var(--font-sans);
     font-size: 13px;
-    font-weight: 700;
+    font-weight: 600;
     cursor: pointer;
     transition: all 0.2s;
     letter-spacing: 0.3px;
@@ -376,7 +376,7 @@ body::before {
 
 .stat-label {
     font-size: 13px;
-    font-weight: 700;
+    font-weight: 600;
     color: #ffffff;
     margin-top: 2px;
 }
@@ -461,7 +461,7 @@ body::before {
 
 .level-badge {
     font-size: 10px;
-    font-weight: 700;
+    font-weight: 600;
     letter-spacing: 1px;
     padding: 3px 8px;
     border-radius: 4px;
@@ -494,7 +494,7 @@ body::before {
 
 .panel-title {
     font-size: 15px;
-    font-weight: 700;
+    font-weight: 600;
     color: #ffffff;
 }
 
@@ -589,7 +589,7 @@ body::before {
 
 .opp-title {
     font-size: 13px;
-    font-weight: 700;
+    font-weight: 600;
     color: #ffffff;
     line-height: 1.3;
 }
@@ -597,7 +597,7 @@ body::before {
 .opp-budget {
     font-family: var(--font-mono);
     font-size: 12px;
-    font-weight: 700;
+    font-weight: 600;
     color: #ffffff;
     white-space: nowrap;
     background: var(--epm-green-dim);
@@ -695,7 +695,7 @@ body::before {
     border: none;
     cursor: pointer;
     font-family: var(--font-sans);
-    font-weight: 700;
+    font-weight: 600;
     transition: all 0.2s;
 }
 
@@ -761,7 +761,7 @@ body::before {
 .intel-category {
     font-size: 10px;
     color: var(--amber);
-    font-weight: 700;
+    font-weight: 600;
     letter-spacing: 0.8px;
     margin-bottom: 4px;
     text-transform: uppercase;
@@ -769,7 +769,7 @@ body::before {
 
 .intel-title {
     font-size: 13px;
-    font-weight: 700;
+    font-weight: 600;
     color: #ffffff;
     margin-bottom: 4px;
 }
@@ -793,7 +793,7 @@ body::before {
 .shadow-type {
     font-size: 10px;
     color: #ffffff;
-    font-weight: 700;
+    font-weight: 600;
     letter-spacing: 0.8px;
     margin-bottom: 6px;
     text-transform: uppercase;
@@ -835,7 +835,7 @@ body::before {
 
 .output-header h2 {
     font-size: 14px;
-    font-weight: 700;
+    font-weight: 600;
     color: var(--text-primary);
 }
 
@@ -870,7 +870,7 @@ body::before {
 
 .terminal-tag {
     font-size: 10px;
-    font-weight: 700;
+    font-weight: 600;
     padding: 1px 6px;
     border-radius: 3px;
     flex-shrink: 0;
@@ -944,7 +944,7 @@ body::before {
 
 .capacity-header h2 {
     font-size: 14px;
-    font-weight: 700;
+    font-weight: 600;
     color: var(--text-primary);
 }
 
@@ -1008,7 +1008,7 @@ body::before {
     color: white;
     font-family: var(--font-sans);
     font-size: 13px;
-    font-weight: 700;
+    font-weight: 600;
     cursor: pointer;
     transition: all 0.2s;
     margin-top: 4px;
@@ -1124,7 +1124,7 @@ body::before {
 
 .modal-header h2 {
     font-size: 16px;
-    font-weight: 700;
+    font-weight: 600;
     color: white;
 }
 
@@ -1185,7 +1185,7 @@ body::before {
 
 .dossier-section-title {
     font-size: 11px;
-    font-weight: 700;
+    font-weight: 600;
     letter-spacing: 1px;
     color: var(--epm-blue);
     text-transform: uppercase;
@@ -1243,7 +1243,7 @@ body::before {
     display: flex;
     align-items: center;
     justify-content: center;
-    font-weight: 700;
+    font-weight: 600;
     font-size: 13px;
     color: white;
     flex-shrink: 0;
@@ -1464,7 +1464,7 @@ body::before {
 
 .dim-count {
     font-size: 11px;
-    font-weight: 700;
+    font-weight: 600;
     opacity: 0.7;
     background: rgba(0, 0, 0, 0.06);
     padding: 1px 6px;
@@ -1474,7 +1474,7 @@ body::before {
 /* Version badge */
 .v3-badge {
     font-size: 9px;
-    font-weight: 700;
+    font-weight: 600;
     letter-spacing: 1px;
     padding: 2px 7px;
     border-radius: 4px;
