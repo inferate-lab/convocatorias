@@ -107,3 +107,11 @@
 [2026-06-30T08:24:57.818Z] [INFO] Iniciando purga. CUTOFF: 2026-06-30
 [2026-06-30T08:24:57.823Z] [SUCCESS] Purga completada. Eliminadas: 0
 [2026-06-30T08:24:57.824Z] [INFO] Tamaño: 42528 → 42528 bytes
+[2026-07-01T08:45:27.927Z] [INFO] Iniciando purga. CUTOFF: 2026-07-01
+[2026-07-01T08:45:27.931Z] [REMOVED] adidas_rfp - VENCIDA
+[2026-07-01T08:45:27.932Z] [REMOVED] ashoka_changemakers_2026 - VENCIDA
+[2026-07-01T08:45:27.932Z] [REMOVED] google_org_digital_equity - VENCIDA
+[2026-07-01T08:45:27.932Z] [REMOVED] plastic_wood_circular_economy - VENCIDA
+[2026-07-01T08:45:27.933Z] [SUCCESS] Purga completada. Eliminadas: 4
+[2026-07-01T08:45:27.933Z] [INFO] Tamaño: 42528 → 38834 bytes
+[2026-07-01T08:45:27.933Z] [DETAILS] ELIMINADAS: adidas_rfp (2026-06-30), ashoka_changemakers_2026 (2026-06-30), google_org_digital_equity (2026-06-30), plastic_wood_circular_economy (2026-06-30)

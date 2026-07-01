@@ -137,24 +137,6 @@ const GLOBAL_RADAR = [
 
     // ─── SECTOR: FUENTES OBLIGATORIAS GLOBALES ─────────────────
     {
-        id: 'adidas_rfp',
-        titulo: 'Adidas Foundation Request for Proposals',
-        donante: 'Adidas Foundation',
-        fuente: 'Portal Oficial Adidas',
-        sector: 'Social / Deportes',
-        dimension: 'general',
-        presupuesto_usd: 100_000,
-        fecha_cierre: '2026-06-30',
-        estado: 'ACTIVA',
-        pais_elegible: 'Global / Colombia ✓',
-        afinidad_pivot: 80,
-        pivot: 'Espacios comunitarios deportivos y juveniles en las UVAs.',
-        obstaculo: 'Foco estricto en inclusión juvenil deportiva.',
-        fuente_url: 'https://www.adidasfoundation.org/rfp/',
-        tags: ['OBLIGATORIA', 'GENERAL'],
-        tipo: 'fondo'
-    },
-    {
         id: 'common_fund',
         titulo: 'Common Fund Call for Proposals',
         donante: 'Common Fund',
@@ -246,23 +228,6 @@ const GLOBAL_RADAR = [
     },
 
     // ─── SECTOR: ACELERACIÓN E INNOVACIÓN SOCIAL ─────────────────
-    {
-        id: 'ashoka_changemakers_2026',
-        titulo: 'Ashoka Changemakers — Social Systems Change',
-        donante: 'Ashoka Foundation',
-        fuente: 'Ashoka Network / Ecosistema de Interés',
-        sector: 'Innovación Social',
-        presupuesto_usd: 150_000,
-        fecha_cierre: '2026-06-30',
-        estado: 'ACTIVA',
-        pais_elegible: 'Colombia ✓',
-        afinidad_pivot: 88,
-        pivot: 'El modelo de transformación urbana de las UVAs es exactamente el "cambio sistémico" que Ashoka premia: replicable, medible, con 10+ años de impacto.',
-        obstaculo: 'Ashoka no siempre publica convocatorias abiertas — operar por nominación de red. Pre-identificar Fellow de Ashoka Colombia para nominación.',
-        fuente_url: 'https://www.ashoka.org/en-co',
-        tags: ['ALTO PRESTIGIO', 'NOMINACIÓN REQUERIDA', 'RETORNO REPUTACIÓN'],
-        tipo: 'fondo'
-    },
 
     // ─── SECTOR: CONSERVACIÓN Y BIODIVERSIDAD ─────────────────
     {
@@ -320,23 +285,6 @@ const GLOBAL_RADAR = [
     },
 
     // ─── SECTOR: TECNOLOGÍA DIGITAL E IA ─────────────────────
-    {
-        id: 'google_org_digital_equity',
-        titulo: 'Google.org — Digital Equity & AI for Social Good Latam',
-        donante: 'Google.org',
-        fuente: 'Silent Signal / Ecosistema Google for Nonprofits',
-        sector: 'Tecnología Digital / IA',
-        presupuesto_usd: 500_000,
-        fecha_cierre: '2026-06-30',
-        estado: 'SEÑAL ACTIVA — Google.org comprometió USD $25M Latam',
-        pais_elegible: 'Colombia ✓',
-        afinidad_pivot: 90,
-        pivot: 'Las UVAs + conectividad + 15K usuarios = laboratorio de IA social certificado. EPM puede ser el partner territorial de Google para validar herramientas de IA en contextos de vulnerabilidad.',
-        obstaculo: 'Google.org opera por referencia de ecosistema. Estrategia: registrar en Google for Nonprofits + contactar programa de grants directo.',
-        fuente_url: 'https://www.google.org/',
-        tags: ['SEÑAL SILENCIOSA', 'USD $500K', 'IA SOCIAL', 'ACCIÓN INMEDIATA'],
-        tipo: 'roja'
-    },
     {
         id: 'microsoft_nonprofits_2026',
         titulo: 'Microsoft — AI for Good Grants (Nonprofits)',
@@ -480,24 +428,6 @@ const GLOBAL_RADAR = [
     },
 
     // ─── DIMENSIÓN AMBIENTAL: ECONOMÍA CIRCULAR / MADERA PLÁSTICA ──
-    {
-        id: 'plastic_wood_circular_economy',
-        titulo: 'Ellen MacArthur Foundation — Circular Economy Innovation Grants',
-        donante: 'Ellen MacArthur Foundation',
-        fuente: 'Ellen MacArthur Foundation Grants Portal',
-        sector: 'Economía Circular / Innovación',
-        dimension: 'ambiental',
-        presupuesto_usd: 400_000,
-        fecha_cierre: '2026-06-30',
-        estado: 'ACTIVA',
-        pais_elegible: 'Colombia ✓',
-        afinidad_pivot: 85,
-        pivot: 'EPM gestiona residuos en Medellín. La madera plástica y otros materiales de economía circular pueden integrarse en la infraestructura de UVAs. Pivot: proponer "UVAs de Segunda Generación" construidas con materiales circulares derivados de residuos comunitarios.',
-        obstaculo: 'La EMF prioriza soluciones innovadoras con evidencia de impacto. Articular con empresa local de reciclaje (ej. Alvi, Recimed) como actor técnico de economía circular.',
-        fuente_url: 'https://www.ellenmacarthurfoundation.org/',
-        tags: ['ECONOMÍA CIRCULAR', 'MADERA PLÁSTICA', 'RESIDUOS', 'MATCH 85%'],
-        tipo: 'roja'
-    },
 
     // ─── DIMENSIÓN AMBIENTAL: BIODIVERSIDAD URBANA ─────────────
     {
