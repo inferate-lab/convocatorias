@@ -115,3 +115,12 @@
 [2026-07-01T08:45:27.933Z] [SUCCESS] Purga completada. Eliminadas: 4
 [2026-07-01T08:45:27.933Z] [INFO] Tamaño: 42528 → 38834 bytes
 [2026-07-01T08:45:27.933Z] [DETAILS] ELIMINADAS: adidas_rfp (2026-06-30), ashoka_changemakers_2026 (2026-06-30), google_org_digital_equity (2026-06-30), plastic_wood_circular_economy (2026-06-30)
+[2026-07-02T08:08:49.641Z] [INFO] Iniciando purga. CUTOFF: 2026-07-02
+[2026-07-02T08:08:49.645Z] [REMOVED] common_fund - VENCIDA
+[2026-07-02T08:08:49.645Z] [REMOVED] c40_cities_2026 - VENCIDA
+[2026-07-02T08:08:49.645Z] [REMOVED] ford_foundation_rights - VENCIDA
+[2026-07-02T08:08:49.646Z] [REMOVED] national_academies_latam_stem - VENCIDA
+[2026-07-02T08:08:49.646Z] [REMOVED] water_resilience_coalition - VENCIDA
+[2026-07-02T08:08:49.646Z] [SUCCESS] Purga completada. Eliminadas: 5
+[2026-07-02T08:08:49.647Z] [INFO] Tamaño: 41446 → 36709 bytes
+[2026-07-02T08:08:49.647Z] [DETAILS] ELIMINADAS: common_fund (2026-07-01), c40_cities_2026 (2026-07-01), ford_foundation_rights (2026-07-01), national_academies_latam_stem (2026-07-01), water_resilience_coalition (2026-07-01)

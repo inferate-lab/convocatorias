@@ -162,24 +162,6 @@ const GLOBAL_RADAR = [
 
     // ─── SECTOR: FUENTES OBLIGATORIAS GLOBALES ─────────────────
     {
-        id: 'common_fund',
-        titulo: 'Common Fund Call for Proposals',
-        donante: 'Common Fund',
-        fuente: 'Common Fund Portal',
-        sector: 'Propósito General',
-        dimension: 'general',
-        presupuesto_usd: 150_000,
-        fecha_cierre: '2026-07-01',
-        estado: 'ACTIVA',
-        pais_elegible: 'Global ✓',
-        afinidad_pivot: 75,
-        pivot: 'Adaptación de cualquier infraestructura comunitaria o educativa de EPM.',
-        obstaculo: 'Requiere justificación de alto impacto social.',
-        fuente_url: 'https://www.common-fund.org/call-for-proposals',
-        tags: ['OBLIGATORIA', 'GENERAL'],
-        tipo: 'fondo'
-    },
-    {
         id: 'waterloo_fdn',
         titulo: 'The Waterloo Foundation Grants',
         donante: 'The Waterloo Foundation',
@@ -346,23 +328,6 @@ const GLOBAL_RADAR = [
     },
 
     // ─── SECTOR: DESARROLLO URBANO Y RESILIENCIA ─────────────
-    {
-        id: 'c40_cities_2026',
-        titulo: 'C40 Cities — Climate Finance Lab for Resilient Cities',
-        donante: 'C40 / Bloomberg / Rockefeller',
-        fuente: 'C40 Cities Finance Facility',
-        sector: 'Resiliencia Climática Urbana',
-        presupuesto_usd: 500_000,
-        fecha_cierre: '2026-07-01',
-        estado: 'ACTIVA',
-        pais_elegible: 'Colombia ✓ (Medellín es miembro C40)',
-        afinidad_pivot: 88,
-        pivot: 'Medellín es miembro C40. El modelo UVA transforma espacios de riesgo climático en hubs comunitarios. Pivot: proponer las UVAs como "infraestructura de resiliencia climática certificable".',
-        obstaculo: 'C40 opera con ciudades, no ONGs directamente. Articular con Secretaría de Medio Ambiente de Medellín.',
-        fuente_url: 'https://www.c40.org/',
-        tags: ['C40 MEMBER ADVANTAGE', 'RESILIENCIA CLIMÁTICA', 'ALCALDÍA PARTNER'],
-        tipo: 'roja'
-    },
 
     // ─── SECTOR: SEGURIDAD Y CONVIVENCIA URBANA ─────────────
 
@@ -373,23 +338,6 @@ const GLOBAL_RADAR = [
     // ─── SECTOR: PRIMERA INFANCIA Y EDUCACIÓN ────────────────
 
     // ─── SECTOR: DERECHOS Y PUEBLOS ──────────────────────────
-    {
-        id: 'ford_foundation_rights',
-        titulo: 'Ford Foundation — Civic Rights in a Changing World',
-        donante: 'Ford Foundation',
-        fuente: 'Ford Foundation Grants Portal',
-        sector: 'Derechos / Participación Ciudadana',
-        presupuesto_usd: 400_000,
-        fecha_cierre: '2026-07-01',
-        estado: 'ACTIVA',
-        pais_elegible: 'Colombia ✓',
-        afinidad_pivot: 84,
-        pivot: 'Las bibliotecas EPM son espacios de ejercicio ciudadano: lectura, información, debate. Pivot: proponer modelo de "biblioteca como garante de derechos informativos" con datos de acceso 2024.',
-        obstaculo: 'Ford Foundation prioriza organizaciones con narrativa de derechos explícita. Reencuadrar el lenguaje de la propuesta.',
-        fuente_url: 'https://www.fordfoundation.org/work/our-grants/',
-        tags: ['FORD FOUNDATION', 'DERECHOS PARTICIPACIÓN', 'PIVOT NARRATIVA'],
-        tipo: 'fondo'
-    },
 
     // ─── SECTOR: RECONOCIMIENTOS Y PREMIOS ───────────────────
 
@@ -493,24 +441,6 @@ const GLOBAL_RADAR = [
     },
 
     // ─── DIMENSIÓN TECNOLÓGICA: ACADEMIAS DE INGENIERÍA GLOBALES ──
-    {
-        id: 'national_academies_latam_stem',
-        titulo: 'InterAcademy Partnership — STEM en Ciudades de Latam',
-        donante: 'InterAcademy Partnership / Academias Nacionales Globales',
-        fuente: 'IAP Science Education Programme',
-        sector: 'Ciencia / STEM / Academias',
-        dimension: 'tecnologico',
-        presupuesto_usd: 200_000,
-        fecha_cierre: '2026-07-01',
-        estado: 'ACTIVA',
-        pais_elegible: 'Colombia ✓',
-        afinidad_pivot: 83,
-        pivot: 'El IAP conecta más de 140 academias nacionales. Las UVAs son los laboratorios comunitarios de STEM que el IAP necesita para sus programas de implementación. Pivot: articular con la Academia Colombiana de Ciencias Exactas como nodo nacional.',
-        obstaculo: 'Canal de entrada vía Academia Colombiana de Ciencias. Reunión con su secretaría ejecutiva para presentar el modelo UVAs + STEM.',
-        fuente_url: 'https://www.interacademies.org/',
-        tags: ['ACADEMIAS GLOBALES', 'STEM COMUNITARIO', 'IAP', 'COLOMBIA'],
-        tipo: 'fondo'
-    },
 
     // ─── DIMENSIÓN TECNOLÓGICA: CORPORACIONES DESCABORNIZACIÓN ──
     {
@@ -533,24 +463,6 @@ const GLOBAL_RADAR = [
     },
 
     // ─── DIMENSIÓN SOCIAL: HÍDRICA + AGUA ─────────────────────
-    {
-        id: 'water_resilience_coalition',
-        titulo: 'Water Resilience Coalition — City Water Stewardship Programme',
-        donante: 'Water Resilience Coalition (UN Global Compact)',
-        fuente: 'WRC / UN Global Compact CEOWM',
-        sector: 'Agua / Resiliencia / Gobernanza',
-        dimension: 'ambiental',
-        presupuesto_usd: 500_000,
-        fecha_cierre: '2026-07-01',
-        estado: 'ACTIVA',
-        pais_elegible: 'Colombia ✓',
-        afinidad_pivot: 90,
-        pivot: 'EPM gestiona cuencas hídricas que abastecen a millones en Colombia. Posicionar a EPM como "Water Steward" dentro de la coalición: no solo como proveedor sino como gestor de resiliencia hídrica territorial con participación comunitaria desde UVAs.',
-        obstaculo: 'La WRC opera principalmente con corporaciones. La entrada de EPM es natural dado que el Grupo EPM es una empresa de servicios públicos. Solicitar membresía corporativa.',
-        fuente_url: 'https://ceowatermandate.org/resilience/',
-        tags: ['WATER RESILIENCE', 'UN GLOBAL COMPACT', 'CUENCAS HÍDRICAS', 'MATCH 90%'],
-        tipo: 'roja'
-    }
 ];
 
 // ============================================================
