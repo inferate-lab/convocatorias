@@ -124,3 +124,6 @@
 [2026-07-02T08:08:49.646Z] [SUCCESS] Purga completada. Eliminadas: 5
 [2026-07-02T08:08:49.647Z] [INFO] Tamaño: 41446 → 36709 bytes
 [2026-07-02T08:08:49.647Z] [DETAILS] ELIMINADAS: common_fund (2026-07-01), c40_cities_2026 (2026-07-01), ford_foundation_rights (2026-07-01), national_academies_latam_stem (2026-07-01), water_resilience_coalition (2026-07-01)
+[2026-07-03T07:56:29.818Z] [INFO] Iniciando purga. CUTOFF: 2026-07-03
+[2026-07-03T07:56:29.823Z] [SUCCESS] Purga completada. Eliminadas: 0
+[2026-07-03T07:56:29.823Z] [INFO] Tamaño: 36709 → 36709 bytes
