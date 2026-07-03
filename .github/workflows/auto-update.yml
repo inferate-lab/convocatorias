@@ -45,8 +45,8 @@ jobs:
 
     - name: 💾 Commit cambios
       run: |
-        git add scanner.js purge.log
-        git commit -m "🤖 CENTINELA v5.0 — Sincronización automática $(date -u +%Y-%m-%d\ %H:%M:%S\ UTC)" || echo "ℹ️ Sin cambios para confirmar"
+        git add scanner.js purge.log ruido.json
+        git commit -am "Force Live Update: CSS, Purge & Sur-Sur" || echo "No changes"
 
     - name: 🚀 Push a main
       run: git push origin main

@@ -1505,3 +1505,16 @@ body::before {
     color: var(--text-muted);
     font-weight: 500;
 }
+.btn-fuente, a.fuente-link {
+    background-color: #FFFFFF !important;
+    color: #004831 !important; /* Texto verde oscuro siempre visible */
+    font-weight: 700 !important;
+    border: 2px solid #004831 !important;
+    padding: 8px 16px;
+    border-radius: 6px;
+    display: inline-block;
+}
+.btn-fuente:hover {
+    background-color: #004831 !important;
+    color: #FFFFFF !important;
+}

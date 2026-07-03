@@ -127,7 +127,7 @@ function renderRedAlerts(opps) {
       <div style="font-size:10px;color:#ffca28;margin-bottom:10px;">⚠ OBSTÁCULO: ${opp.obstaculo?.substring(0, 100)}...</div>
       <div class="opp-actions">
         <button class="btn-dossier" onclick="openDossier('${opp.id}')">📁 Dossier de Carpintería</button>
-        <button class="btn-detail" onclick="window.open('${opp.fuente_url}','_blank')">Fuente →</button>
+        <button class="btn-fuente" onclick="window.open('${opp.fuente_url}','_blank')">Fuente →</button>
       </div>
     `;
         container.appendChild(card);
@@ -251,6 +251,22 @@ async function runFullScan() {
     await delay(400);
 
     const results = await TriageEngine_v2.runScan();
+    
+    // Fetch ruido.json si existe
+    let ruidoExterno = [];
+    try {
+        const response = await fetch('./ruido.json');
+        if (response.ok) {
+            ruidoExterno = await response.json();
+        }
+    } catch (e) {
+        console.log("No se encontró ruido.json o hay error de CORS");
+    }
+    
+    // Unir descartados locales con el ruido purgado
+    const todosDescartados = [...results.descartados, ...ruidoExterno];
+    results.descartados = todosDescartados;
+    
     currentScanResults = results;
 
     const dims = results.byDimension || {};
@@ -271,13 +287,13 @@ async function runFullScan() {
     }
 
     await delay(300);
-    OutputProtocol.voice('ok', `CICLO COMPLETO. ${results.rojas.length} Alertas Rojas · ${results.fondo.length} Intel de Fondo · 6 Señales Frontera · ${results.descartados.length} Descartados.`);
+    OutputProtocol.voice('ok', `CICLO COMPLETO. ${results.rojas.length} Alertas Rojas · ${results.fondo.length} Intel de Fondo · 6 Señales Frontera · ${todosDescartados.length} Descartados.`);
 
     renderRedAlerts(results.rojas);
     renderIntel(results.fondo);
     renderShadow();
-    renderNoise(results.descartados);
-    updateStats(results);
+    renderNoise(todosDescartados);
+    updateStats({ ...results, descartados: todosDescartados });
 
     document.getElementById('lastScanTime').textContent = new Date().toLocaleTimeString('es-CO', { hour12: false });
 

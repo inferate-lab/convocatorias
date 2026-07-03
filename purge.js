@@ -1,91 +1,48 @@
 const fs = require('fs');
-const path = require('path');
 
-// Usar fecha actual en lugar de hardcodeada
-const CUTOFF = new Date().toISOString().split('T')[0];
-const SCANNER_FILE = './scanner.js';
-const LOG_FILE = './purge.log';
+// Leer datos crudos
+// Como el repositorio usa scanner.js para almacenar GLOBAL_RADAR, 
+// extraemos el arreglo directamente
+const { GLOBAL_RADAR } = require('./scanner.js');
+const convocatorias = GLOBAL_RADAR || [];
 
-// IDs a eliminar (verificados vencidos)
-const FORCE_REMOVE = [
-  'global_water_challenge',
-  'wise_education_prize_qatar',
-  'un_habitat_scroll_honour',
-  'world_habitat_award',
-  'uclg_metropolis_award',
-  'unodc_crime_prevention',
-  'hilton_humanitarian_prize',
-  'gsma_innovation',
-  'skoll_foundation_2026',
-];
+// Fecha estricta del sistema para el corte
+const fechaCorte = new Date('2026-07-02'); 
 
-function log(level, msg) {
-  const timestamp = new Date().toISOString();
-  const entry = `[${timestamp}] [${level}] ${msg}`;
-  console.log(entry);
-  fs.appendFileSync(LOG_FILE, entry + '\n');
-}
+const vigentes = [];
+const ruidoDescartado = [];
 
-try {
-  log('INFO', 'Iniciando purga. CUTOFF: ' + CUTOFF);
-  let src = fs.readFileSync(SCANNER_FILE, 'utf8');
-  const originalSize = src.length;
-
-  // Correcciones de fecha verificadas
-  src = src.replace("fecha_cierre: '2026-06-25'", "fecha_cierre: '2026-06-22'");
-  src = src.replace("fecha_cierre: '2026-10-15'", "fecha_cierre: '2026-09-30'");
-
-  const lines = src.split('\n');
-  let result = [];
-  let i = 0;
-  let removed = [];
-
-  while (i < lines.length) {
-    if (/^\s{4}\{/.test(lines[i])) {
-      let block = [];
-      let depth = 0;
-      while (i < lines.length) {
-        const line = lines[i];
-        depth += (line.match(/\{/g) || []).length;
-        depth -= (line.match(/\}/g) || []).length;
-        block.push(line);
-        i++;
-        if (depth <= 0) break;
-      }
-      const blockStr = block.join('\n');
-      const idMatch = blockStr.match(/id:\s*'([^']+)'/);
-      const dateMatch = blockStr.match(/fecha_cierre:\s*'([^']+)'/);
-      const id = idMatch ? idMatch[1] : '';
-      const fecha = dateMatch ? dateMatch[1] : '';
-
-      const lower = fecha.toLowerCase();
-      const isRolling = lower.includes('rolling') || lower.includes('open until') || lower.includes('permanente');
-      const expired = fecha && fecha < CUTOFF && !isRolling;
-      const forced = FORCE_REMOVE.some(r => id.includes(r));
-
-      if (expired || forced) {
-        removed.push(id + ' (' + fecha + ')');
-        log('REMOVED', id + ' - ' + (forced ? 'LISTA FUERZA' : 'VENCIDA'));
-      } else {
-        result.push(...block);
-      }
+convocatorias.forEach(conv => {
+    if (!conv.fecha_cierre || conv.fecha_cierre === 'N/D') {
+        vigentes.push(conv); // Ventanilla abierta
     } else {
-      result.push(lines[i]);
-      i++;
+        const fechaStr = conv.fecha_cierre.toLowerCase();
+        if (fechaStr.includes('rolling') || fechaStr.includes('open') || fechaStr.includes('permanente')) {
+            vigentes.push(conv);
+            return;
+        }
+        
+        const fechaCierre = new Date(conv.fecha_cierre);
+        if (fechaCierre >= fechaCorte) {
+            vigentes.push(conv);
+        } else {
+            // Se envía a ruido descartado con motivo
+            conv.motivo_descarte = "Fecha expirada";
+            ruidoDescartado.push(conv);
+        }
     }
-  }
+});
 
-  const newContent = result.join('\n').replace(/\n\n\n+/g, '\n\n');
-  fs.writeFileSync(SCANNER_FILE, newContent);
-  
-  log('SUCCESS', `Purga completada. Eliminadas: ${removed.length}`);
-  log('INFO', `Tamaño: ${originalSize} → ${newContent.length} bytes`);
-  
-  if (removed.length > 0) {
-    log('DETAILS', 'ELIMINADAS: ' + removed.join(', '));
-  }
-
-} catch (err) {
-  log('ERROR', err.message);
-  process.exit(1);
+// Escribir ambos archivos para que la web pueda leer el ruido
+// Actualizamos el scanner.js preservando el resto del archivo y reemplazando solo el array
+let src = fs.readFileSync('./scanner.js', 'utf8');
+const radarStart = src.indexOf('const GLOBAL_RADAR = [');
+const radarEnd = src.indexOf('];\n\nconst EPM_PLATFORM');
+if(radarStart !== -1 && radarEnd !== -1) {
+    const newRadar = 'const GLOBAL_RADAR = ' + JSON.stringify(vigentes, null, 4);
+    src = src.substring(0, radarStart) + newRadar + src.substring(radarEnd + 1);
+    fs.writeFileSync('./scanner.js', src);
 }
+
+fs.writeFileSync('./ruido.json', JSON.stringify(ruidoDescartado, null, 2));
+console.log(`Purga completada: ${vigentes.length} vigentes, ${ruidoDescartado.length} descartadas.`);
