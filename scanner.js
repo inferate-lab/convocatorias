@@ -696,7 +696,21 @@ Fundación Grupo EPM · ${new Date().toLocaleString('es-CO')}
      */
     async runScan() {
         const dynamicOpps = await this.fetchOpenDataAPI();
-        const allOpps = [...GLOBAL_RADAR, ...dynamicOpps];
+        
+        let storedOpps = [];
+        try {
+            // Cache busting forzado según instrucciones
+            const response = await fetch('./data.json?v=' + new Date().getTime());
+            if(response.ok) {
+                storedOpps = await response.json();
+            }
+        } catch(e) {
+            console.error("Error cargando data.json, usando fallback", e);
+            // Fallback a GLOBAL_RADAR si existe
+            storedOpps = typeof GLOBAL_RADAR !== 'undefined' ? GLOBAL_RADAR : [];
+        }
+
+        const allOpps = [...storedOpps, ...dynamicOpps];
 
         const results = {
             rojas: [],

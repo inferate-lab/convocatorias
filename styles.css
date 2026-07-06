@@ -1518,3 +1518,17 @@ body::before {
     background-color: #004831 !important;
     color: #FFFFFF !important;
 }
+.btn-fuente, a.fuente-link {
+    background-color: #FFFFFF !important;
+    color: #004831 !important;
+    font-weight: 700 !important;
+    border: 2px solid #004831 !important;
+    padding: 8px 16px;
+    border-radius: 6px;
+    display: inline-block;
+    text-decoration: none;
+}
+.btn-fuente:hover, a.fuente-link:hover {
+    background-color: #004831 !important;
+    color: #FFFFFF !important;
+}

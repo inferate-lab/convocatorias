@@ -40,13 +40,13 @@ jobs:
 
     - name: 📝 Configurar git
       run: |
-        git config --global user.name "CENTINELA Bot"
-        git config --global user.email "centinela@antigravity.local"
+        git config --global user.name 'Antigravity IRIS Agent'
+        git config --global user.email 'iris@antigravity.local'
 
     - name: 💾 Commit cambios
       run: |
-        git add scanner.js purge.log ruido.json
-        git commit -am "Force Live Update: CSS, Purge & Sur-Sur" || echo "No changes"
+        git add .
+        git commit -am 'Force Live Update: CSS, Purge, Sur-Sur & Innovation Nodes' || echo "ℹ️ Sin cambios para confirmar"
 
     - name: 🚀 Push a main
       run: git push origin main
