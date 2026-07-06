@@ -1532,3 +1532,27 @@ body::before {
     background-color: #004831 !important;
     color: #FFFFFF !important;
 }
+/* Corrección de legibilidad para el Motor Shadow-Work */
+.shadow-card p, 
+.shadow-card span, 
+.shadow-card i,
+.motor-shadow p, 
+.motor-shadow span, 
+.motor-shadow i {
+    color: #E8F5E9 !important; /* Verde muy claro casi blanco para máximo contraste */
+    font-weight: 500 !important;
+    line-height: 1.6;
+}
+
+/* Forzar enlace cliqueable y visible en Inteligencia de Fondo (Nivel 2) */
+.intel-item a,
+.nivel-2-inteligencia a, 
+a.inteligencia-link {
+    color: #00E676 !important; /* Verde neón para destacar el enlace */
+    text-decoration: underline !important;
+    font-weight: bold !important;
+    cursor: pointer !important;
+    display: inline-block;
+    position: relative;
+    z-index: 50; /* Evita que otras capas bloqueen el clic */
+}
