@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "id": "microsoft_nonprofits_2026",
+    "titulo": "Microsoft — AI for Good Grants (Nonprofits)",
+    "donante": "Microsoft Philanthropies",
+    "fuente": "Microsoft for Nonprofits Portal",
+    "sector": "Inteligencia Artificial / Tecnología",
+    "presupuesto_usd": 200000,
+    "fecha_cierre": "Rolling (convocatoria permanente)",
+    "estado": "ACTIVA PERMANENTE",
+    "pais_elegible": "Colombia ✓",
+    "afinidad_pivot": 86,
+    "pivot": "Los centros de conocimiento de EPM son el espacio físico ideal para implementar soluciones de AI4Good de Microsoft. Propuesta: \"Laboratorio de IA Comunitaria en UVAs\" con Azure como infraestructura.",
+    "obstaculo": "Rolling basis — aplicar ya. Requiere registro en Microsoft for Nonprofits.",
+    "fuente_url": "https://www.microsoft.com/en-us/nonprofits",
+    "tags": [
+      "CONVOCATORIA PERMANENTE",
+      "APLICAR HOY",
+      "IA COMUNITARIA"
+    ],
+    "tipo": "roja",
+    "motivo_descarte": "Fecha expirada"
+  }
+]
