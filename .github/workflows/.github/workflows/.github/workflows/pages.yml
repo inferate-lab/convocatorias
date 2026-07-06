@@ -7,40 +7,102 @@
   <meta name="description" content="Convocatorias de cooperación, becas y financiación – Fundación EPM." />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+  
   <style>
     :root{
-      --epm-green:#008542; --epm-green-700:#046837; --epm-green-900:#004c2f;
-      --bg:#f5f8f7; --white:#fff; --text:#1f2a27; --muted:#5b6b68; --border:#e3ece8;
-      --radius:14px; --shadow:0 10px 28px rgba(0,0,0,.08); --container:1200px;
+      --epm-green:#008542; 
+      --epm-green-700:#046837; 
+      --epm-green-900:#004c2f; 
+      --bg:#f5f8f7; 
+      --white:#fff; 
+      --text:#1f2a27; 
+      --muted:#5b6b68; 
+      --border:#e3ece8;
+      --radius:14px; 
+      --shadow:0 10px 28px rgba(0,0,0,.08); 
+      --container:1200px;
     }
     *{box-sizing:border-box} html,body{height:100%}
-    body{margin:0;font-family:"Inter",system-ui,-apple-system,Segoe UI,Roboto,Arial,"Noto Sans","Helvetica Neue",sans-serif;color:var(--text);background:var(--bg)}
+    body{margin:0;font-family:"Inter",system-ui,-apple-system,sans-serif;color:var(--text);background:var(--bg)}
+    
     .topbar{position:sticky;top:0;z-index:10;background:linear-gradient(90deg,var(--epm-green) 0%,var(--epm-green-700) 55%,var(--epm-green-900) 100%);color:#fff;box-shadow:var(--shadow)}
     .topbar-inner{max-width:var(--container);margin:0 auto;padding:12px 22px;display:flex;align-items:center;gap:14px}
     .brand{display:flex;align-items:center;gap:12px;text-decoration:none;color:#fff}
     .brand img{height:44px;width:auto;display:block}
     .brand-title{font-weight:700;letter-spacing:.2px}
     .brand-sub{opacity:.9;font-size:14px}
+    
     .hero{background:#ecf7f1;border-bottom:1px solid var(--border)}
     .hero-inner{max-width:var(--container);margin:0 auto;padding:38px 22px 26px}
-    h1{margin:0 0 8px;color:var(--epm-green-900);font-size:clamp(26px,3.5vw,40px);letter-spacing:.2px}
-    .lede{margin:0;color:var(--muted);font-size:clamp(14px,1.7vw,16px);max-width:900px}
-    .main{max-width:var(--container);margin:22px auto 60px;padding:0 22px}
+    h1{margin:0 0 8px;color:var(--epm-green-900);font-size:clamp(26px,3.5vw,40px);letter-spacing:.2px;font-weight:800}
+    .lede{margin:0;color:var(--muted);font-size:clamp(14px,1.7vw,16px);max-width:900px;line-height:1.6}
+    
+    .main{max-width:var(--container);margin:22px auto 60px;padding:0 22px;display:flex;flex-direction:column;gap:30px}
+    
     .card{background:var(--white);border:1px solid var(--border);border-radius:var(--radius);box-shadow:var(--shadow);overflow:hidden}
     .card-header{padding:16px 18px;border-bottom:1px solid var(--border);display:flex;align-items:center;justify-content:space-between;background:#fff}
     .card-title{margin:0;font-size:18px;color:var(--epm-green-900);font-weight:700}
-    .micro{font-size:12px;color:var(--muted)}
-    .embed{position:relative;width:100%;min-height:70vh;height:clamp(520px,75vh,900px);background:#fafafa}
+    .micro{font-size:12px;color:var(--muted);font-weight:600}
+    
+    .embed{position:relative;width:100%;min-height:50vh;height:clamp(400px,60vh,700px);background:#fafafa}
     .embed iframe{position:absolute;inset:0;width:100%;height:100%;border:0;background:#fff}
-    .cta{padding:14px 18px;border-top:1px solid var(--border);display:flex;flex-wrap:wrap;align-items:center;gap:12px}
-    .btn{display:inline-flex;align-items:center;gap:10px;background:var(--epm-green);color:#fff;text-decoration:none;padding:10px 14px;border-radius:12px;font-weight:700;box-shadow:0 8px 20px rgba(0,133,66,.20);transition:.15s ease;white-space:nowrap}
-    .btn:hover{transform:translateY(-1px);background:#05924a}
+
+    /* GRID DINÁMICO DE CONVOCATORIAS */
+    .grid-convocatorias {display:grid;grid-template-columns:1fr;gap:20px}
+    
+    /* CORRECCIÓN DE CONTRASTE DEL MOTOR SHADOW-WORK */
+    .card-oportunidad {
+      background: var(--epm-green-900);
+      color: #FFFFFF;
+      padding: 24px;
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      border-left: 6px solid #00E676;
+    }
+    .card-oportunidad h3 {margin:0 0 10px 0;font-size:22px;color:#FFFFFF;font-weight:700}
+    
+    /* El texto del motor shadow ahora es completamente claro e inteligible */
+    .card-oportunidad .motor-shadow-text {
+      color: #E8F5E9 !important; 
+      font-size: 15px;
+      line-height: 1.6;
+      margin: 12px 0;
+      font-style: italic;
+    }
+    
+    .meta-line {font-size:13px;color:#A5D6A7;margin-bottom:15px;font-weight:600}
+    
+    /* CORRECCIÓN DE ENLACES DEL NIVEL 2 (Inteligencia de Fondo) */
+    .btn-fuente-link {
+      display: inline-block !important;
+      background-color: #FFFFFF !important;
+      color: var(--epm-green-900) !important;
+      font-weight: 700 !important;
+      border: 2px solid #FFFFFF !important;
+      padding: 10px 20px;
+      border-radius: 8px;
+      text-decoration: none !important;
+      transition: .2s ease;
+      cursor: pointer !important;
+      position: relative;
+      z-index: 50;
+    }
+    .btn-fuente-link:hover {
+      background-color: transparent !important;
+      color: #FFFFFF !important;
+    }
+
+    /* SECCIÓN RUIDO DESCARTADO */
+    .seccion-ruido {background:#fff;border:1px solid var(--border);border-radius:var(--radius);padding:20px}
+    .item-ruido {border-bottom:1px solid var(--border);padding:10px 0;display:flex;justify-content:space-between;font-size:14px}
+    .item-ruido:last-child {border:none}
+    
     footer{margin:28px 0 22px;color:var(--muted);text-align:center;font-size:13px}
-    a{color:var(--epm-green-900)} a:hover{color:var(--epm-green)}
   </style>
 </head>
 <body>
+
   <header class="topbar" role="banner">
     <div class="topbar-inner">
       <a class="brand" href="#">
@@ -55,19 +117,33 @@
 
   <section class="hero">
     <div class="hero-inner">
-      <h1>Convocatorias de Cooperación</h1>
-      <p class="lede">Explora oportunidades de cooperación, becas y financiación para proyectos con impacto. Visualiza los datos en tiempo real en el tablero de Power BI.</p>
+      <h1>Radar de Convocatorias Activas</h1>
+      <p class="lede">Monitoreo y procesamiento automático de fondos de cooperación, asistencia técnica y desafíos globales de innovación alineados con los objetivos institucionales.</p>
     </div>
   </section>
 
   <main class="main" role="main">
+    
+    <section>
+      <h2 style="color:var(--epm-green-900); margin-bottom:15px; font-weight:700;">Alertas Detectadas en el Radar</h2>
+      <div id="contenedor-convocatorias" class="grid-convocatorias">
+        <p style="color:var(--muted)">Sincronizando flujos con el servidor de datos...</p>
+      </div>
+    </section>
+
+    <section class="seccion-ruido">
+      <h2 style="color:var(--muted); margin-top:0; font-size:18px; font-weight:700;">Ruido Descartado (Convocatorias Expiradas / No Elegibles)</h2>
+      <div id="contenedor-ruido">
+        <p style="color:var(--muted); font-size:14px;">Analizando histórico de depuración...</p>
+      </div>
+    </section>
+
     <article class="card" aria-label="Dashboard Power BI">
       <div class="card-header">
-        <h2 class="card-title">Dashboard Power BI</h2>
+        <h2 class="card-title">Dashboard Analítico General</h2>
         <span class="micro">Fuente: Microsoft Power BI</span>
       </div>
       <div class="embed">
-        <!-- URL real de tu Power BI -->
         <iframe
           title="Power BI"
           src="https://app.powerbi.com/view?r=eyJrIjoiNzI3MmM1MjktZTRlZS00YWRkLTk3YTAtNTk4NDlhNzY5YTFlIiwidCI6ImYzNTFhN2NiLWY5NGEtNGRmMC05NjI3LWFlMDMwY2NlZjdjNCIsImMiOjR9"
@@ -75,18 +151,84 @@
           loading="lazy">
         </iframe>
       </div>
-      <div class="cta">
-        <span>¿Buscas detalles de convocatorias específicas?</span>
-        <a class="btn" target="_blank" rel="noopener noreferrer"
-           href="https://www.ccb.org.co/servicios/haz-crecer-tu-empresa/logra-liquidez-y-financiacion/convocatoria-para-cofinanciar-proyectos/convocatorias-cooperacion-tecnica">
-          Ver convocatorias en la CCB
-        </a>
-      </div>
     </article>
+
   </main>
 
   <footer role="contentinfo">
     <small>© Fundación EPM</small>
   </footer>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      // Fuerza al navegador a descargar datos nuevos en cada ciclo evitando la memoria caché
+      const cacheBuster = new Date().getTime(); 
+      
+      // 1. CARGA DE DATA.JSON (VIGENTES Y ENLACES NIVEL 2)
+      fetch(`data.json?v=${cacheBuster}`)
+        .then(res => res.json())
+        .then(data => {
+          const contenedor = document.getElementById('contenedor-convocatorias');
+          contenedor.innerHTML = '';
+          
+          if(data.length === 0) {
+            contenedor.innerHTML = '<p style="color:var(--muted)">No hay convocatorias vigentes registradas en este ciclo.</p>';
+            return;
+          }
+          
+          data.forEach(item => {
+            contenedor.innerHTML += `
+              <div class="card-oportunidad">
+                <div style="font-size:11px; font-weight:700; text-transform:uppercase; letter-spacing:0.5px; background:rgba(255,255,255,0.2); display:inline-block; padding:4px 8px; border-radius:4px; margin-bottom:10px; color:#fff;">
+                  ${item.tag || 'Cooperación'}
+                </div>
+                <h3>${item.titulo}</h3>
+                <div class="meta-line">
+                  Fuente: ${item.fuente} | Cierre: ${item.fecha_cierre || 'Ventanilla Abierta'} | Financiamiento: ${item.monto || 'No especificado'}
+                </div>
+                <p class="motor-shadow-text">"${item.descripcion}"</p>
+                <div style="margin-top:15px;">
+                  <a href="${item.link}" target="_blank" rel="noopener noreferrer" class="btn-fuente-link">
+                    Ir a la Fuente de Inteligencia →
+                  </a>
+                </div>
+              </div>
+            `;
+          });
+        })
+        .catch(err => {
+          console.error("Error al leer data.json:", err);
+          document.getElementById('contenedor-convocatorias').innerHTML = '<p style="color:#ff5252">Aún no hay datos de convocatorias disponibles. Ejecuta el Workflow en GitHub para generarlos.</p>';
+        });
+
+      // 2. CARGA DE RUIDO.JSON (RUIDO DESCARTADO)
+      fetch(`ruido.json?v=${cacheBuster}`)
+        .then(res => res.json())
+        .then(data => {
+          const contenedorRuido = document.getElementById('contenedor-ruido');
+          contenedorRuido.innerHTML = '';
+          
+          if(data.length === 0) {
+            contenedorRuido.innerHTML = '<p style="color:var(--muted); font-size:13px;">Sin registros descartados en este periodo.</p>';
+            return;
+          }
+          
+          data.forEach(item => {
+            contenedorRuido.innerHTML += `
+              <div class="item-ruido">
+                <span style="color:var(--muted); text-decoration: line-through;">${item.titulo}</span>
+                <span style="color:#ff5252; font-weight:700; font-size:12px; background:#ffebee; padding:2px 8px; border-radius:4px;">
+                  ${item.motivo_descarte || 'Expirada / Filtro Técnico'}
+                </span>
+              </div>
+            `;
+          });
+        })
+        .catch(err => {
+          console.warn("ruido.json ausente o vacío. Se generará en el siguiente ciclo de purga.");
+          document.getElementById('contenedor-ruido').innerHTML = '<p style="color:var(--muted); font-size:13px;">Sin descartes registrados.</p>';
+        });
+    });
+  </script>
 </body>
 </html>
