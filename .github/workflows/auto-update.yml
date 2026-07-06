@@ -5,11 +5,23 @@ on:
     - cron: '0 5 * * *'
   workflow_dispatch:
 
+# Configuración del entorno de despliegue para GitHub Pages
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
 jobs:
   sync:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
+    
+    # 1. CORRECCIÓN DE PERMISOS (Aquí estaba el bloqueo del token OIDC)
     permissions:
       contents: write
+      pages: write      # <--- AGREGAR ESTO: Permite escribir en la web de GitHub Pages
+      id-token: write   # <--- AGREGAR ESTO: Permite la autenticación criptográfica segura
 
     steps:
     - name: 📥 Checkout código
@@ -51,6 +63,19 @@ jobs:
     - name: 🚀 Push a main
       run: git push origin main
 
+    # 2. SECCIÓN DE DESPLIEGUE EN VIVO (Los pasos que faltaban para activar la web)
+    - name: 🛠️ Configurar Páginas de GitHub
+      uses: actions/configure-pages@v5
+
+    - name: 📦 Subir Artefacto de Producción
+      uses: actions/upload-pages-artifact@v3
+      with:
+        path: '.' # Sube los archivos procesados (index.html, data.json, ruido.json)
+
+    - name: 🚀 Desplegar en GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v5 # <--- Ejecuta de forma segura la acción que fallaba
+
     - name: ✨ Resumen
       if: always()
-      run: echo "✅ Ciclo de CENTINELA completado"
+      run: echo "✅ Ciclo de CENTINELA y Despliegue completado"
