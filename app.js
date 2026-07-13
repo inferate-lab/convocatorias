@@ -164,28 +164,32 @@ function renderIntel(opps) {
 // RENDER: SHADOW WORK — Señales Emergentes Frontera Global
 // ============================================================
 function renderShadow() {
-    const container = document.getElementById('shadowContainer');
+    const container = document.getElementById('shadow-cards-container');
+    if (!container) return;
+
     const signals = [
-        { icon: '🟢', dim: 'ambiental', company: 'Mission Innovation / IEA', type: 'H₂ VERDE — Tracking Colombia Q2 2026', text: 'Mission Innovation-8 está rastreando Colombia como candidata a "Hydrogen Valley" en Latam. Los fondos de implementación post-cumbre están siendo asignados. El corredor Bogotá-Medellín es la zona más observada.', action: 'Consorcio EPM Generación + EAFIT + Fundación. Presentar ante UPME Colombia como operador técnico de transición.' },
-        { icon: '🟢', dim: 'ambiental', company: 'Kunming-Montreal GBF / COP16', type: 'BIODIVERSIDAD URBANA — Medellín Ciudad Piloto', text: 'COP16 en Cali firmó compromisos de implementación del Fondo Kunming-Montreal. Colombia es país protagonista. Los recursos para ciudades con infraestructura de naturaleza urbana estarán disponibles H2 2026. Las UVAs existen exactamente en las zonas de borde urbano-natural.', action: 'Posicionamiento INMEDIATO ante Ministerio de Ambiente + IAVH (Instituto Humboldt) para co-postulación.' },
-        { icon: '⚡', dim: 'tecnologico', company: 'Schneider Electric + TotalEnergies', type: 'FUNDACIONES CORPORATIVAS DE DESCARBONIZACIÓN', text: 'Las multinacionales con agenda ESG 2030 (Schneider, TotalEnergies, Alstom, Siemens) están buscando activos territoriales en Latam para ejecutar sus compromisos de descarbonización. El Grupo EPM es el socio natural: infraestructura energética + brazo social.', action: 'Mapeo de agendas ESG 2025 de las 5 principales multinacionales energéticas con presencia en Colombia. Reuniones vía GPT-Grupo.' },
-        { icon: '📡', dim: 'ambiental', company: 'IATI / Ellen MacArthur Foundation', type: 'ECONOMÍA CIRCULAR — Madera Plástica Colombia', text: 'IATI muestra flujos de la EMF hacia proyectos de "waste-to-value" en ciudades latinoamericanas. El mercado de madera plástica tiene un nicho no cubierto en Antioquia. Las comunidades de UVAs son la red de recolección potencial.', action: 'Mapear empresas de reciclaje de plásticos en Antioquia (Alvi, Recimed, etc.) para consorcio técnico. Postular a EMF Grants H2 2026.' },
-        { icon: '🌐', dim: 'tecnologico', company: 'RAEng / InterAcademy Partnership', type: 'ACADEMIAS GLOBALES DE INGENIERÍA — LATAM', text: 'La Royal Academy of Engineering y el InterAcademy Partnership están explorando extensión a Latinoamérica. EPM + EAFIT tienen el perfil técnico para ser el primer nodo LAC en estos programas. La ventana de entrada está abierta ahora.', action: 'Contactar British Council Colombia + Academia Colombiana de Ciencias. Presentar EPM-EAFIT como "Engineering Hub" de Latina.' },
-        { icon: '📡', dim: 'social', company: 'Bancolombia / Telefónica ESG', type: 'SEÑALES SILENCIOSAS LOCALES', text: 'Bancolombia redirigió su fondo a "economía del conocimiento en territorios vulnerables" — definición exacta del modelo EPM. Movistar Colombia informa inversión sin socio ejecutor en Antioquia.', action: 'Reunión directa con Gerencia de Sostenibilidad Bancolombia + Movistar vía red Grupo Empresarial Antioquia.' },
+        { icon: '🟢', dim: 'ambiental', company: 'Mission Innovation / IEA', type: 'H₂ VERDE — Tracking Colombia Q2 2026', text: 'Mission Innovation-8 está rastreando Colombia como candidata a "Hydrogen Valley" en Latam. Los fondos de implementación post-cumbre están siendo asignados. El corredor Bogotá-Medellín es la zona más observada.', action: 'Consorcio EPM Generación + EAFIT + Fundación. Presentar ante UPME Colombia como operador técnico de transición.', sourceUrl: 'https://mission-innovation.net/missions/hydrogen/' },
+        { icon: '🟢', dim: 'ambiental', company: 'Kunming-Montreal GBF / COP16', type: 'BIODIVERSIDAD URBANA — Medellín Ciudad Piloto', text: 'El Marco Mundial de Biodiversidad Kunming-Montreal impulsa recursos y compromisos de implementación. Colombia puede articular infraestructura de naturaleza urbana con participación comunitaria.', action: 'Posicionamiento ante Ministerio de Ambiente + Instituto Humboldt para co-postulación.', sourceUrl: 'https://www.cbd.int/gbf' },
+        { icon: '⚡', dim: 'tecnologico', company: 'Schneider Electric + TotalEnergies', type: 'FUNDACIONES CORPORATIVAS DE DESCARBONIZACIÓN', text: 'Las multinacionales con agenda ESG 2030 buscan activos territoriales en Latinoamérica para ejecutar compromisos de descarbonización. El Grupo EPM combina infraestructura energética y capacidad social.', action: 'Mapear agendas ESG de las principales multinacionales energéticas con presencia en Colombia.', sourceUrl: 'https://www.se.com/ww/en/about-us/sustainability/' },
+        { icon: '📡', dim: 'ambiental', company: 'IATI / Ellen MacArthur Foundation', type: 'ECONOMÍA CIRCULAR — Madera Plástica Colombia', text: 'Los flujos hacia proyectos de economía circular muestran oportunidades de valorización de residuos en ciudades latinoamericanas. Las comunidades pueden conformar redes de recolección y transformación.', action: 'Mapear empresas de reciclaje de plásticos en Antioquia para estructurar un consorcio técnico.', sourceUrl: 'https://www.ellenmacarthurfoundation.org/' },
+        { icon: '🌐', dim: 'tecnologico', company: 'Royal Academy of Engineering', type: 'ACADEMIAS GLOBALES DE INGENIERÍA — LATAM', text: 'Las alianzas internacionales de ingeniería ofrecen una vía para conectar capacidad técnica, educación y retos territoriales. EPM + EAFIT tienen perfil para estructurar un nodo regional.', action: 'Contactar British Council Colombia + Academia Colombiana de Ciencias y presentar el concepto Engineering Hub.', sourceUrl: 'https://raeng.org.uk/' },
+        { icon: '📡', dim: 'social', company: 'Bancolombia / Telefónica ESG', type: 'SEÑALES SILENCIOSAS LOCALES', text: 'Las agendas de sostenibilidad corporativa ofrecen oportunidades para proyectos de economía del conocimiento e inclusión digital en territorios vulnerables.', action: 'Gestionar reuniones con las áreas de sostenibilidad para validar encaje, convocatoria y ruta de financiación.', sourceUrl: 'https://www.grupobancolombia.com/sostenibilidad' }
     ];
+
     container.innerHTML = '';
     signals.forEach((sig, i) => {
         const dimColors = { ambiental: '#10B981', tecnologico: '#06B6D4', social: '#8B5CF6' };
         const dimLabels = { ambiental: '🌿 Ambiental', tecnologico: '⚡ Tecnológico', social: '🤝 Social' };
-        const card = document.createElement('div');
+        const card = document.createElement('article');
         card.className = 'shadow-card';
         card.style.animationDelay = `${i * 0.08}s`;
-        card.style.borderLeft = `3px solid ${dimColors[sig.dim] || '#8B5CF6'}`;
+        card.style.borderLeftColor = dimColors[sig.dim] || '#00ff88';
         card.innerHTML = `
-      <div class="shadow-type">${sig.icon} SEÑAL FRONTERA · <span style="color:${dimColors[sig.dim]};">${dimLabels[sig.dim]}</span> · ${sig.type} · <strong>${sig.company}</strong></div>
-      <div class="shadow-text">"${sig.text}"</div>
-      <div class="shadow-action">→ Acción: ${sig.action}</div>
-    `;
+            <div class="shadow-type">${sig.icon} SEÑAL FRONTERA · <span style="color:${dimColors[sig.dim]};">${dimLabels[sig.dim]}</span> · ${sig.type} · <strong>${sig.company}</strong></div>
+            <p class="shadow-text">“${sig.text}”</p>
+            <span class="shadow-action action-text">→ Acción: ${sig.action}</span>
+            <a class="source-link-btn" href="${sig.sourceUrl}" target="_blank" rel="noopener noreferrer">Consultar fuente oficial ↗</a>
+        `;
         container.appendChild(card);
     });
 }
