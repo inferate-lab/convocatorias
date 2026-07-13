@@ -26,6 +26,9 @@ jobs:
     steps:
     - name: 📥 Checkout código
       uses: actions/checkout@v4.2.1
+      with:
+        ref: main
+        fetch-depth: 0
 
     - name: ⚙️ Setup Node.js 18
       uses: actions/setup-node@v4.1.0
@@ -61,7 +64,7 @@ jobs:
         git commit -am 'Force Live Update: CSS, Purge, Sur-Sur & Innovation Nodes' || echo "ℹ️ Sin cambios para confirmar"
 
     - name: 🚀 Push a main
-      run: git push origin main
+      run: git push origin HEAD:main
 
     # 2. SECCIÓN DE DESPLIEGUE EN VIVO (Los pasos que faltaban para activar la web)
     - name: 🛠️ Configurar Páginas de GitHub
