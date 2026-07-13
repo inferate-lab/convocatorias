@@ -7,9 +7,14 @@
     "start": "node scheduler.js",
     "scan": "node scanner.js",
     "purge": "node purge.js",
-    "clean": "node clean.js"
+    "clean": "node clean.js",
+    "scrape": "node scraper.js"
   },
-  "keywords": ["convocatorias", "fundación", "centinela"],
+  "keywords": [
+    "convocatorias",
+    "fundación",
+    "centinela"
+  ],
   "author": "CENTINELA Automation",
   "license": "MIT",
   "dependencies": {
