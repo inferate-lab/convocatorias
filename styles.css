@@ -1,7 +1,7 @@
 /* =============================================================
-   IRIS — Fundación Grupo EPM
-   Design System — Modo Claro Institucional
-   Colores: Verde EPM #71b33c · Azul Institucional #004b8d
+   IRIS â€” FundaciÃ³n Grupo EPM
+   Design System â€” Modo Claro Institucional
+   Colores: Verde EPM #71b33c Â· Azul Institucional #004b8d
    ============================================================= */
 
 *,
@@ -1399,7 +1399,7 @@ body::before {
 }
 
 /* ============================================================
-   DIMENSION FILTER BAR — v3.0 Explorador de Frontera Global
+   DIMENSION FILTER BAR â€” v3.0 Explorador de Frontera Global
    ============================================================ */
 .dim-filter-bar {
     display: flex;
@@ -1532,14 +1532,14 @@ body::before {
     background-color: #004831 !important;
     color: #FFFFFF !important;
 }
-/* Correcci�n de legibilidad para el Motor Shadow-Work */
+/* Corrección de legibilidad para el Motor Shadow-Work */
 .shadow-card p, 
 .shadow-card span, 
 .shadow-card i,
 .motor-shadow p, 
 .motor-shadow span, 
 .motor-shadow i {
-    color: #E8F5E9 !important; /* Verde muy claro casi blanco para m�ximo contraste */
+    color: #E8F5E9 !important; /* Verde muy claro casi blanco para máximo contraste */
     font-weight: 500 !important;
     line-height: 1.6;
 }
@@ -1548,11 +1548,122 @@ body::before {
 .intel-item a,
 .nivel-2-inteligencia a, 
 a.inteligencia-link {
-    color: #00E676 !important; /* Verde ne�n para destacar el enlace */
+    color: #00E676 !important; /* Verde neón para destacar el enlace */
     text-decoration: underline !important;
     font-weight: bold !important;
     cursor: pointer !important;
     display: inline-block;
     position: relative;
     z-index: 50; /* Evita que otras capas bloqueen el clic */
+}
+
+
+/* === LIVE UI IMPROVEMENTS 2026-07-13 === */
+/* Encabezado institucional con contraste AA */
+.header,
+.top-header {
+    background-color: #0b3d2c;
+    color: #ffffff;
+    border-bottom: 3px solid #00ff88;
+}
+
+.header .brand-name,
+.header .brand-sub,
+.header .last-scan,
+.header .last-scan .mono,
+.header .status-indicator {
+    color: #ffffff;
+}
+
+.header .brand-sub,
+.header .last-scan {
+    color: #d6e7df;
+}
+
+.top-header img {
+    max-height: 60px;
+    margin-right: 15px;
+}
+
+/* Motor Shadow-Work */
+.shadow-work-container {
+    background-color: #052217;
+    border-color: rgba(0, 255, 136, 0.28);
+}
+
+.shadow-work-container .panel-header {
+    background-color: #0b3d2c;
+    border-bottom-color: rgba(0, 255, 136, 0.28);
+}
+
+.shadow-work-container .panel-body {
+    background-color: #052217;
+    padding: 20px;
+}
+
+.motor-intro {
+    padding: 16px 20px;
+    background: #082d20;
+    border-bottom: 1px solid rgba(0, 255, 136, 0.22);
+}
+
+.motor-intro p {
+    color: #d6e7df;
+    font-size: 0.92rem;
+    line-height: 1.6;
+}
+
+.motor-intro strong {
+    color: #ffffff;
+}
+
+.shadow-card {
+    background-color: #0b3d2c;
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    border-left: 4px solid #00ff88;
+    padding: 18px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+.shadow-card .shadow-type {
+    color: #ffffff;
+}
+
+.shadow-card .shadow-text,
+.shadow-card p,
+.shadow-card em {
+    color: #e0e0e0;
+    font-size: 0.95rem;
+    line-height: 1.5;
+}
+
+.shadow-card .shadow-action,
+.shadow-card .action-text {
+    color: #00ff88;
+    font-weight: 700;
+    margin-top: 10px;
+    display: block;
+}
+
+.source-link-btn {
+    display: inline-block;
+    margin-top: 12px;
+    padding: 6px 12px;
+    background-color: transparent;
+    color: #00ff88;
+    border: 1px solid #00ff88;
+    border-radius: 4px;
+    text-decoration: none;
+    font-size: 0.85rem;
+    font-weight: 600;
+    transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.source-link-btn:hover,
+.source-link-btn:focus-visible {
+    background-color: #00ff88;
+    color: #0b3d2c;
+    outline: none;
 }
