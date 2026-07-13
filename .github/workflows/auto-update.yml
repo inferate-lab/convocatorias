@@ -40,6 +40,9 @@ jobs:
     - name: 📦 Instalar dependencias
       run: npm install
 
+    - name: 🔎 Ejecutar rastreador de oportunidades
+      run: npm run scrape
+
     - name: 🧹 Ejecutar purga de vencidas
       run: node purge.js
 
