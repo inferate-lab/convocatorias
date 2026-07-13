@@ -126,23 +126,32 @@
                 </div>
             </div>
 
-            <!-- SHADOW WORK ENGINE -->
-            <div class="triage-panel panel-purple">
+            <!-- SECCIÓN MOTOR SHADOW-WORK -->
+            <section class="triage-panel panel-purple shadow-work-container" id="shadow-motor" aria-labelledby="shadow-motor-title">
                 <div class="panel-header">
                     <div class="panel-title-group">
                         <div class="level-badge badge-purple">SHADOW</div>
-                        <h2 class="panel-title">🔮 Motor Shadow-Work</h2>
+                        <h2 class="panel-title" id="shadow-motor-title">🔮 Motor Shadow-Work</h2>
                     </div>
                     <div class="panel-meta">Señales Silenciosas · Validación de Capacidad · Consorcios</div>
                 </div>
-                <div class="panel-body" id="shadowContainer">
+                <div class="motor-intro">
+                    <p>
+                        <strong>¿Qué es este motor?</strong> Es un módulo de inteligencia anticipada que rastrea
+                        señales tempranas y mapea consorcios estratégicos. Su objetivo es viabilizar ampliaciones
+                        de proyectos integrando dotación escolar, Unidades de Vida Articulada y energía solar,
+                        con referencias metodológicas de la OEA y la ART, para Angostura, Abejorral, Granada,
+                        San Carlos y Nariño, territorios ZOMAC del oriente antioqueño.
+                    </p>
+                </div>
+                <div class="panel-body" id="shadow-cards-container" aria-live="polite">
                     <div class="empty-state">
                         <div class="empty-icon">⚙️</div>
                         <p>El motor de inferencia está en reposo.</p>
-                        <p class="empty-sub">Activar con escaneo completo.</p>
+                        <p class="empty-sub">Actívalo con un escaneo completo para generar señales y fuentes.</p>
                     </div>
                 </div>
-            </div>
+            </section>
 
             <!-- LEVEL 3: NOISE LOG -->
             <div class="triage-panel panel-gray">
@@ -299,7 +308,7 @@
 
     <script src="data/profile.json" type="application/json" id="profileData"></script>
     <script src="scanner.js?v=20260706T125300"></script>
-    <script src="app.js?v=20260706T125300"></script>
+    <script src="app.js?v=20260713T183000"></script>
 
     <script>
     document.addEventListener("DOMContentLoaded", function() {
