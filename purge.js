@@ -1,30 +1,50 @@
+'use strict';
+
 const fs = require('fs');
+const path = require('path');
 
-// Carga de la persistencia de datos actual
-const rawData = fs.readFileSync('./data.json');
-const convocatorias = JSON.parse(rawData);
+const DATA_FILE = path.join(__dirname, 'data.json');
+const NOISE_FILE = path.join(__dirname, 'ruido.json');
+const STATUS_FILE = path.join(__dirname, 'data', 'scraper-status.json');
+const today = new Date();
+today.setHours(0, 0, 0, 0);
 
-// Control de tiempo basado en la fecha actual de operación
-const fechaCorte = new Date('2026-07-06'); 
+function parseDeadline(value) {
+    if (!value || ['N/D', 'Revisar en plataforma'].includes(value)) return null;
+    const parsed = /^\d{4}-\d{2}-\d{2}$/.test(value)
+        ? new Date(`${value}T23:59:59`)
+        : new Date(value);
+    return Number.isNaN(parsed.getTime()) ? null : parsed;
+}
 
-const vigentes = [];
-const ruidoDescartado = [];
+function writeJson(file, value) {
+    const temporary = `${file}.tmp`;
+    fs.writeFileSync(temporary, `${JSON.stringify(value, null, 2)}\n`, 'utf8');
+    fs.renameSync(temporary, file);
+}
 
-convocatorias.forEach(conv => {
-    if (!conv.fecha_cierre || conv.fecha_cierre === 'N/D') {
-        vigentes.push(conv); // Mantener fondos continuos o de ventanilla abierta
+const opportunities = JSON.parse(fs.readFileSync(DATA_FILE, 'utf8'));
+const active = [];
+const expired = [];
+
+for (const opportunity of opportunities) {
+    const deadline = parseDeadline(opportunity.fecha_cierre);
+    if (!deadline || deadline >= today) {
+        active.push(opportunity);
     } else {
-        const fechaCierre = new Date(conv.fecha_cierre);
-        if (fechaCierre >= fechaCorte) {
-            vigentes.push(conv);
-        } else {
-            conv.motivo_descarte = "Fecha expirada";
-            ruidoDescartado.push(conv);
-        }
+        expired.push({ ...opportunity, motivo_descarte: 'Fecha expirada' });
     }
-});
+}
 
-// Escritura y segregación de bases de datos para consumo de la interfaz
-fs.writeFileSync('./data.json', JSON.stringify(vigentes, null, 2));
-fs.writeFileSync('./ruido.json', JSON.stringify(ruidoDescartado, null, 2));
-console.log(`Proceso finalizado. Vigentes: ${vigentes.length} | Descartados: ${ruidoDescartado.length}`);
+writeJson(DATA_FILE, active);
+writeJson(NOISE_FILE, expired);
+
+if (fs.existsSync(STATUS_FILE)) {
+    const status = JSON.parse(fs.readFileSync(STATUS_FILE, 'utf8'));
+    status.active_opportunities = active.length;
+    status.scraped_opportunities = active.filter(item => item.rastreado).length;
+    status.expired_removed = expired.length;
+    writeJson(STATUS_FILE, status);
+}
+
+console.log(`Proceso finalizado. Vigentes: ${active.length} | Descartados: ${expired.length}`);

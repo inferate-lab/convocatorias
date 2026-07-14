@@ -684,6 +684,33 @@ body::before {
 .opp-actions {
     display: flex;
     gap: 8px;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.dossier-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px 14px;
+    border-radius: 6px;
+    background: #fff;
+    color: #004b8d;
+    border: 1px solid rgba(0, 75, 141, 0.28);
+    font: 700 11px/1.2 var(--font-sans);
+    text-decoration: none;
+    transition: transform 0.2s, box-shadow 0.2s, background 0.2s;
+}
+
+.dossier-btn:hover,
+.dossier-btn:focus-visible {
+    background: #eef7ff;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(0, 75, 141, 0.2);
+}
+
+.intel-actions {
+    margin-top: 8px;
 }
 
 .btn-dossier {

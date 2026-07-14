@@ -1,8 +1,7 @@
 /**
  * CENTINELA v5.0 — App Core
  * FUNDACIÓN GRUPO EPM · NODO DE INTELIGENCIA ESTRATÉGICA AUTÓNOMA
- * Sincronización: 5 de Mayo de 2026
- * Purga ejecutada: 9 registros eliminados (vencidos al 5-May-2026)
+ * Sincronización automática: rastreo diario y ejecución manual
  */
 
 // Estado global
@@ -10,6 +9,21 @@ let currentScanResults = null;
 let scanLog = [];
 let activeDossier = null;
 let activeDimFilter = 'all'; // 'all' | 'ambiental' | 'tecnologico' | 'social'
+
+function escapeHtml(value) {
+    return String(value ?? '').replace(/[&<>'"]/g, char => ({
+        '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#39;', '"': '&quot;'
+    })[char]);
+}
+
+function safeExternalUrl(value) {
+    try {
+        const url = new URL(value);
+        return ['http:', 'https:'].includes(url.protocol) ? url.href : '#';
+    } catch {
+        return '#';
+    }
+}
 
 // ============================================================
 // PROTOCOLO DE SALIDA v3 — Voz del Director de Estrategia
@@ -104,30 +118,38 @@ function renderRedAlerts(opps) {
     container.innerHTML = '';
     opps.forEach((opp, i) => {
         const needsC = opp.presupuesto_usd > EPM_PLATFORM.financiero.max_autonomo_usd;
+        const title = escapeHtml(opp.titulo);
+        const donor = escapeHtml(opp.donante);
+        const sector = escapeHtml(opp.sector);
+        const source = escapeHtml(opp.fuente);
+        const country = escapeHtml(opp.pais_elegible);
+        const pivot = escapeHtml(opp.pivot?.substring(0, 120));
+        const obstacle = escapeHtml(opp.obstaculo?.substring(0, 100));
+        const sourceUrl = safeExternalUrl(opp.fuente_url);
         const card = document.createElement('div');
         card.className = 'opp-card card-red';
         card.style.animationDelay = `${i * 0.06}s`;
         card.innerHTML = `
       <div class="opp-card-header">
-        <div class="opp-title">${opp.titulo}</div>
+        <div class="opp-title">${title}</div>
         <div class="opp-budget">${opp.presupuesto_usd > 0 ? `USD $${(opp.presupuesto_usd / 1000).toFixed(0)}K` : '🏆 Premio'}</div>
       </div>
-      <div class="opp-donor">${opp.donante} &nbsp;·&nbsp; <span style="color:rgba(255,255,255,0.6);font-size:10px;">${opp.sector}</span></div>
-      <div style="font-size:10px;color:rgba(255,255,255,0.8);margin-bottom:8px;font-family:var(--font-mono);">📡 ${opp.fuente} &nbsp;·&nbsp; ${opp.pais_elegible}</div>
-      <div class="opp-desc" style="font-size:11px;color:rgba(255,255,255,0.9);margin-bottom:8px;font-style:italic;">🔄 PIVOT: ${opp.pivot?.substring(0, 120)}...</div>
+      <div class="opp-donor">${donor} &nbsp;·&nbsp; <span style="color:rgba(255,255,255,0.6);font-size:10px;">${sector}</span></div>
+      <div style="font-size:10px;color:rgba(255,255,255,0.8);margin-bottom:8px;font-family:var(--font-mono);">📡 ${source} &nbsp;·&nbsp; ${country}</div>
+      <div class="opp-desc" style="font-size:11px;color:rgba(255,255,255,0.9);margin-bottom:8px;font-style:italic;">🔄 PIVOT: ${pivot}...</div>
       <div class="opp-tags">
         ${dimBadge(opp)}
-        ${(opp.tags || []).map(t => `<span class="${tagCss(t)}">${t}</span>`).join('')}
+        ${(opp.tags || []).map(t => `<span class="${tagCss(String(t))}">${escapeHtml(t)}</span>`).join('')}
         ${needsC ? '<span class="tag tag-warn">⚠ CONSORCIO</span>' : '<span class="tag tag-match">✓ AUTÓNOMO</span>'}
       </div>
       <div class="opp-match-bar">
         <div class="match-label"><span>Vector de Afinidad Estratégica</span><span>${opp.afinidad_pivot}%</span></div>
         <div class="match-track"><div class="match-fill" style="width:0%" data-target="${opp.afinidad_pivot}"></div></div>
       </div>
-      <div style="font-size:10px;color:#ffca28;margin-bottom:10px;">⚠ OBSTÁCULO: ${opp.obstaculo?.substring(0, 100)}...</div>
+      <div style="font-size:10px;color:#ffca28;margin-bottom:10px;">⚠ OBSTÁCULO: ${obstacle}...</div>
       <div class="opp-actions">
         <button class="btn-dossier" onclick="openDossier('${opp.id}')">📁 Dossier de Carpintería</button>
-        <button class="btn-fuente" onclick="window.open('${opp.fuente_url}','_blank')">Fuente →</button>
+        <a href="${sourceUrl}" target="_blank" rel="noopener noreferrer" class="dossier-btn">📁 Dossier / Ir a la Fuente</a>
       </div>
     `;
         container.appendChild(card);
@@ -146,15 +168,19 @@ function renderIntel(opps) {
     }
     container.innerHTML = '';
     opps.forEach((opp, i) => {
+        const sourceUrl = safeExternalUrl(opp.fuente_url);
         const item = document.createElement('div');
         item.className = 'intel-item';
         item.style.animationDelay = `${i * 0.06}s`;
         item.innerHTML = `
-      <div class="intel-category">${opp.sector?.toUpperCase()} · ${opp.afinidad_pivot}% AFINIDAD · ${opp.estado}</div>
-      <div class="intel-title">${opp.titulo}</div>
-      <div class="intel-desc">${opp.donante} · ${opp.presupuesto_usd > 0 ? `USD $${opp.presupuesto_usd.toLocaleString()}` : 'No monetario'} · Límite: ${opp.fecha_cierre}</div>
-      <div style="font-size:10px;color:rgba(255,255,255,0.8);margin-top:6px;">🔄 ${opp.pivot?.substring(0, 100)}...</div>
-      <button class="btn-detail" style="margin-top:8px;font-size:10px;" onclick="openDossier('${opp.id}')">📁 Dossier</button>
+      <div class="intel-category">${escapeHtml(opp.sector?.toUpperCase())} · ${opp.afinidad_pivot}% AFINIDAD · ${escapeHtml(opp.estado)}</div>
+      <div class="intel-title">${escapeHtml(opp.titulo)}</div>
+      <div class="intel-desc">${escapeHtml(opp.donante)} · ${opp.presupuesto_usd > 0 ? `USD $${opp.presupuesto_usd.toLocaleString()}` : 'No monetario'} · Límite: ${escapeHtml(opp.fecha_cierre)}</div>
+      <div style="font-size:10px;color:rgba(255,255,255,0.8);margin-top:6px;">🔄 ${escapeHtml(opp.pivot?.substring(0, 100))}...</div>
+      <div class="opp-actions intel-actions">
+        <button class="btn-detail" onclick="openDossier('${opp.id}')">📁 Dossier</button>
+        <a href="${sourceUrl}" target="_blank" rel="noopener noreferrer" class="dossier-btn">📁 Dossier / Ir a la Fuente</a>
+      </div>
     `;
         container.appendChild(item);
     });
@@ -241,7 +267,7 @@ async function runFullScan() {
 
     OutputProtocol.voice('system', '━━━ CENTINELA v5.0 — NODO DE INTELIGENCIA ESTRATÉGICA AUTóNOMA iniciado ━━━');
     await delay(400);
-    OutputProtocol.voice('system', 'Protocolo activo. Sincronización: 5-May-2026. Purga ejecutada: 9 registros eliminados. Fuentes activas verificadas.');
+    OutputProtocol.voice('system', 'Protocolo activo. Datos vigentes cargados; rastreo automático y purga dinámica habilitados.');
     await delay(500);
     OutputProtocol.voice('geo', 'Escaneando (Grants, Awards, Prizes, Nominations, Open Calls, Call for entries): TED (UE), Grants.gov, UNGM, Suqia UAE, Zayed, IWA, SURA, Scotiabank...');
     await delay(500);
@@ -468,13 +494,30 @@ function animateNumber(id, target) {
     const t = setInterval(() => { c = Math.min(c + step, target); el.textContent = c; if (c >= target) clearInterval(t); }, 30);
 }
 
+async function loadScraperStatus() {
+    try {
+        const response = await fetch(`data/scraper-status.json?v=${Date.now()}`, { cache: 'no-store' });
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        const status = await response.json();
+        const sourcesOk = (status.sources || []).filter(source => source.ok || source.status === 'success').length;
+        const lastRun = new Date(status.last_run);
+        if (!Number.isNaN(lastRun.getTime())) {
+            document.getElementById('lastScanTime').textContent = lastRun.toLocaleString('es-CO', { hour12: false });
+        }
+        document.getElementById('statusText').textContent = `Radar activo · ${sourcesOk}/${status.sources?.length || 0} fuentes`;
+    } catch (error) {
+        console.warn('Estado del rastreador no disponible:', error.message);
+    }
+}
+
 // ============================================================
 // INIT v3.0
 // ============================================================
 document.addEventListener('DOMContentLoaded', () => {
-    OutputProtocol.voice('system', 'CENTINELA v5.0 inicializado — NODO DE INTELIGENCIA ESTRATÉGICA AUTÓNOMA activo. Sincronización: 5 Mayo 2026.');
+    loadScraperStatus();
+    OutputProtocol.voice('system', 'CENTINELA v5.0 inicializado — NODO DE INTELIGENCIA ESTRATÉGICA AUTÓNOMA activo.');
     OutputProtocol.voice('system', `Protocolo: 🌿 Ambiental · ⚡ Tecnológico · 🤝 Social. Fuentes: TED·UNGM·IATI·RAEng·Mission Innovation·MacArthur·Academias Globales.`);
-    OutputProtocol.voice('geo', 'Purga ejecutada: GSMA (cerró 6-Abr), Hilton Prize (cerró 30-Abr), WISE Qatar (cerró 30-Abr), UNODC (cerró 1-May), World Habitat (cerró 1-May), Global Water Challenge (cerró 30-Abr) y 3 más eliminados.');
+    OutputProtocol.voice('geo', 'Control de vigencia activo: las fechas vencidas se eliminan automáticamente en cada ciclo.');
 
     // Inject dimension filter bar
     const statsRow = document.querySelector('.stats-row');

@@ -1,10 +1,11 @@
-name: CENTINELA v5.0 — Sincronización Automática
+name: CENTINELA — Rastreo y publicación en vivo
 
 on:
   push:
     branches: [ main ]
   schedule:
-    - cron: '0 5 * * *'
+    # 08:00 de Colombia (UTC-5)
+    - cron: '0 13 * * *'
   workflow_dispatch:
 
 # Configuración del entorno de despliegue para GitHub Pages
@@ -32,13 +33,14 @@ jobs:
         ref: main
         fetch-depth: 0
 
-    - name: ⚙️ Setup Node.js 18
+    - name: ⚙️ Setup Node.js 20
       uses: actions/setup-node@v4.1.0
       with:
-        node-version: '18'
+        node-version: '20'
+        cache: npm
 
     - name: 📦 Instalar dependencias
-      run: npm install
+      run: npm ci
 
     - name: 🔎 Ejecutar rastreador de oportunidades
       run: npm run scrape
@@ -60,13 +62,13 @@ jobs:
 
     - name: 📝 Configurar git
       run: |
-        git config --global user.name 'Antigravity IRIS Agent'
-        git config --global user.email 'iris@antigravity.local'
+        git config user.name 'CENTINELA Automation'
+        git config user.email 'actions@users.noreply.github.com'
 
     - name: 💾 Commit cambios
       run: |
-        git add .
-        git commit -am 'Force Live Update: CSS, Purge, Sur-Sur & Innovation Nodes' || echo "ℹ️ Sin cambios para confirmar"
+        git add data.json data/scraper-status.json ruido.json purge.log
+        git diff --cached --quiet || git commit -m 'data: actualizar convocatorias vigentes'
 
     - name: 🚀 Push a main
       run: git push origin HEAD:main

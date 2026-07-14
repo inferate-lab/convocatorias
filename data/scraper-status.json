@@ -1,0 +1,67 @@
+{
+  "last_run": "2026-07-14T00:08:04.148Z",
+  "active_opportunities": 29,
+  "scraped_opportunities": 13,
+  "sources_ok": 8,
+  "sources_failed": 0,
+  "sources_skipped": 0,
+  "sources": [
+    {
+      "id": "open-society",
+      "name": "Open Society Foundations",
+      "status": "success",
+      "found": 0,
+      "message": "HTTP 200"
+    },
+    {
+      "id": "premios-portafolio",
+      "name": "Premios Portafolio",
+      "status": "success",
+      "found": 1,
+      "message": "HTTP 200"
+    },
+    {
+      "id": "earthna-prize",
+      "name": "Earthna Prize",
+      "status": "success",
+      "found": 1,
+      "message": "HTTP 200"
+    },
+    {
+      "id": "qs-impact",
+      "name": "QS ImpACT Awards",
+      "status": "success",
+      "found": 0,
+      "message": "HTTP 200"
+    },
+    {
+      "id": "ong-link",
+      "name": "ONG Link",
+      "status": "success",
+      "found": 0,
+      "message": "HTTP 200"
+    },
+    {
+      "id": "wepropel",
+      "name": "Oportunidades Propel",
+      "status": "success",
+      "found": 12,
+      "message": "HTTP 200"
+    },
+    {
+      "id": "red-exposocial",
+      "name": "Red ExpoSocial",
+      "status": "success",
+      "found": 0,
+      "message": "HTTP 200"
+    },
+    {
+      "id": "global-health-learning",
+      "name": "Global Health & Learning",
+      "status": "success",
+      "found": 0,
+      "message": "HTTP 200"
+    }
+  ],
+  "expired_removed": 0
+}
