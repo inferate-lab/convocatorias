@@ -135,7 +135,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-14T14:59:31.252Z"
+    "capturado_en": "2026-07-15T14:57:50.499Z"
   },
   {
     "id": "cop31_climate_finance",
@@ -359,7 +359,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-14T14:59:31.245Z"
+    "capturado_en": "2026-07-15T14:57:50.494Z"
   },
   {
     "id": "scraped-wepropel-nexa-a71a7e2a92",
@@ -383,7 +383,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-14T14:59:31.255Z"
+    "capturado_en": "2026-07-15T14:57:50.501Z"
   },
   {
     "id": "korea_ict_latam",
@@ -449,7 +449,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-14T14:59:31.253Z"
+    "capturado_en": "2026-07-15T14:57:50.499Z"
   },
   {
     "id": "scraped-wepropel-tech-for-good-impact-awards-2026-592787b348",
@@ -473,7 +473,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-14T14:59:31.243Z"
+    "capturado_en": "2026-07-15T14:57:50.493Z"
   },
   {
     "id": "scraped-wepropel-despegamos-con-impacto-42de4c6326",
@@ -497,7 +497,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-14T14:59:31.251Z"
+    "capturado_en": "2026-07-15T14:57:50.497Z"
   },
   {
     "id": "scraped-wepropel-the-gadfly-project-1838c6a5c5",
@@ -521,7 +521,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-14T14:59:31.256Z"
+    "capturado_en": "2026-07-15T14:57:50.502Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -545,7 +545,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-14T14:59:31.258Z"
+    "capturado_en": "2026-07-15T14:57:50.503Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -569,7 +569,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-14T14:59:31.259Z"
+    "capturado_en": "2026-07-15T14:57:50.504Z"
   },
   {
     "id": "scraped-wepropel-unesco-intercultural-leadership-programme-9c98710491",
@@ -593,7 +593,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-14T14:59:31.251Z"
+    "capturado_en": "2026-07-15T14:57:50.498Z"
   },
   {
     "id": "scraped-wepropel-spirit-of-togetherness-award-2026-a971a608e6",
@@ -617,7 +617,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-14T14:59:31.254Z"
+    "capturado_en": "2026-07-15T14:57:50.500Z"
   },
   {
     "id": "scraped-premios-portafolio-premios-portafolio-2026-6c0d0fa3ff",
@@ -641,7 +641,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-07-14T14:59:23.375Z"
+    "capturado_en": "2026-07-15T14:57:44.677Z"
   },
   {
     "id": "scraped-wepropel-enlight-fellowship-c9b36991e2",
@@ -665,6 +665,6 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-14T14:59:31.250Z"
+    "capturado_en": "2026-07-15T14:57:50.496Z"
   }
 ]
