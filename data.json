@@ -135,7 +135,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-15T14:57:50.499Z"
+    "capturado_en": "2026-07-16T15:07:57.262Z"
   },
   {
     "id": "cop31_climate_finance",
@@ -158,29 +158,6 @@
       "SEÑAL ALTA"
     ],
     "tipo": "roja"
-  },
-  {
-    "id": "gbif_urban_biodiversity",
-    "titulo": "GBIF — Urban Biodiversity Monitoring with Communities",
-    "donante": "Global Biodiversity Information Facility / Nordic Funds",
-    "fuente": "GBIF Grants Portal",
-    "sector": "Biodiversidad Urbana / Ciencia Ciudadana",
-    "dimension": "ambiental",
-    "presupuesto_usd": 180000,
-    "fecha_cierre": "2026-07-15",
-    "estado": "ACTIVA",
-    "pais_elegible": "Colombia ✓ (megadiverso)",
-    "afinidad_pivot": 86,
-    "pivot": "Las UVAs en bordes urbano-naturales de Medellín son puntos ideales de monitoreo de biodiversidad urbana. Las comunidades son \"centinelas\" de biodiversidad. Pivot: instalar estaciones de ciencia ciudadana en UVAs para registrar datos en GBIF y posicionar a Medellín como ciudad líder en biodiversidad urbana documentada.",
-    "obstaculo": "Requiere protocolo científico validado. Alianza con Instituto Humboldt o Corantioquia para el componente de biodiversidad.",
-    "fuente_url": "https://www.gbif.org/grscicoll",
-    "tags": [
-      "BIODIVERSIDAD URBANA",
-      "CIENCIA CIUDADANA",
-      "COLOMBIA MEGAIVERSA",
-      "GBIF"
-    ],
-    "tipo": "fondo"
   },
   {
     "id": "iwa_network",
@@ -223,27 +200,6 @@
     "tags": [
       "OBLIGATORIA",
       "GENERAL"
-    ],
-    "tipo": "fondo"
-  },
-  {
-    "id": "unesco_memoria_mundo",
-    "titulo": "UNESCO — Memory of the World Programme / Intangible Heritage",
-    "donante": "UNESCO",
-    "fuente": "UNESCO Culture Sector",
-    "sector": "Patrimonio Cultural",
-    "presupuesto_usd": 120000,
-    "fecha_cierre": "2026-07-15",
-    "estado": "ACTIVA",
-    "pais_elegible": "Colombia ✓",
-    "afinidad_pivot": 84,
-    "pivot": "Las bibliotecas comunitarias EPM custodian memoria oral y documental de comunidades de Medellín. Pivot: proyecto de digitalización y preservación de patrimonio inmaterial comunitario.",
-    "obstaculo": "Requiere articulación con Ministerio de Cultura Colombia como aval gubernamental.",
-    "fuente_url": "https://www.unesco.org/en/memory-world",
-    "tags": [
-      "UNESCO PRIORITARIO",
-      "PATRIMONIO",
-      "ALTO PRESTIGIO"
     ],
     "tipo": "fondo"
   },
@@ -338,30 +294,6 @@
     "tipo": "fondo"
   },
   {
-    "id": "scraped-wepropel-sur-futuro-8f0d90e5de",
-    "titulo": "Sur Futuro",
-    "donante": "Sur Futuro",
-    "fuente": "Oportunidades Propel",
-    "sector": "Educación / Juventud",
-    "dimension": "social",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-07-15",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 81,
-    "pivot": "Grant para financiar iniciativas que fortalezcan capacidades en América Latina y el Caribe frente a las transformaciones del futuro del trabajo (incluida la expansión de la inteligencia artificial, la transición a economías más verdes y cambios sociodemográficos). La convocatoria apoya tres líneas: • Cooperación técnica para el diseño, adaptación o implementación de políticas públicas. • Programas de formación en inteligencia artificial generativa para personas trabajadoras en situación de desventaja. • Acciones de divulgación y uso de evidencia mediante contenidos, campañas o herramientas orientados a fortalecer capacidades de personas trabajadoras, jóvenes y organizaciones de la sociedad c",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.sur-futuro.org/call-proposals-2026",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-15T14:57:50.494Z"
-  },
-  {
     "id": "scraped-wepropel-nexa-a71a7e2a92",
     "titulo": "Nexa",
     "donante": "Grand Challenges Canada",
@@ -383,7 +315,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-15T14:57:50.501Z"
+    "capturado_en": "2026-07-16T15:07:57.266Z"
   },
   {
     "id": "korea_ict_latam",
@@ -449,31 +381,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-15T14:57:50.499Z"
-  },
-  {
-    "id": "scraped-wepropel-tech-for-good-impact-awards-2026-592787b348",
-    "titulo": "Tech for Good Impact Awards 2026",
-    "donante": "Zendesk Tech for Good",
-    "fuente": "Oportunidades Propel",
-    "sector": "Tecnología / Innovación",
-    "dimension": "social",
-    "presupuesto_usd": 50000,
-    "fecha_cierre": "2026-07-15",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 74,
-    "pivot": "Programa que combina grants en efectivo y acceso gratuito a la plataforma tecnológica de Zendesk para fortalecer la capacidad operativa y el impacto de organizaciones sin fines de lucro a nivel global. Los fondos y el software están diseñados para permitir que las organizaciones escalen sus operaciones, mejoren su capacidad de respuesta y sirvan más efectivamente a poblaciones vulnerables o desfavorecidas en tres áreas de impacto: fomentar conexiones comunitarias, promover resiliencia en tiempos de crisis, y crear rutas de empleo en tecnología.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://techforgood.zendesk.com/hc/en-us/articles/24123851274765-Now-Accepting-Applications-for-2026-Tech-for-Good-Impact-Awards",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-15T14:57:50.493Z"
+    "capturado_en": "2026-07-16T15:07:57.263Z"
   },
   {
     "id": "scraped-wepropel-despegamos-con-impacto-42de4c6326",
@@ -497,7 +405,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-15T14:57:50.497Z"
+    "capturado_en": "2026-07-16T15:07:57.260Z"
   },
   {
     "id": "scraped-wepropel-the-gadfly-project-1838c6a5c5",
@@ -521,7 +429,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-15T14:57:50.502Z"
+    "capturado_en": "2026-07-16T15:07:57.266Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -545,7 +453,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-15T14:57:50.503Z"
+    "capturado_en": "2026-07-16T15:07:57.267Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -569,7 +477,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-15T14:57:50.504Z"
+    "capturado_en": "2026-07-16T15:07:57.268Z"
   },
   {
     "id": "scraped-wepropel-unesco-intercultural-leadership-programme-9c98710491",
@@ -593,7 +501,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-15T14:57:50.498Z"
+    "capturado_en": "2026-07-16T15:07:57.261Z"
   },
   {
     "id": "scraped-wepropel-spirit-of-togetherness-award-2026-a971a608e6",
@@ -617,7 +525,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-15T14:57:50.500Z"
+    "capturado_en": "2026-07-16T15:07:57.265Z"
   },
   {
     "id": "scraped-premios-portafolio-premios-portafolio-2026-6c0d0fa3ff",
@@ -641,7 +549,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-07-15T14:57:44.677Z"
+    "capturado_en": "2026-07-16T15:07:49.954Z"
   },
   {
     "id": "scraped-wepropel-enlight-fellowship-c9b36991e2",
@@ -665,6 +573,6 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-15T14:57:50.496Z"
+    "capturado_en": "2026-07-16T15:07:57.259Z"
   }
 ]
