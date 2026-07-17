@@ -135,7 +135,31 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-16T15:07:57.262Z"
+    "capturado_en": "2026-07-17T14:48:09.099Z"
+  },
+  {
+    "id": "scraped-wepropel-premio-natura500-efc964c71c",
+    "titulo": "Premio Natura500",
+    "donante": "Natura500",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 100000,
+    "fecha_cierre": "2026-07-25",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 88,
+    "pivot": "Premio que ofrece financiamiento catalítico y reconocimiento para acelerar innovación regenerativa en América Latina y el Caribe, con foco en economías verde y azul. Está orientado a soluciones basadas en biodiversidad, ecosistemas y cadenas de valor con impacto territorial. Además del premio, conecta las iniciativas con la Red Natura500 para acceso a infraestructura digital, inteligencia de mercado, herramientas de inteligencia artificial y vínculos con capital y aliados. Las soluciones destacadas pueden ganar visibilidad ante actores del ecosistema regional y global, incluyendo su presentación en un foro del Grupo Banco Interamericano de Desarrollo (Grupo BID).",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://500.naturatech.org/premio",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "roja",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-07-17T14:48:09.103Z"
   },
   {
     "id": "cop31_climate_finance",
@@ -315,7 +339,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-16T15:07:57.266Z"
+    "capturado_en": "2026-07-17T14:48:09.101Z"
   },
   {
     "id": "korea_ict_latam",
@@ -381,7 +405,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-16T15:07:57.263Z"
+    "capturado_en": "2026-07-17T14:48:09.100Z"
   },
   {
     "id": "scraped-wepropel-despegamos-con-impacto-42de4c6326",
@@ -405,7 +429,31 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-16T15:07:57.260Z"
+    "capturado_en": "2026-07-17T14:48:09.093Z"
+  },
+  {
+    "id": "scraped-wepropel-the-2026-ford-philanthropy-fellowship-35a7867088",
+    "titulo": "The 2026 Ford Philanthropy Fellowship",
+    "donante": "Ford Philanthropy",
+    "fuente": "Oportunidades Propel",
+    "sector": "Educación / Juventud",
+    "dimension": "social",
+    "presupuesto_usd": 1000,
+    "fecha_cierre": "2026-07-26",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Fellowship con financiamiento completo para emprendedores y líderes en México y Brasil con soluciones en desarrollo comunitario, educación y respuesta ante desastres. Incluye formación en emprendimiento, mentoría, acceso a herramientas financieras, una amplia red de recursos y apoyo continuo a sus egresados.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://watson.is/ford-philanthropy-fellowship/#elegibility",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-07-17T14:48:09.104Z"
   },
   {
     "id": "scraped-wepropel-the-gadfly-project-1838c6a5c5",
@@ -429,7 +477,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-16T15:07:57.266Z"
+    "capturado_en": "2026-07-17T14:48:09.102Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -453,7 +501,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-16T15:07:57.267Z"
+    "capturado_en": "2026-07-17T14:48:09.105Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -477,7 +525,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-16T15:07:57.268Z"
+    "capturado_en": "2026-07-17T14:48:09.106Z"
   },
   {
     "id": "scraped-wepropel-unesco-intercultural-leadership-programme-9c98710491",
@@ -501,7 +549,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-16T15:07:57.261Z"
+    "capturado_en": "2026-07-17T14:48:09.094Z"
   },
   {
     "id": "scraped-wepropel-spirit-of-togetherness-award-2026-a971a608e6",
@@ -525,7 +573,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-16T15:07:57.265Z"
+    "capturado_en": "2026-07-17T14:48:09.100Z"
   },
   {
     "id": "scraped-premios-portafolio-premios-portafolio-2026-6c0d0fa3ff",
@@ -549,7 +597,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-07-16T15:07:49.954Z"
+    "capturado_en": "2026-07-17T14:48:01.313Z"
   },
   {
     "id": "scraped-wepropel-enlight-fellowship-c9b36991e2",
@@ -573,6 +621,6 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-16T15:07:57.259Z"
+    "capturado_en": "2026-07-17T14:48:09.092Z"
   }
 ]
