@@ -135,7 +135,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-17T14:48:09.099Z"
+    "capturado_en": "2026-07-18T14:22:20.080Z"
   },
   {
     "id": "scraped-wepropel-premio-natura500-efc964c71c",
@@ -159,7 +159,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-17T14:48:09.103Z"
+    "capturado_en": "2026-07-18T14:22:20.085Z"
   },
   {
     "id": "cop31_climate_finance",
@@ -339,7 +339,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-17T14:48:09.101Z"
+    "capturado_en": "2026-07-18T14:22:20.083Z"
   },
   {
     "id": "korea_ict_latam",
@@ -405,31 +405,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-17T14:48:09.100Z"
-  },
-  {
-    "id": "scraped-wepropel-despegamos-con-impacto-42de4c6326",
-    "titulo": "Despegamos con Impacto",
-    "donante": "Fundación Oli",
-    "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-07-17",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 74,
-    "pivot": "Concurso nacional que combina capital semilla con un proceso de fortalecimiento institucional para organizaciones sin fines de lucro en el Perú. Ofrece capacitación, mentoría personalizada y conexiones estratégicas para mejorar la transparencia financiera, la evaluación de impacto y la sostenibilidad organizacional. Las organizaciones seleccionadas ganan visibilidad a través de los canales de comunicación de los aliados y acceden a una red de contactos.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://despegamos-con-impacto.olifoundation.org/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-17T14:48:09.093Z"
+    "capturado_en": "2026-07-18T14:22:20.081Z"
   },
   {
     "id": "scraped-wepropel-the-2026-ford-philanthropy-fellowship-35a7867088",
@@ -453,7 +429,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-17T14:48:09.104Z"
+    "capturado_en": "2026-07-18T14:22:20.086Z"
   },
   {
     "id": "scraped-wepropel-the-gadfly-project-1838c6a5c5",
@@ -477,7 +453,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-17T14:48:09.102Z"
+    "capturado_en": "2026-07-18T14:22:20.083Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -501,7 +477,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-17T14:48:09.105Z"
+    "capturado_en": "2026-07-18T14:22:20.088Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -525,7 +501,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-17T14:48:09.106Z"
+    "capturado_en": "2026-07-18T14:22:20.089Z"
   },
   {
     "id": "scraped-wepropel-unesco-intercultural-leadership-programme-9c98710491",
@@ -549,7 +525,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-17T14:48:09.094Z"
+    "capturado_en": "2026-07-18T14:22:20.080Z"
   },
   {
     "id": "scraped-wepropel-spirit-of-togetherness-award-2026-a971a608e6",
@@ -573,7 +549,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-17T14:48:09.100Z"
+    "capturado_en": "2026-07-18T14:22:20.082Z"
   },
   {
     "id": "scraped-premios-portafolio-premios-portafolio-2026-6c0d0fa3ff",
@@ -597,30 +573,6 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-07-17T14:48:01.313Z"
-  },
-  {
-    "id": "scraped-wepropel-enlight-fellowship-c9b36991e2",
-    "titulo": "Enlight Fellowship",
-    "donante": "Watson Institute",
-    "fuente": "Oportunidades Propel",
-    "sector": "Educación / Juventud",
-    "dimension": "social",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-07-17",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 58,
-    "pivot": "Fellowship de desarrollo de liderazgo y emprendedurismo para líderes emergentes que crean soluciones para el bienestar mental de jóvenes. Ofrece capacitación guiada por expertos, mentoría, charlas y una comunidad internacional de pares, con encuentros periódicos. Incluye una experiencia presencial intensiva de una semana (en Denver o Shanghái) y talleres virtuales semanales durante 16 semanas, con preparación de pitch y presentación en una cumbre virtual.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://watson.is/enlight-fellowship/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-17T14:48:09.092Z"
+    "capturado_en": "2026-07-18T14:22:14.146Z"
   }
 ]
