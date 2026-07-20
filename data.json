@@ -135,7 +135,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-19T14:25:43.249Z"
+    "capturado_en": "2026-07-20T15:15:43.128Z"
   },
   {
     "id": "scraped-wepropel-premio-natura500-efc964c71c",
@@ -159,7 +159,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-19T14:25:43.255Z"
+    "capturado_en": "2026-07-20T15:15:43.136Z"
   },
   {
     "id": "cop31_climate_finance",
@@ -339,7 +339,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-19T14:25:43.252Z"
+    "capturado_en": "2026-07-20T15:15:43.135Z"
   },
   {
     "id": "korea_ict_latam",
@@ -405,7 +405,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-19T14:25:43.250Z"
+    "capturado_en": "2026-07-20T15:15:43.129Z"
   },
   {
     "id": "scraped-wepropel-the-2026-ford-philanthropy-fellowship-35a7867088",
@@ -429,7 +429,31 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-19T14:25:43.256Z"
+    "capturado_en": "2026-07-20T15:15:43.138Z"
+  },
+  {
+    "id": "scraped-wepropel-hotspot-de-biodiversidad-de-los-andes-tropica-88472e4684",
+    "titulo": "Hotspot de Biodiversidad de los Andes Tropicales en Ecuador",
+    "donante": "Fondo de Alianzas para los Ecosistemas Críticos (CEPF)",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 70000,
+    "fecha_cierre": "2026-07-27",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Grant para financiar la organización de un taller de evaluación final de la Fase III de inversión del Fondo de Alianzas para los Ecosistemas Críticos en el Hotspot de Biodiversidad de los Andes Tropicales en Ecuador. Apoya a una entidad que planifique y ejecute un evento de tres días en Quito (previsto para febrero de 2027) y que elabore un documento memoria con lecciones aprendidas, además de reportes financieros y de progreso. Está orientado a fortalecer la coordinación, el aprendizaje y la rendición de cuentas del portafolio de conservación de biodiversidad financiado en el país.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.cepf.net/grants/open-calls-for-proposals/2026-final-assessment-ecuador-tropical-andes?utm_source=substack&utm_medium=email",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-07-20T15:15:43.139Z"
   },
   {
     "id": "scraped-wepropel-the-gadfly-project-1838c6a5c5",
@@ -453,7 +477,31 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-19T14:25:43.254Z"
+    "capturado_en": "2026-07-20T15:15:43.135Z"
+  },
+  {
+    "id": "scraped-wepropel-the-lego-foundation-fellowship-6a61cb750e",
+    "titulo": "The LEGO Foundation Fellowship",
+    "donante": "The LEGO Foundation",
+    "fuente": "Oportunidades Propel",
+    "sector": "Educación / Juventud",
+    "dimension": "social",
+    "presupuesto_usd": 300000,
+    "fecha_cierre": "2026-07-31",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 67,
+    "pivot": "Fellowship global para investigadores en etapa temprana o intermedia de carrera que buscan fortalecer la evidencia sobre cómo prosperan los niños y niñas en contextos diversos. El programa financia agendas de investigación ambiciosas, rigurosas y con impacto práctico en tres áreas: niñez en crisis y conflicto, inclusión de niños neurodivergentes, y desarrollo infantil en la era de la IA. El financiamiento es flexible en su uso: el fellow puede distribuirlo libremente entre salarios, trabajo de campo, viajes y equipamiento según las necesidades de su investigación. Los fellows forman parte de una cohorte con espacios de intercambio y retroalimentación, con el objetivo de producir evidencia qu",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.ssrc.org/programs/the-lego-foundation-fellowship/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "roja",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-07-20T15:15:43.141Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -477,7 +525,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-19T14:25:43.257Z"
+    "capturado_en": "2026-07-20T15:15:43.142Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -501,31 +549,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-19T14:25:43.258Z"
-  },
-  {
-    "id": "scraped-wepropel-unesco-intercultural-leadership-programme-9c98710491",
-    "titulo": "UNESCO Intercultural Leadership Programme",
-    "donante": "Unesco",
-    "fuente": "Oportunidades Propel",
-    "sector": "Educación / Juventud",
-    "dimension": "social",
-    "presupuesto_usd": 10000,
-    "fecha_cierre": "2026-07-19",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 65,
-    "pivot": "Fellowship para líderes emergentes que impulsan la cohesión social, la inclusión y la paz mediante el diálogo intercultural. La cohorte seleccionada se desarrolla en liderazgo con talleres, mentoría y una comunidad global para fortalecer capacidades y colaboración. En la fase práctica, las y los participantes diseñan e implementan una iniciativa local o nacional alineada con el tema 2026 sobre conexión humana y diálogo en la era de la inteligencia artificial.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.unesco.org/en/call-applications-2026?hub=181405",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-19T14:25:43.245Z"
+    "capturado_en": "2026-07-20T15:15:43.143Z"
   },
   {
     "id": "scraped-wepropel-spirit-of-togetherness-award-2026-a971a608e6",
@@ -549,7 +573,31 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-19T14:25:43.251Z"
+    "capturado_en": "2026-07-20T15:15:43.130Z"
+  },
+  {
+    "id": "scraped-wepropel-yale-emerging-climate-leaders-fellowship-60a4716ae1",
+    "titulo": "Yale Emerging Climate Leaders Fellowship",
+    "donante": "Yale University",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-07-30",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 65,
+    "pivot": "Fellowship para líderes emergentes del Sur Global que trabajan en energía limpia y cambio climático. Ofrece una experiencia formativa que combina componentes presenciales y aprendizajes remotos, además de un proyecto colaborativo de grupo. Está orientado a profesionales en ascenso que buscan fortalecer su liderazgo e incrementar su impacto regional, nacional o internacional en temas climáticos.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://jackson.yale.edu/international-leadership-center/climate/how-to-apply/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-07-20T15:15:43.140Z"
   },
   {
     "id": "scraped-premios-portafolio-premios-portafolio-2026-6c0d0fa3ff",
@@ -573,6 +621,6 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-07-19T14:25:35.991Z"
+    "capturado_en": "2026-07-20T15:15:37.433Z"
   }
 ]
