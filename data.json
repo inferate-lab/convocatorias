@@ -114,30 +114,6 @@
     "tipo": "fondo"
   },
   {
-    "id": "scraped-wepropel-darwin-initiative-main-277e2327e4",
-    "titulo": "Darwin Initiative Main",
-    "donante": "Darwin Initiative",
-    "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-07-20",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 88,
-    "pivot": "Grant competitivo para organizaciones que trabajan en conservación de biodiversidad y reducción de pobreza multidimensional en países en vía de desarrollo. Está dirigido a proyectos que puedan demostrar resultados concretos, sostenibilidad más allá del financiamiento y potencial de escala. El proceso tiene dos etapas: la primera es una nota conceptual corta con cierre el 20 de julio de 2026, y quienes sean invitados desarrollan una propuesta completa en la segunda etapa.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.darwininitiative.org.uk/how-to-apply/extra-applications/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "roja",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-20T15:15:43.128Z"
-  },
-  {
     "id": "scraped-wepropel-premio-natura500-efc964c71c",
     "titulo": "Premio Natura500",
     "donante": "Natura500",
@@ -159,7 +135,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-20T15:15:43.136Z"
+    "capturado_en": "2026-07-21T15:08:20.123Z"
   },
   {
     "id": "cop31_climate_finance",
@@ -339,7 +315,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-20T15:15:43.135Z"
+    "capturado_en": "2026-07-21T15:08:20.121Z"
   },
   {
     "id": "korea_ict_latam",
@@ -384,30 +360,6 @@
     "tipo": "fondo"
   },
   {
-    "id": "scraped-wepropel-earthna-prize-2026-510dd8a506",
-    "titulo": "Earthna Prize 2026",
-    "donante": "Earthna",
-    "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 1000000,
-    "fecha_cierre": "2026-07-20",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 74,
-    "pivot": "Premio internacional para proyectos y organizaciones que aplican conocimientos tradicionales y patrimonio cultural a desafíos de sostenibilidad. Apoya iniciativas en cinco áreas: sistemas de agua, sistemas alimentarios, ecosistemas terrestres, ecosistemas marinos y costeros, y entornos construidos. Está orientado a elevar enfoques comunitarios y prácticas ancestrales que contribuyan a la conservación y al uso sostenible de los recursos.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.earthna.qa/earthna-prize-2026",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "roja",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-20T15:15:43.129Z"
-  },
-  {
     "id": "scraped-wepropel-the-2026-ford-philanthropy-fellowship-35a7867088",
     "titulo": "The 2026 Ford Philanthropy Fellowship",
     "donante": "Ford Philanthropy",
@@ -429,7 +381,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-20T15:15:43.138Z"
+    "capturado_en": "2026-07-21T15:08:20.124Z"
   },
   {
     "id": "scraped-wepropel-hotspot-de-biodiversidad-de-los-andes-tropica-88472e4684",
@@ -453,7 +405,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-20T15:15:43.139Z"
+    "capturado_en": "2026-07-21T15:08:20.125Z"
   },
   {
     "id": "scraped-wepropel-the-gadfly-project-1838c6a5c5",
@@ -477,7 +429,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-20T15:15:43.135Z"
+    "capturado_en": "2026-07-21T15:08:20.122Z"
   },
   {
     "id": "scraped-wepropel-the-lego-foundation-fellowship-6a61cb750e",
@@ -501,7 +453,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-20T15:15:43.141Z"
+    "capturado_en": "2026-07-21T15:08:20.127Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -525,7 +477,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-20T15:15:43.142Z"
+    "capturado_en": "2026-07-21T15:08:20.128Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -549,31 +501,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-20T15:15:43.143Z"
-  },
-  {
-    "id": "scraped-wepropel-spirit-of-togetherness-award-2026-a971a608e6",
-    "titulo": "Spirit of Togetherness Award 2026",
-    "donante": "Pernod Ricard I One Young World",
-    "fuente": "Oportunidades Propel",
-    "sector": "Educación / Juventud",
-    "dimension": "social",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-07-20",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 65,
-    "pivot": "Premio para jóvenes líderes que impulsan iniciativas orientadas a fortalecer la conexión humana, el sentido de pertenencia y la cohesión social en sus comunidades, incluyendo espacios presenciales y plataformas digitales. Reconoce proyectos que promueven entornos sociales inclusivos y que tienden puentes entre grupos diversos, con énfasis en experiencias culturales compartidas y momentos de convivencia. Además del apoyo financiero, ofrece visibilidad internacional y oportunidades de colaboración a través de redes globales. También incluye participación en el One Young World Summit 2026 como plataforma para ampliar alianzas y aprendizaje.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.oneyoungworld.com/scholarship/spirit-togetherness-award-2026-presented-pernod-ricard",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-20T15:15:43.130Z"
+    "capturado_en": "2026-07-21T15:08:20.129Z"
   },
   {
     "id": "scraped-wepropel-yale-emerging-climate-leaders-fellowship-60a4716ae1",
@@ -597,7 +525,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-20T15:15:43.140Z"
+    "capturado_en": "2026-07-21T15:08:20.126Z"
   },
   {
     "id": "scraped-premios-portafolio-premios-portafolio-2026-6c0d0fa3ff",
@@ -621,6 +549,6 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-07-20T15:15:37.433Z"
+    "capturado_en": "2026-07-21T15:08:13.932Z"
   }
 ]
