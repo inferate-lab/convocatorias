@@ -135,7 +135,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-22T15:08:47.215Z"
+    "capturado_en": "2026-07-23T15:15:11.536Z"
   },
   {
     "id": "cop31_climate_finance",
@@ -294,30 +294,6 @@
     "tipo": "fondo"
   },
   {
-    "id": "scraped-wepropel-nexa-a71a7e2a92",
-    "titulo": "Nexa",
-    "donante": "Grand Challenges Canada",
-    "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 2000000,
-    "fecha_cierre": "2026-07-22",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 81,
-    "pivot": "Financiamiento para innovaciones en la intersección de clima y salud que ayuden a actores locales de salud a anticipar y responder a amenazas sanitarias impulsadas por el cambio climático. Apoya soluciones orientadas a convertir señales de riesgo (por ejemplo, calor extremo, mala calidad del aire y cambios en la ecología de mosquitos) en acciones oportunas de prestación de servicios de salud. Tiene dos categorías, pero en Latinoamérica financia solo iniciativas listas para escalar.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.grandchallenges.ca/funding-opportunity-nexa/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "roja",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-22T15:08:47.214Z"
-  },
-  {
     "id": "scraped-red-exposocial-apoyos-de-respuesta-rapida-convocatoria-para--97707cba23",
     "titulo": "Apoyos de Respuesta Rápida: convocatoria para OSC",
     "donante": "Red ExpoSocial",
@@ -339,7 +315,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-22T15:08:51.210Z"
+    "capturado_en": "2026-07-23T15:15:15.645Z"
   },
   {
     "id": "korea_ict_latam",
@@ -405,7 +381,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-22T15:08:47.216Z"
+    "capturado_en": "2026-07-23T15:15:11.537Z"
   },
   {
     "id": "scraped-wepropel-hotspot-de-biodiversidad-de-los-andes-tropica-88472e4684",
@@ -429,7 +405,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-22T15:08:47.216Z"
+    "capturado_en": "2026-07-23T15:15:11.538Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
@@ -453,7 +429,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-22T15:08:51.209Z"
+    "capturado_en": "2026-07-23T15:15:15.643Z"
   },
   {
     "id": "scraped-wepropel-the-gadfly-project-1838c6a5c5",
@@ -477,7 +453,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-22T15:08:47.215Z"
+    "capturado_en": "2026-07-23T15:15:11.536Z"
   },
   {
     "id": "scraped-wepropel-the-lego-foundation-fellowship-6a61cb750e",
@@ -501,7 +477,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-22T15:08:47.218Z"
+    "capturado_en": "2026-07-23T15:15:11.541Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -525,7 +501,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-22T15:08:47.219Z"
+    "capturado_en": "2026-07-23T15:15:11.542Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -549,7 +525,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-22T15:08:47.219Z"
+    "capturado_en": "2026-07-23T15:15:11.543Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
@@ -573,7 +549,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-22T15:08:51.210Z"
+    "capturado_en": "2026-07-23T15:15:15.644Z"
   },
   {
     "id": "scraped-red-exposocial-fondo-de-coyuntura-politica-convocatoria-para-593b5a2ab5",
@@ -597,7 +573,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-22T15:08:51.210Z"
+    "capturado_en": "2026-07-23T15:15:15.645Z"
   },
   {
     "id": "scraped-red-exposocial-holohil-programa-de-subvenciones-convocatoria-c4f0d54530",
@@ -621,7 +597,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-22T15:08:51.211Z"
+    "capturado_en": "2026-07-23T15:15:15.646Z"
   },
   {
     "id": "scraped-red-exposocial-convocatoria-2027-de-fundacion-alsea-convocat-9561833e7d",
@@ -645,7 +621,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-22T15:08:51.211Z"
+    "capturado_en": "2026-07-23T15:15:15.646Z"
   },
   {
     "id": "scraped-red-exposocial-life-programme-2026-convocatoria-para-osc-0c07737cd0",
@@ -669,7 +645,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-22T15:08:51.212Z"
+    "capturado_en": "2026-07-23T15:15:15.646Z"
   },
   {
     "id": "scraped-red-exposocial-mecanismo-de-apoyo-a-terceros-2026-ninez-prim-75dcc7563a",
@@ -693,7 +669,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-22T15:08:51.212Z"
+    "capturado_en": "2026-07-23T15:15:15.647Z"
   },
   {
     "id": "scraped-red-exposocial-semillero-de-emprendimiento-e-innovacion-para-1e31d17975",
@@ -717,7 +693,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-22T15:08:51.213Z"
+    "capturado_en": "2026-07-23T15:15:15.648Z"
   },
   {
     "id": "scraped-red-exposocial-premio-familia-lipman-convocatoria-para-osc-acd0d4e7a3",
@@ -741,7 +717,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-22T15:08:51.214Z"
+    "capturado_en": "2026-07-23T15:15:15.649Z"
   },
   {
     "id": "scraped-wepropel-yale-emerging-climate-leaders-fellowship-60a4716ae1",
@@ -765,7 +741,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-22T15:08:47.217Z"
+    "capturado_en": "2026-07-23T15:15:11.540Z"
   },
   {
     "id": "scraped-premios-portafolio-premios-portafolio-2026-6c0d0fa3ff",
@@ -789,6 +765,6 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-07-22T15:08:39.729Z"
+    "capturado_en": "2026-07-23T15:15:03.857Z"
   }
 ]
