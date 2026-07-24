@@ -135,7 +135,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-23T15:15:11.536Z"
+    "capturado_en": "2026-07-24T15:00:46.538Z"
   },
   {
     "id": "cop31_climate_finance",
@@ -315,7 +315,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-23T15:15:15.645Z"
+    "capturado_en": "2026-07-24T15:00:51.784Z"
   },
   {
     "id": "korea_ict_latam",
@@ -381,7 +381,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-23T15:15:11.537Z"
+    "capturado_en": "2026-07-24T15:00:46.538Z"
   },
   {
     "id": "scraped-wepropel-hotspot-de-biodiversidad-de-los-andes-tropica-88472e4684",
@@ -405,7 +405,79 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-23T15:15:11.538Z"
+    "capturado_en": "2026-07-24T15:00:46.539Z"
+  },
+  {
+    "id": "scraped-wepropel-2027-glfx-chapters-program-91f53275fa",
+    "titulo": "2027 GLFx Chapters Program",
+    "donante": "The Global Landscapes Forum (GLF)",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-07-31",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Llamado a formar parte de la red GLFx, ya sea estableciendo un capítulo local (representando a la red en su territorio) o uniéndose a uno existente. A través de la red, los miembros acceden a alianzas y oportunidades de networking, aprendizaje y visibilidad en medios y eventos globales, además de financiamiento inicial para la gestión sostenible e inclusiva del paisaje, entendido como el territorio donde se equilibran de forma integrada la producción, los medios de vida de las comunidades y la conservación de los ecosistemas.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://events.globallandscapesforum.org/2027-glfx-call-for-application/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-07-24T15:00:46.542Z"
+  },
+  {
+    "id": "scraped-wepropel-community-wellbeing-grant-5cbe1d4a43",
+    "titulo": "Community Wellbeing Grant",
+    "donante": "lululemon Gives",
+    "fuente": "Oportunidades Propel",
+    "sector": "Educación / Juventud",
+    "dimension": "social",
+    "presupuesto_usd": 50000,
+    "fecha_cierre": "2026-07-31",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Grant para organizaciones benéficas lideradas por la comunidad que impulsen el bienestar a través de programas de movimiento. Busca financiar soluciones locales que eliminen barreras de acceso al bienestar y respondan a retos como la inactividad física, la soledad y la crisis de salud mental. Dan prioridad a programas para comunidades que enfrentan barreras. Adicionalmente, el programa ofrece apoyos opcionales durante el ciclo del grant para el bienestar individual y organizacional de las organizaciones receptoras.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://grants.lululemon.com/s/?language=en_US",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-07-24T15:00:46.542Z"
+  },
+  {
+    "id": "scraped-wepropel-lipman-family-prize-43e1767b3e",
+    "titulo": "Lipman Family Prize",
+    "donante": "University of Pennsylvania",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 300000,
+    "fecha_cierre": "2026-07-31",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Premio que reconoce a organizaciones del sector social por su liderazgo, innovación y modelos de alto impacto con potencial para replicarse en otros contextos a nivel global. Ofrece apoyo para fortalecer el crecimiento y la sostenibilidad. Integra a las organizaciones ganadoras a la comunidad de la University of Pennsylvania (Penn) y de The Wharton School para facilitar conexiones, recursos y aprendizaje entre pares. Incluye oportunidades de formación ejecutiva y una beca de liderazgo nonprofit como parte del paquete de beneficios no monetarios.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://lipmanfamilyprize.wharton.upenn.edu/about-the-prize/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "roja",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-07-24T15:00:46.545Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
@@ -429,7 +501,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-23T15:15:15.643Z"
+    "capturado_en": "2026-07-24T15:00:51.784Z"
   },
   {
     "id": "scraped-wepropel-the-gadfly-project-1838c6a5c5",
@@ -453,7 +525,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-23T15:15:11.536Z"
+    "capturado_en": "2026-07-24T15:00:46.537Z"
   },
   {
     "id": "scraped-wepropel-the-lego-foundation-fellowship-6a61cb750e",
@@ -477,7 +549,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-23T15:15:11.541Z"
+    "capturado_en": "2026-07-24T15:00:46.541Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -501,7 +573,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-23T15:15:11.542Z"
+    "capturado_en": "2026-07-24T15:00:46.546Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -525,7 +597,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-23T15:15:11.543Z"
+    "capturado_en": "2026-07-24T15:00:46.546Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
@@ -549,7 +621,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-23T15:15:15.644Z"
+    "capturado_en": "2026-07-24T15:00:51.784Z"
   },
   {
     "id": "scraped-red-exposocial-fondo-de-coyuntura-politica-convocatoria-para-593b5a2ab5",
@@ -573,7 +645,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-23T15:15:15.645Z"
+    "capturado_en": "2026-07-24T15:00:51.785Z"
   },
   {
     "id": "scraped-red-exposocial-holohil-programa-de-subvenciones-convocatoria-c4f0d54530",
@@ -597,7 +669,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-23T15:15:15.646Z"
+    "capturado_en": "2026-07-24T15:00:51.785Z"
   },
   {
     "id": "scraped-red-exposocial-convocatoria-2027-de-fundacion-alsea-convocat-9561833e7d",
@@ -621,7 +693,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-23T15:15:15.646Z"
+    "capturado_en": "2026-07-24T15:00:51.785Z"
   },
   {
     "id": "scraped-red-exposocial-life-programme-2026-convocatoria-para-osc-0c07737cd0",
@@ -645,7 +717,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-23T15:15:15.646Z"
+    "capturado_en": "2026-07-24T15:00:51.785Z"
   },
   {
     "id": "scraped-red-exposocial-mecanismo-de-apoyo-a-terceros-2026-ninez-prim-75dcc7563a",
@@ -669,7 +741,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-23T15:15:15.647Z"
+    "capturado_en": "2026-07-24T15:00:51.785Z"
   },
   {
     "id": "scraped-red-exposocial-semillero-de-emprendimiento-e-innovacion-para-1e31d17975",
@@ -693,7 +765,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-23T15:15:15.648Z"
+    "capturado_en": "2026-07-24T15:00:51.786Z"
   },
   {
     "id": "scraped-red-exposocial-premio-familia-lipman-convocatoria-para-osc-acd0d4e7a3",
@@ -717,7 +789,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-23T15:15:15.649Z"
+    "capturado_en": "2026-07-24T15:00:51.786Z"
   },
   {
     "id": "scraped-wepropel-yale-emerging-climate-leaders-fellowship-60a4716ae1",
@@ -741,7 +813,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-23T15:15:11.540Z"
+    "capturado_en": "2026-07-24T15:00:46.540Z"
   },
   {
     "id": "scraped-premios-portafolio-premios-portafolio-2026-6c0d0fa3ff",
@@ -765,6 +837,30 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-07-23T15:15:03.857Z"
+    "capturado_en": "2026-07-24T15:00:36.487Z"
+  },
+  {
+    "id": "scraped-wepropel-unhcr-innovation-accelerator-4eafbeff64",
+    "titulo": "UNHCR Innovation Accelerator",
+    "donante": "UNHCR Innovation",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 250000,
+    "fecha_cierre": "2026-07-31",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 58,
+    "pivot": "Aceleradora para soluciones que mejoren protección, inclusión y asistencia para personas desplazadas forzosamente y apátridas, con un enfoque participativo y basado en principios humanitarios y de derechos humanos. Apoya para pasar de una prueba de concepto exitosa a un escalamiento sostenible con impacto operativo de largo plazo. Fortalece estrategia, gobernanza, preparación operativa, aprendizaje y evidencia. También facilita la articulación de alianzas y la navegación del ecosistema para integrar la innovación y movilizar recursos adicionales.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.unhcr.org/innovation/?page_id=45253",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "roja",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-07-24T15:00:46.543Z"
   }
 ]
