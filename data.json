@@ -270,6 +270,30 @@
     "tipo": "fondo"
   },
   {
+    "id": "scraped-wepropel-sur-futuro-8f0d90e5de",
+    "titulo": "Sur Futuro",
+    "donante": "Sur Futuro",
+    "fuente": "Oportunidades Propel",
+    "sector": "Educación / Juventud",
+    "dimension": "social",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-07-31",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 81,
+    "pivot": "Grant para financiar iniciativas que fortalezcan capacidades en América Latina y el Caribe frente a las transformaciones del futuro del trabajo (incluida la expansión de la inteligencia artificial, la transición a economías más verdes y cambios sociodemográficos). La convocatoria apoya tres líneas: • Cooperación técnica para el diseño, adaptación o implementación de políticas públicas. • Programas de formación en inteligencia artificial generativa para personas trabajadoras en situación de desventaja. • Acciones de divulgación y uso de evidencia mediante contenidos, campañas o herramientas orientados a fortalecer capacidades de personas trabajadoras, jóvenes y organizaciones de la sociedad c",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.sur-futuro.org/call-proposals-2026",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-07-27T15:47:27.521Z"
+  },
+  {
     "id": "scraped-red-exposocial-apoyos-de-respuesta-rapida-convocatoria-para--97707cba23",
     "titulo": "Apoyos de Respuesta Rápida: convocatoria para OSC",
     "donante": "Red ExpoSocial",
@@ -291,7 +315,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-26T14:40:58.019Z"
+    "capturado_en": "2026-07-27T15:47:31.232Z"
   },
   {
     "id": "korea_ict_latam",
@@ -336,30 +360,6 @@
     "tipo": "fondo"
   },
   {
-    "id": "scraped-wepropel-the-2026-ford-philanthropy-fellowship-35a7867088",
-    "titulo": "The 2026 Ford Philanthropy Fellowship",
-    "donante": "Ford Philanthropy",
-    "fuente": "Oportunidades Propel",
-    "sector": "Educación / Juventud",
-    "dimension": "social",
-    "presupuesto_usd": 1000,
-    "fecha_cierre": "2026-07-26",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 74,
-    "pivot": "Fellowship con financiamiento completo para emprendedores y líderes en México y Brasil con soluciones en desarrollo comunitario, educación y respuesta ante desastres. Incluye formación en emprendimiento, mentoría, acceso a herramientas financieras, una amplia red de recursos y apoyo continuo a sus egresados.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://watson.is/ford-philanthropy-fellowship/#elegibility",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-26T14:40:54.332Z"
-  },
-  {
     "id": "scraped-wepropel-hotspot-de-biodiversidad-de-los-andes-tropica-88472e4684",
     "titulo": "Hotspot de Biodiversidad de los Andes Tropicales en Ecuador",
     "donante": "Fondo de Alianzas para los Ecosistemas Críticos (CEPF)",
@@ -381,7 +381,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-26T14:40:54.333Z"
+    "capturado_en": "2026-07-27T15:47:27.512Z"
   },
   {
     "id": "scraped-wepropel-2027-glfx-chapters-program-91f53275fa",
@@ -405,7 +405,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-26T14:40:54.336Z"
+    "capturado_en": "2026-07-27T15:47:27.516Z"
   },
   {
     "id": "scraped-wepropel-community-wellbeing-grant-5cbe1d4a43",
@@ -429,7 +429,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-26T14:40:54.337Z"
+    "capturado_en": "2026-07-27T15:47:27.517Z"
   },
   {
     "id": "scraped-wepropel-lipman-family-prize-43e1767b3e",
@@ -453,7 +453,55 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-26T14:40:54.338Z"
+    "capturado_en": "2026-07-27T15:47:27.519Z"
+  },
+  {
+    "id": "scraped-wepropel-pet-heroes-2026-award-1588f6e991",
+    "titulo": "PET Heroes 2026 Award",
+    "donante": "AdaPETation",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-07-31",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Premio en efectivo para organizaciones con iniciativas de circularidad del plástico orientadas a una transición justa, demostrando beneficios sociales. La convocatoria busca visibilizar figuras subrepresentadas y mostrar cómo estos esfuerzos impulsan cambios ambientales y sociales. El proceso incluye una preselección de finalistas y una fase final basada en campaña y votación pública en LinkedIn, lo que puede amplificar la visibilidad del proyecto.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.adapetation.net/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-07-27T15:47:27.520Z"
+  },
+  {
+    "id": "scraped-wepropel-schmidt-marine-grant-44d0a06336",
+    "titulo": "Schmidt Marine Grant",
+    "donante": "Schmidt Marine Technology Partners",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 400000,
+    "fecha_cierre": "2026-07-31",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Grant para el desarrollo de tecnologías novedosas orientadas a resolver problemas oceánicos. Dirigido a equipos que busquen comercialización o escalamiento significativo de su tecnología. El apoyo se adapta a las necesidades de cada grupo y prioriza el acompañamiento a largo plazo para iniciativas con mayor potencial. Las áreas foco incluyen pesca sostenible, salud de hábitats marinos, observación oceánica y herramientas/servicios que fortalezcan el ecosistema de tecnología marina.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://schmidtmarine.org/proposals/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "roja",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-07-27T15:47:27.523Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
@@ -477,7 +525,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-26T14:40:58.018Z"
+    "capturado_en": "2026-07-27T15:47:31.231Z"
   },
   {
     "id": "scraped-wepropel-the-lego-foundation-fellowship-6a61cb750e",
@@ -501,7 +549,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-26T14:40:54.335Z"
+    "capturado_en": "2026-07-27T15:47:27.515Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -525,7 +573,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-26T14:40:54.341Z"
+    "capturado_en": "2026-07-27T15:47:27.524Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -549,7 +597,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-26T14:40:54.342Z"
+    "capturado_en": "2026-07-27T15:47:27.525Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
@@ -573,7 +621,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-26T14:40:58.019Z"
+    "capturado_en": "2026-07-27T15:47:31.232Z"
   },
   {
     "id": "scraped-red-exposocial-fondo-de-coyuntura-politica-convocatoria-para-593b5a2ab5",
@@ -597,7 +645,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-26T14:40:58.020Z"
+    "capturado_en": "2026-07-27T15:47:31.233Z"
   },
   {
     "id": "scraped-red-exposocial-holohil-programa-de-subvenciones-convocatoria-c4f0d54530",
@@ -621,7 +669,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-26T14:40:58.021Z"
+    "capturado_en": "2026-07-27T15:47:31.233Z"
   },
   {
     "id": "scraped-red-exposocial-convocatoria-2027-de-fundacion-alsea-convocat-9561833e7d",
@@ -645,7 +693,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-26T14:40:58.021Z"
+    "capturado_en": "2026-07-27T15:47:31.233Z"
   },
   {
     "id": "scraped-red-exposocial-life-programme-2026-convocatoria-para-osc-0c07737cd0",
@@ -669,7 +717,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-26T14:40:58.021Z"
+    "capturado_en": "2026-07-27T15:47:31.234Z"
   },
   {
     "id": "scraped-red-exposocial-mecanismo-de-apoyo-a-terceros-2026-ninez-prim-75dcc7563a",
@@ -693,7 +741,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-26T14:40:58.021Z"
+    "capturado_en": "2026-07-27T15:47:31.234Z"
   },
   {
     "id": "scraped-red-exposocial-semillero-de-emprendimiento-e-innovacion-para-1e31d17975",
@@ -717,7 +765,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-26T14:40:58.022Z"
+    "capturado_en": "2026-07-27T15:47:31.234Z"
   },
   {
     "id": "scraped-red-exposocial-premio-familia-lipman-convocatoria-para-osc-acd0d4e7a3",
@@ -741,7 +789,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-26T14:40:58.022Z"
+    "capturado_en": "2026-07-27T15:47:31.234Z"
   },
   {
     "id": "scraped-wepropel-yale-emerging-climate-leaders-fellowship-60a4716ae1",
@@ -765,7 +813,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-26T14:40:54.334Z"
+    "capturado_en": "2026-07-27T15:47:27.514Z"
   },
   {
     "id": "scraped-premios-portafolio-premios-portafolio-2026-6c0d0fa3ff",
@@ -789,7 +837,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-07-26T14:40:47.231Z"
+    "capturado_en": "2026-07-27T15:47:17.511Z"
   },
   {
     "id": "scraped-wepropel-unhcr-innovation-accelerator-4eafbeff64",
@@ -813,6 +861,6 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-26T14:40:54.337Z"
+    "capturado_en": "2026-07-27T15:47:27.518Z"
   }
 ]

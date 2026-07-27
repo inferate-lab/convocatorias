@@ -1,9 +1,9 @@
 {
-  "last_run": "2026-07-26T14:41:00.673Z",
-  "active_opportunities": 35,
-  "scraped_opportunities": 21,
-  "sources_ok": 8,
-  "sources_failed": 0,
+  "last_run": "2026-07-27T15:47:33.986Z",
+  "active_opportunities": 37,
+  "scraped_opportunities": 23,
+  "sources_ok": 7,
+  "sources_failed": 1,
   "sources_skipped": 0,
   "sources": [
     {
@@ -37,15 +37,15 @@
     {
       "id": "ong-link",
       "name": "ONG Link",
-      "status": "success",
+      "status": "failed",
       "found": 0,
-      "message": "HTTP 200"
+      "message": "Request failed with status code 404"
     },
     {
       "id": "wepropel",
       "name": "Oportunidades Propel",
       "status": "success",
-      "found": 10,
+      "found": 12,
       "message": "HTTP 200"
     },
     {
