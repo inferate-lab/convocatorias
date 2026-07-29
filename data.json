@@ -291,7 +291,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-28T15:25:57.388Z"
+    "capturado_en": "2026-07-29T15:32:54.755Z"
   },
   {
     "id": "scraped-red-exposocial-apoyos-de-respuesta-rapida-convocatoria-para--97707cba23",
@@ -315,7 +315,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-28T15:26:01.028Z"
+    "capturado_en": "2026-07-29T15:32:58.670Z"
   },
   {
     "id": "korea_ict_latam",
@@ -360,6 +360,30 @@
     "tipo": "fondo"
   },
   {
+    "id": "scraped-wepropel-building-the-future-workforce-challenge-475e6133d0",
+    "titulo": "Building the Future Workforce Challenge",
+    "donante": "The Caterpillar Foundation",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 1000000,
+    "fecha_cierre": "2026-07-30",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Premio para equipos con soluciones audaces y tecnológicas que fortalezcan la formación y el desarrollo de talento para manufactura avanzada y roles de técnicos industriales, con capacidad de ser implementadas en México o Brasil. Busca propuestas que repiensen los modelos de capacitación para cerrar brechas de habilidades y adaptarse a cambios tecnológicos rápidos. Ofrece la posibilidad de pilotear la solución en entornos reales de Caterpillar, con foco en implementación y aprendizaje para replicación y escalamiento. Está orientado a iniciativas con impacto sostenible y potencial de transformación sectorial en sistemas de educación y empleo.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.buildingthefuture.carrot.net/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "roja",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-07-29T15:32:54.745Z"
+  },
+  {
     "id": "scraped-wepropel-2027-glfx-chapters-program-91f53275fa",
     "titulo": "2027 GLFx Chapters Program",
     "donante": "The Global Landscapes Forum (GLF)",
@@ -381,7 +405,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-28T15:25:57.384Z"
+    "capturado_en": "2026-07-29T15:32:54.751Z"
   },
   {
     "id": "scraped-wepropel-community-wellbeing-grant-5cbe1d4a43",
@@ -405,7 +429,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-28T15:25:57.385Z"
+    "capturado_en": "2026-07-29T15:32:54.752Z"
   },
   {
     "id": "scraped-wepropel-lipman-family-prize-43e1767b3e",
@@ -429,7 +453,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-28T15:25:57.386Z"
+    "capturado_en": "2026-07-29T15:32:54.753Z"
   },
   {
     "id": "scraped-wepropel-pet-heroes-2026-award-1588f6e991",
@@ -453,7 +477,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-28T15:25:57.387Z"
+    "capturado_en": "2026-07-29T15:32:54.754Z"
   },
   {
     "id": "scraped-wepropel-schmidt-marine-grant-44d0a06336",
@@ -477,7 +501,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-28T15:25:57.389Z"
+    "capturado_en": "2026-07-29T15:32:54.756Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
@@ -501,7 +525,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-28T15:26:01.027Z"
+    "capturado_en": "2026-07-29T15:32:58.669Z"
   },
   {
     "id": "scraped-wepropel-the-lego-foundation-fellowship-6a61cb750e",
@@ -525,7 +549,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-28T15:25:57.380Z"
+    "capturado_en": "2026-07-29T15:32:54.750Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -549,7 +573,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-28T15:25:57.390Z"
+    "capturado_en": "2026-07-29T15:32:54.757Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -573,7 +597,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-28T15:25:57.390Z"
+    "capturado_en": "2026-07-29T15:32:54.757Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
@@ -597,7 +621,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-28T15:26:01.027Z"
+    "capturado_en": "2026-07-29T15:32:58.669Z"
   },
   {
     "id": "scraped-red-exposocial-fondo-de-coyuntura-politica-convocatoria-para-593b5a2ab5",
@@ -621,7 +645,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-28T15:26:01.028Z"
+    "capturado_en": "2026-07-29T15:32:58.670Z"
   },
   {
     "id": "scraped-red-exposocial-holohil-programa-de-subvenciones-convocatoria-c4f0d54530",
@@ -645,7 +669,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-28T15:26:01.029Z"
+    "capturado_en": "2026-07-29T15:32:58.671Z"
   },
   {
     "id": "scraped-red-exposocial-convocatoria-2027-de-fundacion-alsea-convocat-9561833e7d",
@@ -669,7 +693,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-28T15:26:01.029Z"
+    "capturado_en": "2026-07-29T15:32:58.671Z"
   },
   {
     "id": "scraped-red-exposocial-life-programme-2026-convocatoria-para-osc-0c07737cd0",
@@ -693,7 +717,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-28T15:26:01.029Z"
+    "capturado_en": "2026-07-29T15:32:58.671Z"
   },
   {
     "id": "scraped-red-exposocial-mecanismo-de-apoyo-a-terceros-2026-ninez-prim-75dcc7563a",
@@ -717,7 +741,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-28T15:26:01.030Z"
+    "capturado_en": "2026-07-29T15:32:58.672Z"
   },
   {
     "id": "scraped-red-exposocial-semillero-de-emprendimiento-e-innovacion-para-1e31d17975",
@@ -741,7 +765,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-28T15:26:01.030Z"
+    "capturado_en": "2026-07-29T15:32:58.673Z"
   },
   {
     "id": "scraped-red-exposocial-premio-familia-lipman-convocatoria-para-osc-acd0d4e7a3",
@@ -765,7 +789,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-28T15:26:01.032Z"
+    "capturado_en": "2026-07-29T15:32:58.673Z"
   },
   {
     "id": "scraped-wepropel-yale-emerging-climate-leaders-fellowship-60a4716ae1",
@@ -789,7 +813,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-28T15:25:57.379Z"
+    "capturado_en": "2026-07-29T15:32:54.746Z"
   },
   {
     "id": "scraped-premios-portafolio-premios-portafolio-2026-6c0d0fa3ff",
@@ -813,7 +837,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-07-28T15:25:51.146Z"
+    "capturado_en": "2026-07-29T15:32:47.020Z"
   },
   {
     "id": "scraped-wepropel-unhcr-innovation-accelerator-4eafbeff64",
@@ -837,6 +861,6 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-28T15:25:57.386Z"
+    "capturado_en": "2026-07-29T15:32:54.753Z"
   }
 ]
