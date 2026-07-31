@@ -291,7 +291,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-30T15:16:19.114Z"
+    "capturado_en": "2026-07-31T15:24:15.967Z"
   },
   {
     "id": "scraped-red-exposocial-apoyos-de-respuesta-rapida-convocatoria-para--97707cba23",
@@ -315,7 +315,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-30T15:16:23.040Z"
+    "capturado_en": "2026-07-31T15:24:20.477Z"
   },
   {
     "id": "korea_ict_latam",
@@ -360,30 +360,6 @@
     "tipo": "fondo"
   },
   {
-    "id": "scraped-wepropel-building-the-future-workforce-challenge-475e6133d0",
-    "titulo": "Building the Future Workforce Challenge",
-    "donante": "The Caterpillar Foundation",
-    "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 1000000,
-    "fecha_cierre": "2026-07-30",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 74,
-    "pivot": "Premio para equipos con soluciones audaces y tecnológicas que fortalezcan la formación y el desarrollo de talento para manufactura avanzada y roles de técnicos industriales, con capacidad de ser implementadas en México o Brasil. Busca propuestas que repiensen los modelos de capacitación para cerrar brechas de habilidades y adaptarse a cambios tecnológicos rápidos. Ofrece la posibilidad de pilotear la solución en entornos reales de Caterpillar, con foco en implementación y aprendizaje para replicación y escalamiento. Está orientado a iniciativas con impacto sostenible y potencial de transformación sectorial en sistemas de educación y empleo.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.buildingthefuture.carrot.net/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "roja",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-30T15:16:19.105Z"
-  },
-  {
     "id": "scraped-wepropel-2027-glfx-chapters-program-91f53275fa",
     "titulo": "2027 GLFx Chapters Program",
     "donante": "The Global Landscapes Forum (GLF)",
@@ -405,7 +381,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-30T15:16:19.110Z"
+    "capturado_en": "2026-07-31T15:24:15.961Z"
   },
   {
     "id": "scraped-wepropel-community-wellbeing-grant-5cbe1d4a43",
@@ -429,7 +405,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-30T15:16:19.111Z"
+    "capturado_en": "2026-07-31T15:24:15.965Z"
   },
   {
     "id": "scraped-wepropel-lipman-family-prize-43e1767b3e",
@@ -453,7 +429,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-30T15:16:19.113Z"
+    "capturado_en": "2026-07-31T15:24:15.966Z"
   },
   {
     "id": "scraped-wepropel-pet-heroes-2026-award-1588f6e991",
@@ -477,7 +453,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-30T15:16:19.113Z"
+    "capturado_en": "2026-07-31T15:24:15.966Z"
   },
   {
     "id": "scraped-wepropel-schmidt-marine-grant-44d0a06336",
@@ -501,7 +477,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-30T15:16:19.115Z"
+    "capturado_en": "2026-07-31T15:24:15.967Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
@@ -525,7 +501,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-30T15:16:23.039Z"
+    "capturado_en": "2026-07-31T15:24:20.476Z"
   },
   {
     "id": "scraped-wepropel-the-lego-foundation-fellowship-6a61cb750e",
@@ -549,7 +525,31 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-30T15:16:19.107Z"
+    "capturado_en": "2026-07-31T15:24:15.960Z"
+  },
+  {
+    "id": "scraped-wepropel-2027-risk-award-b032815688",
+    "titulo": "2027 RISK Award",
+    "donante": "Munich Re Foundation",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-07-31",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 67,
+    "pivot": "Premio para iniciativas locales innovadoras que reduzcan riesgos de desastres relacionados con el clima. La edición 2027 se enfoca en la resiliencia climática para asentamientos urbanos informales y semiformales, con énfasis en amenazas como calor extremo, inundaciones, lluvias intensas y tormentas. Está alineado con las prioridades del Marco de Sendai para la Reducción del Riesgo de Desastres y busca traducir compromisos globales en acciones concretas centradas en las personas. El esquema contempla una Fase I abierta y una Fase II solo por invitación, con acompañamiento de un proceso de revisión y una ceremonia de premiación.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.munichre-foundation.org/en/climate-adaptation/risk-award/news/2027-risk-award-call.html",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-07-31T15:24:15.968Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -573,7 +573,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-30T15:16:19.116Z"
+    "capturado_en": "2026-07-31T15:24:15.970Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -597,7 +597,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-30T15:16:19.117Z"
+    "capturado_en": "2026-07-31T15:24:15.970Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
@@ -621,7 +621,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-30T15:16:23.039Z"
+    "capturado_en": "2026-07-31T15:24:20.476Z"
   },
   {
     "id": "scraped-red-exposocial-fondo-de-coyuntura-politica-convocatoria-para-593b5a2ab5",
@@ -645,7 +645,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-30T15:16:23.040Z"
+    "capturado_en": "2026-07-31T15:24:20.477Z"
   },
   {
     "id": "scraped-red-exposocial-holohil-programa-de-subvenciones-convocatoria-c4f0d54530",
@@ -669,7 +669,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-30T15:16:23.040Z"
+    "capturado_en": "2026-07-31T15:24:20.477Z"
   },
   {
     "id": "scraped-red-exposocial-convocatoria-2027-de-fundacion-alsea-convocat-9561833e7d",
@@ -693,7 +693,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-30T15:16:23.041Z"
+    "capturado_en": "2026-07-31T15:24:20.478Z"
   },
   {
     "id": "scraped-red-exposocial-life-programme-2026-convocatoria-para-osc-0c07737cd0",
@@ -717,7 +717,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-30T15:16:23.041Z"
+    "capturado_en": "2026-07-31T15:24:20.478Z"
   },
   {
     "id": "scraped-red-exposocial-mecanismo-de-apoyo-a-terceros-2026-ninez-prim-75dcc7563a",
@@ -741,7 +741,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-30T15:16:23.041Z"
+    "capturado_en": "2026-07-31T15:24:20.479Z"
   },
   {
     "id": "scraped-red-exposocial-semillero-de-emprendimiento-e-innovacion-para-1e31d17975",
@@ -765,7 +765,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-30T15:16:23.042Z"
+    "capturado_en": "2026-07-31T15:24:20.479Z"
   },
   {
     "id": "scraped-red-exposocial-premio-familia-lipman-convocatoria-para-osc-acd0d4e7a3",
@@ -789,23 +789,23 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-07-30T15:16:23.042Z"
+    "capturado_en": "2026-07-31T15:24:20.480Z"
   },
   {
-    "id": "scraped-wepropel-yale-emerging-climate-leaders-fellowship-60a4716ae1",
-    "titulo": "Yale Emerging Climate Leaders Fellowship",
-    "donante": "Yale University",
+    "id": "scraped-wepropel-climate-tech-fellowship-2026-774e5d802a",
+    "titulo": "Climate Tech Fellowship 2026",
+    "donante": "New York Climate Exchange",
     "fuente": "Oportunidades Propel",
     "sector": "Ambiente / Sostenibilidad",
     "dimension": "ambiental",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-07-30",
+    "presupuesto_usd": 10000,
+    "fecha_cierre": "2026-08-01",
     "estado": "CONVOCATORIA VIGENTE",
     "pais_elegible": "Validar elegibilidad",
     "afinidad_pivot": 65,
-    "pivot": "Fellowship para líderes emergentes del Sur Global que trabajan en energía limpia y cambio climático. Ofrece una experiencia formativa que combina componentes presenciales y aprendizajes remotos, además de un proyecto colaborativo de grupo. Está orientado a profesionales en ascenso que buscan fortalecer su liderazgo e incrementar su impacto regional, nacional o internacional en temas climáticos.",
+    "pivot": "Fellowship de seis meses para innovadores de tecnología climática en etapa temprana que busquen llevar una tecnología desde la investigación o el concepto hacia una solución lista para el mercado. Ofrece acompañamiento con currículo de venture building, mentoría individual y acceso a una red global de inversionistas, responsables de política pública y aliados estratégicos. Se centra en tecnologías en la intersección de energía y resiliencia urbana, incluyendo edificios inteligentes, generación y almacenamiento, modernización de redes, infraestructura verde y soluciones naturales de carbono. Combina trabajo virtual con un componente presencial durante Climate Week NYC, incluyendo espacios de ",
     "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://jackson.yale.edu/international-leadership-center/climate/how-to-apply/",
+    "fuente_url": "https://www.nyclimateexchange.org/climate-tech-fellowship",
     "tags": [
       "RASTREO EN VIVO",
       "OPORTUNIDADES PROPEL"
@@ -813,7 +813,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-30T15:16:19.106Z"
+    "capturado_en": "2026-07-31T15:24:15.969Z"
   },
   {
     "id": "scraped-premios-portafolio-premios-portafolio-2026-6c0d0fa3ff",
@@ -837,10 +837,10 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-07-30T15:16:10.390Z"
+    "capturado_en": "2026-07-31T15:24:08.221Z"
   },
   {
-    "id": "scraped-wepropel-unhcr-innovation-accelerator-4eafbeff64",
+    "id": "scraped-wepropel-unhcr-innovation-accelerator-5a54edb04a",
     "titulo": "UNHCR Innovation Accelerator",
     "donante": "UNHCR Innovation",
     "fuente": "Oportunidades Propel",
@@ -853,7 +853,7 @@
     "afinidad_pivot": 58,
     "pivot": "Aceleradora para soluciones que mejoren protección, inclusión y asistencia para personas desplazadas forzosamente y apátridas, con un enfoque participativo y basado en principios humanitarios y de derechos humanos. Apoya para pasar de una prueba de concepto exitosa a un escalamiento sostenible con impacto operativo de largo plazo. Fortalece estrategia, gobernanza, preparación operativa, aprendizaje y evidencia. También facilita la articulación de alianzas y la navegación del ecosistema para integrar la innovación y movilizar recursos adicionales.",
     "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.unhcr.org/innovation/?page_id=45253",
+    "fuente_url": "https://www.unhcr.org/innovation/how-we-work/unhcr-innovation-incubator",
     "tags": [
       "RASTREO EN VIVO",
       "OPORTUNIDADES PROPEL"
@@ -861,6 +861,6 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-07-30T15:16:19.112Z"
+    "capturado_en": "2026-07-31T15:24:15.965Z"
   }
 ]
