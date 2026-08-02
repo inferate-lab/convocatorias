@@ -69,30 +69,6 @@
     "tipo": "fondo"
   },
   {
-    "id": "h2_green_mission_innovation",
-    "titulo": "Mission Innovation — Hydrogen Valley Colombia (H₂)",
-    "donante": "Mission Innovation / Agencia IEA",
-    "fuente": "Mission Innovation Portal / IEA Hydrogen",
-    "sector": "Hidrógeno Verde / Energía",
-    "dimension": "ambiental",
-    "presupuesto_usd": 1200000,
-    "fecha_cierre": "2026-08-01",
-    "estado": "SEÑAL ACTIVA — MI-8 Tracking Colombia",
-    "pais_elegible": "Colombia ✓",
-    "afinidad_pivot": 89,
-    "pivot": "EPM opera infraestructura energética crítica e instalaciones de generación. Pivot estratégico: posicionarse como partner técnico territorial para pilotos piloto de H₂ verde en Colombia, con las comunidades de UVAs como receptoras del modelo de transición justa.",
-    "obstaculo": "Requiere componente técnico de ingeniería energética. Consorcio con EPM Generación + EAFIT (Grupo de Energía) es el camino crítico.",
-    "fuente_url": "https://mission-innovation.net/",
-    "tags": [
-      "SEÑAL ACTIVA",
-      "HIDRÓGENO VERDE",
-      "USD $1.2M",
-      "ENERGÍA",
-      "CONSORCIO EPM ENERGÍA"
-    ],
-    "tipo": "roja"
-  },
-  {
     "id": "goodplanet_fdn",
     "titulo": "GoodPlanet Foundation Project Support",
     "donante": "GoodPlanet Foundation",
@@ -204,27 +180,6 @@
     "tipo": "roja"
   },
   {
-    "id": "waterloo_fdn",
-    "titulo": "The Waterloo Foundation Grants",
-    "donante": "The Waterloo Foundation",
-    "fuente": "Waterloo Foundation Portal",
-    "sector": "Medio Ambiente / Social",
-    "dimension": "general",
-    "presupuesto_usd": 120000,
-    "fecha_cierre": "2026-08-01",
-    "estado": "ACTIVA",
-    "pais_elegible": "Global / Colombia ✓",
-    "afinidad_pivot": 82,
-    "pivot": "Protección de cuencas o proyectos de soporte comunitario EPM.",
-    "obstaculo": "Reporte financiero específico requerido.",
-    "fuente_url": "https://waterloofoundation.org.uk/",
-    "tags": [
-      "OBLIGATORIA",
-      "GENERAL"
-    ],
-    "tipo": "fondo"
-  },
-  {
     "id": "total_energies_foundation",
     "titulo": "TotalEnergies Foundation — Acceso Energético y Clima Latam",
     "donante": "TotalEnergies Foundation (Francia)",
@@ -269,28 +224,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-01T14:38:06.630Z"
-  },
-  {
-    "id": "korea_ict_latam",
-    "titulo": "KOICA — ICT for Development Programme Colombia (한국)",
-    "donante": "Korea International Cooperation Agency",
-    "fuente": "KOICA Portal / Cooperación Bilateral Corea-Colombia",
-    "sector": "Tecnología / Cooperación Sur-Sur",
-    "presupuesto_usd": 350000,
-    "fecha_cierre": "2026-08-01",
-    "estado": "ACTIVA",
-    "pais_elegible": "Colombia ✓ (Acuerdo bilateral)",
-    "afinidad_pivot": 80,
-    "pivot": "KOICA prioriza proyectos de TIC en comunidades. Las UVAs con sus salas tecnológicas son la plataforma de implementación perfecta para proyectos de transferencia tecnológica coreana.",
-    "obstaculo": "Proceso bilingüe (inglés/coreano). Contactar Embajada de Corea en Bogotá para canal de postulación.",
-    "fuente_url": "https://www.koica.go.kr/koica_en/",
-    "tags": [
-      "COOPERACIÓN BILATERAL",
-      "COREA",
-      "TIC COMUNITARIO"
-    ],
-    "tipo": "fondo"
+    "capturado_en": "2026-08-02T14:39:41.240Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
@@ -314,7 +248,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-01T14:38:06.629Z"
+    "capturado_en": "2026-08-02T14:39:41.239Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -338,7 +272,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-01T14:38:02.626Z"
+    "capturado_en": "2026-08-02T14:39:37.717Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -362,7 +296,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-01T14:38:02.627Z"
+    "capturado_en": "2026-08-02T14:39:37.718Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
@@ -386,7 +320,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-01T14:38:06.629Z"
+    "capturado_en": "2026-08-02T14:39:41.240Z"
   },
   {
     "id": "scraped-red-exposocial-fondo-de-coyuntura-politica-convocatoria-para-593b5a2ab5",
@@ -410,7 +344,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-01T14:38:06.630Z"
+    "capturado_en": "2026-08-02T14:39:41.240Z"
   },
   {
     "id": "scraped-red-exposocial-holohil-programa-de-subvenciones-convocatoria-c4f0d54530",
@@ -434,7 +368,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-01T14:38:06.631Z"
+    "capturado_en": "2026-08-02T14:39:41.241Z"
   },
   {
     "id": "scraped-red-exposocial-convocatoria-2027-de-fundacion-alsea-convocat-9561833e7d",
@@ -458,7 +392,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-01T14:38:06.631Z"
+    "capturado_en": "2026-08-02T14:39:41.241Z"
   },
   {
     "id": "scraped-red-exposocial-life-programme-2026-convocatoria-para-osc-0c07737cd0",
@@ -482,7 +416,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-01T14:38:06.632Z"
+    "capturado_en": "2026-08-02T14:39:41.241Z"
   },
   {
     "id": "scraped-red-exposocial-mecanismo-de-apoyo-a-terceros-2026-ninez-prim-75dcc7563a",
@@ -506,31 +440,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-01T14:38:06.632Z"
-  },
-  {
-    "id": "scraped-wepropel-climate-tech-fellowship-2026-774e5d802a",
-    "titulo": "Climate Tech Fellowship 2026",
-    "donante": "New York Climate Exchange",
-    "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 10000,
-    "fecha_cierre": "2026-08-01",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 65,
-    "pivot": "Fellowship de seis meses para innovadores de tecnología climática en etapa temprana que busquen llevar una tecnología desde la investigación o el concepto hacia una solución lista para el mercado. Ofrece acompañamiento con currículo de venture building, mentoría individual y acceso a una red global de inversionistas, responsables de política pública y aliados estratégicos. Se centra en tecnologías en la intersección de energía y resiliencia urbana, incluyendo edificios inteligentes, generación y almacenamiento, modernización de redes, infraestructura verde y soluciones naturales de carbono. Combina trabajo virtual con un componente presencial durante Climate Week NYC, incluyendo espacios de ",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.nyclimateexchange.org/climate-tech-fellowship",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-01T14:38:02.625Z"
+    "capturado_en": "2026-08-02T14:39:41.241Z"
   },
   {
     "id": "scraped-premios-portafolio-premios-portafolio-2026-6c0d0fa3ff",
@@ -554,6 +464,6 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-08-01T14:37:54.961Z"
+    "capturado_en": "2026-08-02T14:39:30.615Z"
   }
 ]
