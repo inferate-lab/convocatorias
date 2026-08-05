@@ -224,7 +224,31 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-04T15:28:00.648Z"
+    "capturado_en": "2026-08-05T15:19:39.068Z"
+  },
+  {
+    "id": "scraped-wepropel-the-adaptation-fund-climate-innovation-accele-d24103f9d6",
+    "titulo": "The Adaptation Fund Climate Innovation Accelerator",
+    "donante": "UN Climate Technology Center and Network (UN CTCN)",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 150000,
+    "fecha_cierre": "2026-08-18",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 81,
+    "pivot": "Asistencia técnica para iniciativas que analicen y piloten innovaciones de adaptación al cambio climático a pequeña escala en América Latina y el Caribe. Ofrece soporte especializado para diagnosticar barreras técnicas o tecnológicas, comparar alternativas, acompañar procesos de adquisición para el pilotaje y generar evidencia mediante monitoreo de resultados.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.ctc-n.org/adaptation-fund-climate-innovation-accelerator",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "roja",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-08-05T15:19:39.074Z"
   },
   {
     "id": "scraped-red-exposocial-apoyos-de-respuesta-rapida-convocatoria-para--97707cba23",
@@ -248,55 +272,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-04T15:28:04.375Z"
-  },
-  {
-    "id": "scraped-wepropel-common-good-cyber-fund-grant-program-63fe9e9688",
-    "titulo": "Common Good Cyber Fund Grant Program",
-    "donante": "Internet Society Foundation",
-    "fuente": "Oportunidades Propel",
-    "sector": "Tecnología / Innovación",
-    "dimension": "social",
-    "presupuesto_usd": 3500000,
-    "fecha_cierre": "2026-08-04",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 74,
-    "pivot": "Grant para ONGs que fortalezcan el ecosistema de ciberseguridad para el interés público. Financia trabajo que mantenga infraestructura crítica de ciberseguridad, entregue servicios escalables para proteger a usuarios y organizaciones de daños digitales, y avance un Internet más seguro para grupos vulnerables y comunidades de alto riesgo, incluyendo sociedad civil y periodistas. Pertinente para organizaciones que trabajan contra la violencia de género facilitada por la tecnología y otras formas de represión transnacional digital.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.isocfoundation.org/grant-programme/common-good-cyber-fund/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "roja",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-04T15:28:00.641Z"
-  },
-  {
-    "id": "scraped-wepropel-digital-unga-awards-2026-30d37bae8a",
-    "titulo": "Digital@UNGA Awards 2026",
-    "donante": "Digital@UNGA",
-    "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-08-04",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 74,
-    "pivot": "Premio internacional que reconoce iniciativas, políticas, alianzas y liderazgos que impulsan una transformación digital inclusiva, responsable y centrada en las personas. Está dirigido a proyectos y marcos normativos que usen tecnologías digitales para generar impacto medible y sostenible, con potencial de escalar y replicarse. Ofrece una plataforma de visibilidad global y reconocimiento ante un jurado independiente con representación multiactor. Incluye categorías como inclusión digital, transformación digital del gobierno, tecnologías de frontera y liderazgo juvenil.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.itu.int/initiatives/digital-unga2026/awards/about-awards/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-04T15:28:00.642Z"
+    "capturado_en": "2026-08-05T15:19:43.009Z"
   },
   {
     "id": "scraped-wepropel-american-express-leadership-academy-2026-2f431c7f32",
@@ -320,7 +296,31 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-04T15:28:00.647Z"
+    "capturado_en": "2026-08-05T15:19:39.067Z"
+  },
+  {
+    "id": "scraped-wepropel-if-social-impact-prize-segundo-llamado-91dcc7df21",
+    "titulo": "iF Social Impact Prize -segundo llamado",
+    "donante": "iF Design",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-08-19",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Premio internacional para proyectos de impacto social ya implementados, alineados con los Objetivos de Desarrollo Sostenible de las Naciones Unidas. El jurado distribuye EUR 100.000 al año entre los mejores proyectos, en dos rondas. Esta es la segunda ronda de postulaciones.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://ifdesign.com/en/if-social-impact-prize",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-08-05T15:19:39.075Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
@@ -344,7 +344,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-04T15:28:04.374Z"
+    "capturado_en": "2026-08-05T15:19:43.008Z"
   },
   {
     "id": "scraped-wepropel-urgent-need-fund-db029d516b",
@@ -368,7 +368,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-04T15:28:00.646Z"
+    "capturado_en": "2026-08-05T15:19:39.066Z"
   },
   {
     "id": "scraped-wepropel-new-commons-incubator-for-indigenous-language-5595ec61f7",
@@ -392,7 +392,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-04T15:28:00.650Z"
+    "capturado_en": "2026-08-05T15:19:39.073Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -416,7 +416,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-04T15:28:00.651Z"
+    "capturado_en": "2026-08-05T15:19:39.077Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -440,7 +440,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-04T15:28:00.652Z"
+    "capturado_en": "2026-08-05T15:19:39.078Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
@@ -464,7 +464,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-04T15:28:04.375Z"
+    "capturado_en": "2026-08-05T15:19:43.009Z"
   },
   {
     "id": "scraped-red-exposocial-fondo-de-coyuntura-politica-convocatoria-para-593b5a2ab5",
@@ -488,7 +488,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-04T15:28:04.376Z"
+    "capturado_en": "2026-08-05T15:19:43.010Z"
   },
   {
     "id": "scraped-red-exposocial-holohil-programa-de-subvenciones-convocatoria-c4f0d54530",
@@ -512,7 +512,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-04T15:28:04.376Z"
+    "capturado_en": "2026-08-05T15:19:43.010Z"
   },
   {
     "id": "scraped-red-exposocial-convocatoria-2027-de-fundacion-alsea-convocat-9561833e7d",
@@ -536,7 +536,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-04T15:28:04.376Z"
+    "capturado_en": "2026-08-05T15:19:43.010Z"
   },
   {
     "id": "scraped-red-exposocial-life-programme-2026-convocatoria-para-osc-0c07737cd0",
@@ -560,7 +560,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-04T15:28:04.376Z"
+    "capturado_en": "2026-08-05T15:19:43.011Z"
   },
   {
     "id": "scraped-red-exposocial-mecanismo-de-apoyo-a-terceros-2026-ninez-prim-75dcc7563a",
@@ -584,7 +584,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-04T15:28:04.377Z"
+    "capturado_en": "2026-08-05T15:19:43.011Z"
   },
   {
     "id": "scraped-wepropel-reckitt-catalyst-global-accelerator-1e4d5f7802",
@@ -608,7 +608,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-04T15:28:00.643Z"
+    "capturado_en": "2026-08-05T15:19:39.065Z"
   },
   {
     "id": "scraped-wepropel-global-youth-water-envoys-program-eb1ba630a1",
@@ -632,7 +632,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-04T15:28:00.649Z"
+    "capturado_en": "2026-08-05T15:19:39.068Z"
   },
   {
     "id": "scraped-premios-portafolio-premios-portafolio-2026-6c0d0fa3ff",
@@ -656,7 +656,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-08-04T15:27:52.226Z"
+    "capturado_en": "2026-08-05T15:19:32.390Z"
   },
   {
     "id": "scraped-wepropel-unesco-youth-hackathon-2026-fdd7444670",
@@ -680,6 +680,30 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-04T15:28:00.651Z"
+    "capturado_en": "2026-08-05T15:19:39.073Z"
+  },
+  {
+    "id": "scraped-wepropel-future-for-nature-awards-131130fba2",
+    "titulo": "Future for Nature Awards",
+    "donante": "Future For Nature Foundation",
+    "fuente": "Oportunidades Propel",
+    "sector": "Tecnología / Innovación",
+    "dimension": "social",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-08-23",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 58,
+    "pivot": "Premio para personas conservacionistas que lideran proyectos para mejorar el estado de conservación de una o más especies silvestres. La convocatoria evalúa trayectoria e impacto práctico en conservación, junto con liderazgo, creatividad e innovación y la intención de continuar con el trabajo a futuro. Quienes ganen presentan su trabajo en el evento Future For Nature Awards en Royal Burgers’ Zoo (Arnhem, Países Bajos) con gastos de viaje y alojamiento cubiertos.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://futurefornature.org/2027-future-for-nature-applications-are-open/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-08-05T15:19:39.076Z"
   }
 ]
