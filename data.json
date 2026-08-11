@@ -224,7 +224,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-10T14:22:17.698Z"
+    "capturado_en": "2026-08-11T14:22:29.921Z"
   },
   {
     "id": "scraped-wepropel-the-adaptation-fund-climate-innovation-accele-d24103f9d6",
@@ -248,7 +248,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-10T14:22:17.702Z"
+    "capturado_en": "2026-08-11T14:22:29.926Z"
   },
   {
     "id": "scraped-red-exposocial-apoyos-de-respuesta-rapida-convocatoria-para--97707cba23",
@@ -272,31 +272,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-10T14:22:21.158Z"
-  },
-  {
-    "id": "scraped-wepropel-american-express-leadership-academy-2026-2f431c7f32",
-    "titulo": "American Express Leadership Academy (2026)",
-    "donante": "Common Purpose",
-    "fuente": "Oportunidades Propel",
-    "sector": "Desarrollo social / Derechos",
-    "dimension": "social",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-08-10",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 74,
-    "pivot": "Programa de liderazgo de seis meses, diseñado para fortalecer las habilidades estratégicas, de toma de decisiones y de redes de colaboración de líderes del sector social en las Américas. Incluye formación presencial en Nueva York, mentoría personalizada y acceso continuo a una red global de alumni.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://commonpurpose.org/american-express-leadership-academy",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-10T14:22:17.697Z"
+    "capturado_en": "2026-08-11T14:22:33.732Z"
   },
   {
     "id": "scraped-wepropel-if-social-impact-prize-segundo-llamado-91dcc7df21",
@@ -320,7 +296,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-10T14:22:17.707Z"
+    "capturado_en": "2026-08-11T14:22:29.927Z"
   },
   {
     "id": "scraped-wepropel-social-shifters-global-innovation-challenge-2-3fdffd0db2",
@@ -344,7 +320,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-10T14:22:17.709Z"
+    "capturado_en": "2026-08-11T14:22:29.928Z"
   },
   {
     "id": "scraped-wepropel-miller-center-accelerator-program-cohorte-202-740a547e4f",
@@ -368,7 +344,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-10T14:22:17.710Z"
+    "capturado_en": "2026-08-11T14:22:29.928Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
@@ -392,7 +368,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-10T14:22:21.156Z"
+    "capturado_en": "2026-08-11T14:22:33.731Z"
   },
   {
     "id": "scraped-wepropel-new-commons-incubator-for-indigenous-language-5595ec61f7",
@@ -416,7 +392,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-10T14:22:17.700Z"
+    "capturado_en": "2026-08-11T14:22:29.922Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -440,7 +416,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-10T14:22:17.711Z"
+    "capturado_en": "2026-08-11T14:22:29.929Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -464,7 +440,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-10T14:22:17.712Z"
+    "capturado_en": "2026-08-11T14:22:29.929Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
@@ -488,7 +464,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-10T14:22:21.157Z"
+    "capturado_en": "2026-08-11T14:22:33.732Z"
   },
   {
     "id": "scraped-red-exposocial-fondo-de-coyuntura-politica-convocatoria-para-593b5a2ab5",
@@ -512,7 +488,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-10T14:22:21.159Z"
+    "capturado_en": "2026-08-11T14:22:33.733Z"
   },
   {
     "id": "scraped-red-exposocial-holohil-programa-de-subvenciones-convocatoria-c4f0d54530",
@@ -536,7 +512,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-10T14:22:21.159Z"
+    "capturado_en": "2026-08-11T14:22:33.733Z"
   },
   {
     "id": "scraped-red-exposocial-convocatoria-2027-de-fundacion-alsea-convocat-9561833e7d",
@@ -560,7 +536,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-10T14:22:21.160Z"
+    "capturado_en": "2026-08-11T14:22:33.733Z"
   },
   {
     "id": "scraped-red-exposocial-life-programme-2026-convocatoria-para-osc-0c07737cd0",
@@ -584,7 +560,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-10T14:22:21.160Z"
+    "capturado_en": "2026-08-11T14:22:33.733Z"
   },
   {
     "id": "scraped-red-exposocial-mecanismo-de-apoyo-a-terceros-2026-ninez-prim-75dcc7563a",
@@ -608,7 +584,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-10T14:22:21.161Z"
+    "capturado_en": "2026-08-11T14:22:33.733Z"
   },
   {
     "id": "scraped-wepropel-global-youth-water-envoys-program-eb1ba630a1",
@@ -632,7 +608,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-10T14:22:17.699Z"
+    "capturado_en": "2026-08-11T14:22:29.921Z"
   },
   {
     "id": "scraped-premios-portafolio-premios-portafolio-2026-6c0d0fa3ff",
@@ -656,7 +632,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-08-10T14:22:10.910Z"
+    "capturado_en": "2026-08-11T14:22:22.629Z"
   },
   {
     "id": "scraped-wepropel-unesco-youth-hackathon-2026-fdd7444670",
@@ -680,7 +656,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-10T14:22:17.701Z"
+    "capturado_en": "2026-08-11T14:22:29.926Z"
   },
   {
     "id": "scraped-wepropel-future-for-nature-awards-131130fba2",
@@ -704,6 +680,6 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-10T14:22:17.708Z"
+    "capturado_en": "2026-08-11T14:22:29.927Z"
   }
 ]
