@@ -90,6 +90,54 @@
     "tipo": "fondo"
   },
   {
+    "id": "scraped-wepropel-propel-fellowship-33fbdf1a9a",
+    "titulo": "Propel Fellowship",
+    "donante": "Propel",
+    "fuente": "Oportunidades Propel",
+    "sector": "Educación / Juventud",
+    "dimension": "social",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-08-28",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 88,
+    "pivot": "Programa de 6 semanas para líderes sociales de América Latina que buscan escalar su impacto con tecnología. Aprenderás a usar IA para fortalecer tu medición de impacto, visibilizar tu causa y aumentar tu financiamiento. Tendrás sesiones prácticas dictadas por expertos, casos de éxito reales y aprendizaje entre pares.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.wepropel.org/propel-fellowship?gad_source=1&gad_campaignid=23530394313&gbraid=0AAAAA9xBmEcv_lGUCzccMe7DibXJPbfHD&gclid=CjwKCAjw4dDTBhAqEiwAkHYmSnuTeP7X2T1SbG70X3fxNI3oVL0VLDoJeg5vHbKUZwFnnZcmjklGShoCBtEQAvD_BwE",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "roja",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-08-12T14:22:39.855Z"
+  },
+  {
+    "id": "scraped-wepropel-propel-fellowship-26449671e0",
+    "titulo": "Propel Fellowship",
+    "donante": "Propel",
+    "fuente": "Oportunidades Propel",
+    "sector": "Educación / Juventud",
+    "dimension": "social",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-08-28",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 88,
+    "pivot": "Programa de 6 semanas para líderes sociales de América Latina que buscan escalar su impacto con tecnología. Aprenderás a usar IA para fortalecer tu medición de impacto, visibilizar tu causa y aumentar tu financiamiento. Tendrás sesiones prácticas dictadas por expertos, casos de éxito reales y aprendizaje entre pares.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.wepropel.org/propel-fellowship",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "roja",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-08-12T14:22:39.855Z"
+  },
+  {
     "id": "cop31_climate_finance",
     "titulo": "Fondo de Adaptación Climática COP31 — Ciudades Resilientes",
     "donante": "Adaptation Fund / UNFCCC",
@@ -224,7 +272,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-11T14:22:29.921Z"
+    "capturado_en": "2026-08-12T14:22:39.846Z"
   },
   {
     "id": "scraped-wepropel-the-adaptation-fund-climate-innovation-accele-d24103f9d6",
@@ -248,7 +296,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-11T14:22:29.926Z"
+    "capturado_en": "2026-08-12T14:22:39.848Z"
   },
   {
     "id": "scraped-red-exposocial-apoyos-de-respuesta-rapida-convocatoria-para--97707cba23",
@@ -272,7 +320,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-11T14:22:33.732Z"
+    "capturado_en": "2026-08-12T14:22:43.061Z"
   },
   {
     "id": "scraped-wepropel-if-social-impact-prize-segundo-llamado-91dcc7df21",
@@ -296,7 +344,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-11T14:22:29.927Z"
+    "capturado_en": "2026-08-12T14:22:39.853Z"
   },
   {
     "id": "scraped-wepropel-social-shifters-global-innovation-challenge-2-3fdffd0db2",
@@ -320,31 +368,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-11T14:22:29.928Z"
-  },
-  {
-    "id": "scraped-wepropel-miller-center-accelerator-program-cohorte-202-740a547e4f",
-    "titulo": "Miller Center Accelerator Program - Cohorte 2027",
-    "donante": "Miller Center for Global Impact",
-    "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-08-31",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 74,
-    "pivot": "Programa de aceleración virtual de 6 meses, orientado a líderes de empresas sociales con tracción comprobada que buscan escalar su impacto. Combina mentoría ejecutiva personalizada con un currículo estructurado para fortalecer el modelo de negocio, el modelo de impacto y la estrategia de financiamiento. Está enfocado en emprendimientos que abordan la pobreza a través del empoderamiento económico de las mujeres y/o la resiliencia climática.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://millercenterglobal.org/accelerator/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-11T14:22:29.928Z"
+    "capturado_en": "2026-08-12T14:22:39.856Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
@@ -368,7 +392,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-11T14:22:33.731Z"
+    "capturado_en": "2026-08-12T14:22:43.060Z"
   },
   {
     "id": "scraped-wepropel-new-commons-incubator-for-indigenous-language-5595ec61f7",
@@ -392,7 +416,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-11T14:22:29.922Z"
+    "capturado_en": "2026-08-12T14:22:39.847Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -416,7 +440,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-11T14:22:29.929Z"
+    "capturado_en": "2026-08-12T14:22:39.856Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -440,7 +464,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-11T14:22:29.929Z"
+    "capturado_en": "2026-08-12T14:22:39.857Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
@@ -464,7 +488,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-11T14:22:33.732Z"
+    "capturado_en": "2026-08-12T14:22:43.061Z"
   },
   {
     "id": "scraped-red-exposocial-fondo-de-coyuntura-politica-convocatoria-para-593b5a2ab5",
@@ -488,7 +512,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-11T14:22:33.733Z"
+    "capturado_en": "2026-08-12T14:22:43.061Z"
   },
   {
     "id": "scraped-red-exposocial-holohil-programa-de-subvenciones-convocatoria-c4f0d54530",
@@ -512,7 +536,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-11T14:22:33.733Z"
+    "capturado_en": "2026-08-12T14:22:43.062Z"
   },
   {
     "id": "scraped-red-exposocial-convocatoria-2027-de-fundacion-alsea-convocat-9561833e7d",
@@ -536,7 +560,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-11T14:22:33.733Z"
+    "capturado_en": "2026-08-12T14:22:43.062Z"
   },
   {
     "id": "scraped-red-exposocial-life-programme-2026-convocatoria-para-osc-0c07737cd0",
@@ -560,7 +584,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-11T14:22:33.733Z"
+    "capturado_en": "2026-08-12T14:22:43.062Z"
   },
   {
     "id": "scraped-red-exposocial-mecanismo-de-apoyo-a-terceros-2026-ninez-prim-75dcc7563a",
@@ -584,7 +608,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-11T14:22:33.733Z"
+    "capturado_en": "2026-08-12T14:22:43.062Z"
   },
   {
     "id": "scraped-wepropel-global-youth-water-envoys-program-eb1ba630a1",
@@ -608,7 +632,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-11T14:22:29.921Z"
+    "capturado_en": "2026-08-12T14:22:39.846Z"
   },
   {
     "id": "scraped-premios-portafolio-premios-portafolio-2026-6c0d0fa3ff",
@@ -632,7 +656,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-08-11T14:22:22.629Z"
+    "capturado_en": "2026-08-12T14:22:33.239Z"
   },
   {
     "id": "scraped-wepropel-unesco-youth-hackathon-2026-fdd7444670",
@@ -656,7 +680,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-11T14:22:29.926Z"
+    "capturado_en": "2026-08-12T14:22:39.848Z"
   },
   {
     "id": "scraped-wepropel-future-for-nature-awards-131130fba2",
@@ -680,6 +704,6 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-11T14:22:29.927Z"
+    "capturado_en": "2026-08-12T14:22:39.854Z"
   }
 ]
