@@ -111,7 +111,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-12T14:22:39.855Z"
+    "capturado_en": "2026-08-13T14:24:14.131Z"
   },
   {
     "id": "scraped-wepropel-propel-fellowship-26449671e0",
@@ -135,7 +135,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-12T14:22:39.855Z"
+    "capturado_en": "2026-08-13T14:24:14.132Z"
   },
   {
     "id": "cop31_climate_finance",
@@ -251,30 +251,6 @@
     "tipo": "fondo"
   },
   {
-    "id": "scraped-wepropel-nexa-a71a7e2a92",
-    "titulo": "Nexa",
-    "donante": "Grand Challenges Canada",
-    "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 2000000,
-    "fecha_cierre": "2026-08-12",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 81,
-    "pivot": "Financiamiento para innovaciones en la intersección de clima y salud que ayuden a actores locales de salud a anticipar y responder a amenazas sanitarias impulsadas por el cambio climático. Apoya soluciones orientadas a convertir señales de riesgo (por ejemplo, calor extremo, mala calidad del aire y cambios en la ecología de mosquitos) en acciones oportunas de prestación de servicios de salud. Tiene dos categorías, pero en Latinoamérica financia solo iniciativas listas para escalar.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.grandchallenges.ca/funding-opportunity-nexa/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "roja",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-12T14:22:39.846Z"
-  },
-  {
     "id": "scraped-wepropel-the-adaptation-fund-climate-innovation-accele-d24103f9d6",
     "titulo": "The Adaptation Fund Climate Innovation Accelerator",
     "donante": "UN Climate Technology Center and Network (UN CTCN)",
@@ -296,7 +272,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-12T14:22:39.848Z"
+    "capturado_en": "2026-08-13T14:24:14.127Z"
   },
   {
     "id": "scraped-red-exposocial-apoyos-de-respuesta-rapida-convocatoria-para--97707cba23",
@@ -320,7 +296,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-12T14:22:43.061Z"
+    "capturado_en": "2026-08-13T14:24:18.286Z"
   },
   {
     "id": "scraped-wepropel-if-social-impact-prize-segundo-llamado-91dcc7df21",
@@ -344,7 +320,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-12T14:22:39.853Z"
+    "capturado_en": "2026-08-13T14:24:14.130Z"
   },
   {
     "id": "scraped-wepropel-social-shifters-global-innovation-challenge-2-3fdffd0db2",
@@ -368,7 +344,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-12T14:22:39.856Z"
+    "capturado_en": "2026-08-13T14:24:14.132Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
@@ -392,7 +368,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-12T14:22:43.060Z"
+    "capturado_en": "2026-08-13T14:24:18.285Z"
   },
   {
     "id": "scraped-wepropel-new-commons-incubator-for-indigenous-language-5595ec61f7",
@@ -416,7 +392,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-12T14:22:39.847Z"
+    "capturado_en": "2026-08-13T14:24:14.126Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -440,7 +416,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-12T14:22:39.856Z"
+    "capturado_en": "2026-08-13T14:24:14.133Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -464,7 +440,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-12T14:22:39.857Z"
+    "capturado_en": "2026-08-13T14:24:14.133Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
@@ -488,7 +464,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-12T14:22:43.061Z"
+    "capturado_en": "2026-08-13T14:24:18.286Z"
   },
   {
     "id": "scraped-red-exposocial-fondo-de-coyuntura-politica-convocatoria-para-593b5a2ab5",
@@ -512,7 +488,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-12T14:22:43.061Z"
+    "capturado_en": "2026-08-13T14:24:18.286Z"
   },
   {
     "id": "scraped-red-exposocial-holohil-programa-de-subvenciones-convocatoria-c4f0d54530",
@@ -536,7 +512,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-12T14:22:43.062Z"
+    "capturado_en": "2026-08-13T14:24:18.286Z"
   },
   {
     "id": "scraped-red-exposocial-convocatoria-2027-de-fundacion-alsea-convocat-9561833e7d",
@@ -560,7 +536,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-12T14:22:43.062Z"
+    "capturado_en": "2026-08-13T14:24:18.287Z"
   },
   {
     "id": "scraped-red-exposocial-life-programme-2026-convocatoria-para-osc-0c07737cd0",
@@ -584,7 +560,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-12T14:22:43.062Z"
+    "capturado_en": "2026-08-13T14:24:18.287Z"
   },
   {
     "id": "scraped-red-exposocial-mecanismo-de-apoyo-a-terceros-2026-ninez-prim-75dcc7563a",
@@ -608,7 +584,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-12T14:22:43.062Z"
+    "capturado_en": "2026-08-13T14:24:18.287Z"
   },
   {
     "id": "scraped-wepropel-global-youth-water-envoys-program-eb1ba630a1",
@@ -632,7 +608,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-12T14:22:39.846Z"
+    "capturado_en": "2026-08-13T14:24:14.125Z"
   },
   {
     "id": "scraped-premios-portafolio-premios-portafolio-2026-6c0d0fa3ff",
@@ -656,7 +632,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-08-12T14:22:33.239Z"
+    "capturado_en": "2026-08-13T14:24:05.630Z"
   },
   {
     "id": "scraped-wepropel-unesco-youth-hackathon-2026-fdd7444670",
@@ -680,7 +656,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-12T14:22:39.848Z"
+    "capturado_en": "2026-08-13T14:24:14.127Z"
   },
   {
     "id": "scraped-wepropel-future-for-nature-awards-131130fba2",
@@ -704,6 +680,6 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-12T14:22:39.854Z"
+    "capturado_en": "2026-08-13T14:24:14.131Z"
   }
 ]
