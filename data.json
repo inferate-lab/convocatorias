@@ -111,23 +111,23 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-13T14:24:14.131Z"
+    "capturado_en": "2026-08-14T14:19:51.444Z"
   },
   {
-    "id": "scraped-wepropel-propel-fellowship-26449671e0",
-    "titulo": "Propel Fellowship",
-    "donante": "Propel",
+    "id": "scraped-wepropel-resilient-futures-call-2026-e81a1867c6",
+    "titulo": "Resilient Futures Call 2026",
+    "donante": "Better Politics Fund | European Climate Foundation | Naia Trust | Vibe Fund",
     "fuente": "Oportunidades Propel",
-    "sector": "Educación / Juventud",
-    "dimension": "social",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-08-28",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 700000,
+    "fecha_cierre": "2026-09-04",
     "estado": "CONVOCATORIA VIGENTE",
     "pais_elegible": "Validar elegibilidad",
     "afinidad_pivot": 88,
-    "pivot": "Programa de 6 semanas para líderes sociales de América Latina que buscan escalar su impacto con tecnología. Aprenderás a usar IA para fortalecer tu medición de impacto, visibilizar tu causa y aumentar tu financiamiento. Tendrás sesiones prácticas dictadas por expertos, casos de éxito reales y aprendizaje entre pares.",
+    "pivot": "Grant para organizaciones, redes, colectivos e individuos que desarrollen ideas nuevas o iniciativas en etapa temprana en la intersección entre liderazgo político democrático y resiliencia climática. Apoya propuestas no partidistas que fortalezcan la relación entre evidencia climática, liderazgo político, instituciones públicas y toma de decisiones, con énfasis en enfoques innovadores y adaptados al contexto regional.",
     "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.wepropel.org/propel-fellowship",
+    "fuente_url": "https://www.betterpolitics.foundation/resilient-futures-call-2026",
     "tags": [
       "RASTREO EN VIVO",
       "OPORTUNIDADES PROPEL"
@@ -135,7 +135,79 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-13T14:24:14.132Z"
+    "capturado_en": "2026-08-14T14:19:51.451Z"
+  },
+  {
+    "id": "scraped-wepropel-seed-grow-and-sustain-3-0-28dfaffe20",
+    "titulo": "Seed, Grow and Sustain 3.0",
+    "donante": "Numun Fund",
+    "fuente": "Oportunidades Propel",
+    "sector": "Educación / Juventud",
+    "dimension": "social",
+    "presupuesto_usd": 1750000,
+    "fecha_cierre": "2026-09-06",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 88,
+    "pivot": "Grant flexible y multianual para colectivos, grupos y organizaciones que impulsan activismo feminista en tecnología en el Larger Majority World (regiones fuera del Norte Global, incluida América Latina), así como iniciativas lideradas por comunidades indígenas y migrantes en cualquier parte del mundo. Ofrece financiamiento durante dos años, según la etapa de la organización (Seed, Grow o Sustain), para estrategias como investigación, campañas, desarrollo tecnológico, construcción comunitaria, capacitación, incidencia y creación de contenido.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://numun.fund/sgs3/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "roja",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-08-14T14:19:51.452Z"
+  },
+  {
+    "id": "scraped-wepropel-fundacion-ama-amoedo-grants-2026-92e31e81d6",
+    "titulo": "Fundación Ama Amoedo Grants 2026",
+    "donante": "Fundación Ama Amoedo",
+    "fuente": "Oportunidades Propel",
+    "sector": "Desarrollo social / Derechos",
+    "dimension": "social",
+    "presupuesto_usd": 100000,
+    "fecha_cierre": "2026-09-09",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 88,
+    "pivot": "Convocatoria abierta de la Fundación Ama Amoedo para apoyar el ecosistema artístico latinoamericano. Se ofrecen 10 becas en cuatro categorías (Artistas, Arte y Compromiso Social, Organizaciones y Publicaciones). Buscan fortalecer el campo artístico, impulsar proyectos de producción, investigación, preservación, impacto social, institucional y de publicación.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.fundacionamaamoedo.org/programas/becas",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "roja",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-08-14T14:19:51.453Z"
+  },
+  {
+    "id": "scraped-wepropel-programa-de-cooperacion-sur-sur-de-mercociuda-214795c1c2",
+    "titulo": "Programa de Cooperación Sur Sur de Mercociudades",
+    "donante": "Programa de Cooperación Sur Sur de Mercociudades",
+    "fuente": "Oportunidades Propel",
+    "sector": "Educación / Juventud",
+    "dimension": "social",
+    "presupuesto_usd": 30000,
+    "fecha_cierre": "2026-10-01",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 88,
+    "pivot": "Grant para proyectos de cooperación orientados al eje temático “Ciudades de cuidados: innovadoras, seguras y resilientes”. Está dirigido a gobiernos locales, universidades públicas y organizaciones sociales de América Latina vinculadas a la red Mercociudades a través de ciudades miembros o Estados asociados. Además del apoyo económico, impulsa la cooperación entre territorios mediante modalidades como asistencia técnica, intercambios, pasantías y espacios de formación y difusión.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://mercociudades.org/descarga/bases-convocatoria-a-fondos-sur-sur-de-mercociudades-2026/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "roja",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-08-14T14:19:51.459Z"
   },
   {
     "id": "cop31_climate_finance",
@@ -272,7 +344,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-13T14:24:14.127Z"
+    "capturado_en": "2026-08-14T14:19:51.442Z"
   },
   {
     "id": "scraped-red-exposocial-apoyos-de-respuesta-rapida-convocatoria-para--97707cba23",
@@ -296,7 +368,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-13T14:24:18.286Z"
+    "capturado_en": "2026-08-14T14:19:55.507Z"
   },
   {
     "id": "scraped-wepropel-if-social-impact-prize-segundo-llamado-91dcc7df21",
@@ -320,7 +392,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-13T14:24:14.130Z"
+    "capturado_en": "2026-08-14T14:19:51.443Z"
   },
   {
     "id": "scraped-wepropel-social-shifters-global-innovation-challenge-2-3fdffd0db2",
@@ -344,7 +416,127 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-13T14:24:14.132Z"
+    "capturado_en": "2026-08-14T14:19:51.445Z"
+  },
+  {
+    "id": "scraped-wepropel-miller-center-accelerator-program-cohorte-202-740a547e4f",
+    "titulo": "Miller Center Accelerator Program - Cohorte 2027",
+    "donante": "Miller Center for Global Impact",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-08-31",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Programa de aceleración virtual de 6 meses, orientado a líderes de empresas sociales con tracción comprobada que buscan escalar su impacto. Combina mentoría ejecutiva personalizada con un currículo estructurado para fortalecer el modelo de negocio, el modelo de impacto y la estrategia de financiamiento. Está enfocado en emprendimientos que abordan la pobreza a través del empoderamiento económico de las mujeres y/o la resiliencia climática.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://millercenterglobal.org/accelerator/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-08-14T14:19:51.446Z"
+  },
+  {
+    "id": "scraped-wepropel-communication-for-climate-action-in-brazil-d26167a04d",
+    "titulo": "Communication for Climate Action in Brazil",
+    "donante": "Institute for Climate and Society (iCS)",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-08-31",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Grant para apoyar soluciones innovadoras de comunicación, distribución de contenidos e interacción social que aceleren la transición climática en Brasil. Busca iniciativas que conviertan información en movilización y acción pública, ampliando el alcance de la evidencia y las narrativas estratégicas ya producidas por el ecosistema apoyado. Se orienta a proyectos que integren innovación en formatos, tecnologías (incluida la inteligencia artificial) y estrategias de amplificación con enfoque territorial. También prioriza propuestas con monitoreo y evaluación que generen aprendizajes compartibles para fortalecer el campo de la comunicación climática.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://climaesociedade.org/en/edital/communication-for-climate-action-in-brazil/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-08-14T14:19:51.448Z"
+  },
+  {
+    "id": "scraped-wepropel-stanley-1913-creators-fund-2026-program-d309acbd4f",
+    "titulo": "Stanley 1913 Creators Fund – 2026 Program",
+    "donante": "Stanley 1913",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 50000,
+    "fecha_cierre": "2026-09-13",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Grant para líderes emergentes de organizaciones sin fines de lucro con menos de 10 años de operación, que desarrollan soluciones innovadoras para enfrentar desafíos en clima, seguridad alimentaria, vivienda o equidad y justicia.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.stanley1913.com/pages/stanley-1913-creators-fund",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-08-14T14:19:51.455Z"
+  },
+  {
+    "id": "scraped-wepropel-global-environment-facility-small-grants-prog-bd4c525132",
+    "titulo": "Global Environment Facility - Small Grants Program - CSO Challenge Program",
+    "donante": "Unión Internacional para la Conservación de la Naturaleza (UICN) & Global Environment Facility (GEF)",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 300000,
+    "fecha_cierre": "2026-09-15",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Programa de financiamiento que identifica, apoya y amplía soluciones innovadoras ambientales de alto impacto lideradas por organizaciones de la sociedad civil (CSO). Ofrece grants para replicar modelos comprobados, adaptar soluciones existentes a nuevos contextos y probar estrategias de escalamiento, junto con desarrollo de capacidades e intercambio de conocimientos entre pares.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://csochallenge.org/#apply",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "roja",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-08-14T14:19:51.456Z"
+  },
+  {
+    "id": "scraped-wepropel-wellcome-discovery-awards-73c847f26d",
+    "titulo": "Wellcome Discovery Awards",
+    "donante": "Wellcome",
+    "fuente": "Oportunidades Propel",
+    "sector": "Salud / Bienestar",
+    "dimension": "social",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-09-22",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Financiamiento a largo plazo para equipos multidisciplinarios o investigadores que busquen desarrollar investigación ambiciosa y creativa con potencial de generar avances significativos en la comprensión de la vida humana, la salud y el bienestar. Cubre gastos de investigación durante un período de hasta 8 años. Buscan equipos con capacidad de investigación formal y trayectoria consolidada en su campo.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://wellcome.org/research-funding/schemes/wellcome-discovery-awards#key-dates-0dcc",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-08-14T14:19:51.458Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
@@ -368,7 +560,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-13T14:24:18.285Z"
+    "capturado_en": "2026-08-14T14:19:55.506Z"
   },
   {
     "id": "scraped-wepropel-new-commons-incubator-for-indigenous-language-5595ec61f7",
@@ -392,7 +584,199 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-13T14:24:14.126Z"
+    "capturado_en": "2026-08-14T14:19:51.432Z"
+  },
+  {
+    "id": "scraped-wepropel-indoor-environmental-quality-grants-842a6a123f",
+    "titulo": "Indoor Environmental Quality Grants",
+    "donante": "Halton Foundation",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 30000,
+    "fecha_cierre": "2026-09-01",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 67,
+    "pivot": "Grant anual para organizaciones sin fines de lucro que realizan investigación y desarrollo orientados a mejorar la calidad ambiental y el bienestar humano en espacios interiores. Financia proyectos sobre calidad del aire interior, condiciones térmicas, partículas respirables y enfermedades asociadas a condiciones interiores deficientes.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://foundation.halton.com/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-08-14T14:19:51.449Z"
+  },
+  {
+    "id": "scraped-wepropel-norec-grant-for-work-exchange-cooperation-0fe941e777",
+    "titulo": "Norec grant for work exchange cooperation",
+    "donante": "Norec",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-09-01",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 67,
+    "pivot": "Grant competitivo para alianzas internacionales que quieran desarrollar el concepto de un proyecto de intercambio laboral y voluntariado, como paso previo a una posible fase de implementación. Financia actividades de planificación y una reunión presencial entre socios para fortalecer la colaboración, definir el enfoque del intercambio y preparar una futura postulación de Fase 2. Está orientado a asociaciones vinculadas al desarrollo sostenible y a los Objetivos de Desarrollo Sostenible (ODS), con prioridades temáticas en 2026 como clima y adaptación climática, igualdad de género y salud y derechos sexuales y reproductivos. Además del financiamiento, ofrece orientación de Norec para diseñar u",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.norec.no/en/call-for-proposals-phase-1",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-08-14T14:19:51.450Z"
+  },
+  {
+    "id": "scraped-wepropel-ohchr-indigenous-fellowship-program-2027-68f42b564f",
+    "titulo": "OHCHR Indigenous Fellowship Program 2027",
+    "donante": "Office of the High Commissioner for Human Rights (OHCHR)",
+    "fuente": "Oportunidades Propel",
+    "sector": "Educación / Juventud",
+    "dimension": "social",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-09-06",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 67,
+    "pivot": "Fellowship para personas indígenas que busca fortalecer sus capacidades para proteger y promover los derechos humanos en sus comunidades y organizaciones. Ofrece una inmersión en el sistema de las Naciones Unidas y en los mecanismos que abordan los derechos humanos, con énfasis en los derechos de los pueblos indígenas. La capacitación se realiza durante cuatro semanas en Ginebra, Suiza. Es especialmente útil para liderazgos que quieran traducir aprendizajes institucionales en acciones de incidencia y formación comunitaria al regresar.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.ohchr.org/en/about-us/fellowship-programmes/indigenous-fellowship-programme/call-applications-ohchr-indigenous-fellowship-program-2027",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-08-14T14:19:51.451Z"
+  },
+  {
+    "id": "scraped-wepropel-forest-conservation-fund-3rd-call-2f41323bac",
+    "titulo": "Forest Conservation Fund 3rd call",
+    "donante": "Forest Conservation Fund",
+    "fuente": "Oportunidades Propel",
+    "sector": "Educación / Juventud",
+    "dimension": "social",
+    "presupuesto_usd": 20000,
+    "fecha_cierre": "2026-09-11",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 67,
+    "pivot": "Convocatoria de expresión de interés para financiamiento de largo plazo dirigido a quienes protegen bosques naturales en países tropicales y subtropicales. El proceso inicia con un formulario de consulta; la aplicación formal solo se prepara si el FCF confirma compatibilidad. Ofrece grants de cinco años desembolsados trimestralmente, condicionados a verificación satelital del estado del bosque y reportes periódicos. Está dirigido a quienes ya tienen o están gestionando áreas de conservación con un mínimo de 500 hectáreas continuas de bosque nativo maduro, amenazadas por deforestación de origen comercial. No es un grant de arranque: se espera que el beneficiario ya tenga estructura operativa ",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.fundforests.org/for-applicants",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-08-14T14:19:51.454Z"
+  },
+  {
+    "id": "scraped-wepropel-global-voices-for-peace-small-seed-grants-19517a2aa1",
+    "titulo": "Global Voices for Peace Small Seed Grants",
+    "donante": "American Friends Service Committee (AFSC)",
+    "fuente": "Oportunidades Propel",
+    "sector": "Desarrollo social / Derechos",
+    "dimension": "social",
+    "presupuesto_usd": 15000,
+    "fecha_cierre": "2026-09-15",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 67,
+    "pivot": "Grant para apoyar iniciativas locales y comunitarias que protejan la democracia y promuevan la paz, la justicia y la no violencia. Financia ideas lideradas desde las comunidades que fortalezcan el diálogo, las redes de solidaridad, las instituciones democráticas, la participación y las respuestas colectivas ante desafíos emergentes para la paz y la democracia.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://afsc.org/apply-small-seed-grants",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-08-14T14:19:51.455Z"
+  },
+  {
+    "id": "scraped-wepropel-national-endowment-for-democracy-2nd-call-387f80ed94",
+    "titulo": "National Endowment for Democracy 2nd call",
+    "donante": "National Endowment for Democracy",
+    "fuente": "Oportunidades Propel",
+    "sector": "Educación / Juventud",
+    "dimension": "social",
+    "presupuesto_usd": 100000,
+    "fecha_cierre": "2026-09-21",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 67,
+    "pivot": "Programa de grants para organizaciones no gubernamentales que trabajen en países con democracias débiles, en transición o bajo regímenes autoritarios. Financia proyectos no partidistas en derechos humanos, libertad de prensa, transparencia, sociedad civil y participación ciudadana. No aplica a proyectos implementados en democracias consolidadas. La selección considera el alineamiento del proyecto con las prioridades de la fundación, el contexto país y la trayectoria democrática del solicitante.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.ned.org/apply-for-grant/es/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "roja",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-08-14T14:19:51.457Z"
+  },
+  {
+    "id": "scraped-wepropel-world-summit-award-a0bb3a8022",
+    "titulo": "World Summit Award",
+    "donante": "WSA",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-09-30",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 67,
+    "pivot": "Premio para soluciones digitales que ya estén en el mercado, demuestren un beneficio claro para la sociedad y tengan impacto local. El proceso se organiza por país: un Experto Nacional selecciona las mejores soluciones para avanzar a una competencia global. La convocatoria incluye una ruta general (WSA Award) y una categoría para equipos jóvenes (Young Innovators Award) orientada a fundadores mayoritariamente menores de 26 años. Ofrece visibilidad internacional y acceso a una comunidad global de innovadores, aliados e inversionistas vinculados a los Objetivos de Desarrollo Sostenible de las Naciones Unidas.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://wsa-global.org/contest-global-award/participate-submission-guide/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-08-14T14:19:51.458Z"
+  },
+  {
+    "id": "scraped-wepropel-the-gadfly-project-1838c6a5c5",
+    "titulo": "The Gadfly Project",
+    "donante": "The Gadfly Project",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 100000,
+    "fecha_cierre": "2026-10-23",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 67,
+    "pivot": "Convocatoria de apoyo en especie para organizaciones sin fines de lucro que trabajen en bienestar humano o sostenibilidad ambiental. Pone a disposición recursos técnicos internos para construir soluciones digitales que mejoren las operaciones o amplíen el alcance de la organización. Especialmente relevante para quienes necesitan un software personalizado pero no cuentan con la capacidad técnica ni el presupuesto para desarrollarlo.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.thegadflyproject.org/guidelines.html",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "roja",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-08-14T14:19:51.460Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -416,7 +800,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-13T14:24:14.133Z"
+    "capturado_en": "2026-08-14T14:19:51.461Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -440,7 +824,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-13T14:24:14.133Z"
+    "capturado_en": "2026-08-14T14:19:51.462Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
@@ -464,7 +848,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-13T14:24:18.286Z"
+    "capturado_en": "2026-08-14T14:19:55.506Z"
   },
   {
     "id": "scraped-red-exposocial-fondo-de-coyuntura-politica-convocatoria-para-593b5a2ab5",
@@ -488,7 +872,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-13T14:24:18.286Z"
+    "capturado_en": "2026-08-14T14:19:55.507Z"
   },
   {
     "id": "scraped-red-exposocial-holohil-programa-de-subvenciones-convocatoria-c4f0d54530",
@@ -512,7 +896,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-13T14:24:18.286Z"
+    "capturado_en": "2026-08-14T14:19:55.508Z"
   },
   {
     "id": "scraped-red-exposocial-convocatoria-2027-de-fundacion-alsea-convocat-9561833e7d",
@@ -536,7 +920,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-13T14:24:18.287Z"
+    "capturado_en": "2026-08-14T14:19:55.508Z"
   },
   {
     "id": "scraped-red-exposocial-life-programme-2026-convocatoria-para-osc-0c07737cd0",
@@ -560,7 +944,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-13T14:24:18.287Z"
+    "capturado_en": "2026-08-14T14:19:55.508Z"
   },
   {
     "id": "scraped-red-exposocial-mecanismo-de-apoyo-a-terceros-2026-ninez-prim-75dcc7563a",
@@ -584,31 +968,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-13T14:24:18.287Z"
-  },
-  {
-    "id": "scraped-wepropel-global-youth-water-envoys-program-eb1ba630a1",
-    "titulo": "Global Youth Water Envoys Program",
-    "donante": "Arab Youth Center",
-    "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-08-13",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 65,
-    "pivot": "Programa de fortalecimiento de capacidades y participación diplomática que prepara a jóvenes líderes para incidir en la gobernanza global del agua en el marco de la Conferencia de las Naciones Unidas sobre el Agua 2026. Incluye mentoría de expertos del sector hídrico y oportunidades de articulación con actores internacionales para impulsar el impacto a largo plazo. Combina formación base, especialización temática y participación directa con delegaciones nacionales y socios institucionales.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://arabyouthcenter.org/en/article/our-initiative/global-youth-water-envoys-program",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-13T14:24:14.125Z"
+    "capturado_en": "2026-08-14T14:19:55.509Z"
   },
   {
     "id": "scraped-premios-portafolio-premios-portafolio-2026-6c0d0fa3ff",
@@ -632,7 +992,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-08-13T14:24:05.630Z"
+    "capturado_en": "2026-08-14T14:19:42.785Z"
   },
   {
     "id": "scraped-wepropel-unesco-youth-hackathon-2026-fdd7444670",
@@ -656,7 +1016,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-13T14:24:14.127Z"
+    "capturado_en": "2026-08-14T14:19:51.434Z"
   },
   {
     "id": "scraped-wepropel-future-for-nature-awards-131130fba2",
@@ -680,6 +1040,30 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-13T14:24:14.131Z"
+    "capturado_en": "2026-08-14T14:19:51.444Z"
+  },
+  {
+    "id": "scraped-wepropel-endangered-languages-documentation-programme--37c01239f2",
+    "titulo": "Endangered Languages Documentation Programme Grant",
+    "donante": "Endangered Languages Documentation Programme",
+    "fuente": "Oportunidades Propel",
+    "sector": "Salud / Bienestar",
+    "dimension": "social",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-10-01",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 58,
+    "pivot": "Grant para la documentación de lenguas en peligro a nivel global, orientado a producir, preservar y compartir materiales documentales (por ejemplo, grabaciones y recursos lingüísticos). Ofrece varias modalidades de apoyo que cubren desde el trabajo de campo inicial hasta proyectos de documentación de mayor escala y la digitalización de materiales heredados. Está diseñado para documentadores/as, personas de comunidades lingüísticas, académicos/as locales y estudiantes, y valora especialmente proyectos colaborativos e interdisciplinarios.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://grants.eldp.net/en",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-08-14T14:19:51.459Z"
   }
 ]
