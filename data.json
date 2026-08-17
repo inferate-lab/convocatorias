@@ -111,7 +111,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-16T13:35:56.090Z"
+    "capturado_en": "2026-08-17T13:43:37.368Z"
   },
   {
     "id": "scraped-wepropel-resilient-futures-call-2026-e81a1867c6",
@@ -135,7 +135,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-16T13:35:56.096Z"
+    "capturado_en": "2026-08-17T13:43:37.374Z"
   },
   {
     "id": "scraped-wepropel-seed-grow-and-sustain-3-0-28dfaffe20",
@@ -159,7 +159,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-16T13:35:56.097Z"
+    "capturado_en": "2026-08-17T13:43:37.376Z"
   },
   {
     "id": "scraped-wepropel-fundacion-ama-amoedo-grants-2026-92e31e81d6",
@@ -183,31 +183,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-16T13:35:56.098Z"
-  },
-  {
-    "id": "scraped-wepropel-programa-de-cooperacion-sur-sur-de-mercociuda-214795c1c2",
-    "titulo": "Programa de Cooperación Sur Sur de Mercociudades",
-    "donante": "Programa de Cooperación Sur Sur de Mercociudades",
-    "fuente": "Oportunidades Propel",
-    "sector": "Educación / Juventud",
-    "dimension": "social",
-    "presupuesto_usd": 30000,
-    "fecha_cierre": "2026-10-01",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 88,
-    "pivot": "Grant para proyectos de cooperación orientados al eje temático “Ciudades de cuidados: innovadoras, seguras y resilientes”. Está dirigido a gobiernos locales, universidades públicas y organizaciones sociales de América Latina vinculadas a la red Mercociudades a través de ciudades miembros o Estados asociados. Además del apoyo económico, impulsa la cooperación entre territorios mediante modalidades como asistencia técnica, intercambios, pasantías y espacios de formación y difusión.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://mercociudades.org/descarga/bases-convocatoria-a-fondos-sur-sur-de-mercociudades-2026/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "roja",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-16T13:35:56.105Z"
+    "capturado_en": "2026-08-17T13:43:37.378Z"
   },
   {
     "id": "cop31_climate_finance",
@@ -321,7 +297,31 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-16T13:35:56.082Z"
+    "capturado_en": "2026-08-17T13:43:37.357Z"
+  },
+  {
+    "id": "scraped-wepropel-advocating-for-change-for-adolescents-initiat-3871fefe6f",
+    "titulo": "Advocating for Change for Adolescents Initiative - AY Grants 2026-2027",
+    "donante": "Partnership for Maternal, Newborn & Child Health",
+    "fuente": "Oportunidades Propel",
+    "sector": "Educación / Juventud",
+    "dimension": "social",
+    "presupuesto_usd": 15000,
+    "fecha_cierre": "2026-08-21",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Colombia mencionada ✓",
+    "afinidad_pivot": 81,
+    "pivot": "Grant para organizaciones, coaliciones y redes lideradas por jóvenes o que trabajan con jóvenes. Financia iniciativas que buscan fortalecer la incidencia en salud y bienestar adolescente, derechos sexuales y reproductivos, participación juvenil y seguimiento a compromisos gubernamentales.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://pmnch.who.int/news-and-events/articles/item/advocating-for-change-for-adolescents-initiative",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-08-17T13:43:37.360Z"
   },
   {
     "id": "scraped-wepropel-if-social-impact-prize-segundo-llamado-91dcc7df21",
@@ -345,7 +345,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-16T13:35:56.082Z"
+    "capturado_en": "2026-08-17T13:43:37.358Z"
   },
   {
     "id": "scraped-wepropel-social-shifters-global-innovation-challenge-2-3fdffd0db2",
@@ -369,7 +369,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-16T13:35:56.091Z"
+    "capturado_en": "2026-08-17T13:43:37.369Z"
   },
   {
     "id": "scraped-wepropel-miller-center-accelerator-program-cohorte-202-740a547e4f",
@@ -393,7 +393,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-16T13:35:56.092Z"
+    "capturado_en": "2026-08-17T13:43:37.370Z"
   },
   {
     "id": "scraped-wepropel-communication-for-climate-action-in-brazil-d26167a04d",
@@ -417,7 +417,55 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-16T13:35:56.093Z"
+    "capturado_en": "2026-08-17T13:43:37.371Z"
+  },
+  {
+    "id": "scraped-wepropel-fast-forward-accelerator-5a39b8dfcb",
+    "titulo": "Fast Forward Accelerator",
+    "donante": "Fast Forward",
+    "fuente": "Oportunidades Propel",
+    "sector": "Tecnología / Innovación",
+    "dimension": "social",
+    "presupuesto_usd": 25000,
+    "fecha_cierre": "2026-09-07",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Programa de aceleración para nonprofits de tecnología en etapa temprana que cuentan con un MVP. Ofrece financiamiento sin restricciones, mentoría, formación y acceso a una red de expertos y fundadores para fortalecer y escalar su impacto.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.ffwd.org/accelerator",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-08-17T13:43:37.377Z"
+  },
+  {
+    "id": "scraped-wepropel-information-controls-research-program-ba592081bb",
+    "titulo": "Information Controls Research Program",
+    "donante": "Open Technology Fund (OTF)",
+    "fuente": "Oportunidades Propel",
+    "sector": "Salud / Bienestar",
+    "dimension": "social",
+    "presupuesto_usd": 7000,
+    "fecha_cierre": "2026-09-07",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Fellowship de investigación aplicada sobre censura y vigilancia en internet en entornos represivos. Financia estudios sobre controles de información y herramientas de libertad en internet, con outputs técnicos aplicables a la comunidad de internet freedom. Los investigadores trabajan a tiempo completo integrados en una organización anfitriona. Dirigido a perfiles interdisciplinarios (ciencias sociales, seguridad, ingeniería, ciencia de datos).",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.opentech.fund/research-2/icrp/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-08-17T13:43:37.377Z"
   },
   {
     "id": "scraped-wepropel-stanley-1913-creators-fund-2026-program-d309acbd4f",
@@ -441,7 +489,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-16T13:35:56.099Z"
+    "capturado_en": "2026-08-17T13:43:37.381Z"
   },
   {
     "id": "scraped-wepropel-global-environment-facility-small-grants-prog-bd4c525132",
@@ -465,7 +513,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-16T13:35:56.101Z"
+    "capturado_en": "2026-08-17T13:43:37.382Z"
   },
   {
     "id": "scraped-wepropel-wellcome-discovery-awards-73c847f26d",
@@ -489,7 +537,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-16T13:35:56.103Z"
+    "capturado_en": "2026-08-17T13:43:37.384Z"
   },
   {
     "id": "scraped-wepropel-indoor-environmental-quality-grants-842a6a123f",
@@ -513,7 +561,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-16T13:35:56.094Z"
+    "capturado_en": "2026-08-17T13:43:37.372Z"
   },
   {
     "id": "scraped-wepropel-norec-grant-for-work-exchange-cooperation-0fe941e777",
@@ -537,7 +585,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-16T13:35:56.095Z"
+    "capturado_en": "2026-08-17T13:43:37.373Z"
   },
   {
     "id": "scraped-wepropel-ohchr-indigenous-fellowship-program-2027-68f42b564f",
@@ -561,7 +609,31 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-16T13:35:56.096Z"
+    "capturado_en": "2026-08-17T13:43:37.375Z"
+  },
+  {
+    "id": "scraped-wepropel-nonprofit-open-source-partnership-623fc67289",
+    "titulo": "Nonprofit Open Source Partnership",
+    "donante": "Bloomberg | Develop for Good | CodeDay | Fast Forward",
+    "fuente": "Oportunidades Propel",
+    "sector": "Educación / Juventud",
+    "dimension": "social",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-09-09",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 67,
+    "pivot": "Programa que apoya a organizaciones sin fines de lucro a convertir una herramienta existente en un proyecto de código abierto (open source), construir su documentación o contribuir a un proyecto open source que ya utilizan. Un equipo de 8 estudiantes universitarios voluntarios, con mentoría de empleados de Bloomberg y guía de mejores prácticas de CodeDay, trabaja durante 16 semanas para entregar un producto público, licenciado, documentado y listo para ser usado por la organización y potencialmente por otras.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://developforgood.notion.site/Nonprofit-Open-Source-Partnership-3aefbe7117c0808c9b88f3bc93991e64",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-08-17T13:43:37.379Z"
   },
   {
     "id": "scraped-wepropel-forest-conservation-fund-3rd-call-2f41323bac",
@@ -585,7 +657,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-16T13:35:56.098Z"
+    "capturado_en": "2026-08-17T13:43:37.380Z"
   },
   {
     "id": "scraped-wepropel-global-voices-for-peace-small-seed-grants-19517a2aa1",
@@ -609,7 +681,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-16T13:35:56.100Z"
+    "capturado_en": "2026-08-17T13:43:37.381Z"
   },
   {
     "id": "scraped-wepropel-national-endowment-for-democracy-2nd-call-387f80ed94",
@@ -633,7 +705,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-16T13:35:56.102Z"
+    "capturado_en": "2026-08-17T13:43:37.383Z"
   },
   {
     "id": "scraped-wepropel-world-summit-award-a0bb3a8022",
@@ -657,31 +729,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-16T13:35:56.104Z"
-  },
-  {
-    "id": "scraped-wepropel-the-gadfly-project-1838c6a5c5",
-    "titulo": "The Gadfly Project",
-    "donante": "The Gadfly Project",
-    "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 100000,
-    "fecha_cierre": "2026-10-23",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 67,
-    "pivot": "Convocatoria de apoyo en especie para organizaciones sin fines de lucro que trabajen en bienestar humano o sostenibilidad ambiental. Pone a disposición recursos técnicos internos para construir soluciones digitales que mejoren las operaciones o amplíen el alcance de la organización. Especialmente relevante para quienes necesitan un software personalizado pero no cuentan con la capacidad técnica ni el presupuesto para desarrollarlo.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.thegadflyproject.org/guidelines.html",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "roja",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-16T13:35:56.105Z"
+    "capturado_en": "2026-08-17T13:43:37.384Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -705,7 +753,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-16T13:35:56.106Z"
+    "capturado_en": "2026-08-17T13:43:37.386Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -729,7 +777,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-16T13:35:56.107Z"
+    "capturado_en": "2026-08-17T13:43:37.387Z"
   },
   {
     "id": "scraped-premios-portafolio-premios-portafolio-2026-6c0d0fa3ff",
@@ -753,31 +801,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-08-16T13:35:48.904Z"
-  },
-  {
-    "id": "scraped-wepropel-unesco-youth-hackathon-2026-fdd7444670",
-    "titulo": "UNESCO Youth Hackathon 2026",
-    "donante": "Unesco",
-    "fuente": "Oportunidades Propel",
-    "sector": "Educación / Juventud",
-    "dimension": "social",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-08-16",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 58,
-    "pivot": "Concurso global tipo hackathon para jóvenes que codiseñan soluciones innovadoras de Alfabetización Mediática e Informacional (Media and Information Literacy, MIL) para responder a retos del entorno informativo actual. Ofrece un programa de mentoría de dos días con expertos en MIL, transformación digital, inteligencia artificial, desarrollo de proyectos e innovación para fortalecer las propuestas. Los equipos ganadores obtienen visibilidad internacional al presentar sus proyectos en el Voices European Festival of Journalism and Media Freedom en Tesalónica, Grecia.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.unesco.org/en/articles/unesco-youth-hackathon-2026",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-16T13:35:56.081Z"
+    "capturado_en": "2026-08-17T13:43:30.107Z"
   },
   {
     "id": "scraped-wepropel-future-for-nature-awards-131130fba2",
@@ -801,7 +825,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-16T13:35:56.089Z"
+    "capturado_en": "2026-08-17T13:43:37.361Z"
   },
   {
     "id": "scraped-wepropel-endangered-languages-documentation-programme--37c01239f2",
@@ -825,6 +849,6 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-16T13:35:56.104Z"
+    "capturado_en": "2026-08-17T13:43:37.385Z"
   }
 ]
