@@ -111,7 +111,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-18T13:47:23.022Z"
+    "capturado_en": "2026-08-19T13:49:27.664Z"
   },
   {
     "id": "scraped-wepropel-resilient-futures-call-2026-e81a1867c6",
@@ -135,7 +135,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-18T13:47:23.027Z"
+    "capturado_en": "2026-08-19T13:49:27.674Z"
   },
   {
     "id": "scraped-wepropel-seed-grow-and-sustain-3-0-28dfaffe20",
@@ -159,7 +159,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-18T13:47:23.028Z"
+    "capturado_en": "2026-08-19T13:49:27.675Z"
   },
   {
     "id": "scraped-wepropel-fundacion-ama-amoedo-grants-2026-92e31e81d6",
@@ -183,7 +183,31 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-18T13:47:23.030Z"
+    "capturado_en": "2026-08-19T13:49:27.677Z"
+  },
+  {
+    "id": "scraped-wepropel-programa-de-cooperacion-sur-sur-de-mercociuda-214795c1c2",
+    "titulo": "Programa de Cooperación Sur Sur de Mercociudades",
+    "donante": "Programa de Cooperación Sur Sur de Mercociudades",
+    "fuente": "Oportunidades Propel",
+    "sector": "Educación / Juventud",
+    "dimension": "social",
+    "presupuesto_usd": 30000,
+    "fecha_cierre": "2026-10-01",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 88,
+    "pivot": "Grant para proyectos de cooperación orientados al eje temático “Ciudades de cuidados: innovadoras, seguras y resilientes”. Está dirigido a gobiernos locales, universidades públicas y organizaciones sociales de América Latina vinculadas a la red Mercociudades a través de ciudades miembros o Estados asociados. Además del apoyo económico, impulsa la cooperación entre territorios mediante modalidades como asistencia técnica, intercambios, pasantías y espacios de formación y difusión.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://mercociudades.org/descarga/bases-convocatoria-a-fondos-sur-sur-de-mercociudades-2026/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "roja",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-08-19T13:49:27.682Z"
   },
   {
     "id": "cop31_climate_finance",
@@ -276,30 +300,6 @@
     "tipo": "roja"
   },
   {
-    "id": "scraped-wepropel-the-adaptation-fund-climate-innovation-accele-d24103f9d6",
-    "titulo": "The Adaptation Fund Climate Innovation Accelerator",
-    "donante": "UN Climate Technology Center and Network (UN CTCN)",
-    "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 150000,
-    "fecha_cierre": "2026-08-18",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 81,
-    "pivot": "Asistencia técnica para iniciativas que analicen y piloten innovaciones de adaptación al cambio climático a pequeña escala en América Latina y el Caribe. Ofrece soporte especializado para diagnosticar barreras técnicas o tecnológicas, comparar alternativas, acompañar procesos de adquisición para el pilotaje y generar evidencia mediante monitoreo de resultados.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.ctc-n.org/adaptation-fund-climate-innovation-accelerator",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "roja",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-18T13:47:23.012Z"
-  },
-  {
     "id": "scraped-wepropel-advocating-for-change-for-adolescents-initiat-3871fefe6f",
     "titulo": "Advocating for Change for Adolescents Initiative - AY Grants 2026-2027",
     "donante": "Partnership for Maternal, Newborn & Child Health",
@@ -321,7 +321,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-18T13:47:23.014Z"
+    "capturado_en": "2026-08-19T13:49:27.662Z"
   },
   {
     "id": "scraped-red-exposocial-apoyos-de-respuesta-rapida-convocatoria-para--97707cba23",
@@ -345,7 +345,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-18T13:47:27.186Z"
+    "capturado_en": "2026-08-19T13:49:32.745Z"
   },
   {
     "id": "scraped-wepropel-if-social-impact-prize-segundo-llamado-91dcc7df21",
@@ -369,7 +369,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-18T13:47:23.013Z"
+    "capturado_en": "2026-08-19T13:49:27.661Z"
   },
   {
     "id": "scraped-wepropel-social-shifters-global-innovation-challenge-2-3fdffd0db2",
@@ -393,7 +393,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-18T13:47:23.022Z"
+    "capturado_en": "2026-08-19T13:49:27.670Z"
   },
   {
     "id": "scraped-wepropel-miller-center-accelerator-program-cohorte-202-740a547e4f",
@@ -417,7 +417,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-18T13:47:23.023Z"
+    "capturado_en": "2026-08-19T13:49:27.671Z"
   },
   {
     "id": "scraped-wepropel-communication-for-climate-action-in-brazil-d26167a04d",
@@ -441,7 +441,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-18T13:47:23.024Z"
+    "capturado_en": "2026-08-19T13:49:27.672Z"
   },
   {
     "id": "scraped-wepropel-fast-forward-accelerator-5a39b8dfcb",
@@ -465,7 +465,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-18T13:47:23.029Z"
+    "capturado_en": "2026-08-19T13:49:27.675Z"
   },
   {
     "id": "scraped-wepropel-information-controls-research-program-ba592081bb",
@@ -489,7 +489,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-18T13:47:23.030Z"
+    "capturado_en": "2026-08-19T13:49:27.676Z"
   },
   {
     "id": "scraped-wepropel-stanley-1913-creators-fund-2026-program-d309acbd4f",
@@ -513,7 +513,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-18T13:47:23.032Z"
+    "capturado_en": "2026-08-19T13:49:27.678Z"
   },
   {
     "id": "scraped-wepropel-global-environment-facility-small-grants-prog-bd4c525132",
@@ -537,7 +537,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-18T13:47:23.034Z"
+    "capturado_en": "2026-08-19T13:49:27.679Z"
   },
   {
     "id": "scraped-wepropel-wellcome-discovery-awards-73c847f26d",
@@ -561,7 +561,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-18T13:47:23.035Z"
+    "capturado_en": "2026-08-19T13:49:27.680Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
@@ -585,7 +585,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-18T13:47:27.185Z"
+    "capturado_en": "2026-08-19T13:49:32.744Z"
   },
   {
     "id": "scraped-wepropel-indoor-environmental-quality-grants-842a6a123f",
@@ -609,7 +609,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-18T13:47:23.025Z"
+    "capturado_en": "2026-08-19T13:49:27.672Z"
   },
   {
     "id": "scraped-wepropel-norec-grant-for-work-exchange-cooperation-0fe941e777",
@@ -633,7 +633,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-18T13:47:23.026Z"
+    "capturado_en": "2026-08-19T13:49:27.673Z"
   },
   {
     "id": "scraped-wepropel-ohchr-indigenous-fellowship-program-2027-68f42b564f",
@@ -657,7 +657,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-18T13:47:23.028Z"
+    "capturado_en": "2026-08-19T13:49:27.674Z"
   },
   {
     "id": "scraped-wepropel-nonprofit-open-source-partnership-623fc67289",
@@ -681,7 +681,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-18T13:47:23.031Z"
+    "capturado_en": "2026-08-19T13:49:27.677Z"
   },
   {
     "id": "scraped-wepropel-forest-conservation-fund-3rd-call-2f41323bac",
@@ -705,7 +705,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-18T13:47:23.032Z"
+    "capturado_en": "2026-08-19T13:49:27.678Z"
   },
   {
     "id": "scraped-wepropel-global-voices-for-peace-small-seed-grants-19517a2aa1",
@@ -729,7 +729,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-18T13:47:23.033Z"
+    "capturado_en": "2026-08-19T13:49:27.679Z"
   },
   {
     "id": "scraped-wepropel-national-endowment-for-democracy-2nd-call-387f80ed94",
@@ -753,7 +753,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-18T13:47:23.034Z"
+    "capturado_en": "2026-08-19T13:49:27.680Z"
   },
   {
     "id": "scraped-wepropel-world-summit-award-a0bb3a8022",
@@ -777,7 +777,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-18T13:47:23.035Z"
+    "capturado_en": "2026-08-19T13:49:27.681Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -801,7 +801,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-18T13:47:23.037Z"
+    "capturado_en": "2026-08-19T13:49:27.682Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -825,7 +825,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-18T13:47:23.037Z"
+    "capturado_en": "2026-08-19T13:49:27.683Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
@@ -849,7 +849,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-18T13:47:27.185Z"
+    "capturado_en": "2026-08-19T13:49:32.744Z"
   },
   {
     "id": "scraped-red-exposocial-fondo-de-coyuntura-politica-convocatoria-para-593b5a2ab5",
@@ -873,7 +873,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-18T13:47:27.186Z"
+    "capturado_en": "2026-08-19T13:49:32.745Z"
   },
   {
     "id": "scraped-red-exposocial-holohil-programa-de-subvenciones-convocatoria-c4f0d54530",
@@ -897,7 +897,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-18T13:47:27.186Z"
+    "capturado_en": "2026-08-19T13:49:32.745Z"
   },
   {
     "id": "scraped-red-exposocial-convocatoria-2027-de-fundacion-alsea-convocat-9561833e7d",
@@ -921,7 +921,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-18T13:47:27.186Z"
+    "capturado_en": "2026-08-19T13:49:32.745Z"
   },
   {
     "id": "scraped-red-exposocial-life-programme-2026-convocatoria-para-osc-0c07737cd0",
@@ -945,7 +945,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-18T13:47:27.187Z"
+    "capturado_en": "2026-08-19T13:49:32.745Z"
   },
   {
     "id": "scraped-red-exposocial-mecanismo-de-apoyo-a-terceros-2026-ninez-prim-75dcc7563a",
@@ -969,7 +969,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-18T13:47:27.187Z"
+    "capturado_en": "2026-08-19T13:49:32.745Z"
   },
   {
     "id": "scraped-premios-portafolio-premios-portafolio-2026-6c0d0fa3ff",
@@ -993,7 +993,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-08-18T13:47:16.477Z"
+    "capturado_en": "2026-08-19T13:49:20.488Z"
   },
   {
     "id": "scraped-wepropel-future-for-nature-awards-131130fba2",
@@ -1017,7 +1017,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-18T13:47:23.015Z"
+    "capturado_en": "2026-08-19T13:49:27.663Z"
   },
   {
     "id": "scraped-wepropel-endangered-languages-documentation-programme--37c01239f2",
@@ -1041,6 +1041,6 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-18T13:47:23.036Z"
+    "capturado_en": "2026-08-19T13:49:27.681Z"
   }
 ]
