@@ -111,7 +111,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-19T13:49:27.664Z"
+    "capturado_en": "2026-08-20T13:51:13.571Z"
   },
   {
     "id": "scraped-wepropel-resilient-futures-call-2026-e81a1867c6",
@@ -135,7 +135,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-19T13:49:27.674Z"
+    "capturado_en": "2026-08-20T13:51:13.577Z"
   },
   {
     "id": "scraped-wepropel-seed-grow-and-sustain-3-0-28dfaffe20",
@@ -159,7 +159,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-19T13:49:27.675Z"
+    "capturado_en": "2026-08-20T13:51:13.579Z"
   },
   {
     "id": "scraped-wepropel-fundacion-ama-amoedo-grants-2026-92e31e81d6",
@@ -183,31 +183,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-19T13:49:27.677Z"
-  },
-  {
-    "id": "scraped-wepropel-programa-de-cooperacion-sur-sur-de-mercociuda-214795c1c2",
-    "titulo": "Programa de Cooperación Sur Sur de Mercociudades",
-    "donante": "Programa de Cooperación Sur Sur de Mercociudades",
-    "fuente": "Oportunidades Propel",
-    "sector": "Educación / Juventud",
-    "dimension": "social",
-    "presupuesto_usd": 30000,
-    "fecha_cierre": "2026-10-01",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 88,
-    "pivot": "Grant para proyectos de cooperación orientados al eje temático “Ciudades de cuidados: innovadoras, seguras y resilientes”. Está dirigido a gobiernos locales, universidades públicas y organizaciones sociales de América Latina vinculadas a la red Mercociudades a través de ciudades miembros o Estados asociados. Además del apoyo económico, impulsa la cooperación entre territorios mediante modalidades como asistencia técnica, intercambios, pasantías y espacios de formación y difusión.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://mercociudades.org/descarga/bases-convocatoria-a-fondos-sur-sur-de-mercociudades-2026/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "roja",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-19T13:49:27.682Z"
+    "capturado_en": "2026-08-20T13:51:13.587Z"
   },
   {
     "id": "cop31_climate_finance",
@@ -321,55 +297,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-19T13:49:27.662Z"
-  },
-  {
-    "id": "scraped-red-exposocial-apoyos-de-respuesta-rapida-convocatoria-para--97707cba23",
-    "titulo": "Apoyos de Respuesta Rápida: convocatoria para OSC",
-    "donante": "Red ExpoSocial",
-    "fuente": "Red ExpoSocial",
-    "sector": "Desarrollo social / Convocatorias",
-    "dimension": "social",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "Revisar en plataforma",
-    "estado": "VERIFICAR VIGENCIA EN LA FUENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 81,
-    "pivot": "Fondo de Acción Urgente para América Latina y el Caribe (FAU-LAC) presenta esta oportunidad para organizaciones de la sociedad civil. Fecha de cierre: Permanente.",
-    "obstaculo": "La fuente no publica una fecha estructurada; verificar vigencia antes de postular.",
-    "fuente_url": "https://redexposocial.org/apoyos-de-respuesta-rapida/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "RED EXPOSOCIAL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-19T13:49:32.745Z"
-  },
-  {
-    "id": "scraped-wepropel-if-social-impact-prize-segundo-llamado-91dcc7df21",
-    "titulo": "iF Social Impact Prize -segundo llamado",
-    "donante": "iF Design",
-    "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-08-19",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 74,
-    "pivot": "Premio internacional para proyectos de impacto social ya implementados, alineados con los Objetivos de Desarrollo Sostenible de las Naciones Unidas. El jurado distribuye EUR 100.000 al año entre los mejores proyectos, en dos rondas. Esta es la segunda ronda de postulaciones.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://ifdesign.com/en/if-social-impact-prize",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-19T13:49:27.661Z"
+    "capturado_en": "2026-08-20T13:51:13.569Z"
   },
   {
     "id": "scraped-wepropel-social-shifters-global-innovation-challenge-2-3fdffd0db2",
@@ -393,7 +321,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-19T13:49:27.670Z"
+    "capturado_en": "2026-08-20T13:51:13.572Z"
   },
   {
     "id": "scraped-wepropel-miller-center-accelerator-program-cohorte-202-740a547e4f",
@@ -417,7 +345,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-19T13:49:27.671Z"
+    "capturado_en": "2026-08-20T13:51:13.573Z"
   },
   {
     "id": "scraped-wepropel-communication-for-climate-action-in-brazil-d26167a04d",
@@ -441,7 +369,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-19T13:49:27.672Z"
+    "capturado_en": "2026-08-20T13:51:13.574Z"
   },
   {
     "id": "scraped-wepropel-fast-forward-accelerator-5a39b8dfcb",
@@ -465,7 +393,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-19T13:49:27.675Z"
+    "capturado_en": "2026-08-20T13:51:13.580Z"
   },
   {
     "id": "scraped-wepropel-information-controls-research-program-ba592081bb",
@@ -489,7 +417,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-19T13:49:27.676Z"
+    "capturado_en": "2026-08-20T13:51:13.581Z"
   },
   {
     "id": "scraped-wepropel-stanley-1913-creators-fund-2026-program-d309acbd4f",
@@ -513,7 +441,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-19T13:49:27.678Z"
+    "capturado_en": "2026-08-20T13:51:13.590Z"
   },
   {
     "id": "scraped-wepropel-global-environment-facility-small-grants-prog-bd4c525132",
@@ -537,55 +465,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-19T13:49:27.679Z"
-  },
-  {
-    "id": "scraped-wepropel-wellcome-discovery-awards-73c847f26d",
-    "titulo": "Wellcome Discovery Awards",
-    "donante": "Wellcome",
-    "fuente": "Oportunidades Propel",
-    "sector": "Salud / Bienestar",
-    "dimension": "social",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-09-22",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 74,
-    "pivot": "Financiamiento a largo plazo para equipos multidisciplinarios o investigadores que busquen desarrollar investigación ambiciosa y creativa con potencial de generar avances significativos en la comprensión de la vida humana, la salud y el bienestar. Cubre gastos de investigación durante un período de hasta 8 años. Buscan equipos con capacidad de investigación formal y trayectoria consolidada en su campo.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://wellcome.org/research-funding/schemes/wellcome-discovery-awards#key-dates-0dcc",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-19T13:49:27.680Z"
-  },
-  {
-    "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
-    "titulo": "Google para Nonprofits",
-    "donante": "Red ExpoSocial",
-    "fuente": "Red ExpoSocial",
-    "sector": "Tecnología / Innovación",
-    "dimension": "social",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "Revisar en plataforma",
-    "estado": "VERIFICAR VIGENCIA EN LA FUENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 74,
-    "pivot": "Google. Tecnología / comunicación / publicidad / recaudación. Cierre: Permanente. Apoyo: Apoyos en especie.",
-    "obstaculo": "La fuente no publica una fecha estructurada; verificar vigencia antes de postular.",
-    "fuente_url": "https://redexposocial.org/google-para-nonprofits-google-2026-7db59f71/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "RED EXPOSOCIAL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-19T13:49:32.744Z"
+    "capturado_en": "2026-08-20T13:51:13.592Z"
   },
   {
     "id": "scraped-wepropel-indoor-environmental-quality-grants-842a6a123f",
@@ -609,7 +489,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-19T13:49:27.672Z"
+    "capturado_en": "2026-08-20T13:51:13.575Z"
   },
   {
     "id": "scraped-wepropel-norec-grant-for-work-exchange-cooperation-0fe941e777",
@@ -633,7 +513,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-19T13:49:27.673Z"
+    "capturado_en": "2026-08-20T13:51:13.576Z"
   },
   {
     "id": "scraped-wepropel-ohchr-indigenous-fellowship-program-2027-68f42b564f",
@@ -657,7 +537,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-19T13:49:27.674Z"
+    "capturado_en": "2026-08-20T13:51:13.578Z"
   },
   {
     "id": "scraped-wepropel-nonprofit-open-source-partnership-623fc67289",
@@ -681,7 +561,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-19T13:49:27.677Z"
+    "capturado_en": "2026-08-20T13:51:13.588Z"
   },
   {
     "id": "scraped-wepropel-forest-conservation-fund-3rd-call-2f41323bac",
@@ -705,7 +585,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-19T13:49:27.678Z"
+    "capturado_en": "2026-08-20T13:51:13.589Z"
   },
   {
     "id": "scraped-wepropel-global-voices-for-peace-small-seed-grants-19517a2aa1",
@@ -729,55 +609,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-19T13:49:27.679Z"
-  },
-  {
-    "id": "scraped-wepropel-national-endowment-for-democracy-2nd-call-387f80ed94",
-    "titulo": "National Endowment for Democracy 2nd call",
-    "donante": "National Endowment for Democracy",
-    "fuente": "Oportunidades Propel",
-    "sector": "Educación / Juventud",
-    "dimension": "social",
-    "presupuesto_usd": 100000,
-    "fecha_cierre": "2026-09-21",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 67,
-    "pivot": "Programa de grants para organizaciones no gubernamentales que trabajen en países con democracias débiles, en transición o bajo regímenes autoritarios. Financia proyectos no partidistas en derechos humanos, libertad de prensa, transparencia, sociedad civil y participación ciudadana. No aplica a proyectos implementados en democracias consolidadas. La selección considera el alineamiento del proyecto con las prioridades de la fundación, el contexto país y la trayectoria democrática del solicitante.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.ned.org/apply-for-grant/es/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "roja",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-19T13:49:27.680Z"
-  },
-  {
-    "id": "scraped-wepropel-world-summit-award-a0bb3a8022",
-    "titulo": "World Summit Award",
-    "donante": "WSA",
-    "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-09-30",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 67,
-    "pivot": "Premio para soluciones digitales que ya estén en el mercado, demuestren un beneficio claro para la sociedad y tengan impacto local. El proceso se organiza por país: un Experto Nacional selecciona las mejores soluciones para avanzar a una competencia global. La convocatoria incluye una ruta general (WSA Award) y una categoría para equipos jóvenes (Young Innovators Award) orientada a fundadores mayoritariamente menores de 26 años. Ofrece visibilidad internacional y acceso a una comunidad global de innovadores, aliados e inversionistas vinculados a los Objetivos de Desarrollo Sostenible de las Naciones Unidas.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://wsa-global.org/contest-global-award/participate-submission-guide/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-19T13:49:27.681Z"
+    "capturado_en": "2026-08-20T13:51:13.591Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -801,7 +633,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-19T13:49:27.682Z"
+    "capturado_en": "2026-08-20T13:51:13.593Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -825,151 +657,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-19T13:49:27.683Z"
-  },
-  {
-    "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
-    "titulo": "Google para Nonprofits: convocatoria para OSC",
-    "donante": "Red ExpoSocial",
-    "fuente": "Red ExpoSocial",
-    "sector": "Desarrollo social / Convocatorias",
-    "dimension": "social",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "Revisar en plataforma",
-    "estado": "VERIFICAR VIGENCIA EN LA FUENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 67,
-    "pivot": "Google presenta esta oportunidad para organizaciones de la sociedad civil. Fecha de cierre: Permanente.",
-    "obstaculo": "La fuente no publica una fecha estructurada; verificar vigencia antes de postular.",
-    "fuente_url": "https://redexposocial.org/google-para-nonprofits/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "RED EXPOSOCIAL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-19T13:49:32.744Z"
-  },
-  {
-    "id": "scraped-red-exposocial-fondo-de-coyuntura-politica-convocatoria-para-593b5a2ab5",
-    "titulo": "Fondo de Coyuntura Política: convocatoria para OSC",
-    "donante": "Red ExpoSocial",
-    "fuente": "Red ExpoSocial",
-    "sector": "Desarrollo social / Convocatorias",
-    "dimension": "social",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "Revisar en plataforma",
-    "estado": "VERIFICAR VIGENCIA EN LA FUENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 67,
-    "pivot": "Alianza Surge presenta esta oportunidad para organizaciones de la sociedad civil. Fecha de cierre: Hasta agotar recursos.",
-    "obstaculo": "La fuente no publica una fecha estructurada; verificar vigencia antes de postular.",
-    "fuente_url": "https://redexposocial.org/fondo-de-coyuntura-politica/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "RED EXPOSOCIAL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-19T13:49:32.745Z"
-  },
-  {
-    "id": "scraped-red-exposocial-holohil-programa-de-subvenciones-convocatoria-c4f0d54530",
-    "titulo": "Holohil – Programa de subvenciones: convocatoria para OSC",
-    "donante": "Red ExpoSocial",
-    "fuente": "Red ExpoSocial",
-    "sector": "Desarrollo social / Convocatorias",
-    "dimension": "social",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-10-15",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 67,
-    "pivot": "Holohil presenta esta oportunidad para organizaciones de la sociedad civil. Fecha de cierre: 15/10/2026 (próxima ronda).",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://redexposocial.org/holohil-programa-de-subvenciones/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "RED EXPOSOCIAL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-19T13:49:32.745Z"
-  },
-  {
-    "id": "scraped-red-exposocial-convocatoria-2027-de-fundacion-alsea-convocat-9561833e7d",
-    "titulo": "Convocatoria 2027 de Fundación Alsea: convocatoria para OSC",
-    "donante": "Red ExpoSocial",
-    "fuente": "Red ExpoSocial",
-    "sector": "Desarrollo social / Convocatorias",
-    "dimension": "social",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-09-30",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 67,
-    "pivot": "Fundación Alsea presenta esta oportunidad para organizaciones de la sociedad civil. Fecha de cierre: 30/09/2026.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://redexposocial.org/convocatoria-2027-de-fundacion-alsea/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "RED EXPOSOCIAL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-19T13:49:32.745Z"
-  },
-  {
-    "id": "scraped-red-exposocial-life-programme-2026-convocatoria-para-osc-0c07737cd0",
-    "titulo": "LIFE Programme 2026: convocatoria para OSC",
-    "donante": "Red ExpoSocial",
-    "fuente": "Red ExpoSocial",
-    "sector": "Desarrollo social / Convocatorias",
-    "dimension": "social",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-09-22",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 67,
-    "pivot": "Comisión Europea / CINEA presenta esta oportunidad para organizaciones de la sociedad civil. Fecha de cierre: 22/09/2026.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://redexposocial.org/life-programme-2026/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "RED EXPOSOCIAL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-19T13:49:32.745Z"
-  },
-  {
-    "id": "scraped-red-exposocial-mecanismo-de-apoyo-a-terceros-2026-ninez-prim-75dcc7563a",
-    "titulo": "Mecanismo de Apoyo a Terceros 2026 – Niñez Primero: convocatoria para OSC",
-    "donante": "Red ExpoSocial",
-    "fuente": "Red ExpoSocial",
-    "sector": "Desarrollo social / Convocatorias",
-    "dimension": "social",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-08-28",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 67,
-    "pivot": "REDIM + CAM + Unión Europea presenta esta oportunidad para organizaciones de la sociedad civil. Fecha de cierre: 28/08/2026.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://redexposocial.org/mecanismo-de-apoyo-a-terceros-2026-ninez-primero/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "RED EXPOSOCIAL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-19T13:49:32.745Z"
+    "capturado_en": "2026-08-20T13:51:13.594Z"
   },
   {
     "id": "scraped-premios-portafolio-premios-portafolio-2026-6c0d0fa3ff",
@@ -993,7 +681,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-08-19T13:49:20.488Z"
+    "capturado_en": "2026-08-20T13:51:06.213Z"
   },
   {
     "id": "scraped-wepropel-future-for-nature-awards-131130fba2",
@@ -1017,30 +705,6 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-19T13:49:27.663Z"
-  },
-  {
-    "id": "scraped-wepropel-endangered-languages-documentation-programme--37c01239f2",
-    "titulo": "Endangered Languages Documentation Programme Grant",
-    "donante": "Endangered Languages Documentation Programme",
-    "fuente": "Oportunidades Propel",
-    "sector": "Salud / Bienestar",
-    "dimension": "social",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-10-01",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 58,
-    "pivot": "Grant para la documentación de lenguas en peligro a nivel global, orientado a producir, preservar y compartir materiales documentales (por ejemplo, grabaciones y recursos lingüísticos). Ofrece varias modalidades de apoyo que cubren desde el trabajo de campo inicial hasta proyectos de documentación de mayor escala y la digitalización de materiales heredados. Está diseñado para documentadores/as, personas de comunidades lingüísticas, académicos/as locales y estudiantes, y valora especialmente proyectos colaborativos e interdisciplinarios.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://grants.eldp.net/en",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-19T13:49:27.681Z"
+    "capturado_en": "2026-08-20T13:51:13.570Z"
   }
 ]
