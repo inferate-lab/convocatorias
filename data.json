@@ -111,7 +111,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-23T13:36:51.184Z"
+    "capturado_en": "2026-08-24T13:56:23.076Z"
   },
   {
     "id": "scraped-wepropel-resilient-futures-call-2026-e81a1867c6",
@@ -135,7 +135,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-23T13:36:51.189Z"
+    "capturado_en": "2026-08-24T13:56:23.083Z"
   },
   {
     "id": "scraped-wepropel-seed-grow-and-sustain-3-0-28dfaffe20",
@@ -159,7 +159,31 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-23T13:36:51.191Z"
+    "capturado_en": "2026-08-24T13:56:23.093Z"
+  },
+  {
+    "id": "scraped-wepropel-global-south-civil-society-microgrants-cb2567bb63",
+    "titulo": "Global South Civil Society Microgrants",
+    "donante": "Pulitzer Center",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 4000,
+    "fecha_cierre": "2026-09-06",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 88,
+    "pivot": "Microgrant para organizaciones y grupos de la sociedad civil del Sur Global que desarrollen proyectos de participación ciudadana utilizando periodismo. Los proyectos deben abordar temas relacionados con bosques tropicales, océanos, o clima y trabajo, y buscar generar mayor comprensión, diálogo, representación de distintas perspectivas o capacidad de acción en sus comunidades.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://pulitzercenter.org/opportunities/reporting-grants-fellowships/global-south-civil-society-microgrants",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "roja",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-08-24T13:56:23.093Z"
   },
   {
     "id": "scraped-wepropel-fundacion-ama-amoedo-grants-2026-92e31e81d6",
@@ -183,7 +207,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-23T13:36:51.200Z"
+    "capturado_en": "2026-08-24T13:56:23.096Z"
   },
   {
     "id": "cop31_climate_finance",
@@ -276,6 +300,30 @@
     "tipo": "roja"
   },
   {
+    "id": "scraped-wepropel-safeguarding-rural-livelihoods-in-latin-ameri-e979d16b37",
+    "titulo": "Safeguarding Rural Livelihoods in Latin America and the Caribbean (Remittances)",
+    "donante": "Fondo Internacional de Desarrollo Agrícola (FIDA)",
+    "fuente": "Oportunidades Propel",
+    "sector": "Cooperación / Grants",
+    "dimension": "social",
+    "presupuesto_usd": 500000,
+    "fecha_cierre": "2026-09-04",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 81,
+    "pivot": "Grant regional para fortalecer la resiliencia de los medios de vida rurales en América Latina y el Caribe frente a posibles cambios o interrupciones en los flujos de remesas. Financiará acciones para generar evidencia, fortalecer políticas y promover soluciones prácticas junto con gobiernos, instituciones financieras y otros actores.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "http://ifad.org/en/w/calls-for-proposal/regional-grant-safeguarding-rural-livelihoods-in-latin-america-and-the-caribbean",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "roja",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-08-24T13:56:23.085Z"
+  },
+  {
     "id": "scraped-red-exposocial-apoyos-de-respuesta-rapida-convocatoria-para--97707cba23",
     "titulo": "Apoyos de Respuesta Rápida: convocatoria para OSC",
     "donante": "Red ExpoSocial",
@@ -297,7 +345,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-23T13:36:54.881Z"
+    "capturado_en": "2026-08-24T13:56:26.664Z"
   },
   {
     "id": "scraped-wepropel-social-shifters-global-innovation-challenge-2-3fdffd0db2",
@@ -321,7 +369,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-23T13:36:51.184Z"
+    "capturado_en": "2026-08-24T13:56:23.077Z"
   },
   {
     "id": "scraped-wepropel-miller-center-accelerator-program-cohorte-202-740a547e4f",
@@ -345,7 +393,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-23T13:36:51.185Z"
+    "capturado_en": "2026-08-24T13:56:23.079Z"
   },
   {
     "id": "scraped-wepropel-communication-for-climate-action-in-brazil-d26167a04d",
@@ -369,7 +417,31 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-23T13:36:51.186Z"
+    "capturado_en": "2026-08-24T13:56:23.079Z"
+  },
+  {
+    "id": "scraped-wepropel-darwin-initiative-round-32-capability-capacit-dd8c17cd35",
+    "titulo": "Darwin Initiative Round 32 – Capability & Capacity Applications",
+    "donante": "Darwin Initiative",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-08-31",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Grant del Gobierno del Reino Unido para fortalecer las capacidades de organizaciones locales y nacionales en países elegibles, con proyectos que contribuyan a la conservación de la biodiversidad y la reducción de la pobreza. Los proyectos pueden involucrar organizaciones de la sociedad civil, institutos de investigación y organismos públicos.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://cdn.darwininitiative.org.uk/how-to-apply/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-08-24T13:56:23.080Z"
   },
   {
     "id": "scraped-wepropel-fast-forward-accelerator-5a39b8dfcb",
@@ -393,7 +465,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-23T13:36:51.192Z"
+    "capturado_en": "2026-08-24T13:56:23.094Z"
   },
   {
     "id": "scraped-wepropel-information-controls-research-program-ba592081bb",
@@ -417,7 +489,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-23T13:36:51.193Z"
+    "capturado_en": "2026-08-24T13:56:23.095Z"
   },
   {
     "id": "scraped-wepropel-stanley-1913-creators-fund-2026-program-d309acbd4f",
@@ -441,31 +513,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-23T13:36:51.202Z"
-  },
-  {
-    "id": "scraped-wepropel-global-environment-facility-small-grants-prog-bd4c525132",
-    "titulo": "Global Environment Facility - Small Grants Program - CSO Challenge Program",
-    "donante": "Unión Internacional para la Conservación de la Naturaleza (UICN) & Global Environment Facility (GEF)",
-    "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 300000,
-    "fecha_cierre": "2026-09-15",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 74,
-    "pivot": "Programa de financiamiento que identifica, apoya y amplía soluciones innovadoras ambientales de alto impacto lideradas por organizaciones de la sociedad civil (CSO). Ofrece grants para replicar modelos comprobados, adaptar soluciones existentes a nuevos contextos y probar estrategias de escalamiento, junto con desarrollo de capacidades e intercambio de conocimientos entre pares.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://csochallenge.org/#apply",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "roja",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-23T13:36:51.204Z"
+    "capturado_en": "2026-08-24T13:56:23.098Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
@@ -489,7 +537,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-23T13:36:54.879Z"
+    "capturado_en": "2026-08-24T13:56:26.663Z"
   },
   {
     "id": "scraped-wepropel-indoor-environmental-quality-grants-842a6a123f",
@@ -513,7 +561,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-23T13:36:51.187Z"
+    "capturado_en": "2026-08-24T13:56:23.081Z"
   },
   {
     "id": "scraped-wepropel-norec-grant-for-work-exchange-cooperation-0fe941e777",
@@ -537,7 +585,31 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-23T13:36:51.188Z"
+    "capturado_en": "2026-08-24T13:56:23.082Z"
+  },
+  {
+    "id": "scraped-wepropel-leveraging-ifad-s-rural-sector-performance-as-fb39540d74",
+    "titulo": "Leveraging IFAD’s Rural Sector Performance Assessment for Policy and Investment",
+    "donante": "Fondo Internacional de Desarrollo Agrícola (FIDA)",
+    "fuente": "Oportunidades Propel",
+    "sector": "Educación / Juventud",
+    "dimension": "social",
+    "presupuesto_usd": 1200000,
+    "fecha_cierre": "2026-09-04",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 67,
+    "pivot": "Grant para mejorar la forma en que se recopilan, analizan y utilizan datos sobre las políticas y condiciones de inversión en el sector rural, agrícola y de sistemas alimentarios. Busca convertir el Rural Sector Performance Assessment (RSPA) de IFAD en una herramienta pública de referencia para gobiernos, inversionistas y otros actores, mediante un dashboard online, reportes, análisis y una metodología fortalecida que cubrirá al menos 80 países.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.ifad.org/en/w/calls-for-proposal/call-for-proposals-ifad-grant-to-implement-the-initiative-leveraging-ifad-s-rural-sector-performance-assessment-for-policy-and-investment-",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "roja",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-08-24T13:56:23.084Z"
   },
   {
     "id": "scraped-wepropel-ohchr-indigenous-fellowship-program-2027-68f42b564f",
@@ -561,7 +633,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-23T13:36:51.190Z"
+    "capturado_en": "2026-08-24T13:56:23.087Z"
   },
   {
     "id": "scraped-wepropel-nonprofit-open-source-partnership-623fc67289",
@@ -585,7 +657,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-23T13:36:51.200Z"
+    "capturado_en": "2026-08-24T13:56:23.096Z"
   },
   {
     "id": "scraped-wepropel-forest-conservation-fund-3rd-call-2f41323bac",
@@ -609,7 +681,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-23T13:36:51.201Z"
+    "capturado_en": "2026-08-24T13:56:23.097Z"
   },
   {
     "id": "scraped-wepropel-global-voices-for-peace-small-seed-grants-19517a2aa1",
@@ -633,31 +705,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-23T13:36:51.203Z"
-  },
-  {
-    "id": "scraped-wepropel-national-endowment-for-democracy-2nd-call-387f80ed94",
-    "titulo": "National Endowment for Democracy 2nd call",
-    "donante": "National Endowment for Democracy",
-    "fuente": "Oportunidades Propel",
-    "sector": "Educación / Juventud",
-    "dimension": "social",
-    "presupuesto_usd": 100000,
-    "fecha_cierre": "2026-09-21",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 67,
-    "pivot": "Programa de grants para organizaciones no gubernamentales que trabajen en países con democracias débiles, en transición o bajo regímenes autoritarios. Financia proyectos no partidistas en derechos humanos, libertad de prensa, transparencia, sociedad civil y participación ciudadana. No aplica a proyectos implementados en democracias consolidadas. La selección considera el alineamiento del proyecto con las prioridades de la fundación, el contexto país y la trayectoria democrática del solicitante.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.ned.org/apply-for-grant/es/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "roja",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-23T13:36:51.205Z"
+    "capturado_en": "2026-08-24T13:56:23.098Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -681,7 +729,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-23T13:36:51.206Z"
+    "capturado_en": "2026-08-24T13:56:23.099Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -705,7 +753,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-23T13:36:51.207Z"
+    "capturado_en": "2026-08-24T13:56:23.100Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
@@ -729,7 +777,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-23T13:36:54.880Z"
+    "capturado_en": "2026-08-24T13:56:26.663Z"
   },
   {
     "id": "scraped-red-exposocial-fondo-de-coyuntura-politica-convocatoria-para-593b5a2ab5",
@@ -753,7 +801,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-23T13:36:54.881Z"
+    "capturado_en": "2026-08-24T13:56:26.664Z"
   },
   {
     "id": "scraped-red-exposocial-holohil-programa-de-subvenciones-convocatoria-c4f0d54530",
@@ -777,7 +825,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-23T13:36:54.881Z"
+    "capturado_en": "2026-08-24T13:56:26.665Z"
   },
   {
     "id": "scraped-red-exposocial-convocatoria-2027-de-fundacion-alsea-convocat-9561833e7d",
@@ -801,7 +849,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-23T13:36:54.882Z"
+    "capturado_en": "2026-08-24T13:56:26.665Z"
   },
   {
     "id": "scraped-red-exposocial-life-programme-2026-convocatoria-para-osc-0c07737cd0",
@@ -825,7 +873,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-23T13:36:54.882Z"
+    "capturado_en": "2026-08-24T13:56:26.665Z"
   },
   {
     "id": "scraped-red-exposocial-mecanismo-de-apoyo-a-terceros-2026-ninez-prim-75dcc7563a",
@@ -849,7 +897,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-23T13:36:54.882Z"
+    "capturado_en": "2026-08-24T13:56:26.666Z"
   },
   {
     "id": "scraped-premios-portafolio-premios-portafolio-2026-6c0d0fa3ff",
@@ -873,30 +921,6 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-08-23T13:36:44.581Z"
-  },
-  {
-    "id": "scraped-wepropel-future-for-nature-awards-131130fba2",
-    "titulo": "Future for Nature Awards",
-    "donante": "Future For Nature Foundation",
-    "fuente": "Oportunidades Propel",
-    "sector": "Tecnología / Innovación",
-    "dimension": "social",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-08-23",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 58,
-    "pivot": "Premio para personas conservacionistas que lideran proyectos para mejorar el estado de conservación de una o más especies silvestres. La convocatoria evalúa trayectoria e impacto práctico en conservación, junto con liderazgo, creatividad e innovación y la intención de continuar con el trabajo a futuro. Quienes ganen presentan su trabajo en el evento Future For Nature Awards en Royal Burgers’ Zoo (Arnhem, Países Bajos) con gastos de viaje y alojamiento cubiertos.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://futurefornature.org/2027-future-for-nature-applications-are-open/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-23T13:36:51.182Z"
+    "capturado_en": "2026-08-24T13:56:16.976Z"
   }
 ]
