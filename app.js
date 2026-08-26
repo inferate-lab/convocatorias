@@ -241,7 +241,7 @@ function renderNoise(opps) {
 function updateStats(results) {
     animateNumber('countRed', results.rojas.length);
     animateNumber('countAmber', results.fondo.length);
-    animateNumber('countSilent', 6); // Frontier shadow signals
+    animateNumber('countSilent', 0); // Motor Shadow-Work: aún no implementado de verdad, se muestra en 0 en vez de un número inventado
     animateNumber('countNoise', results.descartados.length);
     // Update dimension bars if elements exist
     const dims = results.byDimension || {};
@@ -258,66 +258,62 @@ async function runFullScan() {
     const btn = document.getElementById('runScanBtn');
     btn.classList.add('scanning');
     btn.disabled = true;
-    btn.textContent = 'Analizando...';
+    btn.textContent = 'Actualizando...';
 
     const overlay = document.createElement('div');
     overlay.className = 'scanning-overlay';
     overlay.innerHTML = '<div class="scan-beam"></div>';
     document.body.appendChild(overlay);
 
-    OutputProtocol.voice('system', '━━━ CENTINELA v5.0 — NODO DE INTELIGENCIA ESTRATÉGICA AUTóNOMA iniciado ━━━');
-    await delay(400);
-    OutputProtocol.voice('system', 'Protocolo activo. Datos vigentes cargados; rastreo automático y purga dinámica habilitados.');
-    await delay(500);
-    OutputProtocol.voice('geo', 'Escaneando (Grants, Awards, Prizes, Nominations, Open Calls, Call for entries): TED (UE), Grants.gov, UNGM, Suqia UAE, Zayed, IWA, SURA, Scotiabank...');
-    await delay(500);
-    OutputProtocol.voice('geo', 'Procesando señales geopolíticas: COP16 compromisos biodiversidad, H₂ verde MI-8, Global Gateway EU €300M, GBIF urban data...');
-    await delay(600);
-    OutputProtocol.voice('ambiental', 'Radarizando: Hidrógeno verde · Economía circular · Biodiversidad urbana · Madera plástica · Cuencas hídricas...');
-    await delay(400);
-    OutputProtocol.voice('tecnologico', 'Radarizando: RAEng · InterAcademy · Alstom · Schneider · TotalEnergies · IAP STEM · EU Digital...');
-    await delay(400);
-    OutputProtocol.voice('pivot', 'Motor de Pivotaje v3 activo. No reportamos links. Reportamos Movimientos Estratégicos.');
-    await delay(400);
+    OutputProtocol.voice('system', '━━━ CENTINELA v6.0 — actualizando panel con datos reales ━━━');
+    await delay(200);
+    OutputProtocol.voice('system', 'El rastreo real (rastreo directo + descubrimiento con IA + verificación de vigencia) corre solo cada 6 horas en el servidor, no al presionar este botón. Esto solo recarga lo último que ese proceso encontró.');
+    await delay(300);
 
+    // Cache-busting real: siempre trae el data.json más reciente publicado.
     const results = await TriageEngine_v2.runScan();
-    
-    // Fetch ruido.json si existe
+
     let ruidoExterno = [];
     try {
-        const response = await fetch('./ruido.json');
+        const response = await fetch('./ruido.json?v=' + Date.now());
+        if (response.ok) ruidoExterno = await response.json();
+    } catch (e) {
+        console.log('No se encontró ruido.json');
+    }
+
+    let centinelaLog = null;
+    try {
+        const response = await fetch('./data/centinela-log.json?v=' + Date.now());
         if (response.ok) {
-            ruidoExterno = await response.json();
+            const log = await response.json();
+            centinelaLog = Array.isArray(log) ? log[0] : null;
         }
     } catch (e) {
-        console.log("No se encontró ruido.json o hay error de CORS");
+        console.log('No se encontró data/centinela-log.json todavía (el workflow automático aún no ha corrido).');
     }
-    
-    // Unir descartados locales con el ruido purgado
+
     const todosDescartados = [...results.descartados, ...ruidoExterno];
     results.descartados = todosDescartados;
-    
     currentScanResults = results;
 
-    const dims = results.byDimension || {};
-    OutputProtocol.voice('ok', `Radar completo: ${results.total} oportunidades · 🌿 ${(dims.ambiental || []).length} Ambiental · ⚡ ${(dims.tecnologico || []).length} Tecnológico · 🤝 ${(dims.social || []).length} Social.`);
-    await delay(200);
-
+    OutputProtocol.voice('ok', `Panel actualizado: ${results.total} oportunidades vigentes · ${results.rojas.length} alertas rojas · ${results.fondo.length} de intel de fondo.`);
     results.rojas.slice(0, 5).forEach(opp => {
         OutputProtocol.voice('red', OutputProtocol.reportOpportunity(opp));
     });
-    if (results.rojas.length > 5) {
-        OutputProtocol.voice('red', `...y ${results.rojas.length - 5} alertas rojas adicionales en el panel.`);
-    }
-    results.fondo.slice(0, 3).forEach(opp => {
-        OutputProtocol.voice('amber', `Movimiento estratégico: ${opp.titulo} [${opp.sector}] — ${opp.afinidad_pivot}% afinidad. PIVOT: ${opp.pivot?.substring(0, 80)}...`);
-    });
     if (results.descartados.length > 0) {
-        OutputProtocol.voice('noise', `${results.descartados.length} descartados (becas individuales — único criterio de descarte).`);
+        OutputProtocol.voice('noise', `${results.descartados.length} descartadas o cerradas (por vencimiento o verificación activa).`);
     }
 
-    await delay(300);
-    OutputProtocol.voice('ok', `CICLO COMPLETO. ${results.rojas.length} Alertas Rojas · ${results.fondo.length} Intel de Fondo · 6 Señales Frontera · ${todosDescartados.length} Descartados.`);
+    if (centinelaLog) {
+        const cuando = new Date(centinelaLog.corrida_en).toLocaleString('es-CO', { hour12: false });
+        const nuevas = centinelaLog.discover?.nuevas_agregadas ?? 0;
+        const cerradas = centinelaLog.verify?.cerradas ?? 0;
+        OutputProtocol.voice('system', `Último rastreo automático real: ${cuando} — ${nuevas} nueva(s) encontrada(s) por búsqueda IA, ${cerradas} confirmada(s) cerrada(s) y removida(s).`);
+        document.getElementById('lastScanTime').textContent = cuando;
+    } else {
+        OutputProtocol.voice('noise', 'Todavía no hay registro de ninguna corrida automática real (el workflow programado no se ha activado o no ha corrido aún).');
+        document.getElementById('lastScanTime').textContent = 'sin datos automáticos aún';
+    }
 
     renderRedAlerts(results.rojas);
     renderIntel(results.fondo);
@@ -325,11 +321,9 @@ async function runFullScan() {
     renderNoise(todosDescartados);
     updateStats({ ...results, descartados: todosDescartados });
 
-    document.getElementById('lastScanTime').textContent = new Date().toLocaleTimeString('es-CO', { hour12: false });
-
     btn.classList.remove('scanning');
     btn.disabled = false;
-    btn.innerHTML = `<svg viewBox="0 0 20 20" fill="none"><path d="M10 2v4M10 14v4M2 10h4M14 10h4M4.93 4.93l2.83 2.83M12.24 12.24l2.83 2.83M4.93 15.07l2.83-2.83M12.24 7.76l2.83-2.83" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg> Ejecutar Escaneo`;
+    btn.innerHTML = `<svg viewBox="0 0 20 20" fill="none"><path d="M10 2v4M10 14v4M2 10h4M14 10h4M4.93 4.93l2.83 2.83M12.24 12.24l2.83 2.83M4.93 15.07l2.83-2.83M12.24 7.76l2.83-2.83" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg> Actualizar panel`;
     document.body.removeChild(overlay);
 }
 
