@@ -922,5 +922,34 @@
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
     "capturado_en": "2026-08-28T04:07:44.544Z"
+  },
+  {
+    "id": "henri-boulard-award-2026-manual",
+    "titulo": "Henri Boulard Award 2026",
+    "donante": "Biocodex Microbiota Foundation",
+    "fuente": "Cámara de Comercio de Bogotá (índice) → verificado en fuente primaria",
+    "sector": "Salud, investigación, microbiota, resistencia antimicrobiana y medio ambiente",
+    "dimension": "social",
+    "presupuesto_usd": 10800,
+    "fecha_cierre": "2026-09-15",
+    "estado": "ABIERTA",
+    "pais_elegible": "Colombia (incluida explícitamente en la lista de países elegibles de América Latina)",
+    "afinidad_pivot": 65,
+    "pivot": "Aplica bajo la línea de gestión ambiental/social de la Fundación si hay un proyecto relacionado con protección de microbiota, salud comunitaria vinculada a agua/saneamiento, o reducción de residuos farmacéuticos en aguas residuales bajo enfoque One Health.",
+    "obstaculo": "El postulante debe ser un profesional de la salud en nombre de una asociación, organización de investigación, hospital o institución — no puede postular una empresa de forma independiente.",
+    "fuente_url": "https://www.biocodexmicrobiotafoundation.com/henri-boulard-award/henri-boulard-award-call-projects",
+    "tags": [
+      "Salud",
+      "Microbiota",
+      "Medio ambiente",
+      "Colombia elegible"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "ccb-verificado-manual",
+    "metodo_deteccion": "verificado_manual_usuario_y_claude",
+    "primera_deteccion": "2026-08-28T04:14:53.500Z",
+    "ultima_verificacion": "2026-08-28T04:14:53.500Z",
+    "analizado_ia": false
   }
 ]
