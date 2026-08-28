@@ -76,6 +76,13 @@ const SOURCES = [
         url: 'https://ghl.spread.name/',
         adapter: 'generic-list',
         sector: 'Salud / Aprendizaje'
+    },
+    {
+        id: 'ccb-cooperacion-no-reembolsable',
+        name: 'Cámara de Comercio de Bogotá — Cooperación no reembolsable',
+        url: 'https://www.ccb.org.co/servicios/haz-crecer-tu-empresa/logra-liquidez-y-financiacion/convocatoria-para-cofinanciar-proyectos/convocatorias-cooperacion-financiera-no-reembolsable',
+        adapter: 'generic-list',
+        sector: 'Cooperación financiera no reembolsable'
     }
 ];
 

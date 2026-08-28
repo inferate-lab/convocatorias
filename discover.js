@@ -53,6 +53,7 @@ TAREA: Usa la herramienta de búsqueda web para encontrar convocatorias, becas i
 Además de tu búsqueda general, busca específicamente novedades relacionadas con estas plataformas y organismos (no las scrapees directamente — búscalas, ya que algunas bloquean el acceso automatizado o cargan su contenido con JavaScript):
 - Grant Hub Latam (agregador de convocatorias para Latinoamérica)
 - APC Colombia — convocatorias de cooperación internacional (portalservicios-apccolombia.gov.co respeta robots.txt: no lo rastrees directamente, solo busca sobre sus convocatorias vigentes por otras fuentes que las mencionen: noticias, boletines, redes de cooperación)
+- Cámara de Comercio de Bogotá — página de convocatorias de cooperación financiera no reembolsable (ccb.org.co): revisa si el listado actual coincide con lo que ya está en el sistema; si detectas alguna convocatoria de esa lista que no esté registrada todavía, inclúyela
 - Otras plataformas agregadoras de cooperación internacional para LATAM que encuentres relevantes (repórtalas si detectas alguna nueva y útil, junto con su URL, para evaluar agregarla como fuente directa en el futuro)
 
 REGLAS:
