@@ -50,6 +50,11 @@ ${pivots}
 
 TAREA: Usa la herramienta de búsqueda web para encontrar convocatorias, becas institucionales (no individuales), premios, fondos concursables o llamados a propuestas ABIERTOS HOY, de organismos multilaterales, fundaciones internacionales, agencias de cooperación bilateral, bancos de desarrollo (BID, CAF, Banco Mundial), o programas corporativos ESG, para los que Colombia sea elegible (o no esté explícitamente excluida).
 
+Además de tu búsqueda general, busca específicamente novedades relacionadas con estas plataformas y organismos (no las scrapees directamente — búscalas, ya que algunas bloquean el acceso automatizado o cargan su contenido con JavaScript):
+- Grant Hub Latam (agregador de convocatorias para Latinoamérica)
+- APC Colombia — convocatorias de cooperación internacional (portalservicios-apccolombia.gov.co respeta robots.txt: no lo rastrees directamente, solo busca sobre sus convocatorias vigentes por otras fuentes que las mencionen: noticias, boletines, redes de cooperación)
+- Otras plataformas agregadoras de cooperación internacional para LATAM que encuentres relevantes (repórtalas si detectas alguna nueva y útil, junto con su URL, para evaluar agregarla como fuente directa en el futuro)
+
 REGLAS:
 - NO incluyas becas para personas individuales.
 - NO repitas ninguna de estas URLs ya conocidas: ${knownUrls.slice(0, 40).join(', ') || '(ninguna todavía)'}
@@ -58,25 +63,30 @@ REGLAS:
 - Si no encuentras nada nuevo y genuino, responde con una lista vacía. NUNCA inventes una oportunidad.
 
 Responde ÚNICAMENTE con un bloque JSON (sin texto antes ni después) con este formato exacto:
-[
-  {
-    "titulo": "string",
-    "donante": "string",
-    "fuente": "string (nombre del portal o institución donde lo encontraste)",
-    "sector": "string",
-    "dimension": "ambiental|social|educacion|cultural|general",
-    "presupuesto_usd": number o null,
-    "fecha_cierre": "YYYY-MM-DD o null si es rolling/permanente",
-    "estado": "string breve",
-    "pais_elegible": "string",
-    "afinidad_pivot": number (0-100),
-    "pivot": "string: cómo esta organización pivotaría para aplicar",
-    "obstaculo": "string: principal obstáculo para postular",
-    "fuente_url": "URL real y verificable de la fuente",
-    "tags": ["string"],
-    "tipo": "roja|fondo|reconocimiento"
-  }
-]`;
+{
+  "oportunidades": [
+    {
+      "titulo": "string",
+      "donante": "string",
+      "fuente": "string (nombre del portal o institución donde lo encontraste)",
+      "sector": "string",
+      "dimension": "ambiental|social|educacion|cultural|general",
+      "presupuesto_usd": number o null,
+      "fecha_cierre": "YYYY-MM-DD o null si es rolling/permanente",
+      "estado": "string breve",
+      "pais_elegible": "string",
+      "afinidad_pivot": number (0-100),
+      "pivot": "string: cómo esta organización pivotaría para aplicar",
+      "obstaculo": "string: principal obstáculo para postular",
+      "fuente_url": "URL real y verificable de la fuente",
+      "tags": ["string"],
+      "tipo": "roja|fondo|reconocimiento"
+    }
+  ],
+  "fuentes_sugeridas": [
+    {"nombre": "string", "url": "string", "por_que": "string breve: por qué valdría la pena agregarla como fuente fija"}
+  ]
+}`;
 }
 
 async function callClaude(prompt) {
@@ -104,9 +114,13 @@ async function callClaude(prompt) {
     }
     const data = await response.json();
     const textBlocks = (data.content || []).filter(b => b.type === 'text').map(b => b.text).join('\n');
-    const match = textBlocks.match(/\[[\s\S]*\]/);
-    if (!match) throw new Error('La respuesta de la IA no contenía un JSON de lista reconocible.');
-    return JSON.parse(match[0]);
+    const match = textBlocks.match(/\{[\s\S]*\}/);
+    if (!match) throw new Error('La respuesta de la IA no contenía un JSON reconocible.');
+    const parsed = JSON.parse(match[0]);
+    return {
+        oportunidades: Array.isArray(parsed.oportunidades) ? parsed.oportunidades : [],
+        fuentes_sugeridas: Array.isArray(parsed.fuentes_sugeridas) ? parsed.fuentes_sugeridas : []
+    };
 }
 
 function slug(value) {
@@ -119,10 +133,12 @@ async function run() {
     const prompt = buildPrompt(existing);
 
     let found = [];
+    let sugeridas = [];
     let errorMsg = null;
     try {
-        found = await callClaude(prompt);
-        if (!Array.isArray(found)) throw new Error('La respuesta no fue una lista.');
+        const result = await callClaude(prompt);
+        found = result.oportunidades;
+        sugeridas = result.fuentes_sugeridas;
     } catch (error) {
         errorMsg = error.message;
         console.error('Error en descubrimiento real:', errorMsg);
@@ -158,6 +174,20 @@ async function run() {
 
     writeJsonAtomic(DATA_FILE, [...existing, ...nuevas]);
 
+    // Fuentes nuevas que la IA sugiere agregar como rastreo fijo — quedan para revisión
+    // humana en scraper.js, nunca se agregan solas como fuente automática.
+    if (sugeridas.length > 0) {
+        const suggFile = path.join(LOG_DIR, 'fuentes-sugeridas.json');
+        const suggLog = readJson(suggFile, []);
+        const knownSugg = new Set(suggLog.map(s => (s.url || '').toLowerCase()));
+        sugeridas.forEach(s => {
+            if (s.url && !knownSugg.has(s.url.toLowerCase())) {
+                suggLog.push({ ...s, sugerida_el: new Date().toISOString(), revisada: false });
+            }
+        });
+        writeJsonAtomic(suggFile, suggLog);
+    }
+
     fs.mkdirSync(LOG_DIR, { recursive: true });
     const logFile = path.join(LOG_DIR, 'discover-log.json');
     const log = readJson(logFile, []);
@@ -165,11 +195,12 @@ async function run() {
         corrida_en: new Date().toISOString(),
         encontradas_por_ia: found.length,
         nuevas_agregadas: nuevas.length,
+        fuentes_sugeridas: sugeridas.length,
         error: errorMsg
     });
     writeJsonAtomic(logFile, log.slice(0, 100));
 
-    console.log(`Descubrimiento real finalizado: ${found.length} resultado(s) de la IA, ${nuevas.length} nueva(s) agregada(s).`);
+    console.log(`Descubrimiento real finalizado: ${found.length} resultado(s) de la IA, ${nuevas.length} nueva(s) agregada(s), ${sugeridas.length} fuente(s) nueva(s) sugerida(s) para revisión.`);
     if (errorMsg) {
         console.error(`Nota: hubo un error, no se agregó nada inventado: ${errorMsg}`);
         process.exitCode = 1;
