@@ -69,27 +69,6 @@
     "tipo": "fondo"
   },
   {
-    "id": "goodplanet_fdn",
-    "titulo": "GoodPlanet Foundation Project Support",
-    "donante": "GoodPlanet Foundation",
-    "fuente": "GoodPlanet Portal",
-    "sector": "Medio Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 80000,
-    "fecha_cierre": "2026-08-30",
-    "estado": "ACTIVA",
-    "pais_elegible": "Global ✓",
-    "afinidad_pivot": 88,
-    "pivot": "Implementación de educación ambiental o proyectos de conservación en EPM.",
-    "obstaculo": "Fuerte componente de concienciación pública requerido.",
-    "fuente_url": "https://www.goodplanet.org/",
-    "tags": [
-      "OBLIGATORIA",
-      "AMBIENTAL"
-    ],
-    "tipo": "fondo"
-  },
-  {
     "id": "scraped-wepropel-resilient-futures-call-2026-e81a1867c6",
     "titulo": "Resilient Futures Call 2026",
     "donante": "Better Politics Fund | European Climate Foundation | Naia Trust | Vibe Fund",
@@ -111,7 +90,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-30T20:34:51.493Z"
+    "capturado_en": "2026-08-31T03:41:48.191Z"
   },
   {
     "id": "scraped-wepropel-seed-grow-and-sustain-3-0-28dfaffe20",
@@ -135,7 +114,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-30T20:34:51.497Z"
+    "capturado_en": "2026-08-31T03:41:48.195Z"
   },
   {
     "id": "scraped-wepropel-global-south-civil-society-microgrants-cb2567bb63",
@@ -159,7 +138,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-30T20:34:51.497Z"
+    "capturado_en": "2026-08-31T03:41:48.201Z"
   },
   {
     "id": "scraped-wepropel-fundacion-ama-amoedo-grants-2026-92e31e81d6",
@@ -183,7 +162,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-30T20:34:51.504Z"
+    "capturado_en": "2026-08-31T03:41:48.203Z"
   },
   {
     "id": "cop31_climate_finance",
@@ -206,29 +185,6 @@
       "SEÑAL ALTA"
     ],
     "tipo": "roja"
-  },
-  {
-    "id": "iwa_network",
-    "titulo": "IWA Bio-cluster and Innovation Awards",
-    "donante": "International Water Association",
-    "fuente": "IWA Network Portal",
-    "sector": "Agua / Innovación",
-    "dimension": "ambiental",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-08-30",
-    "estado": "NOMINACIONES ABIERTAS",
-    "pais_elegible": "Global ✓",
-    "afinidad_pivot": 85,
-    "pivot": "Premios de agua -> Gestión Ambiental.",
-    "obstaculo": "Requiere nominación.",
-    "fuente_url": "https://iwa-network.org/",
-    "tags": [
-      "NUEVA",
-      "OBLIGATORIA",
-      "AMBIENTAL",
-      "AWARD"
-    ],
-    "tipo": "fondo"
   },
   {
     "id": "kbs_frb",
@@ -297,7 +253,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-30T20:34:51.495Z"
+    "capturado_en": "2026-08-31T03:41:48.193Z"
   },
   {
     "id": "scraped-red-exposocial-apoyos-de-respuesta-rapida-convocatoria-para--97707cba23",
@@ -321,7 +277,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-30T20:34:55.234Z"
+    "capturado_en": "2026-08-31T03:41:51.438Z"
   },
   {
     "id": "scraped-wepropel-social-shifters-global-innovation-challenge-2-3fdffd0db2",
@@ -345,7 +301,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-30T20:34:51.488Z"
+    "capturado_en": "2026-08-31T03:41:48.184Z"
   },
   {
     "id": "scraped-wepropel-miller-center-accelerator-program-cohorte-202-740a547e4f",
@@ -369,7 +325,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-30T20:34:51.489Z"
+    "capturado_en": "2026-08-31T03:41:48.185Z"
   },
   {
     "id": "scraped-wepropel-communication-for-climate-action-in-brazil-d26167a04d",
@@ -393,7 +349,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-30T20:34:51.490Z"
+    "capturado_en": "2026-08-31T03:41:48.186Z"
   },
   {
     "id": "scraped-wepropel-darwin-initiative-round-32-capability-capacit-dd8c17cd35",
@@ -417,7 +373,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-30T20:34:51.490Z"
+    "capturado_en": "2026-08-31T03:41:48.187Z"
   },
   {
     "id": "scraped-wepropel-fast-forward-accelerator-5a39b8dfcb",
@@ -441,7 +397,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-30T20:34:51.503Z"
+    "capturado_en": "2026-08-31T03:41:48.202Z"
   },
   {
     "id": "scraped-wepropel-information-controls-research-program-ba592081bb",
@@ -465,7 +421,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-30T20:34:51.504Z"
+    "capturado_en": "2026-08-31T03:41:48.203Z"
   },
   {
     "id": "scraped-wepropel-stanley-1913-creators-fund-2026-program-d309acbd4f",
@@ -489,7 +445,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-30T20:34:51.506Z"
+    "capturado_en": "2026-08-31T03:41:48.207Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
@@ -513,31 +469,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-30T20:34:55.233Z"
-  },
-  {
-    "id": "scraped-wepropel-capacity-development-programme-for-csos-2026--93b6956989",
-    "titulo": "Capacity Development Programme for CSOs 2026-2027",
-    "donante": "CADE Project",
-    "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-08-30",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 67,
-    "pivot": "Programa de formación y acompañamiento para organizaciones de la sociedad civil que buscan fortalecer sus capacidades para participar en procesos de gobernanza y política digital. Ofrece formación en temas como gobernanza de internet, ciberseguridad, inteligencia artificial, infraestructura y estándares, además de capacitación en diplomacia y asesoría personalizada con expertos.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://cadeproject.org/in-focus/capacity-development-programme-for-csos-2026-2027/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-30T20:34:51.487Z"
+    "capturado_en": "2026-08-31T03:41:51.437Z"
   },
   {
     "id": "scraped-wepropel-indoor-environmental-quality-grants-842a6a123f",
@@ -561,7 +493,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-30T20:34:51.491Z"
+    "capturado_en": "2026-08-31T03:41:48.188Z"
   },
   {
     "id": "scraped-wepropel-norec-grant-for-work-exchange-cooperation-0fe941e777",
@@ -585,7 +517,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-30T20:34:51.492Z"
+    "capturado_en": "2026-08-31T03:41:48.190Z"
   },
   {
     "id": "scraped-wepropel-leveraging-ifad-s-rural-sector-performance-as-fb39540d74",
@@ -609,7 +541,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-30T20:34:51.494Z"
+    "capturado_en": "2026-08-31T03:41:48.192Z"
   },
   {
     "id": "scraped-wepropel-ohchr-indigenous-fellowship-program-2027-68f42b564f",
@@ -633,7 +565,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-30T20:34:51.496Z"
+    "capturado_en": "2026-08-31T03:41:48.194Z"
   },
   {
     "id": "scraped-wepropel-nonprofit-open-source-partnership-623fc67289",
@@ -657,7 +589,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-30T20:34:51.505Z"
+    "capturado_en": "2026-08-31T03:41:48.204Z"
   },
   {
     "id": "scraped-wepropel-forest-conservation-fund-3rd-call-2f41323bac",
@@ -681,7 +613,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-30T20:34:51.505Z"
+    "capturado_en": "2026-08-31T03:41:48.206Z"
   },
   {
     "id": "scraped-wepropel-global-voices-for-peace-small-seed-grants-19517a2aa1",
@@ -705,7 +637,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-30T20:34:51.507Z"
+    "capturado_en": "2026-08-31T03:41:48.208Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -729,7 +661,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-30T20:34:51.507Z"
+    "capturado_en": "2026-08-31T03:41:48.209Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -753,7 +685,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-08-30T20:34:51.508Z"
+    "capturado_en": "2026-08-31T03:41:48.209Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
@@ -777,7 +709,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-30T20:34:55.234Z"
+    "capturado_en": "2026-08-31T03:41:51.437Z"
   },
   {
     "id": "scraped-red-exposocial-fondo-de-coyuntura-politica-convocatoria-para-593b5a2ab5",
@@ -801,7 +733,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-30T20:34:55.235Z"
+    "capturado_en": "2026-08-31T03:41:51.438Z"
   },
   {
     "id": "scraped-red-exposocial-holohil-programa-de-subvenciones-convocatoria-c4f0d54530",
@@ -825,7 +757,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-30T20:34:55.235Z"
+    "capturado_en": "2026-08-31T03:41:51.439Z"
   },
   {
     "id": "scraped-red-exposocial-convocatoria-2027-de-fundacion-alsea-convocat-9561833e7d",
@@ -849,7 +781,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-30T20:34:55.236Z"
+    "capturado_en": "2026-08-31T03:41:51.439Z"
   },
   {
     "id": "scraped-red-exposocial-life-programme-2026-convocatoria-para-osc-0c07737cd0",
@@ -873,7 +805,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-08-30T20:34:55.236Z"
+    "capturado_en": "2026-08-31T03:41:51.440Z"
   },
   {
     "id": "henri-boulard-award-2026-manual",
@@ -926,6 +858,6 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-08-30T20:34:44.399Z"
+    "capturado_en": "2026-08-31T03:41:41.781Z"
   }
 ]
