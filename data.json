@@ -90,7 +90,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-02T10:39:14.992Z"
+    "capturado_en": "2026-09-02T15:58:33.559Z"
   },
   {
     "id": "scraped-wepropel-seed-grow-and-sustain-3-0-28dfaffe20",
@@ -114,7 +114,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-02T10:39:14.997Z"
+    "capturado_en": "2026-09-02T15:58:33.562Z"
   },
   {
     "id": "scraped-wepropel-global-south-civil-society-microgrants-cb2567bb63",
@@ -138,7 +138,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-02T10:39:14.998Z"
+    "capturado_en": "2026-09-02T15:58:33.564Z"
   },
   {
     "id": "scraped-wepropel-fundacion-ama-amoedo-grants-2026-92e31e81d6",
@@ -162,7 +162,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-02T10:39:15.008Z"
+    "capturado_en": "2026-09-02T15:58:33.568Z"
   },
   {
     "id": "cop31_climate_finance",
@@ -253,7 +253,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-02T10:39:14.994Z"
+    "capturado_en": "2026-09-02T15:58:33.561Z"
   },
   {
     "id": "scraped-red-exposocial-apoyos-de-respuesta-rapida-convocatoria-para--97707cba23",
@@ -277,7 +277,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-02T10:39:21.728Z"
+    "capturado_en": "2026-09-02T15:58:39.449Z"
   },
   {
     "id": "scraped-wepropel-adaptation-fund-climate-innovation-accelerato-139c262f4d",
@@ -301,7 +301,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-02T10:39:14.999Z"
+    "capturado_en": "2026-09-02T15:58:33.565Z"
   },
   {
     "id": "scraped-wepropel-fast-forward-accelerator-5a39b8dfcb",
@@ -325,7 +325,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-02T10:39:15.006Z"
+    "capturado_en": "2026-09-02T15:58:33.566Z"
   },
   {
     "id": "scraped-wepropel-information-controls-research-program-ba592081bb",
@@ -349,7 +349,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-02T10:39:15.007Z"
+    "capturado_en": "2026-09-02T15:58:33.567Z"
   },
   {
     "id": "scraped-wepropel-stanley-1913-creators-fund-2026-program-d309acbd4f",
@@ -373,7 +373,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-02T10:39:15.011Z"
+    "capturado_en": "2026-09-02T15:58:33.576Z"
   },
   {
     "id": "scraped-wepropel-global-environment-facility-small-grants-prog-bd4c525132",
@@ -397,7 +397,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-02T10:39:15.012Z"
+    "capturado_en": "2026-09-02T15:58:33.576Z"
   },
   {
     "id": "scraped-wepropel-salesforce-accelerator-agents-for-impact-45a2c3527c",
@@ -421,7 +421,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-02T10:39:15.013Z"
+    "capturado_en": "2026-09-02T15:58:33.578Z"
   },
   {
     "id": "scraped-wepropel-anthropic-user-wellbeing-evaluation-grants-829eb2445f",
@@ -445,7 +445,31 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-02T10:39:15.014Z"
+    "capturado_en": "2026-09-02T15:58:33.579Z"
+  },
+  {
+    "id": "scraped-wepropel-wellcome-discovery-awards-73c847f26d",
+    "titulo": "Wellcome Discovery Awards",
+    "donante": "Wellcome",
+    "fuente": "Oportunidades Propel",
+    "sector": "Salud / Bienestar",
+    "dimension": "social",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-09-22",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Financiamiento a largo plazo para equipos multidisciplinarios o investigadores que busquen desarrollar investigación ambiciosa y creativa con potencial de generar avances significativos en la comprensión de la vida humana, la salud y el bienestar. Cubre gastos de investigación durante un período de hasta 8 años. Buscan equipos con capacidad de investigación formal y trayectoria consolidada en su campo.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://wellcome.org/research-funding/schemes/wellcome-discovery-awards#key-dates-0dcc",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-09-02T15:58:33.580Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
@@ -469,7 +493,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-02T10:39:21.727Z"
+    "capturado_en": "2026-09-02T15:58:39.448Z"
   },
   {
     "id": "scraped-wepropel-leveraging-ifad-s-rural-sector-performance-as-fb39540d74",
@@ -493,7 +517,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-02T10:39:14.993Z"
+    "capturado_en": "2026-09-02T15:58:33.560Z"
   },
   {
     "id": "scraped-wepropel-ohchr-indigenous-fellowship-program-2027-68f42b564f",
@@ -517,7 +541,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-02T10:39:14.995Z"
+    "capturado_en": "2026-09-02T15:58:33.561Z"
   },
   {
     "id": "scraped-wepropel-nonprofit-open-source-partnership-623fc67289",
@@ -541,7 +565,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-02T10:39:15.009Z"
+    "capturado_en": "2026-09-02T15:58:33.569Z"
   },
   {
     "id": "scraped-wepropel-forest-conservation-fund-3rd-call-2f41323bac",
@@ -565,23 +589,23 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-02T10:39:15.010Z"
+    "capturado_en": "2026-09-02T15:58:33.575Z"
   },
   {
-    "id": "scraped-wepropel-global-voices-for-peace-small-seed-grants-19517a2aa1",
-    "titulo": "Global Voices for Peace Small Seed Grants",
-    "donante": "American Friends Service Committee (AFSC)",
+    "id": "scraped-wepropel-connect-open-call-776d657759",
+    "titulo": "CONNECT Open Call",
+    "donante": "Equality Fund",
     "fuente": "Oportunidades Propel",
-    "sector": "Desarrollo social / Derechos",
+    "sector": "Educación / Juventud",
     "dimension": "social",
-    "presupuesto_usd": 15000,
-    "fecha_cierre": "2026-09-15",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-09-16",
     "estado": "CONVOCATORIA VIGENTE",
     "pais_elegible": "Validar elegibilidad",
     "afinidad_pivot": 67,
-    "pivot": "Grant para apoyar iniciativas locales y comunitarias que protejan la democracia y promuevan la paz, la justicia y la no violencia. Financia ideas lideradas desde las comunidades que fortalezcan el diálogo, las redes de solidaridad, las instituciones democráticas, la participación y las respuestas colectivas ante desafíos emergentes para la paz y la democracia.",
+    "pivot": "Grant para colaboraciones entre organizaciones, movimientos feministas y aliados que trabajan por la igualdad de género y los derechos humanos. Apoya el fortalecimiento de relaciones, redes, recursos, capacidades y estrategias compartidas para enfrentar desafíos relacionados con derechos, democracia y movimientos anti-derechos desde un enfoque feminista e interseccional.",
     "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://afsc.org/apply-small-seed-grants",
+    "fuente_url": "https://equalityfund.ca/en/posts/connect-open-call",
     "tags": [
       "RASTREO EN VIVO",
       "OPORTUNIDADES PROPEL"
@@ -589,7 +613,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-02T10:39:15.011Z"
+    "capturado_en": "2026-09-02T15:58:33.577Z"
   },
   {
     "id": "scraped-wepropel-national-endowment-for-democracy-2nd-call-387f80ed94",
@@ -613,7 +637,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-02T10:39:15.014Z"
+    "capturado_en": "2026-09-02T15:58:33.579Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -637,7 +661,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-02T10:39:15.015Z"
+    "capturado_en": "2026-09-02T15:58:33.580Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -661,7 +685,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-02T10:39:15.016Z"
+    "capturado_en": "2026-09-02T15:58:33.581Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
@@ -685,7 +709,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-02T10:39:21.728Z"
+    "capturado_en": "2026-09-02T15:58:39.448Z"
   },
   {
     "id": "scraped-red-exposocial-fondo-de-coyuntura-politica-convocatoria-para-593b5a2ab5",
@@ -709,7 +733,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-02T10:39:21.728Z"
+    "capturado_en": "2026-09-02T15:58:39.450Z"
   },
   {
     "id": "scraped-red-exposocial-holohil-programa-de-subvenciones-convocatoria-c4f0d54530",
@@ -733,7 +757,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-02T10:39:21.729Z"
+    "capturado_en": "2026-09-02T15:58:39.450Z"
   },
   {
     "id": "scraped-red-exposocial-convocatoria-2027-de-fundacion-alsea-convocat-9561833e7d",
@@ -757,7 +781,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-02T10:39:21.729Z"
+    "capturado_en": "2026-09-02T15:58:39.451Z"
   },
   {
     "id": "scraped-red-exposocial-life-programme-2026-convocatoria-para-osc-0c07737cd0",
@@ -781,7 +805,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-02T10:39:21.729Z"
+    "capturado_en": "2026-09-02T15:58:39.451Z"
   },
   {
     "id": "henri-boulard-award-2026-manual",
@@ -834,6 +858,6 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-09-02T10:39:08.538Z"
+    "capturado_en": "2026-09-02T15:58:26.733Z"
   }
 ]
