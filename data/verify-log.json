@@ -1,5 +1,11 @@
 [
   {
+    "corrida_en": "2026-09-05T02:59:13.294Z",
+    "verificadas": 0,
+    "cerradas": 0,
+    "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CejYWzxHDoqyqqUBx22cx\"}"
+  },
+  {
     "corrida_en": "2026-09-04T20:17:36.353Z",
     "verificadas": 0,
     "cerradas": 0,
