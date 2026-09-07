@@ -90,7 +90,31 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-07T11:36:21.044Z"
+    "capturado_en": "2026-09-07T17:15:32.745Z"
+  },
+  {
+    "id": "scraped-wepropel-programa-de-cooperacion-sur-sur-de-mercociuda-214795c1c2",
+    "titulo": "Programa de Cooperación Sur Sur de Mercociudades",
+    "donante": "Programa de Cooperación Sur Sur de Mercociudades",
+    "fuente": "Oportunidades Propel",
+    "sector": "Educación / Juventud",
+    "dimension": "social",
+    "presupuesto_usd": 30000,
+    "fecha_cierre": "2026-10-01",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 88,
+    "pivot": "Grant para proyectos de cooperación orientados al eje temático “Ciudades de cuidados: innovadoras, seguras y resilientes”. Está dirigido a gobiernos locales, universidades públicas y organizaciones sociales de América Latina vinculadas a la red Mercociudades a través de ciudades miembros o Estados asociados. Además del apoyo económico, impulsa la cooperación entre territorios mediante modalidades como asistencia técnica, intercambios, pasantías y espacios de formación y difusión.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://mercociudades.org/descarga/bases-convocatoria-a-fondos-sur-sur-de-mercociudades-2026/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "roja",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-09-07T17:15:32.764Z"
   },
   {
     "id": "cop31_climate_finance",
@@ -181,7 +205,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-07T11:36:21.061Z"
+    "capturado_en": "2026-09-07T17:15:32.759Z"
   },
   {
     "id": "scraped-red-exposocial-apoyos-de-respuesta-rapida-convocatoria-para--97707cba23",
@@ -205,55 +229,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-07T11:36:25.424Z"
-  },
-  {
-    "id": "scraped-wepropel-fast-forward-accelerator-5a39b8dfcb",
-    "titulo": "Fast Forward Accelerator",
-    "donante": "Fast Forward",
-    "fuente": "Oportunidades Propel",
-    "sector": "Tecnología / Innovación",
-    "dimension": "social",
-    "presupuesto_usd": 25000,
-    "fecha_cierre": "2026-09-07",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 74,
-    "pivot": "Programa de aceleración para nonprofits de tecnología en etapa temprana que cuentan con un MVP. Ofrece financiamiento sin restricciones, mentoría, formación y acceso a una red de expertos y fundadores para fortalecer y escalar su impacto.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.ffwd.org/accelerator",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-07T11:36:21.042Z"
-  },
-  {
-    "id": "scraped-wepropel-information-controls-research-program-ba592081bb",
-    "titulo": "Information Controls Research Program",
-    "donante": "Open Technology Fund (OTF)",
-    "fuente": "Oportunidades Propel",
-    "sector": "Salud / Bienestar",
-    "dimension": "social",
-    "presupuesto_usd": 7000,
-    "fecha_cierre": "2026-09-07",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 74,
-    "pivot": "Fellowship de investigación aplicada sobre censura y vigilancia en internet en entornos represivos. Financia estudios sobre controles de información y herramientas de libertad en internet, con outputs técnicos aplicables a la comunidad de internet freedom. Los investigadores trabajan a tiempo completo integrados en una organización anfitriona. Dirigido a perfiles interdisciplinarios (ciencias sociales, seguridad, ingeniería, ciencia de datos).",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.opentech.fund/research-2/icrp/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-07T11:36:21.043Z"
+    "capturado_en": "2026-09-07T17:15:36.631Z"
   },
   {
     "id": "scraped-wepropel-stanley-1913-creators-fund-2026-program-d309acbd4f",
@@ -277,7 +253,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-07T11:36:21.048Z"
+    "capturado_en": "2026-09-07T17:15:32.750Z"
   },
   {
     "id": "scraped-wepropel-global-environment-facility-small-grants-prog-bd4c525132",
@@ -301,7 +277,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-07T11:36:21.049Z"
+    "capturado_en": "2026-09-07T17:15:32.750Z"
   },
   {
     "id": "scraped-wepropel-salesforce-accelerator-agents-for-impact-45a2c3527c",
@@ -325,7 +301,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-07T11:36:21.057Z"
+    "capturado_en": "2026-09-07T17:15:32.752Z"
   },
   {
     "id": "scraped-wepropel-anthropic-user-wellbeing-evaluation-grants-829eb2445f",
@@ -349,7 +325,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-07T11:36:21.059Z"
+    "capturado_en": "2026-09-07T17:15:32.757Z"
   },
   {
     "id": "scraped-wepropel-wellcome-discovery-awards-73c847f26d",
@@ -373,7 +349,55 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-07T11:36:21.059Z"
+    "capturado_en": "2026-09-07T17:15:32.757Z"
+  },
+  {
+    "id": "scraped-wepropel-giving-joy-2026-grant-cycle-cycle-2-fall-2026-a45bd4c10e",
+    "titulo": "Giving Joy 2026 Grant Cycle (Cycle 2 – Fall 2026)",
+    "donante": "Giving Joy Grants",
+    "fuente": "Oportunidades Propel",
+    "sector": "Salud / Bienestar",
+    "dimension": "social",
+    "presupuesto_usd": 500,
+    "fecha_cierre": "2026-09-30",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Microgrant dirigido a mujeres de 18 años o más de cualquier país que quieran iniciar o ampliar un negocio, una organización sin fines de lucro, una ONG o un proyecto. Ofrece financiamiento para implementar una iniciativa que genere beneficios sociales o económicos para mujeres, niñas, familias o comunidades, sin limitarse a una causa o sector específico. La propuesta debe demostrar un impacto más allá del beneficio personal de la solicitante. Además del financiamiento, incluye acompañamiento administrativo mediante un acuerdo de grant y lineamientos de implementación con un plazo de ejecución de seis meses.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://givingjoygrants.org/grant-application",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-09-07T17:15:32.761Z"
+  },
+  {
+    "id": "scraped-wepropel-social-impact-fellowship-eaabe51396",
+    "titulo": "Social Impact Fellowship",
+    "donante": "Equity | Impact Center",
+    "fuente": "Oportunidades Propel",
+    "sector": "Educación / Juventud",
+    "dimension": "social",
+    "presupuesto_usd": 8000,
+    "fecha_cierre": "2026-09-30",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Fellowship para líderes de iniciativas de impacto social que buscan fortalecer sus capacidades de liderazgo, estrategia, gestión, investigación, participación comunitaria y diseño de programas. Ofrece experiencia práctica en The Equity Impact Center, con mentoría, talleres y participación en proyectos de desarrollo comunitario, liderazgo y emprendimiento creativo.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://equityimpactcenter.formstack.com/forms/social_impact_fellowship",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-09-07T17:15:32.762Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
@@ -397,7 +421,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-07T11:36:25.422Z"
+    "capturado_en": "2026-09-07T17:15:36.629Z"
   },
   {
     "id": "scraped-wepropel-nonprofit-open-source-partnership-623fc67289",
@@ -421,7 +445,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-07T11:36:21.045Z"
+    "capturado_en": "2026-09-07T17:15:32.747Z"
   },
   {
     "id": "scraped-wepropel-forest-conservation-fund-3rd-call-2f41323bac",
@@ -445,7 +469,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-07T11:36:21.047Z"
+    "capturado_en": "2026-09-07T17:15:32.749Z"
   },
   {
     "id": "scraped-wepropel-connect-open-call-776d657759",
@@ -469,7 +493,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-07T11:36:21.056Z"
+    "capturado_en": "2026-09-07T17:15:32.751Z"
   },
   {
     "id": "scraped-wepropel-national-endowment-for-democracy-2nd-call-387f80ed94",
@@ -493,7 +517,55 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-07T11:36:21.058Z"
+    "capturado_en": "2026-09-07T17:15:32.754Z"
+  },
+  {
+    "id": "scraped-wepropel-world-summit-award-a0bb3a8022",
+    "titulo": "World Summit Award",
+    "donante": "WSA",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-09-30",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 67,
+    "pivot": "Premio para soluciones digitales que ya estén en el mercado, demuestren un beneficio claro para la sociedad y tengan impacto local. El proceso se organiza por país: un Experto Nacional selecciona las mejores soluciones para avanzar a una competencia global. La convocatoria incluye una ruta general (WSA Award) y una categoría para equipos jóvenes (Young Innovators Award) orientada a fundadores mayoritariamente menores de 26 años. Ofrece visibilidad internacional y acceso a una comunidad global de innovadores, aliados e inversionistas vinculados a los Objetivos de Desarrollo Sostenible de las Naciones Unidas.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://wsa-global.org/contest-global-award/participate-submission-guide/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-09-07T17:15:32.760Z"
+  },
+  {
+    "id": "scraped-wepropel-2026-cso-call-for-expressions-of-project-inte-019366c463",
+    "titulo": "2026 CSO Call for Expressions of Project Intentions",
+    "donante": "AFD",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-10-09",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 67,
+    "pivot": "Co-financia proyectos de organizaciones de la sociedad civil (OSC) que buscan generar cambios concretos en comunidades de países en desarrollo. La convocatoria apoya iniciativas relacionadas con derechos, inclusión, desarrollo sostenible y fortalecimiento de la sociedad civil. Los proyectos deben durar 3 años y realizarse junto con al menos una organización local.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.afd.fr/en/calls-for-projects/2026-cso-call-expressions-project-intentions",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-09-07T17:15:32.766Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -517,7 +589,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-07T11:36:21.062Z"
+    "capturado_en": "2026-09-07T17:15:32.766Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -541,7 +613,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-07T11:36:21.063Z"
+    "capturado_en": "2026-09-07T17:15:32.767Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
@@ -565,7 +637,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-07T11:36:25.423Z"
+    "capturado_en": "2026-09-07T17:15:36.630Z"
   },
   {
     "id": "scraped-red-exposocial-fondo-de-coyuntura-politica-convocatoria-para-593b5a2ab5",
@@ -589,7 +661,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-07T11:36:25.424Z"
+    "capturado_en": "2026-09-07T17:15:36.631Z"
   },
   {
     "id": "scraped-red-exposocial-holohil-programa-de-subvenciones-convocatoria-c4f0d54530",
@@ -613,7 +685,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-07T11:36:25.425Z"
+    "capturado_en": "2026-09-07T17:15:36.631Z"
   },
   {
     "id": "scraped-red-exposocial-convocatoria-2027-de-fundacion-alsea-convocat-9561833e7d",
@@ -637,7 +709,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-07T11:36:25.425Z"
+    "capturado_en": "2026-09-07T17:15:36.632Z"
   },
   {
     "id": "scraped-red-exposocial-life-programme-2026-convocatoria-para-osc-0c07737cd0",
@@ -661,7 +733,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-07T11:36:25.425Z"
+    "capturado_en": "2026-09-07T17:15:36.632Z"
   },
   {
     "id": "henri-boulard-award-2026-manual",
@@ -714,7 +786,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-07T11:36:21.060Z"
+    "capturado_en": "2026-09-07T17:15:32.758Z"
   },
   {
     "id": "scraped-wepropel-global-changemaker-fellowship-2026-bd8be3fd2a",
@@ -738,7 +810,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-07T11:36:21.062Z"
+    "capturado_en": "2026-09-07T17:15:32.760Z"
   },
   {
     "id": "scraped-premios-portafolio-premios-portafolio-2026-6c0d0fa3ff",
@@ -762,6 +834,54 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-09-07T11:36:13.272Z"
+    "capturado_en": "2026-09-07T17:15:26.173Z"
+  },
+  {
+    "id": "scraped-wepropel-yale-peace-fellows-b8fffe9588",
+    "titulo": "Yale Peace Fellows",
+    "donante": "Yale University",
+    "fuente": "Oportunidades Propel",
+    "sector": "Desarrollo social / Derechos",
+    "dimension": "social",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-09-09",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 58,
+    "pivot": "Programa de liderazgo para profesionales que trabajan en prevención de conflictos, construcción de paz y reconciliación posconflicto. Ofrece una experiencia internacional que combina un seminario presencial en Yale, sesiones virtuales de formación en negociación y comunicación, un viaje internacional de estudio y acceso a una red global de líderes de paz.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://jackson.yale.edu/international-leadership-center/yale-peace-fellows",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-09-07T17:15:32.748Z"
+  },
+  {
+    "id": "scraped-wepropel-endangered-languages-documentation-programme--37c01239f2",
+    "titulo": "Endangered Languages Documentation Programme Grant",
+    "donante": "Endangered Languages Documentation Programme",
+    "fuente": "Oportunidades Propel",
+    "sector": "Salud / Bienestar",
+    "dimension": "social",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-10-01",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 58,
+    "pivot": "Grant para la documentación de lenguas en peligro a nivel global, orientado a producir, preservar y compartir materiales documentales (por ejemplo, grabaciones y recursos lingüísticos). Ofrece varias modalidades de apoyo que cubren desde el trabajo de campo inicial hasta proyectos de documentación de mayor escala y la digitalización de materiales heredados. Está diseñado para documentadores/as, personas de comunidades lingüísticas, académicos/as locales y estudiantes, y valora especialmente proyectos colaborativos e interdisciplinarios.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://grants.eldp.net/en",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-09-07T17:15:32.763Z"
   }
 ]
