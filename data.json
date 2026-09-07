@@ -69,54 +69,6 @@
     "tipo": "fondo"
   },
   {
-    "id": "scraped-wepropel-seed-grow-and-sustain-3-0-28dfaffe20",
-    "titulo": "Seed, Grow and Sustain 3.0",
-    "donante": "Numun Fund",
-    "fuente": "Oportunidades Propel",
-    "sector": "Educación / Juventud",
-    "dimension": "social",
-    "presupuesto_usd": 1750000,
-    "fecha_cierre": "2026-09-06",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 88,
-    "pivot": "Grant flexible y multianual para colectivos, grupos y organizaciones que impulsan activismo feminista en tecnología en el Larger Majority World (regiones fuera del Norte Global, incluida América Latina), así como iniciativas lideradas por comunidades indígenas y migrantes en cualquier parte del mundo. Ofrece financiamiento durante dos años, según la etapa de la organización (Seed, Grow o Sustain), para estrategias como investigación, campañas, desarrollo tecnológico, construcción comunitaria, capacitación, incidencia y creación de contenido.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://numun.fund/sgs3/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "roja",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-06T20:00:16.750Z"
-  },
-  {
-    "id": "scraped-wepropel-global-south-civil-society-microgrants-cb2567bb63",
-    "titulo": "Global South Civil Society Microgrants",
-    "donante": "Pulitzer Center",
-    "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 4000,
-    "fecha_cierre": "2026-09-06",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 88,
-    "pivot": "Microgrant para organizaciones y grupos de la sociedad civil del Sur Global que desarrollen proyectos de participación ciudadana utilizando periodismo. Los proyectos deben abordar temas relacionados con bosques tropicales, océanos, o clima y trabajo, y buscar generar mayor comprensión, diálogo, representación de distintas perspectivas o capacidad de acción en sus comunidades.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://pulitzercenter.org/opportunities/reporting-grants-fellowships/global-south-civil-society-microgrants",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "roja",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-06T20:00:16.751Z"
-  },
-  {
     "id": "scraped-wepropel-fundacion-ama-amoedo-grants-2026-92e31e81d6",
     "titulo": "Fundación Ama Amoedo Grants 2026",
     "donante": "Fundación Ama Amoedo",
@@ -138,7 +90,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-06T20:00:16.757Z"
+    "capturado_en": "2026-09-07T02:56:23.835Z"
   },
   {
     "id": "cop31_climate_finance",
@@ -229,7 +181,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-06T20:00:16.773Z"
+    "capturado_en": "2026-09-07T02:56:23.851Z"
   },
   {
     "id": "scraped-red-exposocial-apoyos-de-respuesta-rapida-convocatoria-para--97707cba23",
@@ -253,55 +205,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-06T20:00:20.715Z"
-  },
-  {
-    "id": "scraped-wepropel-adaptation-fund-climate-innovation-accelerato-139c262f4d",
-    "titulo": "Adaptation Fund Climate Innovation Accelerator (AFCIA)",
-    "donante": "World Food Programme (WFP)",
-    "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 150000,
-    "fecha_cierre": "2026-09-06",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 74,
-    "pivot": "Programa de aceleración para innovadores, emprendedores y organizaciones que desarrollan soluciones de adaptación climática orientadas a fortalecer la resiliencia y la seguridad alimentaria de comunidades vulnerables. Combina acompañamiento técnico, apoyo en campo y desarrollo de estrategia de escalamiento para llevar pilotos y soluciones a implementación real. Está enfocado en promover innovaciones con equidad de género, oportunidades económicas inclusivas y participación de jóvenes. Es especialmente relevante para equipos con soluciones de baja o alta tecnología aplicables a retos de adaptación climática en República Dominicana, El Salvador y Perú.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://innovation.wfp.org/adaptation-fund-innovation-accelerator",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "roja",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-06T20:00:16.752Z"
-  },
-  {
-    "id": "scraped-wepropel-2026-civil-society-catalytic-funding-4ae8fa0f6a",
-    "titulo": "2026 Civil Society Catalytic Funding",
-    "donante": "Sanitation and Water for All (SWA)",
-    "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 10000,
-    "fecha_cierre": "2026-09-06",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 74,
-    "pivot": "Grant para organizaciones de la sociedad civil que forman parte de Sanitation and Water for All (SWA) y que trabajan para impulsar cambios en políticas públicas sobre agua, saneamiento e higiene. El financiamiento apoya actividades de incidencia para posicionar estos temas en la agenda política, promover que los compromisos de los gobiernos se traduzcan en acciones y financiamiento, y fortalecer su relación con desafíos como el cambio climático, la economía y el bienestar social.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.sanitationandwaterforall.org/catalytic-funding-and-civil-society",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-06T20:00:16.753Z"
+    "capturado_en": "2026-09-07T02:56:27.768Z"
   },
   {
     "id": "scraped-wepropel-fast-forward-accelerator-5a39b8dfcb",
@@ -325,7 +229,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-06T20:00:16.754Z"
+    "capturado_en": "2026-09-07T02:56:23.833Z"
   },
   {
     "id": "scraped-wepropel-information-controls-research-program-ba592081bb",
@@ -349,7 +253,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-06T20:00:16.756Z"
+    "capturado_en": "2026-09-07T02:56:23.834Z"
   },
   {
     "id": "scraped-wepropel-stanley-1913-creators-fund-2026-program-d309acbd4f",
@@ -373,7 +277,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-06T20:00:16.760Z"
+    "capturado_en": "2026-09-07T02:56:23.839Z"
   },
   {
     "id": "scraped-wepropel-global-environment-facility-small-grants-prog-bd4c525132",
@@ -397,7 +301,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-06T20:00:16.761Z"
+    "capturado_en": "2026-09-07T02:56:23.840Z"
   },
   {
     "id": "scraped-wepropel-salesforce-accelerator-agents-for-impact-45a2c3527c",
@@ -421,7 +325,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-06T20:00:16.769Z"
+    "capturado_en": "2026-09-07T02:56:23.847Z"
   },
   {
     "id": "scraped-wepropel-anthropic-user-wellbeing-evaluation-grants-829eb2445f",
@@ -445,7 +349,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-06T20:00:16.770Z"
+    "capturado_en": "2026-09-07T02:56:23.849Z"
   },
   {
     "id": "scraped-wepropel-wellcome-discovery-awards-73c847f26d",
@@ -469,7 +373,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-06T20:00:16.771Z"
+    "capturado_en": "2026-09-07T02:56:23.849Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
@@ -493,31 +397,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-06T20:00:20.714Z"
-  },
-  {
-    "id": "scraped-wepropel-ohchr-indigenous-fellowship-program-2027-68f42b564f",
-    "titulo": "OHCHR Indigenous Fellowship Program 2027",
-    "donante": "Office of the High Commissioner for Human Rights (OHCHR)",
-    "fuente": "Oportunidades Propel",
-    "sector": "Educación / Juventud",
-    "dimension": "social",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-09-06",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 67,
-    "pivot": "Fellowship para personas indígenas que busca fortalecer sus capacidades para proteger y promover los derechos humanos en sus comunidades y organizaciones. Ofrece una inmersión en el sistema de las Naciones Unidas y en los mecanismos que abordan los derechos humanos, con énfasis en los derechos de los pueblos indígenas. La capacitación se realiza durante cuatro semanas en Ginebra, Suiza. Es especialmente útil para liderazgos que quieran traducir aprendizajes institucionales en acciones de incidencia y formación comunitaria al regresar.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.ohchr.org/en/about-us/fellowship-programmes/indigenous-fellowship-programme/call-applications-ohchr-indigenous-fellowship-program-2027",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-06T20:00:16.748Z"
+    "capturado_en": "2026-09-07T02:56:27.767Z"
   },
   {
     "id": "scraped-wepropel-nonprofit-open-source-partnership-623fc67289",
@@ -541,7 +421,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-06T20:00:16.758Z"
+    "capturado_en": "2026-09-07T02:56:23.836Z"
   },
   {
     "id": "scraped-wepropel-forest-conservation-fund-3rd-call-2f41323bac",
@@ -565,7 +445,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-06T20:00:16.759Z"
+    "capturado_en": "2026-09-07T02:56:23.838Z"
   },
   {
     "id": "scraped-wepropel-connect-open-call-776d657759",
@@ -589,7 +469,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-06T20:00:16.768Z"
+    "capturado_en": "2026-09-07T02:56:23.846Z"
   },
   {
     "id": "scraped-wepropel-national-endowment-for-democracy-2nd-call-387f80ed94",
@@ -613,7 +493,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-06T20:00:16.769Z"
+    "capturado_en": "2026-09-07T02:56:23.848Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -637,7 +517,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-06T20:00:16.775Z"
+    "capturado_en": "2026-09-07T02:56:23.853Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -661,7 +541,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-06T20:00:16.776Z"
+    "capturado_en": "2026-09-07T02:56:23.853Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
@@ -685,7 +565,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-06T20:00:20.715Z"
+    "capturado_en": "2026-09-07T02:56:27.768Z"
   },
   {
     "id": "scraped-red-exposocial-fondo-de-coyuntura-politica-convocatoria-para-593b5a2ab5",
@@ -709,7 +589,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-06T20:00:20.716Z"
+    "capturado_en": "2026-09-07T02:56:27.769Z"
   },
   {
     "id": "scraped-red-exposocial-holohil-programa-de-subvenciones-convocatoria-c4f0d54530",
@@ -733,7 +613,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-06T20:00:20.716Z"
+    "capturado_en": "2026-09-07T02:56:27.769Z"
   },
   {
     "id": "scraped-red-exposocial-convocatoria-2027-de-fundacion-alsea-convocat-9561833e7d",
@@ -757,7 +637,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-06T20:00:20.717Z"
+    "capturado_en": "2026-09-07T02:56:27.770Z"
   },
   {
     "id": "scraped-red-exposocial-life-programme-2026-convocatoria-para-osc-0c07737cd0",
@@ -781,7 +661,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-06T20:00:20.717Z"
+    "capturado_en": "2026-09-07T02:56:27.770Z"
   },
   {
     "id": "henri-boulard-award-2026-manual",
@@ -834,7 +714,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-06T20:00:16.772Z"
+    "capturado_en": "2026-09-07T02:56:23.850Z"
   },
   {
     "id": "scraped-wepropel-global-changemaker-fellowship-2026-bd8be3fd2a",
@@ -858,7 +738,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-06T20:00:16.775Z"
+    "capturado_en": "2026-09-07T02:56:23.852Z"
   },
   {
     "id": "scraped-premios-portafolio-premios-portafolio-2026-6c0d0fa3ff",
@@ -882,6 +762,6 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-09-06T20:00:08.804Z"
+    "capturado_en": "2026-09-07T02:56:16.603Z"
   }
 ]
