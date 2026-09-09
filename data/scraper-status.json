@@ -1,9 +1,9 @@
 {
-  "last_run": "2026-09-08T17:12:02.991Z",
+  "last_run": "2026-09-09T17:05:52.999Z",
   "active_opportunities": 36,
   "scraped_opportunities": 30,
-  "sources_ok": 8,
-  "sources_failed": 0,
+  "sources_ok": 7,
+  "sources_failed": 1,
   "sources_skipped": 0,
   "sources": [
     {
@@ -51,9 +51,9 @@
     {
       "id": "red-exposocial",
       "name": "Red ExpoSocial",
-      "status": "success",
-      "found": 7,
-      "message": "HTTP 200"
+      "status": "failed",
+      "found": 0,
+      "message": "Request failed with status code 500"
     },
     {
       "id": "global-health-learning",
