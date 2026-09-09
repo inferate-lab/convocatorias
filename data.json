@@ -69,30 +69,6 @@
     "tipo": "fondo"
   },
   {
-    "id": "scraped-wepropel-fundacion-ama-amoedo-grants-2026-92e31e81d6",
-    "titulo": "Fundación Ama Amoedo Grants 2026",
-    "donante": "Fundación Ama Amoedo",
-    "fuente": "Oportunidades Propel",
-    "sector": "Desarrollo social / Derechos",
-    "dimension": "social",
-    "presupuesto_usd": 100000,
-    "fecha_cierre": "2026-09-09",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 88,
-    "pivot": "Convocatoria abierta de la Fundación Ama Amoedo para apoyar el ecosistema artístico latinoamericano. Se ofrecen 10 becas en cuatro categorías (Artistas, Arte y Compromiso Social, Organizaciones y Publicaciones). Buscan fortalecer el campo artístico, impulsar proyectos de producción, investigación, preservación, impacto social, institucional y de publicación.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.fundacionamaamoedo.org/programas/becas",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "roja",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-09T10:46:51.487Z"
-  },
-  {
     "id": "scraped-wepropel-programa-de-cooperacion-sur-sur-de-mercociuda-214795c1c2",
     "titulo": "Programa de Cooperación Sur Sur de Mercociudades",
     "donante": "Programa de Cooperación Sur Sur de Mercociudades",
@@ -114,7 +90,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-09T10:46:51.498Z"
+    "capturado_en": "2026-09-09T15:56:05.812Z"
   },
   {
     "id": "cop31_climate_finance",
@@ -205,7 +181,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-09T10:46:51.494Z"
+    "capturado_en": "2026-09-09T15:56:05.806Z"
   },
   {
     "id": "scraped-red-exposocial-apoyos-de-respuesta-rapida-convocatoria-para--97707cba23",
@@ -229,7 +205,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-09T10:47:05.255Z"
+    "capturado_en": "2026-09-09T15:56:09.590Z"
   },
   {
     "id": "scraped-wepropel-stanley-1913-creators-fund-2026-program-d309acbd4f",
@@ -253,7 +229,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-09T10:46:51.489Z"
+    "capturado_en": "2026-09-09T15:56:05.795Z"
   },
   {
     "id": "scraped-wepropel-global-environment-facility-small-grants-prog-bd4c525132",
@@ -277,7 +253,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-09T10:46:51.490Z"
+    "capturado_en": "2026-09-09T15:56:05.796Z"
   },
   {
     "id": "scraped-wepropel-salesforce-accelerator-agents-for-impact-45a2c3527c",
@@ -301,7 +277,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-09T10:46:51.491Z"
+    "capturado_en": "2026-09-09T15:56:05.801Z"
   },
   {
     "id": "scraped-wepropel-anthropic-user-wellbeing-evaluation-grants-829eb2445f",
@@ -325,7 +301,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-09T10:46:51.493Z"
+    "capturado_en": "2026-09-09T15:56:05.802Z"
   },
   {
     "id": "scraped-wepropel-wellcome-discovery-awards-73c847f26d",
@@ -349,7 +325,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-09T10:46:51.493Z"
+    "capturado_en": "2026-09-09T15:56:05.803Z"
   },
   {
     "id": "scraped-wepropel-giving-joy-2026-grant-cycle-cycle-2-fall-2026-a45bd4c10e",
@@ -373,7 +349,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-09T10:46:51.496Z"
+    "capturado_en": "2026-09-09T15:56:05.810Z"
   },
   {
     "id": "scraped-wepropel-social-impact-fellowship-eaabe51396",
@@ -397,7 +373,31 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-09T10:46:51.496Z"
+    "capturado_en": "2026-09-09T15:56:05.811Z"
+  },
+  {
+    "id": "scraped-wepropel-miller-center-accelerator-program-cohorte-202-740a547e4f",
+    "titulo": "Miller Center Accelerator Program - Cohorte 2027",
+    "donante": "Miller Center for Global Impact",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-10-16",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Programa de aceleración virtual de 6 meses, orientado a líderes de empresas sociales con tracción comprobada que buscan escalar su impacto. Combina mentoría ejecutiva personalizada con un currículo estructurado para fortalecer el modelo de negocio, el modelo de impacto y la estrategia de financiamiento. Está enfocado en emprendimientos que abordan la pobreza a través del empoderamiento económico de las mujeres y/o la resiliencia climática.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://millercenterglobal.org/accelerator/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-09-09T15:56:05.814Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
@@ -421,31 +421,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-09T10:47:05.254Z"
-  },
-  {
-    "id": "scraped-wepropel-nonprofit-open-source-partnership-623fc67289",
-    "titulo": "Nonprofit Open Source Partnership",
-    "donante": "Bloomberg | Develop for Good | CodeDay | Fast Forward",
-    "fuente": "Oportunidades Propel",
-    "sector": "Educación / Juventud",
-    "dimension": "social",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-09-09",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 67,
-    "pivot": "Programa que apoya a organizaciones sin fines de lucro a convertir una herramienta existente en un proyecto de código abierto (open source), construir su documentación o contribuir a un proyecto open source que ya utilizan. Un equipo de 8 estudiantes universitarios voluntarios, con mentoría de empleados de Bloomberg y guía de mejores prácticas de CodeDay, trabaja durante 16 semanas para entregar un producto público, licenciado, documentado y listo para ser usado por la organización y potencialmente por otras.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://developforgood.notion.site/Nonprofit-Open-Source-Partnership-3aefbe7117c0808c9b88f3bc93991e64",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-09T10:46:51.488Z"
+    "capturado_en": "2026-09-09T15:56:09.589Z"
   },
   {
     "id": "scraped-wepropel-forest-conservation-fund-3rd-call-2f41323bac",
@@ -469,7 +445,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-09T10:46:51.489Z"
+    "capturado_en": "2026-09-09T15:56:05.794Z"
   },
   {
     "id": "scraped-wepropel-connect-open-call-776d657759",
@@ -493,7 +469,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-09T10:46:51.491Z"
+    "capturado_en": "2026-09-09T15:56:05.800Z"
   },
   {
     "id": "scraped-wepropel-national-endowment-for-democracy-2nd-call-387f80ed94",
@@ -517,7 +493,31 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-09T10:46:51.492Z"
+    "capturado_en": "2026-09-09T15:56:05.802Z"
+  },
+  {
+    "id": "scraped-wepropel-ai-policy-fellowship-spring-2027-4ec8eeca99",
+    "titulo": "AI Policy Fellowship Spring 2027",
+    "donante": "The Institute for AI Policy and Strategy (IAPS)",
+    "fuente": "Oportunidades Propel",
+    "sector": "Tecnología / Innovación",
+    "dimension": "social",
+    "presupuesto_usd": 24000,
+    "fecha_cierre": "2026-09-27",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 67,
+    "pivot": "Fellowship de tres meses para profesionales que buscan desarrollar una carrera en política pública sobre inteligencia artificial (IA). Ofrece estipendio, mentoría con expertos en política de IA, acompañamiento para desarrollar un proyecto y formación práctica. Cuenta con dos rutas: investigación de políticas públicas o trabajo aplicado. Comienza con dos semanas presenciales en Washington, D.C. y puede continuar en D.C., Londres o de forma remota.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.iaps.ai/fellowship",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-09-09T15:56:05.808Z"
   },
   {
     "id": "scraped-wepropel-world-summit-award-a0bb3a8022",
@@ -541,7 +541,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-09T10:46:51.495Z"
+    "capturado_en": "2026-09-09T15:56:05.809Z"
   },
   {
     "id": "scraped-wepropel-2026-cso-call-for-expressions-of-project-inte-019366c463",
@@ -565,7 +565,31 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-09T10:46:51.499Z"
+    "capturado_en": "2026-09-09T15:56:05.813Z"
+  },
+  {
+    "id": "scraped-wepropel-the-gadfly-project-1838c6a5c5",
+    "titulo": "The Gadfly Project",
+    "donante": "The Gadfly Project",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 100000,
+    "fecha_cierre": "2026-10-23",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 67,
+    "pivot": "Convocatoria de apoyo en especie para organizaciones sin fines de lucro que trabajen en bienestar humano o sostenibilidad ambiental. Pone a disposición recursos técnicos internos para construir soluciones digitales que mejoren las operaciones o amplíen el alcance de la organización. Especialmente relevante para quienes necesitan un software personalizado pero no cuentan con la capacidad técnica ni el presupuesto para desarrollarlo.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.thegadflyproject.org/guidelines.html",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "roja",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-09-09T15:56:05.815Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -589,7 +613,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-09T10:46:51.499Z"
+    "capturado_en": "2026-09-09T15:56:05.816Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -613,7 +637,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-09T10:46:51.500Z"
+    "capturado_en": "2026-09-09T15:56:05.816Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
@@ -637,7 +661,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-09T10:47:05.254Z"
+    "capturado_en": "2026-09-09T15:56:09.590Z"
   },
   {
     "id": "scraped-red-exposocial-fondo-de-coyuntura-politica-convocatoria-para-593b5a2ab5",
@@ -661,7 +685,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-09T10:47:05.255Z"
+    "capturado_en": "2026-09-09T15:56:09.591Z"
   },
   {
     "id": "scraped-red-exposocial-holohil-programa-de-subvenciones-convocatoria-c4f0d54530",
@@ -685,7 +709,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-09T10:47:05.255Z"
+    "capturado_en": "2026-09-09T15:56:09.591Z"
   },
   {
     "id": "scraped-red-exposocial-convocatoria-2027-de-fundacion-alsea-convocat-9561833e7d",
@@ -709,7 +733,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-09T10:47:05.255Z"
+    "capturado_en": "2026-09-09T15:56:09.591Z"
   },
   {
     "id": "scraped-red-exposocial-life-programme-2026-convocatoria-para-osc-0c07737cd0",
@@ -733,7 +757,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-09T10:47:05.255Z"
+    "capturado_en": "2026-09-09T15:56:09.591Z"
   },
   {
     "id": "henri-boulard-award-2026-manual",
@@ -786,7 +810,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-09T10:46:51.494Z"
+    "capturado_en": "2026-09-09T15:56:05.805Z"
   },
   {
     "id": "scraped-wepropel-global-changemaker-fellowship-2026-bd8be3fd2a",
@@ -810,7 +834,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-09T10:46:51.495Z"
+    "capturado_en": "2026-09-09T15:56:05.807Z"
   },
   {
     "id": "scraped-premios-portafolio-premios-portafolio-2026-6c0d0fa3ff",
@@ -834,31 +858,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-09-09T10:46:44.282Z"
-  },
-  {
-    "id": "scraped-wepropel-yale-peace-fellows-b8fffe9588",
-    "titulo": "Yale Peace Fellows",
-    "donante": "Yale University",
-    "fuente": "Oportunidades Propel",
-    "sector": "Desarrollo social / Derechos",
-    "dimension": "social",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-09-09",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 58,
-    "pivot": "Programa de liderazgo para profesionales que trabajan en prevención de conflictos, construcción de paz y reconciliación posconflicto. Ofrece una experiencia internacional que combina un seminario presencial en Yale, sesiones virtuales de formación en negociación y comunicación, un viaje internacional de estudio y acceso a una red global de líderes de paz.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://jackson.yale.edu/international-leadership-center/yale-peace-fellows",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-09T10:46:51.488Z"
+    "capturado_en": "2026-09-09T15:55:56.210Z"
   },
   {
     "id": "scraped-wepropel-endangered-languages-documentation-programme--37c01239f2",
@@ -882,6 +882,6 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-09T10:46:51.497Z"
+    "capturado_en": "2026-09-09T15:56:05.811Z"
   }
 ]
