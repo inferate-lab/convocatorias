@@ -90,7 +90,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-10T16:57:12.539Z"
+    "capturado_en": "2026-09-11T16:58:36.993Z"
   },
   {
     "id": "cop31_climate_finance",
@@ -181,7 +181,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-10T16:57:12.534Z"
+    "capturado_en": "2026-09-11T16:58:36.987Z"
   },
   {
     "id": "scraped-red-exposocial-apoyos-de-respuesta-rapida-convocatoria-para--97707cba23",
@@ -205,7 +205,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-10T16:57:16.200Z"
+    "capturado_en": "2026-09-11T16:58:40.673Z"
   },
   {
     "id": "scraped-wepropel-stanley-1913-creators-fund-2026-program-d309acbd4f",
@@ -229,7 +229,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-10T16:57:12.524Z"
+    "capturado_en": "2026-09-11T16:58:36.978Z"
   },
   {
     "id": "scraped-wepropel-global-environment-facility-small-grants-prog-bd4c525132",
@@ -253,7 +253,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-10T16:57:12.525Z"
+    "capturado_en": "2026-09-11T16:58:36.980Z"
   },
   {
     "id": "scraped-wepropel-salesforce-accelerator-agents-for-impact-45a2c3527c",
@@ -277,7 +277,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-10T16:57:12.527Z"
+    "capturado_en": "2026-09-11T16:58:36.982Z"
   },
   {
     "id": "scraped-wepropel-anthropic-user-wellbeing-evaluation-grants-829eb2445f",
@@ -301,7 +301,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-10T16:57:12.529Z"
+    "capturado_en": "2026-09-11T16:58:36.983Z"
   },
   {
     "id": "scraped-wepropel-wellcome-discovery-awards-73c847f26d",
@@ -325,7 +325,31 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-10T16:57:12.530Z"
+    "capturado_en": "2026-09-11T16:58:36.985Z"
+  },
+  {
+    "id": "scraped-wepropel-billion-acts-of-peace-changemaker-fellowship-cabe8edb51",
+    "titulo": "Billion Acts of Peace Changemaker Fellowship",
+    "donante": "PeaceJam Foundation",
+    "fuente": "Oportunidades Propel",
+    "sector": "Educación / Juventud",
+    "dimension": "social",
+    "presupuesto_usd": 5000,
+    "fecha_cierre": "2026-09-28",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Fellowship dirigido a jóvenes que ya lideran un proyecto, iniciativa u organización enfocada en paz, justicia, equidad o cambio social. Ofrece formación, mentoría y acceso a una red global para fortalecer el liderazgo y hacer crecer sus iniciativas.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.billionacts.org/fellowship?utm=",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-09-11T16:58:36.989Z"
   },
   {
     "id": "scraped-wepropel-giving-joy-2026-grant-cycle-cycle-2-fall-2026-a45bd4c10e",
@@ -349,7 +373,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-10T16:57:12.537Z"
+    "capturado_en": "2026-09-11T16:58:36.991Z"
   },
   {
     "id": "scraped-wepropel-social-impact-fellowship-eaabe51396",
@@ -373,7 +397,31 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-10T16:57:12.538Z"
+    "capturado_en": "2026-09-11T16:58:36.991Z"
+  },
+  {
+    "id": "scraped-wepropel-4th-global-innovation-challenge-request-for-p-0f3bff5c4d",
+    "titulo": "4th Global Innovation Challenge: Request for Proposals Preparing Youth for AI",
+    "donante": "Citi Foundation",
+    "fuente": "Oportunidades Propel",
+    "sector": "Educación / Juventud",
+    "dimension": "social",
+    "presupuesto_usd": 25000000,
+    "fecha_cierre": "2026-10-06",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Grant para organizaciones sociales que ayudan a jóvenes de bajos ingresos a prepararse para acceder a oportunidades laborales en una economía impulsada por la inteligencia artificial. Financia programas que enseñen habilidades de IA, desarrollen habilidades para el trabajo, mejoren el acceso a herramientas digitales o incorporen IA en programas de empleabilidad juvenil.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.citigroup.com/global/foundation/apply-for-funding",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "roja",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-09-11T16:58:36.995Z"
   },
   {
     "id": "scraped-wepropel-miller-center-accelerator-program-cohorte-202-740a547e4f",
@@ -397,7 +445,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-10T16:57:12.541Z"
+    "capturado_en": "2026-09-11T16:58:36.999Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
@@ -421,31 +469,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-10T16:57:16.199Z"
-  },
-  {
-    "id": "scraped-wepropel-forest-conservation-fund-3rd-call-2f41323bac",
-    "titulo": "Forest Conservation Fund 3rd call",
-    "donante": "Forest Conservation Fund",
-    "fuente": "Oportunidades Propel",
-    "sector": "Educación / Juventud",
-    "dimension": "social",
-    "presupuesto_usd": 20000,
-    "fecha_cierre": "2026-09-11",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 67,
-    "pivot": "Convocatoria de expresión de interés para financiamiento de largo plazo dirigido a quienes protegen bosques naturales en países tropicales y subtropicales. El proceso inicia con un formulario de consulta; la aplicación formal solo se prepara si el FCF confirma compatibilidad. Ofrece grants de cinco años desembolsados trimestralmente, condicionados a verificación satelital del estado del bosque y reportes periódicos. Está dirigido a quienes ya tienen o están gestionando áreas de conservación con un mínimo de 500 hectáreas continuas de bosque nativo maduro, amenazadas por deforestación de origen comercial. No es un grant de arranque: se espera que el beneficiario ya tenga estructura operativa ",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.fundforests.org/for-applicants",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-10T16:57:12.523Z"
+    "capturado_en": "2026-09-11T16:58:40.672Z"
   },
   {
     "id": "scraped-wepropel-connect-open-call-776d657759",
@@ -469,7 +493,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-10T16:57:12.526Z"
+    "capturado_en": "2026-09-11T16:58:36.981Z"
   },
   {
     "id": "scraped-wepropel-national-endowment-for-democracy-2nd-call-387f80ed94",
@@ -493,7 +517,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-10T16:57:12.528Z"
+    "capturado_en": "2026-09-11T16:58:36.982Z"
   },
   {
     "id": "scraped-wepropel-ai-policy-fellowship-spring-2027-4ec8eeca99",
@@ -517,7 +541,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-10T16:57:12.536Z"
+    "capturado_en": "2026-09-11T16:58:36.989Z"
   },
   {
     "id": "scraped-wepropel-world-summit-award-a0bb3a8022",
@@ -541,7 +565,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-10T16:57:12.537Z"
+    "capturado_en": "2026-09-11T16:58:36.990Z"
   },
   {
     "id": "scraped-wepropel-2026-cso-call-for-expressions-of-project-inte-019366c463",
@@ -565,31 +589,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-10T16:57:12.540Z"
-  },
-  {
-    "id": "scraped-wepropel-the-gadfly-project-1838c6a5c5",
-    "titulo": "The Gadfly Project",
-    "donante": "The Gadfly Project",
-    "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 100000,
-    "fecha_cierre": "2026-10-23",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 67,
-    "pivot": "Convocatoria de apoyo en especie para organizaciones sin fines de lucro que trabajen en bienestar humano o sostenibilidad ambiental. Pone a disposición recursos técnicos internos para construir soluciones digitales que mejoren las operaciones o amplíen el alcance de la organización. Especialmente relevante para quienes necesitan un software personalizado pero no cuentan con la capacidad técnica ni el presupuesto para desarrollarlo.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.thegadflyproject.org/guidelines.html",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "roja",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-10T16:57:12.542Z"
+    "capturado_en": "2026-09-11T16:58:36.998Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -613,7 +613,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-10T16:57:12.542Z"
+    "capturado_en": "2026-09-11T16:58:36.999Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -637,7 +637,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-10T16:57:12.543Z"
+    "capturado_en": "2026-09-11T16:58:37.000Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
@@ -661,7 +661,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-10T16:57:16.199Z"
+    "capturado_en": "2026-09-11T16:58:40.673Z"
   },
   {
     "id": "scraped-red-exposocial-fondo-de-coyuntura-politica-convocatoria-para-593b5a2ab5",
@@ -685,7 +685,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-10T16:57:16.200Z"
+    "capturado_en": "2026-09-11T16:58:40.673Z"
   },
   {
     "id": "scraped-red-exposocial-holohil-programa-de-subvenciones-convocatoria-c4f0d54530",
@@ -709,7 +709,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-10T16:57:16.200Z"
+    "capturado_en": "2026-09-11T16:58:40.673Z"
   },
   {
     "id": "scraped-red-exposocial-convocatoria-2027-de-fundacion-alsea-convocat-9561833e7d",
@@ -733,7 +733,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-10T16:57:16.201Z"
+    "capturado_en": "2026-09-11T16:58:40.674Z"
   },
   {
     "id": "scraped-red-exposocial-life-programme-2026-convocatoria-para-osc-0c07737cd0",
@@ -757,7 +757,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-10T16:57:16.201Z"
+    "capturado_en": "2026-09-11T16:58:40.674Z"
   },
   {
     "id": "scraped-wepropel-tech-policy-press-fellowship-program-2027-48cc260d7e",
@@ -781,7 +781,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-10T16:57:12.531Z"
+    "capturado_en": "2026-09-11T16:58:36.986Z"
   },
   {
     "id": "scraped-wepropel-global-changemaker-fellowship-2026-bd8be3fd2a",
@@ -805,7 +805,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-10T16:57:12.535Z"
+    "capturado_en": "2026-09-11T16:58:36.988Z"
   },
   {
     "id": "scraped-premios-portafolio-premios-portafolio-2026-6c0d0fa3ff",
@@ -829,7 +829,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-09-10T16:57:05.949Z"
+    "capturado_en": "2026-09-11T16:58:29.455Z"
   },
   {
     "id": "scraped-wepropel-endangered-languages-documentation-programme--37c01239f2",
@@ -853,6 +853,6 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-10T16:57:12.539Z"
+    "capturado_en": "2026-09-11T16:58:36.992Z"
   }
 ]
