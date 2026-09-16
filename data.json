@@ -90,7 +90,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-16T16:09:19.952Z"
+    "capturado_en": "2026-09-16T20:53:12.819Z"
   },
   {
     "id": "scraped-wepropel-the-next-move-0855771345",
@@ -114,7 +114,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-16T16:09:19.953Z"
+    "capturado_en": "2026-09-16T20:53:12.820Z"
   },
   {
     "id": "cop31_climate_finance",
@@ -160,7 +160,31 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-16T16:09:19.945Z"
+    "capturado_en": "2026-09-16T20:53:12.812Z"
+  },
+  {
+    "id": "scraped-red-exposocial-apoyos-de-respuesta-rapida-convocatoria-para--97707cba23",
+    "titulo": "Apoyos de Respuesta Rápida: convocatoria para OSC",
+    "donante": "Red ExpoSocial",
+    "fuente": "Red ExpoSocial",
+    "sector": "Desarrollo social / Convocatorias",
+    "dimension": "social",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "Revisar en plataforma",
+    "estado": "VERIFICAR VIGENCIA EN LA FUENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 81,
+    "pivot": "Fondo de Acción Urgente para América Latina y el Caribe (FAU-LAC) presenta esta oportunidad para organizaciones de la sociedad civil. Fecha de cierre: Permanente.",
+    "obstaculo": "La fuente no publica una fecha estructurada; verificar vigencia antes de postular.",
+    "fuente_url": "https://redexposocial.org/apoyos-de-respuesta-rapida/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "RED EXPOSOCIAL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "red-exposocial",
+    "capturado_en": "2026-09-16T20:53:16.809Z"
   },
   {
     "id": "scraped-wepropel-fast-forward-accelerator-5a39b8dfcb",
@@ -184,7 +208,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-16T16:09:19.939Z"
+    "capturado_en": "2026-09-16T20:53:12.807Z"
   },
   {
     "id": "scraped-wepropel-salesforce-accelerator-agents-for-impact-45a2c3527c",
@@ -208,7 +232,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-16T16:09:19.940Z"
+    "capturado_en": "2026-09-16T20:53:12.808Z"
   },
   {
     "id": "scraped-wepropel-anthropic-user-wellbeing-evaluation-grants-829eb2445f",
@@ -232,7 +256,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-16T16:09:19.942Z"
+    "capturado_en": "2026-09-16T20:53:12.810Z"
   },
   {
     "id": "scraped-wepropel-wellcome-discovery-awards-73c847f26d",
@@ -256,7 +280,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-16T16:09:19.942Z"
+    "capturado_en": "2026-09-16T20:53:12.811Z"
   },
   {
     "id": "scraped-wepropel-billion-acts-of-peace-changemaker-fellowship-cabe8edb51",
@@ -280,7 +304,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-16T16:09:19.948Z"
+    "capturado_en": "2026-09-16T20:53:12.815Z"
   },
   {
     "id": "scraped-wepropel-giving-joy-2026-grant-cycle-cycle-2-fall-2026-a45bd4c10e",
@@ -304,7 +328,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-16T16:09:19.950Z"
+    "capturado_en": "2026-09-16T20:53:12.817Z"
   },
   {
     "id": "scraped-wepropel-social-impact-fellowship-eaabe51396",
@@ -328,7 +352,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-16T16:09:19.951Z"
+    "capturado_en": "2026-09-16T20:53:12.818Z"
   },
   {
     "id": "scraped-wepropel-4th-global-innovation-challenge-request-for-p-0f3bff5c4d",
@@ -352,7 +376,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-16T16:09:19.954Z"
+    "capturado_en": "2026-09-16T20:53:12.821Z"
   },
   {
     "id": "scraped-wepropel-miller-center-accelerator-program-cohorte-202-740a547e4f",
@@ -376,7 +400,31 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-16T16:09:19.957Z"
+    "capturado_en": "2026-09-16T20:53:12.822Z"
+  },
+  {
+    "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
+    "titulo": "Google para Nonprofits",
+    "donante": "Red ExpoSocial",
+    "fuente": "Red ExpoSocial",
+    "sector": "Tecnología / Innovación",
+    "dimension": "social",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "Revisar en plataforma",
+    "estado": "VERIFICAR VIGENCIA EN LA FUENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Google. Tecnología / comunicación / publicidad / recaudación. Cierre: Permanente. Apoyo: Apoyos en especie.",
+    "obstaculo": "La fuente no publica una fecha estructurada; verificar vigencia antes de postular.",
+    "fuente_url": "https://redexposocial.org/google-para-nonprofits-google-2026-7db59f71/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "RED EXPOSOCIAL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "red-exposocial",
+    "capturado_en": "2026-09-16T20:53:16.807Z"
   },
   {
     "id": "scraped-wepropel-national-endowment-for-democracy-2nd-call-387f80ed94",
@@ -400,7 +448,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-16T16:09:19.941Z"
+    "capturado_en": "2026-09-16T20:53:12.809Z"
   },
   {
     "id": "scraped-wepropel-ai-policy-fellowship-spring-2027-4ec8eeca99",
@@ -424,7 +472,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-16T16:09:19.947Z"
+    "capturado_en": "2026-09-16T20:53:12.814Z"
   },
   {
     "id": "scraped-wepropel-world-summit-award-a0bb3a8022",
@@ -448,7 +496,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-16T16:09:19.949Z"
+    "capturado_en": "2026-09-16T20:53:12.817Z"
   },
   {
     "id": "scraped-wepropel-2026-cso-call-for-expressions-of-project-inte-019366c463",
@@ -472,7 +520,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-16T16:09:19.957Z"
+    "capturado_en": "2026-09-16T20:53:12.822Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -496,7 +544,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-16T16:09:19.958Z"
+    "capturado_en": "2026-09-16T20:53:12.823Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -520,7 +568,127 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-16T16:09:19.959Z"
+    "capturado_en": "2026-09-16T20:53:12.824Z"
+  },
+  {
+    "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
+    "titulo": "Google para Nonprofits: convocatoria para OSC",
+    "donante": "Red ExpoSocial",
+    "fuente": "Red ExpoSocial",
+    "sector": "Desarrollo social / Convocatorias",
+    "dimension": "social",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "Revisar en plataforma",
+    "estado": "VERIFICAR VIGENCIA EN LA FUENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 67,
+    "pivot": "Google presenta esta oportunidad para organizaciones de la sociedad civil. Fecha de cierre: Permanente.",
+    "obstaculo": "La fuente no publica una fecha estructurada; verificar vigencia antes de postular.",
+    "fuente_url": "https://redexposocial.org/google-para-nonprofits/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "RED EXPOSOCIAL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "red-exposocial",
+    "capturado_en": "2026-09-16T20:53:16.808Z"
+  },
+  {
+    "id": "scraped-red-exposocial-fondo-de-coyuntura-politica-convocatoria-para-593b5a2ab5",
+    "titulo": "Fondo de Coyuntura Política: convocatoria para OSC",
+    "donante": "Red ExpoSocial",
+    "fuente": "Red ExpoSocial",
+    "sector": "Desarrollo social / Convocatorias",
+    "dimension": "social",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "Revisar en plataforma",
+    "estado": "VERIFICAR VIGENCIA EN LA FUENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 67,
+    "pivot": "Alianza Surge presenta esta oportunidad para organizaciones de la sociedad civil. Fecha de cierre: Hasta agotar recursos.",
+    "obstaculo": "La fuente no publica una fecha estructurada; verificar vigencia antes de postular.",
+    "fuente_url": "https://redexposocial.org/fondo-de-coyuntura-politica/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "RED EXPOSOCIAL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "red-exposocial",
+    "capturado_en": "2026-09-16T20:53:16.809Z"
+  },
+  {
+    "id": "scraped-red-exposocial-holohil-programa-de-subvenciones-convocatoria-c4f0d54530",
+    "titulo": "Holohil – Programa de subvenciones: convocatoria para OSC",
+    "donante": "Red ExpoSocial",
+    "fuente": "Red ExpoSocial",
+    "sector": "Desarrollo social / Convocatorias",
+    "dimension": "social",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-10-15",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 67,
+    "pivot": "Holohil presenta esta oportunidad para organizaciones de la sociedad civil. Fecha de cierre: 15/10/2026 (próxima ronda).",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://redexposocial.org/holohil-programa-de-subvenciones/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "RED EXPOSOCIAL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "red-exposocial",
+    "capturado_en": "2026-09-16T20:53:16.810Z"
+  },
+  {
+    "id": "scraped-red-exposocial-convocatoria-2027-de-fundacion-alsea-convocat-9561833e7d",
+    "titulo": "Convocatoria 2027 de Fundación Alsea: convocatoria para OSC",
+    "donante": "Red ExpoSocial",
+    "fuente": "Red ExpoSocial",
+    "sector": "Desarrollo social / Convocatorias",
+    "dimension": "social",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-09-30",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 67,
+    "pivot": "Fundación Alsea presenta esta oportunidad para organizaciones de la sociedad civil. Fecha de cierre: 30/09/2026.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://redexposocial.org/convocatoria-2027-de-fundacion-alsea/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "RED EXPOSOCIAL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "red-exposocial",
+    "capturado_en": "2026-09-16T20:53:16.810Z"
+  },
+  {
+    "id": "scraped-red-exposocial-life-programme-2026-convocatoria-para-osc-0c07737cd0",
+    "titulo": "LIFE Programme 2026: convocatoria para OSC",
+    "donante": "Red ExpoSocial",
+    "fuente": "Red ExpoSocial",
+    "sector": "Desarrollo social / Convocatorias",
+    "dimension": "social",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-09-22",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 67,
+    "pivot": "Comisión Europea / CINEA presenta esta oportunidad para organizaciones de la sociedad civil. Fecha de cierre: 22/09/2026.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://redexposocial.org/life-programme-2026/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "RED EXPOSOCIAL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "red-exposocial",
+    "capturado_en": "2026-09-16T20:53:16.810Z"
   },
   {
     "id": "scraped-wepropel-tara-s-circle-2026-840ed5510f",
@@ -544,7 +712,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-16T16:09:19.938Z"
+    "capturado_en": "2026-09-16T20:53:12.806Z"
   },
   {
     "id": "scraped-wepropel-tech-policy-press-fellowship-program-2027-48cc260d7e",
@@ -568,7 +736,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-16T16:09:19.944Z"
+    "capturado_en": "2026-09-16T20:53:12.811Z"
   },
   {
     "id": "scraped-wepropel-global-changemaker-fellowship-2026-bd8be3fd2a",
@@ -592,7 +760,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-16T16:09:19.946Z"
+    "capturado_en": "2026-09-16T20:53:12.813Z"
   },
   {
     "id": "scraped-premios-portafolio-premios-portafolio-2026-6c0d0fa3ff",
@@ -616,7 +784,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-09-16T16:09:13.145Z"
+    "capturado_en": "2026-09-16T20:53:05.406Z"
   },
   {
     "id": "scraped-wepropel-endangered-languages-documentation-programme--37c01239f2",
@@ -640,6 +808,6 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-16T16:09:19.951Z"
+    "capturado_en": "2026-09-16T20:53:12.819Z"
   }
 ]
