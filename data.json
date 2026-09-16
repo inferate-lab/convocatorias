@@ -90,7 +90,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-15T20:52:37.696Z"
+    "capturado_en": "2026-09-16T03:22:42.633Z"
   },
   {
     "id": "scraped-wepropel-the-next-move-0855771345",
@@ -114,7 +114,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-15T20:52:37.697Z"
+    "capturado_en": "2026-09-16T03:22:42.633Z"
   },
   {
     "id": "cop31_climate_finance",
@@ -135,51 +135,6 @@
       "PRE-CONVOCATORIA",
       "USD $1M",
       "SEÑAL ALTA"
-    ],
-    "tipo": "roja"
-  },
-  {
-    "id": "kbs_frb",
-    "titulo": "King Baudouin Foundation Call for Projects",
-    "donante": "King Baudouin Foundation",
-    "fuente": "KBS-FRB Portal",
-    "sector": "Desarrollo General",
-    "dimension": "general",
-    "presupuesto_usd": 200000,
-    "fecha_cierre": "2026-09-15",
-    "estado": "ACTIVA",
-    "pais_elegible": "Latam / Colombia ✓",
-    "afinidad_pivot": 85,
-    "pivot": "Desarrollo social a gran escala en Medellín y Antioquia.",
-    "obstaculo": "Preferencia por redes globales y cooperación con actores europeos.",
-    "fuente_url": "https://kbs-frb.be/",
-    "tags": [
-      "OBLIGATORIA",
-      "GENERAL"
-    ],
-    "tipo": "fondo"
-  },
-  {
-    "id": "eu_hydrogen_bank_latam",
-    "titulo": "EU Global Gateway — European Hydrogen Bank: Latam Partnerships",
-    "donante": "European Commission / DG ENERGY",
-    "fuente": "TED / Global Gateway EU",
-    "sector": "Hidrógeno / Transición Energética",
-    "dimension": "ambiental",
-    "presupuesto_usd": 2000000,
-    "fecha_cierre": "2026-09-15",
-    "estado": "PRE-CONVOCATORIA — Global Gateway asignó €300M para H₂ Latam",
-    "pais_elegible": "Colombia ✓",
-    "afinidad_pivot": 84,
-    "pivot": "La UE busca implementadores en Latam con infraestructura energética real. EPM es el único actor colombiano con escala de generación + brazo social (Fundación) para gestionar la transición justa.",
-    "obstaculo": "Requiere consorcio EU + empresa energética. Pre-identificar: EDF Renewables, Iberdrola, o Engie como lead EU.",
-    "fuente_url": "https://single-market-economy.ec.europa.eu/industry/strategy/hydrogen/eu-hydrogen-bank_en",
-    "tags": [
-      "EU GLOBAL GATEWAY",
-      "H₂ LATAM",
-      "PRE-CONVOCATORIA",
-      "USD $2M",
-      "CONSORCIO EU"
     ],
     "tipo": "roja"
   },
@@ -205,7 +160,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-15T20:52:37.688Z"
+    "capturado_en": "2026-09-16T03:22:42.629Z"
   },
   {
     "id": "scraped-red-exposocial-apoyos-de-respuesta-rapida-convocatoria-para--97707cba23",
@@ -229,31 +184,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-15T20:52:41.720Z"
-  },
-  {
-    "id": "scraped-wepropel-global-environment-facility-small-grants-prog-bd4c525132",
-    "titulo": "Global Environment Facility - Small Grants Program - CSO Challenge Program",
-    "donante": "Unión Internacional para la Conservación de la Naturaleza (UICN) & Global Environment Facility (GEF)",
-    "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 300000,
-    "fecha_cierre": "2026-09-15",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 74,
-    "pivot": "Programa de financiamiento que identifica, apoya y amplía soluciones innovadoras ambientales de alto impacto lideradas por organizaciones de la sociedad civil (CSO). Ofrece grants para replicar modelos comprobados, adaptar soluciones existentes a nuevos contextos y probar estrategias de escalamiento, junto con desarrollo de capacidades e intercambio de conocimientos entre pares.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://csochallenge.org/#apply",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "roja",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-15T20:52:37.675Z"
+    "capturado_en": "2026-09-16T03:22:45.783Z"
   },
   {
     "id": "scraped-wepropel-salesforce-accelerator-agents-for-impact-45a2c3527c",
@@ -277,7 +208,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-15T20:52:37.683Z"
+    "capturado_en": "2026-09-16T03:22:42.626Z"
   },
   {
     "id": "scraped-wepropel-anthropic-user-wellbeing-evaluation-grants-829eb2445f",
@@ -301,7 +232,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-15T20:52:37.685Z"
+    "capturado_en": "2026-09-16T03:22:42.627Z"
   },
   {
     "id": "scraped-wepropel-wellcome-discovery-awards-73c847f26d",
@@ -325,7 +256,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-15T20:52:37.686Z"
+    "capturado_en": "2026-09-16T03:22:42.627Z"
   },
   {
     "id": "scraped-wepropel-billion-acts-of-peace-changemaker-fellowship-cabe8edb51",
@@ -349,7 +280,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-15T20:52:37.692Z"
+    "capturado_en": "2026-09-16T03:22:42.631Z"
   },
   {
     "id": "scraped-wepropel-giving-joy-2026-grant-cycle-cycle-2-fall-2026-a45bd4c10e",
@@ -373,7 +304,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-15T20:52:37.694Z"
+    "capturado_en": "2026-09-16T03:22:42.631Z"
   },
   {
     "id": "scraped-wepropel-social-impact-fellowship-eaabe51396",
@@ -397,7 +328,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-15T20:52:37.694Z"
+    "capturado_en": "2026-09-16T03:22:42.632Z"
   },
   {
     "id": "scraped-wepropel-4th-global-innovation-challenge-request-for-p-0f3bff5c4d",
@@ -421,7 +352,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-15T20:52:37.698Z"
+    "capturado_en": "2026-09-16T03:22:42.635Z"
   },
   {
     "id": "scraped-wepropel-miller-center-accelerator-program-cohorte-202-740a547e4f",
@@ -445,7 +376,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-15T20:52:37.700Z"
+    "capturado_en": "2026-09-16T03:22:42.636Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
@@ -469,7 +400,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-15T20:52:41.719Z"
+    "capturado_en": "2026-09-16T03:22:45.782Z"
   },
   {
     "id": "scraped-wepropel-connect-open-call-776d657759",
@@ -493,7 +424,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-15T20:52:37.682Z"
+    "capturado_en": "2026-09-16T03:22:42.626Z"
   },
   {
     "id": "scraped-wepropel-national-endowment-for-democracy-2nd-call-387f80ed94",
@@ -517,7 +448,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-15T20:52:37.684Z"
+    "capturado_en": "2026-09-16T03:22:42.627Z"
   },
   {
     "id": "scraped-wepropel-ai-policy-fellowship-spring-2027-4ec8eeca99",
@@ -541,7 +472,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-15T20:52:37.690Z"
+    "capturado_en": "2026-09-16T03:22:42.630Z"
   },
   {
     "id": "scraped-wepropel-world-summit-award-a0bb3a8022",
@@ -565,7 +496,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-15T20:52:37.693Z"
+    "capturado_en": "2026-09-16T03:22:42.631Z"
   },
   {
     "id": "scraped-wepropel-2026-cso-call-for-expressions-of-project-inte-019366c463",
@@ -589,7 +520,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-15T20:52:37.699Z"
+    "capturado_en": "2026-09-16T03:22:42.635Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -613,7 +544,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-15T20:52:37.700Z"
+    "capturado_en": "2026-09-16T03:22:42.636Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -637,7 +568,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-15T20:52:37.701Z"
+    "capturado_en": "2026-09-16T03:22:42.636Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
@@ -661,7 +592,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-15T20:52:41.720Z"
+    "capturado_en": "2026-09-16T03:22:45.782Z"
   },
   {
     "id": "scraped-red-exposocial-fondo-de-coyuntura-politica-convocatoria-para-593b5a2ab5",
@@ -685,7 +616,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-15T20:52:41.721Z"
+    "capturado_en": "2026-09-16T03:22:45.783Z"
   },
   {
     "id": "scraped-red-exposocial-holohil-programa-de-subvenciones-convocatoria-c4f0d54530",
@@ -709,7 +640,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-15T20:52:41.721Z"
+    "capturado_en": "2026-09-16T03:22:45.783Z"
   },
   {
     "id": "scraped-red-exposocial-convocatoria-2027-de-fundacion-alsea-convocat-9561833e7d",
@@ -733,7 +664,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-15T20:52:41.722Z"
+    "capturado_en": "2026-09-16T03:22:45.783Z"
   },
   {
     "id": "scraped-red-exposocial-life-programme-2026-convocatoria-para-osc-0c07737cd0",
@@ -757,36 +688,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-15T20:52:41.722Z"
-  },
-  {
-    "id": "henri-boulard-award-2026-manual",
-    "titulo": "Henri Boulard Award 2026",
-    "donante": "Biocodex Microbiota Foundation",
-    "fuente": "Cámara de Comercio de Bogotá (índice) → verificado en fuente primaria",
-    "sector": "Salud, investigación, microbiota, resistencia antimicrobiana y medio ambiente",
-    "dimension": "social",
-    "presupuesto_usd": 10800,
-    "fecha_cierre": "2026-09-15",
-    "estado": "ABIERTA",
-    "pais_elegible": "Colombia (incluida explícitamente en la lista de países elegibles de América Latina)",
-    "afinidad_pivot": 65,
-    "pivot": "Aplica bajo la línea de gestión ambiental/social de la Fundación si hay un proyecto relacionado con protección de microbiota, salud comunitaria vinculada a agua/saneamiento, o reducción de residuos farmacéuticos en aguas residuales bajo enfoque One Health.",
-    "obstaculo": "El postulante debe ser un profesional de la salud en nombre de una asociación, organización de investigación, hospital o institución — no puede postular una empresa de forma independiente.",
-    "fuente_url": "https://www.biocodexmicrobiotafoundation.com/henri-boulard-award/henri-boulard-award-call-projects",
-    "tags": [
-      "Salud",
-      "Microbiota",
-      "Medio ambiente",
-      "Colombia elegible"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "ccb-verificado-manual",
-    "metodo_deteccion": "verificado_manual_usuario_y_claude",
-    "primera_deteccion": "2026-08-28T04:14:53.500Z",
-    "ultima_verificacion": "2026-08-28T04:14:53.500Z",
-    "analizado_ia": false
+    "capturado_en": "2026-09-16T03:22:45.784Z"
   },
   {
     "id": "scraped-wepropel-tech-policy-press-fellowship-program-2027-48cc260d7e",
@@ -810,7 +712,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-15T20:52:37.687Z"
+    "capturado_en": "2026-09-16T03:22:42.628Z"
   },
   {
     "id": "scraped-wepropel-global-changemaker-fellowship-2026-bd8be3fd2a",
@@ -834,7 +736,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-15T20:52:37.689Z"
+    "capturado_en": "2026-09-16T03:22:42.629Z"
   },
   {
     "id": "scraped-premios-portafolio-premios-portafolio-2026-6c0d0fa3ff",
@@ -858,7 +760,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-09-15T20:52:30.696Z"
+    "capturado_en": "2026-09-16T03:22:35.829Z"
   },
   {
     "id": "scraped-wepropel-endangered-languages-documentation-programme--37c01239f2",
@@ -882,6 +784,6 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-15T20:52:37.695Z"
+    "capturado_en": "2026-09-16T03:22:42.632Z"
   }
 ]
