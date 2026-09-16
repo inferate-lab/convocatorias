@@ -1,7 +1,7 @@
 {
-  "last_run": "2026-09-16T10:51:59.050Z",
-  "active_opportunities": 33,
-  "scraped_opportunities": 29,
+  "last_run": "2026-09-16T16:09:25.920Z",
+  "active_opportunities": 27,
+  "scraped_opportunities": 23,
   "sources_ok": 9,
   "sources_failed": 0,
   "sources_skipped": 0,
@@ -45,14 +45,14 @@
       "id": "wepropel",
       "name": "Oportunidades Propel",
       "status": "success",
-      "found": 21,
+      "found": 22,
       "message": "HTTP 200"
     },
     {
       "id": "red-exposocial",
       "name": "Red ExpoSocial",
       "status": "success",
-      "found": 7,
+      "found": 0,
       "message": "HTTP 200"
     },
     {
