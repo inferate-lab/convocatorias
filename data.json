@@ -90,7 +90,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-17T10:58:58.632Z"
+    "capturado_en": "2026-09-17T16:15:40.677Z"
   },
   {
     "id": "scraped-wepropel-the-next-move-0855771345",
@@ -114,7 +114,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-17T10:58:58.633Z"
+    "capturado_en": "2026-09-17T16:15:40.678Z"
   },
   {
     "id": "cop31_climate_finance",
@@ -137,30 +137,6 @@
       "SEÑAL ALTA"
     ],
     "tipo": "roja"
-  },
-  {
-    "id": "scraped-wepropel-indigenous-women-s-program-fellowship-2027-co-f11f565138",
-    "titulo": "Indigenous Women’s Program Fellowship 2027 - Cohort V",
-    "donante": "Land is Life",
-    "fuente": "Oportunidades Propel",
-    "sector": "Educación / Juventud",
-    "dimension": "social",
-    "presupuesto_usd": 3600,
-    "fecha_cierre": "2026-09-24",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Colombia mencionada ✓",
-    "afinidad_pivot": 81,
-    "pivot": "Fellowship de un año para mujeres indígenas de 18 a 35 años que lideran iniciativas comunitarias. Ofrece mentoría, formación, un estipendio y un microgrant para desarrollar un proyecto comunitario.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.landislife.org/indigenous-womens-program-fellowship-8928/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-17T10:58:58.625Z"
   },
   {
     "id": "scraped-red-exposocial-apoyos-de-respuesta-rapida-convocatoria-para--97707cba23",
@@ -187,92 +163,20 @@
     "capturado_en": "2026-09-17T10:59:02.415Z"
   },
   {
-    "id": "scraped-wepropel-fast-forward-accelerator-5a39b8dfcb",
-    "titulo": "Fast Forward Accelerator",
-    "donante": "Fast Forward",
-    "fuente": "Oportunidades Propel",
-    "sector": "Tecnología / Innovación",
-    "dimension": "social",
-    "presupuesto_usd": 25000,
-    "fecha_cierre": "2026-09-18",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 74,
-    "pivot": "Programa de aceleración para nonprofits de tecnología en etapa temprana que cuentan con un MVP. Ofrece financiamiento sin restricciones, mentoría, formación y acceso a una red de expertos y fundadores para fortalecer y escalar su impacto.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.ffwd.org/accelerator",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-17T10:58:58.617Z"
-  },
-  {
-    "id": "scraped-wepropel-salesforce-accelerator-agents-for-impact-45a2c3527c",
-    "titulo": "Salesforce Accelerator Agents for Impact",
-    "donante": "Salesforce",
+    "id": "scraped-wepropel-indigenous-women-s-program-fellowship-2027-co-f11f565138",
+    "titulo": "Indigenous Women’s Program Fellowship 2027 - Cohort V",
+    "donante": "Land is Life",
     "fuente": "Oportunidades Propel",
     "sector": "Educación / Juventud",
     "dimension": "social",
-    "presupuesto_usd": 300000,
-    "fecha_cierre": "2026-09-18",
+    "presupuesto_usd": 3600,
+    "fecha_cierre": "2026-09-24",
     "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 74,
-    "pivot": "Programa de 6 meses para organizaciones sociales que quieren desarrollar y poner en marcha una solución con agentes de inteligencia artificial para resolver un desafío clave de su misión. Las organizaciones seleccionadas reciben financiamiento flexible, tecnología de Salesforce y asesoría técnica gratuita de especialistas.",
+    "pais_elegible": "Colombia mencionada ✓",
+    "afinidad_pivot": 81,
+    "pivot": "Fellowship de un año para mujeres indígenas de 18 a 35 años que lideran iniciativas comunitarias. Ofrece mentoría, formación, un estipendio y un microgrant para desarrollar un proyecto comunitario.",
     "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://salesforceagentsforimpact.splashthat.com/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "roja",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-17T10:58:58.618Z"
-  },
-  {
-    "id": "scraped-wepropel-anthropic-user-wellbeing-evaluation-grants-829eb2445f",
-    "titulo": "Anthropic User Wellbeing Evaluation Grants",
-    "donante": "Anthropic",
-    "fuente": "Oportunidades Propel",
-    "sector": "Salud / Bienestar",
-    "dimension": "social",
-    "presupuesto_usd": 5000000,
-    "fecha_cierre": "2026-09-21",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 74,
-    "pivot": "Grant para investigadores independientes que desarrollen evaluaciones de código abierto para medir cómo la inteligencia artificial afecta el bienestar mental, emocional, cognitivo y social de sus usuarios. Se financiarán evaluaciones de comportamientos de modelos, benchmarks entre modelos y metodologías para medir el impacto de la IA en el bienestar.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.anthropic.com/news/wellbeing-research-grants",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "roja",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-17T10:58:58.620Z"
-  },
-  {
-    "id": "scraped-wepropel-wellcome-discovery-awards-73c847f26d",
-    "titulo": "Wellcome Discovery Awards",
-    "donante": "Wellcome",
-    "fuente": "Oportunidades Propel",
-    "sector": "Salud / Bienestar",
-    "dimension": "social",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-09-22",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 74,
-    "pivot": "Financiamiento a largo plazo para equipos multidisciplinarios o investigadores que busquen desarrollar investigación ambiciosa y creativa con potencial de generar avances significativos en la comprensión de la vida humana, la salud y el bienestar. Cubre gastos de investigación durante un período de hasta 8 años. Buscan equipos con capacidad de investigación formal y trayectoria consolidada en su campo.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://wellcome.org/research-funding/schemes/wellcome-discovery-awards#key-dates-0dcc",
+    "fuente_url": "https://www.landislife.org/indigenous-womens-program-fellowship-8928/",
     "tags": [
       "RASTREO EN VIVO",
       "OPORTUNIDADES PROPEL"
@@ -280,127 +184,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-17T10:58:58.623Z"
-  },
-  {
-    "id": "scraped-wepropel-billion-acts-of-peace-changemaker-fellowship-cabe8edb51",
-    "titulo": "Billion Acts of Peace Changemaker Fellowship",
-    "donante": "PeaceJam Foundation",
-    "fuente": "Oportunidades Propel",
-    "sector": "Educación / Juventud",
-    "dimension": "social",
-    "presupuesto_usd": 5000,
-    "fecha_cierre": "2026-09-28",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 74,
-    "pivot": "Fellowship dirigido a jóvenes que ya lideran un proyecto, iniciativa u organización enfocada en paz, justicia, equidad o cambio social. Ofrece formación, mentoría y acceso a una red global para fortalecer el liderazgo y hacer crecer sus iniciativas.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.billionacts.org/fellowship?utm=",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-17T10:58:58.628Z"
-  },
-  {
-    "id": "scraped-wepropel-giving-joy-2026-grant-cycle-cycle-2-fall-2026-a45bd4c10e",
-    "titulo": "Giving Joy 2026 Grant Cycle (Cycle 2 – Fall 2026)",
-    "donante": "Giving Joy Grants",
-    "fuente": "Oportunidades Propel",
-    "sector": "Salud / Bienestar",
-    "dimension": "social",
-    "presupuesto_usd": 500,
-    "fecha_cierre": "2026-09-30",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 74,
-    "pivot": "Microgrant dirigido a mujeres de 18 años o más de cualquier país que quieran iniciar o ampliar un negocio, una organización sin fines de lucro, una ONG o un proyecto. Ofrece financiamiento para implementar una iniciativa que genere beneficios sociales o económicos para mujeres, niñas, familias o comunidades, sin limitarse a una causa o sector específico. La propuesta debe demostrar un impacto más allá del beneficio personal de la solicitante. Además del financiamiento, incluye acompañamiento administrativo mediante un acuerdo de grant y lineamientos de implementación con un plazo de ejecución de seis meses.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://givingjoygrants.org/grant-application",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-17T10:58:58.630Z"
-  },
-  {
-    "id": "scraped-wepropel-social-impact-fellowship-eaabe51396",
-    "titulo": "Social Impact Fellowship",
-    "donante": "Equity | Impact Center",
-    "fuente": "Oportunidades Propel",
-    "sector": "Educación / Juventud",
-    "dimension": "social",
-    "presupuesto_usd": 8000,
-    "fecha_cierre": "2026-09-30",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 74,
-    "pivot": "Fellowship para líderes de iniciativas de impacto social que buscan fortalecer sus capacidades de liderazgo, estrategia, gestión, investigación, participación comunitaria y diseño de programas. Ofrece experiencia práctica en The Equity Impact Center, con mentoría, talleres y participación en proyectos de desarrollo comunitario, liderazgo y emprendimiento creativo.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://equityimpactcenter.formstack.com/forms/social_impact_fellowship",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-17T10:58:58.631Z"
-  },
-  {
-    "id": "scraped-wepropel-4th-global-innovation-challenge-request-for-p-0f3bff5c4d",
-    "titulo": "4th Global Innovation Challenge: Request for Proposals Preparing Youth for AI",
-    "donante": "Citi Foundation",
-    "fuente": "Oportunidades Propel",
-    "sector": "Educación / Juventud",
-    "dimension": "social",
-    "presupuesto_usd": 25000000,
-    "fecha_cierre": "2026-10-06",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 74,
-    "pivot": "Grant para organizaciones sociales que ayudan a jóvenes de bajos ingresos a prepararse para acceder a oportunidades laborales en una economía impulsada por la inteligencia artificial. Financia programas que enseñen habilidades de IA, desarrollen habilidades para el trabajo, mejoren el acceso a herramientas digitales o incorporen IA en programas de empleabilidad juvenil.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.citigroup.com/global/foundation/apply-for-funding",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "roja",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-17T10:58:58.634Z"
-  },
-  {
-    "id": "scraped-wepropel-miller-center-accelerator-program-cohorte-202-740a547e4f",
-    "titulo": "Miller Center Accelerator Program - Cohorte 2027",
-    "donante": "Miller Center for Global Impact",
-    "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-10-16",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 74,
-    "pivot": "Programa de aceleración virtual de 6 meses, orientado a líderes de empresas sociales con tracción comprobada que buscan escalar su impacto. Combina mentoría ejecutiva personalizada con un currículo estructurado para fortalecer el modelo de negocio, el modelo de impacto y la estrategia de financiamiento. Está enfocado en emprendimientos que abordan la pobreza a través del empoderamiento económico de las mujeres y/o la resiliencia climática.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://millercenterglobal.org/accelerator/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-17T10:58:58.636Z"
+    "capturado_en": "2026-09-17T16:15:40.669Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
@@ -427,20 +211,44 @@
     "capturado_en": "2026-09-17T10:59:02.414Z"
   },
   {
-    "id": "scraped-wepropel-national-endowment-for-democracy-2nd-call-387f80ed94",
-    "titulo": "National Endowment for Democracy 2nd call",
-    "donante": "National Endowment for Democracy",
+    "id": "scraped-wepropel-fast-forward-accelerator-5a39b8dfcb",
+    "titulo": "Fast Forward Accelerator",
+    "donante": "Fast Forward",
+    "fuente": "Oportunidades Propel",
+    "sector": "Tecnología / Innovación",
+    "dimension": "social",
+    "presupuesto_usd": 25000,
+    "fecha_cierre": "2026-09-18",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Programa de aceleración para nonprofits de tecnología en etapa temprana que cuentan con un MVP. Ofrece financiamiento sin restricciones, mentoría, formación y acceso a una red de expertos y fundadores para fortalecer y escalar su impacto.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.ffwd.org/accelerator",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-09-17T16:15:40.663Z"
+  },
+  {
+    "id": "scraped-wepropel-salesforce-accelerator-agents-for-impact-45a2c3527c",
+    "titulo": "Salesforce Accelerator Agents for Impact",
+    "donante": "Salesforce",
     "fuente": "Oportunidades Propel",
     "sector": "Educación / Juventud",
     "dimension": "social",
-    "presupuesto_usd": 100000,
-    "fecha_cierre": "2026-09-21",
+    "presupuesto_usd": 300000,
+    "fecha_cierre": "2026-09-18",
     "estado": "CONVOCATORIA VIGENTE",
     "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 67,
-    "pivot": "Programa de grants para organizaciones no gubernamentales que trabajen en países con democracias débiles, en transición o bajo regímenes autoritarios. Financia proyectos no partidistas en derechos humanos, libertad de prensa, transparencia, sociedad civil y participación ciudadana. No aplica a proyectos implementados en democracias consolidadas. La selección considera el alineamiento del proyecto con las prioridades de la fundación, el contexto país y la trayectoria democrática del solicitante.",
+    "afinidad_pivot": 74,
+    "pivot": "Programa de 6 meses para organizaciones sociales que quieren desarrollar y poner en marcha una solución con agentes de inteligencia artificial para resolver un desafío clave de su misión. Las organizaciones seleccionadas reciben financiamiento flexible, tecnología de Salesforce y asesoría técnica gratuita de especialistas.",
     "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.ned.org/apply-for-grant/es/",
+    "fuente_url": "https://salesforceagentsforimpact.splashthat.com/",
     "tags": [
       "RASTREO EN VIVO",
       "OPORTUNIDADES PROPEL"
@@ -448,23 +256,47 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-17T10:58:58.619Z"
+    "capturado_en": "2026-09-17T16:15:40.664Z"
   },
   {
-    "id": "scraped-wepropel-ai-policy-fellowship-spring-2027-4ec8eeca99",
-    "titulo": "AI Policy Fellowship Spring 2027",
-    "donante": "The Institute for AI Policy and Strategy (IAPS)",
+    "id": "scraped-wepropel-anthropic-user-wellbeing-evaluation-grants-829eb2445f",
+    "titulo": "Anthropic User Wellbeing Evaluation Grants",
+    "donante": "Anthropic",
     "fuente": "Oportunidades Propel",
-    "sector": "Tecnología / Innovación",
+    "sector": "Salud / Bienestar",
     "dimension": "social",
-    "presupuesto_usd": 24000,
-    "fecha_cierre": "2026-09-27",
+    "presupuesto_usd": 5000000,
+    "fecha_cierre": "2026-09-21",
     "estado": "CONVOCATORIA VIGENTE",
     "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 67,
-    "pivot": "Fellowship de tres meses para profesionales que buscan desarrollar una carrera en política pública sobre inteligencia artificial (IA). Ofrece estipendio, mentoría con expertos en política de IA, acompañamiento para desarrollar un proyecto y formación práctica. Cuenta con dos rutas: investigación de políticas públicas o trabajo aplicado. Comienza con dos semanas presenciales en Washington, D.C. y puede continuar en D.C., Londres o de forma remota.",
+    "afinidad_pivot": 74,
+    "pivot": "Grant para investigadores independientes que desarrollen evaluaciones de código abierto para medir cómo la inteligencia artificial afecta el bienestar mental, emocional, cognitivo y social de sus usuarios. Se financiarán evaluaciones de comportamientos de modelos, benchmarks entre modelos y metodologías para medir el impacto de la IA en el bienestar.",
     "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.iaps.ai/fellowship",
+    "fuente_url": "https://www.anthropic.com/news/wellbeing-research-grants",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "roja",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-09-17T16:15:40.666Z"
+  },
+  {
+    "id": "scraped-wepropel-wellcome-discovery-awards-73c847f26d",
+    "titulo": "Wellcome Discovery Awards",
+    "donante": "Wellcome",
+    "fuente": "Oportunidades Propel",
+    "sector": "Salud / Bienestar",
+    "dimension": "social",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-09-22",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Financiamiento a largo plazo para equipos multidisciplinarios o investigadores que busquen desarrollar investigación ambiciosa y creativa con potencial de generar avances significativos en la comprensión de la vida humana, la salud y el bienestar. Cubre gastos de investigación durante un período de hasta 8 años. Buscan equipos con capacidad de investigación formal y trayectoria consolidada en su campo.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://wellcome.org/research-funding/schemes/wellcome-discovery-awards#key-dates-0dcc",
     "tags": [
       "RASTREO EN VIVO",
       "OPORTUNIDADES PROPEL"
@@ -472,23 +304,47 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-17T10:58:58.627Z"
+    "capturado_en": "2026-09-17T16:15:40.667Z"
   },
   {
-    "id": "scraped-wepropel-world-summit-award-a0bb3a8022",
-    "titulo": "World Summit Award",
-    "donante": "WSA",
+    "id": "scraped-wepropel-billion-acts-of-peace-changemaker-fellowship-cabe8edb51",
+    "titulo": "Billion Acts of Peace Changemaker Fellowship",
+    "donante": "PeaceJam Foundation",
     "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 0,
+    "sector": "Educación / Juventud",
+    "dimension": "social",
+    "presupuesto_usd": 5000,
+    "fecha_cierre": "2026-09-28",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Fellowship dirigido a jóvenes que ya lideran un proyecto, iniciativa u organización enfocada en paz, justicia, equidad o cambio social. Ofrece formación, mentoría y acceso a una red global para fortalecer el liderazgo y hacer crecer sus iniciativas.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.billionacts.org/fellowship?utm=",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-09-17T16:15:40.673Z"
+  },
+  {
+    "id": "scraped-wepropel-giving-joy-2026-grant-cycle-cycle-2-fall-2026-a45bd4c10e",
+    "titulo": "Giving Joy 2026 Grant Cycle (Cycle 2 – Fall 2026)",
+    "donante": "Giving Joy Grants",
+    "fuente": "Oportunidades Propel",
+    "sector": "Salud / Bienestar",
+    "dimension": "social",
+    "presupuesto_usd": 500,
     "fecha_cierre": "2026-09-30",
     "estado": "CONVOCATORIA VIGENTE",
     "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 67,
-    "pivot": "Premio para soluciones digitales que ya estén en el mercado, demuestren un beneficio claro para la sociedad y tengan impacto local. El proceso se organiza por país: un Experto Nacional selecciona las mejores soluciones para avanzar a una competencia global. La convocatoria incluye una ruta general (WSA Award) y una categoría para equipos jóvenes (Young Innovators Award) orientada a fundadores mayoritariamente menores de 26 años. Ofrece visibilidad internacional y acceso a una comunidad global de innovadores, aliados e inversionistas vinculados a los Objetivos de Desarrollo Sostenible de las Naciones Unidas.",
+    "afinidad_pivot": 74,
+    "pivot": "Microgrant dirigido a mujeres de 18 años o más de cualquier país que quieran iniciar o ampliar un negocio, una organización sin fines de lucro, una ONG o un proyecto. Ofrece financiamiento para implementar una iniciativa que genere beneficios sociales o económicos para mujeres, niñas, familias o comunidades, sin limitarse a una causa o sector específico. La propuesta debe demostrar un impacto más allá del beneficio personal de la solicitante. Además del financiamiento, incluye acompañamiento administrativo mediante un acuerdo de grant y lineamientos de implementación con un plazo de ejecución de seis meses.",
     "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://wsa-global.org/contest-global-award/participate-submission-guide/",
+    "fuente_url": "https://givingjoygrants.org/grant-application",
     "tags": [
       "RASTREO EN VIVO",
       "OPORTUNIDADES PROPEL"
@@ -496,23 +352,71 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-17T10:58:58.629Z"
+    "capturado_en": "2026-09-17T16:15:40.675Z"
   },
   {
-    "id": "scraped-wepropel-2026-cso-call-for-expressions-of-project-inte-019366c463",
-    "titulo": "2026 CSO Call for Expressions of Project Intentions",
-    "donante": "AFD",
+    "id": "scraped-wepropel-social-impact-fellowship-eaabe51396",
+    "titulo": "Social Impact Fellowship",
+    "donante": "Equity | Impact Center",
+    "fuente": "Oportunidades Propel",
+    "sector": "Educación / Juventud",
+    "dimension": "social",
+    "presupuesto_usd": 8000,
+    "fecha_cierre": "2026-09-30",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Fellowship para líderes de iniciativas de impacto social que buscan fortalecer sus capacidades de liderazgo, estrategia, gestión, investigación, participación comunitaria y diseño de programas. Ofrece experiencia práctica en The Equity Impact Center, con mentoría, talleres y participación en proyectos de desarrollo comunitario, liderazgo y emprendimiento creativo.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://equityimpactcenter.formstack.com/forms/social_impact_fellowship",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-09-17T16:15:40.675Z"
+  },
+  {
+    "id": "scraped-wepropel-4th-global-innovation-challenge-request-for-p-0f3bff5c4d",
+    "titulo": "4th Global Innovation Challenge: Request for Proposals Preparing Youth for AI",
+    "donante": "Citi Foundation",
+    "fuente": "Oportunidades Propel",
+    "sector": "Educación / Juventud",
+    "dimension": "social",
+    "presupuesto_usd": 25000000,
+    "fecha_cierre": "2026-10-06",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Grant para organizaciones sociales que ayudan a jóvenes de bajos ingresos a prepararse para acceder a oportunidades laborales en una economía impulsada por la inteligencia artificial. Financia programas que enseñen habilidades de IA, desarrollen habilidades para el trabajo, mejoren el acceso a herramientas digitales o incorporen IA en programas de empleabilidad juvenil.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.citigroup.com/global/foundation/apply-for-funding",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "roja",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-09-17T16:15:40.679Z"
+  },
+  {
+    "id": "scraped-wepropel-miller-center-accelerator-program-cohorte-202-740a547e4f",
+    "titulo": "Miller Center Accelerator Program - Cohorte 2027",
+    "donante": "Miller Center for Global Impact",
     "fuente": "Oportunidades Propel",
     "sector": "Ambiente / Sostenibilidad",
     "dimension": "ambiental",
     "presupuesto_usd": 0,
-    "fecha_cierre": "2026-10-09",
+    "fecha_cierre": "2026-10-16",
     "estado": "CONVOCATORIA VIGENTE",
     "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 67,
-    "pivot": "Co-financia proyectos de organizaciones de la sociedad civil (OSC) que buscan generar cambios concretos en comunidades de países en desarrollo. La convocatoria apoya iniciativas relacionadas con derechos, inclusión, desarrollo sostenible y fortalecimiento de la sociedad civil. Los proyectos deben durar 3 años y realizarse junto con al menos una organización local.",
+    "afinidad_pivot": 74,
+    "pivot": "Programa de aceleración virtual de 6 meses, orientado a líderes de empresas sociales con tracción comprobada que buscan escalar su impacto. Combina mentoría ejecutiva personalizada con un currículo estructurado para fortalecer el modelo de negocio, el modelo de impacto y la estrategia de financiamiento. Está enfocado en emprendimientos que abordan la pobreza a través del empoderamiento económico de las mujeres y/o la resiliencia climática.",
     "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.afd.fr/en/calls-for-projects/2026-cso-call-expressions-project-intentions",
+    "fuente_url": "https://millercenterglobal.org/accelerator/",
     "tags": [
       "RASTREO EN VIVO",
       "OPORTUNIDADES PROPEL"
@@ -520,55 +424,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-17T10:58:58.635Z"
-  },
-  {
-    "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
-    "titulo": "AI for Changemakers Program 2025",
-    "donante": "Tech To The Rescue",
-    "fuente": "Oportunidades Propel",
-    "sector": "Tecnología / Innovación",
-    "dimension": "social",
-    "presupuesto_usd": 60000,
-    "fecha_cierre": "2026-12-31",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 67,
-    "pivot": "El programa AI for Changemakers de Tech To The Rescue conecta a organizaciones sin fines de lucro con innovadores tecnológicos para desarrollar soluciones de inteligencia artificial que aborden los desafíos más urgentes de la humanidad. La participación es gratuita y está abierta a organizaciones de todo el mundo.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.techtotherescue.org/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-17T10:58:58.637Z"
-  },
-  {
-    "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
-    "titulo": "Microgrants for Ecosystem Restoration 2026",
-    "donante": "UN Decade on Ecosystem Restoration I UN Decade Youth Task Force (YTF)",
-    "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 1000,
-    "fecha_cierre": "2026-12-31",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 67,
-    "pivot": "Grant que financia proyectos juveniles destinados a restaurar o rehabilitar ecosistemas específicos mediante prácticas ecológicas reconocidas, participación comunitaria, indicadores claros de impacto y un plan de sostenibilidad que asegure la continuidad del trabajo más allá del periodo financiado.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.decadeonrestoration.org/task-forces/youth",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-17T10:58:58.637Z"
+    "capturado_en": "2026-09-17T16:15:40.682Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
@@ -691,6 +547,150 @@
     "capturado_en": "2026-09-17T10:59:02.416Z"
   },
   {
+    "id": "scraped-wepropel-national-endowment-for-democracy-2nd-call-387f80ed94",
+    "titulo": "National Endowment for Democracy 2nd call",
+    "donante": "National Endowment for Democracy",
+    "fuente": "Oportunidades Propel",
+    "sector": "Educación / Juventud",
+    "dimension": "social",
+    "presupuesto_usd": 100000,
+    "fecha_cierre": "2026-09-21",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 67,
+    "pivot": "Programa de grants para organizaciones no gubernamentales que trabajen en países con democracias débiles, en transición o bajo regímenes autoritarios. Financia proyectos no partidistas en derechos humanos, libertad de prensa, transparencia, sociedad civil y participación ciudadana. No aplica a proyectos implementados en democracias consolidadas. La selección considera el alineamiento del proyecto con las prioridades de la fundación, el contexto país y la trayectoria democrática del solicitante.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.ned.org/apply-for-grant/es/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "roja",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-09-17T16:15:40.665Z"
+  },
+  {
+    "id": "scraped-wepropel-ai-policy-fellowship-spring-2027-4ec8eeca99",
+    "titulo": "AI Policy Fellowship Spring 2027",
+    "donante": "The Institute for AI Policy and Strategy (IAPS)",
+    "fuente": "Oportunidades Propel",
+    "sector": "Tecnología / Innovación",
+    "dimension": "social",
+    "presupuesto_usd": 24000,
+    "fecha_cierre": "2026-09-27",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 67,
+    "pivot": "Fellowship de tres meses para profesionales que buscan desarrollar una carrera en política pública sobre inteligencia artificial (IA). Ofrece estipendio, mentoría con expertos en política de IA, acompañamiento para desarrollar un proyecto y formación práctica. Cuenta con dos rutas: investigación de políticas públicas o trabajo aplicado. Comienza con dos semanas presenciales en Washington, D.C. y puede continuar en D.C., Londres o de forma remota.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.iaps.ai/fellowship",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-09-17T16:15:40.672Z"
+  },
+  {
+    "id": "scraped-wepropel-world-summit-award-a0bb3a8022",
+    "titulo": "World Summit Award",
+    "donante": "WSA",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-09-30",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 67,
+    "pivot": "Premio para soluciones digitales que ya estén en el mercado, demuestren un beneficio claro para la sociedad y tengan impacto local. El proceso se organiza por país: un Experto Nacional selecciona las mejores soluciones para avanzar a una competencia global. La convocatoria incluye una ruta general (WSA Award) y una categoría para equipos jóvenes (Young Innovators Award) orientada a fundadores mayoritariamente menores de 26 años. Ofrece visibilidad internacional y acceso a una comunidad global de innovadores, aliados e inversionistas vinculados a los Objetivos de Desarrollo Sostenible de las Naciones Unidas.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://wsa-global.org/contest-global-award/participate-submission-guide/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-09-17T16:15:40.674Z"
+  },
+  {
+    "id": "scraped-wepropel-2026-cso-call-for-expressions-of-project-inte-019366c463",
+    "titulo": "2026 CSO Call for Expressions of Project Intentions",
+    "donante": "AFD",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-10-09",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 67,
+    "pivot": "Co-financia proyectos de organizaciones de la sociedad civil (OSC) que buscan generar cambios concretos en comunidades de países en desarrollo. La convocatoria apoya iniciativas relacionadas con derechos, inclusión, desarrollo sostenible y fortalecimiento de la sociedad civil. Los proyectos deben durar 3 años y realizarse junto con al menos una organización local.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.afd.fr/en/calls-for-projects/2026-cso-call-expressions-project-intentions",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-09-17T16:15:40.681Z"
+  },
+  {
+    "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
+    "titulo": "AI for Changemakers Program 2025",
+    "donante": "Tech To The Rescue",
+    "fuente": "Oportunidades Propel",
+    "sector": "Tecnología / Innovación",
+    "dimension": "social",
+    "presupuesto_usd": 60000,
+    "fecha_cierre": "2026-12-31",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 67,
+    "pivot": "El programa AI for Changemakers de Tech To The Rescue conecta a organizaciones sin fines de lucro con innovadores tecnológicos para desarrollar soluciones de inteligencia artificial que aborden los desafíos más urgentes de la humanidad. La participación es gratuita y está abierta a organizaciones de todo el mundo.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.techtotherescue.org/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-09-17T16:15:40.683Z"
+  },
+  {
+    "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
+    "titulo": "Microgrants for Ecosystem Restoration 2026",
+    "donante": "UN Decade on Ecosystem Restoration I UN Decade Youth Task Force (YTF)",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 1000,
+    "fecha_cierre": "2026-12-31",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 67,
+    "pivot": "Grant que financia proyectos juveniles destinados a restaurar o rehabilitar ecosistemas específicos mediante prácticas ecológicas reconocidas, participación comunitaria, indicadores claros de impacto y un plan de sostenibilidad que asegure la continuidad del trabajo más allá del periodo financiado.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.decadeonrestoration.org/task-forces/youth",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-09-17T16:15:40.684Z"
+  },
+  {
     "id": "scraped-wepropel-tara-s-circle-2026-840ed5510f",
     "titulo": "Tara’s Circle 2026",
     "donante": "Tara for Women",
@@ -712,7 +712,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-17T10:58:58.615Z"
+    "capturado_en": "2026-09-17T16:15:40.662Z"
   },
   {
     "id": "scraped-wepropel-tech-policy-press-fellowship-program-2027-48cc260d7e",
@@ -736,7 +736,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-17T10:58:58.624Z"
+    "capturado_en": "2026-09-17T16:15:40.668Z"
   },
   {
     "id": "scraped-wepropel-global-changemaker-fellowship-2026-bd8be3fd2a",
@@ -760,7 +760,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-17T10:58:58.626Z"
+    "capturado_en": "2026-09-17T16:15:40.671Z"
   },
   {
     "id": "scraped-premios-portafolio-premios-portafolio-2026-6c0d0fa3ff",
@@ -784,7 +784,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-09-17T10:58:51.243Z"
+    "capturado_en": "2026-09-17T16:15:33.972Z"
   },
   {
     "id": "scraped-wepropel-endangered-languages-documentation-programme--37c01239f2",
@@ -808,6 +808,6 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-17T10:58:58.631Z"
+    "capturado_en": "2026-09-17T16:15:40.676Z"
   }
 ]
