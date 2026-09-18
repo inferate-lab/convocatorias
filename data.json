@@ -90,7 +90,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-17T17:34:16.583Z"
+    "capturado_en": "2026-09-18T17:00:28.456Z"
   },
   {
     "id": "scraped-wepropel-the-next-move-0855771345",
@@ -114,7 +114,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-17T17:34:16.583Z"
+    "capturado_en": "2026-09-18T17:00:28.457Z"
   },
   {
     "id": "cop31_climate_finance",
@@ -160,7 +160,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-17T17:34:16.577Z"
+    "capturado_en": "2026-09-18T17:00:28.448Z"
   },
   {
     "id": "scraped-red-exposocial-apoyos-de-respuesta-rapida-convocatoria-para--97707cba23",
@@ -184,55 +184,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-17T17:34:20.206Z"
-  },
-  {
-    "id": "scraped-wepropel-fast-forward-accelerator-5a39b8dfcb",
-    "titulo": "Fast Forward Accelerator",
-    "donante": "Fast Forward",
-    "fuente": "Oportunidades Propel",
-    "sector": "Tecnología / Innovación",
-    "dimension": "social",
-    "presupuesto_usd": 25000,
-    "fecha_cierre": "2026-09-18",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 74,
-    "pivot": "Programa de aceleración para nonprofits de tecnología en etapa temprana que cuentan con un MVP. Ofrece financiamiento sin restricciones, mentoría, formación y acceso a una red de expertos y fundadores para fortalecer y escalar su impacto.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.ffwd.org/accelerator",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-17T17:34:16.573Z"
-  },
-  {
-    "id": "scraped-wepropel-salesforce-accelerator-agents-for-impact-45a2c3527c",
-    "titulo": "Salesforce Accelerator Agents for Impact",
-    "donante": "Salesforce",
-    "fuente": "Oportunidades Propel",
-    "sector": "Educación / Juventud",
-    "dimension": "social",
-    "presupuesto_usd": 300000,
-    "fecha_cierre": "2026-09-18",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 74,
-    "pivot": "Programa de 6 meses para organizaciones sociales que quieren desarrollar y poner en marcha una solución con agentes de inteligencia artificial para resolver un desafío clave de su misión. Las organizaciones seleccionadas reciben financiamiento flexible, tecnología de Salesforce y asesoría técnica gratuita de especialistas.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://salesforceagentsforimpact.splashthat.com/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "roja",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-17T17:34:16.574Z"
+    "capturado_en": "2026-09-18T17:00:32.487Z"
   },
   {
     "id": "scraped-wepropel-anthropic-user-wellbeing-evaluation-grants-829eb2445f",
@@ -256,7 +208,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-17T17:34:16.575Z"
+    "capturado_en": "2026-09-18T17:00:28.446Z"
   },
   {
     "id": "scraped-wepropel-wellcome-discovery-awards-73c847f26d",
@@ -280,7 +232,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-17T17:34:16.575Z"
+    "capturado_en": "2026-09-18T17:00:28.447Z"
   },
   {
     "id": "scraped-wepropel-billion-acts-of-peace-changemaker-fellowship-cabe8edb51",
@@ -304,7 +256,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-17T17:34:16.580Z"
+    "capturado_en": "2026-09-18T17:00:28.450Z"
   },
   {
     "id": "scraped-wepropel-giving-joy-2026-grant-cycle-cycle-2-fall-2026-a45bd4c10e",
@@ -328,7 +280,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-17T17:34:16.581Z"
+    "capturado_en": "2026-09-18T17:00:28.454Z"
   },
   {
     "id": "scraped-wepropel-social-impact-fellowship-eaabe51396",
@@ -352,7 +304,31 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-17T17:34:16.582Z"
+    "capturado_en": "2026-09-18T17:00:28.455Z"
+  },
+  {
+    "id": "scraped-wepropel-entrepreneurs-for-resilience-2027-fd74ebb0c4",
+    "titulo": "Entrepreneurs for Resilience 2027",
+    "donante": "Swiss Re Foundation",
+    "fuente": "Oportunidades Propel",
+    "sector": "Salud / Bienestar",
+    "dimension": "social",
+    "presupuesto_usd": 1000000,
+    "fecha_cierre": "2026-10-04",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Programa dirigido a empresas sociales del sector salud que ofrecen soluciones innovadoras para mejorar el acceso a atención primaria asequible y de calidad en países de ingresos bajos y medios. Ofrece escalar modelos “brick-and-click” que combinan puntos físicos de atención con soluciones digitales, ofreciendo financiamiento, asistencia técnica, expertise corporativo y acceso a redes.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.swissrefoundation.org/e4r27.html",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "roja",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-09-18T17:00:28.457Z"
   },
   {
     "id": "scraped-wepropel-4th-global-innovation-challenge-request-for-p-0f3bff5c4d",
@@ -376,7 +352,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-17T17:34:16.584Z"
+    "capturado_en": "2026-09-18T17:00:28.458Z"
   },
   {
     "id": "scraped-wepropel-miller-center-accelerator-program-cohorte-202-740a547e4f",
@@ -400,7 +376,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-17T17:34:16.585Z"
+    "capturado_en": "2026-09-18T17:00:28.459Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
@@ -424,7 +400,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-17T17:34:20.206Z"
+    "capturado_en": "2026-09-18T17:00:32.486Z"
   },
   {
     "id": "scraped-wepropel-national-endowment-for-democracy-2nd-call-387f80ed94",
@@ -448,7 +424,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-17T17:34:16.574Z"
+    "capturado_en": "2026-09-18T17:00:28.445Z"
   },
   {
     "id": "scraped-wepropel-ai-policy-fellowship-spring-2027-4ec8eeca99",
@@ -472,7 +448,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-17T17:34:16.580Z"
+    "capturado_en": "2026-09-18T17:00:28.449Z"
   },
   {
     "id": "scraped-wepropel-world-summit-award-a0bb3a8022",
@@ -496,7 +472,31 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-17T17:34:16.581Z"
+    "capturado_en": "2026-09-18T17:00:28.451Z"
+  },
+  {
+    "id": "scraped-wepropel-sense-foundation-brussels-grants-ec15f90de8",
+    "titulo": "SENSE Foundation Brussels Grants",
+    "donante": "SENSE Foundation Brussels",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-09-30",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 67,
+    "pivot": "Grant dirigido a organizaciones sin fines de lucro para proyectos de 9 a12 meses enfocados en investigación científica, salud, medioambiente, desarrollo sostenible y asistencia a poblaciones vulnerables. Ofrece financiamiento para cubrir hasta el 25% del costo total del proyecto.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.sensefoundationbrussels.org/submit-your-project?utm_",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-09-18T17:00:28.455Z"
   },
   {
     "id": "scraped-wepropel-2026-cso-call-for-expressions-of-project-inte-019366c463",
@@ -520,7 +520,31 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-17T17:34:16.585Z"
+    "capturado_en": "2026-09-18T17:00:28.458Z"
+  },
+  {
+    "id": "scraped-wepropel-small-grants-program-19th-request-for-proposa-8d31eab58a",
+    "titulo": "Small Grants Program - 19th Request for Proposals 2026",
+    "donante": "MAR Fund",
+    "fuente": "Oportunidades Propel",
+    "sector": "Salud / Bienestar",
+    "dimension": "social",
+    "presupuesto_usd": 50000,
+    "fecha_cierre": "2026-10-20",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 67,
+    "pivot": "Grant para organizaciones que trabajan en la gestión y protección de recursos costeros y marinos en la región del Arrecife Mesoamericano. Ofrece financiamiento para proyectos de hasta 24 meses enfocados en conservación marina o en la restauración, repoblación y rehabilitación de arrecifes de coral.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://marfund.org/en/request-for-proposals-2026/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-09-18T17:00:28.459Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -544,7 +568,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-17T17:34:16.586Z"
+    "capturado_en": "2026-09-18T17:00:28.460Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -568,7 +592,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-17T17:34:16.586Z"
+    "capturado_en": "2026-09-18T17:00:28.460Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
@@ -592,7 +616,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-17T17:34:20.206Z"
+    "capturado_en": "2026-09-18T17:00:32.487Z"
   },
   {
     "id": "scraped-red-exposocial-fondo-de-coyuntura-politica-convocatoria-para-593b5a2ab5",
@@ -616,7 +640,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-17T17:34:20.206Z"
+    "capturado_en": "2026-09-18T17:00:32.487Z"
   },
   {
     "id": "scraped-red-exposocial-holohil-programa-de-subvenciones-convocatoria-c4f0d54530",
@@ -640,7 +664,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-17T17:34:20.207Z"
+    "capturado_en": "2026-09-18T17:00:32.487Z"
   },
   {
     "id": "scraped-red-exposocial-convocatoria-2027-de-fundacion-alsea-convocat-9561833e7d",
@@ -664,7 +688,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-17T17:34:20.207Z"
+    "capturado_en": "2026-09-18T17:00:32.488Z"
   },
   {
     "id": "scraped-red-exposocial-life-programme-2026-convocatoria-para-osc-0c07737cd0",
@@ -688,31 +712,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-17T17:34:20.207Z"
-  },
-  {
-    "id": "scraped-wepropel-tara-s-circle-2026-840ed5510f",
-    "titulo": "Tara’s Circle 2026",
-    "donante": "Tara for Women",
-    "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-09-17",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 65,
-    "pivot": "Premio para proyectos liderados por mujeres, en etapa semilla que generan impacto social, ambiental y/o económico. Ofrece financiamiento, mentoría estratégica, visibilidad, capacitación, networking y posibles conexiones con inversionistas.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.taraforwomen.org/open-call-bases-2026",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-17T17:34:16.572Z"
+    "capturado_en": "2026-09-18T17:00:32.488Z"
   },
   {
     "id": "scraped-wepropel-tech-policy-press-fellowship-program-2027-48cc260d7e",
@@ -736,7 +736,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-17T17:34:16.576Z"
+    "capturado_en": "2026-09-18T17:00:28.447Z"
   },
   {
     "id": "scraped-wepropel-global-changemaker-fellowship-2026-bd8be3fd2a",
@@ -760,7 +760,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-17T17:34:16.578Z"
+    "capturado_en": "2026-09-18T17:00:28.449Z"
   },
   {
     "id": "scraped-premios-portafolio-premios-portafolio-2026-6c0d0fa3ff",
@@ -784,7 +784,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-09-17T17:34:09.450Z"
+    "capturado_en": "2026-09-18T17:00:20.527Z"
   },
   {
     "id": "scraped-wepropel-endangered-languages-documentation-programme--37c01239f2",
@@ -808,6 +808,6 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-17T17:34:16.582Z"
+    "capturado_en": "2026-09-18T17:00:28.456Z"
   }
 ]
