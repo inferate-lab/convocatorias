@@ -580,40 +580,25 @@ Fundación Grupo EPM · ${new Date().toLocaleString('es-CO')}
 `;
     },
     /**
-     * Consumo dinámico de APIs y Crawler para palabras clave
+     * ANTES: esta función simulaba un "crawler" con datos inventados (dummyResponse),
+     * generados con Date.now() y URLs armadas a mano — nunca hizo una consulta real.
+     *
+     * AHORA: el descubrimiento real ya no ocurre aquí ni en el navegador (un navegador
+     * no puede hacer scraping real por las restricciones de CORS, que es justamente
+     * por lo que la versión anterior nunca pudo traer datos reales). El descubrimiento
+     * real corre del lado del servidor, de forma programada y autónoma, en discover.js
+     * (búsqueda real con IA) y scraper.js (rastreo directo con axios/cheerio), ambos
+     * ejecutados por el workflow .github/workflows/centinela.yml cada 6 horas.
+     *
+     * Esta función ahora solo confirma que data.json ya viene actualizado por ese
+     * proceso — no genera ni un solo dato ficticio.
      */
     async fetchOpenDataAPI() {
-        const keywordsRegex = /(grant|subvención|fondo|aceleradora|seed fund|capacity building|llamado a propuestas)/i;
-        console.log("Modo Crawler activado. Paginación profunda y búsqueda técnica concurrente:", keywordsRegex);
-        
+        return [];
+    },
+    async _fetchOpenDataAPI_LEGACY_DISABLED() {
         let newOpps = [];
         try {
-            const trm = 4100;
-            const today = new Date();
-            const futureDate1 = new Date(today.getTime() + 15 * 24 * 60 * 60 * 1000).toISOString().split('T')[0];
-            const futureDate2 = new Date(today.getTime() + 45 * 24 * 60 * 60 * 1000).toISOString().split('T')[0];
-            const futureDate3 = new Date(today.getTime() + 60 * 24 * 60 * 60 * 1000).toISOString().split('T')[0];
-            
-            const fuentesSurSur = [
-                { url: "https://www.apccolombia.gov.co/api/convocatorias", tipo: "API" },
-                { url: "https://www.segib.org/wp-json/wp/v2/posts?categories=cooperacion", tipo: "WP-JSON" }
-            ];
-
-            // Inyección obligatoria de búsqueda Sur-Sur
-            for (const fuente of fuentesSurSur) {
-                try {
-                    console.log(`[Crawler] Consultando ${fuente.url} para Cooperación Triangular e Intercambio`);
-                    // Intentamos un fetch real para cumplir la regla estricta (puede fallar por CORS, lo manejamos abajo)
-                    await fetch(fuente.url, { method: 'HEAD', mode: 'no-cors' });
-                } catch(err) {
-                    console.warn(`Aviso de CORS o red en ${fuente.url}, inyectando resultados desde caché segura.`);
-                }
-            }
-            
-            // Simulación de paginación profunda (page=1 hasta page=5)
-            const simulatedPages = Array.from({length: 5}, (_, i) => `?page=${i+1}`);
-            console.log(`[Crawler] Escaneando páginas en profundidad: ${simulatedPages.join(', ')}`);
-            
             const dummyResponse = [
                 {
                     id: 'dynamic_iwa_grant_' + Date.now(),

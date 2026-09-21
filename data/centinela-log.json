@@ -1,0 +1,1729 @@
+[
+  {
+    "corrida_en": "2026-09-21T12:01:19.053Z",
+    "activas": 34,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-21T12:01:18.532Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfGYoCSA2j8fF3RDWAqa2\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-21T12:01:18.641Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfGYoEWREN6VsRUYt7THJ\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-21T03:22:26.123Z",
+    "activas": 34,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-21T03:22:25.687Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfFsEGDehR2VEASrfQGAE\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-21T03:22:25.775Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfFsEJ1YudRgNmnmdKXqu\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-20T20:20:39.291Z",
+    "activas": 34,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-20T20:20:38.783Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfFK4nLdSUjFxzfsXYSBk\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-20T20:20:38.904Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfFK4pMBGCjntALd8WLJD\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-20T15:27:49.570Z",
+    "activas": 34,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-20T15:27:49.057Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfEvjeGMnccXmCyYjmniC\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-20T15:27:49.168Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfEvjgCwV7H5dJyL45nzw\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-20T10:39:07.592Z",
+    "activas": 34,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-20T10:39:07.152Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfEYimsfeUuc3xiZwAy9M\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-20T10:39:07.240Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfEYioRgNThRatoKg5ntW\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-20T03:27:21.353Z",
+    "activas": 34,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-20T03:27:20.946Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfDyo7VeLD9F74yt8dSum\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-20T03:27:21.036Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfDyo9KHMUXu7PDzw7hQ5\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-19T20:03:19.494Z",
+    "activas": 34,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-19T20:03:19.032Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfDPwDyb5C7tgpQMbvQEq\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-19T20:03:19.154Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfDPwFkFGnp8TvpBTD4hG\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-19T15:23:00.280Z",
+    "activas": 34,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-19T15:22:59.768Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfD2ZQTKSeXAN46DwbTyt\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-19T15:22:59.874Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfD2ZSGDEHUwWFQ3WbxEX\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-19T10:20:01.558Z",
+    "activas": 34,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-19T10:20:01.146Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfCdTNpVouLdRQxvNEPXD\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-19T10:20:01.226Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfCdTQfcgzU47VkN1fGFB\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-19T03:10:44.890Z",
+    "activas": 34,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-19T03:10:44.380Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfC4ik1n5qv9p2Q81YRXt\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-19T03:10:44.490Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfC4imf16eCMYSNnhPJqQ\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-18T20:25:02.642Z",
+    "activas": 34,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-18T20:25:02.101Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfBXnMzDWALvdSLoHvZgZ\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-18T20:25:02.208Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfBXnPxHE8DJ13HusZKdt\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-18T15:51:01.371Z",
+    "activas": 34,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-18T15:51:00.847Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfBAtQaxMSXaGWSADrHTw\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-18T15:51:00.977Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfBAtSYXY4dLwUAdmQ4rC\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-18T10:35:41.668Z",
+    "activas": 33,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-18T10:35:41.237Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfAkqmNjDP45gGQTrrJ5V\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-18T10:35:41.316Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfAkqns2bLqhwQqWUfcUU\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-18T03:14:35.201Z",
+    "activas": 33,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-18T03:14:34.684Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfABCoKvu5JjNUfLLVV9M\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-18T03:14:34.784Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfABCqAKHvYDU4ckNLwm7\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-17T20:57:29.772Z",
+    "activas": 34,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-17T20:57:29.253Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cf9gSyqU7FdMX8QYbnrWH\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-17T20:57:29.365Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cf9gT1k4f1hiA9AZFvNPA\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-17T16:16:18.521Z",
+    "activas": 34,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-17T16:16:18.025Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cf9K1LBR3vshN1bXmgoRC\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-17T16:16:18.134Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cf9K1MwLB62mGuxAfEd79\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-17T10:59:07.917Z",
+    "activas": 34,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-17T10:59:07.450Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cf8tpWB5EqCjXCjD6RC6y\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-17T10:59:07.556Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cf8tpXyUfbHQ2i9pAszME\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-17T03:28:29.995Z",
+    "activas": 34,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-17T03:28:29.165Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cf8JTPnogUvmoL5CAQsck\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-17T03:28:29.265Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cf8JTRncThofVuNfvXu7T\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-16T20:53:24.455Z",
+    "activas": 34,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-16T20:53:23.981Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cf7nKz37m5p5XuZpHsoSU\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-16T20:53:24.077Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cf7nL1uyiuzTmqDNTNa8K\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-16T16:09:26.823Z",
+    "activas": 27,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-16T16:09:26.276Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cf7Qg4kPNZUXcnYu6b5Ep\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-16T16:09:26.387Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cf7Qg6WoCEji9UbbGGcNv\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-16T10:52:00.466Z",
+    "activas": 33,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-16T10:51:59.448Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cf6zU3CVQHoJ9xZSXAptV\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-16T10:51:59.540Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cf6zU4swXkEWbc7W8vrUd\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-16T03:22:51.461Z",
+    "activas": 33,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-16T03:22:51.050Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cf6QDZNKTuyvFhtLRzNqK\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-16T03:22:51.119Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cf6QDaubMHpQ4wFj1b316\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-15T20:52:47.286Z",
+    "activas": 37,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-15T20:52:46.752Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cf5tUL1aHCGzi5jmQEeuc\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-15T20:52:46.873Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cf5tUMjFncMTXnvia28jc\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-15T16:16:30.219Z",
+    "activas": 37,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-15T16:16:29.740Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cf5XQMq9yY85gcLqrXWFU\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-15T16:16:29.827Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cf5XQPk16SDWkc6bjXrKX\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-15T11:05:54.830Z",
+    "activas": 30,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-15T11:05:54.346Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cf57iffupJD7LjTLdoKzj\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-15T11:05:54.454Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cf57ihWYRfHgC7kvS1VZ6\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-15T03:26:55.866Z",
+    "activas": 37,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-15T03:26:55.447Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cf4WifDJhPPeS1hBqbdmJ\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-15T03:26:55.526Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cf4WiggrLnZkHuTnMJDLw\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-14T21:29:50.603Z",
+    "activas": 37,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-14T21:29:50.117Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cf43VJcJc3wvafjG6CQEX\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-14T21:29:50.224Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cf43VLMUWTZpcSKfSkEtL\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-14T17:42:53.412Z",
+    "activas": 37,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-14T17:42:52.973Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cf3kBXPmJi2dT3zAqiXuE\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-14T17:42:53.082Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cf3kBZ8SoQwhZ4cYGhoUL\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-14T11:49:36.515Z",
+    "activas": 36,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-14T11:49:36.105Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cf3HF1kXQH1svA6H2VViL\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-14T11:49:36.186Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cf3HF3GK1dfWjjsAD6GPs\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-14T03:25:30.027Z",
+    "activas": 36,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-14T03:25:29.574Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cf2coQuACwt4mHMqYZfD5\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-14T03:25:29.666Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cf2coSX9UhRPGcgQMUuW7\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-13T20:20:31.985Z",
+    "activas": 37,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-13T20:20:31.540Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cf24PqeYQqeEDXQJc373v\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-13T20:20:31.606Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cf24PsTwGTX88wjxYpF9T\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-13T15:37:53.744Z",
+    "activas": 37,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-13T15:37:53.325Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cf1gqn59cQwZ7QwNXEV9P\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-13T15:37:53.433Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cf1gqomr9vEvPcHuYLR6B\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-13T11:06:54.524Z",
+    "activas": 37,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-13T11:06:53.993Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cf1LBEVU7jVgy4aFXD4oX\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-13T11:06:54.111Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cf1LBGN5pTJJa83wTKXVy\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-13T03:12:55.332Z",
+    "activas": 37,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-13T03:12:54.896Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cezi2sQYYJe2VZEJFUEDU\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-13T03:12:55.006Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cezi2tn9Je5cMEao1yBzH\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-12T20:12:00.299Z",
+    "activas": 37,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-12T20:11:59.822Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cez9wChkxMpinbrTTeoL7\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-12T20:11:59.914Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cez9wEbrz5UX83rcbj1nj\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-12T14:59:58.076Z",
+    "activas": 37,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-12T14:59:57.590Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Ceyk97DQ29eWCMYJxKfGc\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-12T14:59:57.697Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Ceyk992nmmdTG3DuSagTa\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-12T10:07:27.907Z",
+    "activas": 37,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-12T10:07:27.411Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeyMqQm2PubMKemWxJvya\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-12T10:07:27.522Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeyMqSWCiwDEg74mNUa7q\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-12T03:10:07.741Z",
+    "activas": 37,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-12T03:10:07.343Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cexp1bgADZzLb3ejUXB6a\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-12T03:10:07.412Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cexp1dCSX6pjKHahRZQZH\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-11T20:27:32.650Z",
+    "activas": 37,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-11T20:27:32.288Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CexHK2NpmSjzLzTsg6Sdx\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-11T20:27:32.354Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CexHK3y5AEUomH2G4vBVi\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-11T15:52:41.902Z",
+    "activas": 37,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-11T15:52:41.319Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CewvMQCbhqo7HBZLSBm1K\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-11T15:52:41.430Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CewvMSWVz6yjWESkw4r8e\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-11T10:37:36.367Z",
+    "activas": 37,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-11T10:37:35.919Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CewWKoxjo54dLFBHxFbpj\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-11T10:37:36.032Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CewWKqV22RtUJ9bb56qms\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-11T03:03:22.165Z",
+    "activas": 37,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-11T03:03:21.713Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CevugnQF4iQXM6v3gyoiV\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-11T03:03:21.804Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cevugp3DR2uvBKY9fth2A\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-10T20:26:02.577Z",
+    "activas": 37,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-10T20:26:02.020Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CevPPSCqb4pqJ17DGPZGV\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-10T20:26:02.131Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CevPPVEA44wxno3mfo8eV\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-10T15:50:50.442Z",
+    "activas": 37,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-10T15:50:49.838Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cev2QGkPx895iqFKih8nW\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-10T15:50:49.932Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cev2QJSbnwerAXmn2UnZh\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-10T10:38:20.535Z",
+    "activas": 37,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-10T10:38:20.152Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Ceuca9GBXtbMeowvnwWUX\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-10T10:38:20.232Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeucaBPBGBrK4Dhpa6QE7\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-10T03:08:26.324Z",
+    "activas": 37,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-10T03:08:25.812Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Ceu2GH9jbUpePrkS2Zd4o\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-10T03:08:25.927Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Ceu2GKQAk7RPRoj1EoADo\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-09T20:25:54.533Z",
+    "activas": 37,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-09T20:25:54.103Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CetVZxkqgusmW8hTSFU4b\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-09T20:25:54.191Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CetVZzCQVbs3r8NFw7Rat\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-09T15:56:14.614Z",
+    "activas": 37,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-09T15:56:14.160Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cet91FvDB9JLKLXinn1ew\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-09T15:56:14.266Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cet91Hyz4LSz3J63Y5igy\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-09T10:47:10.454Z",
+    "activas": 37,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-09T10:47:10.080Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CesjSJbLqbP1YtAReRKpr\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-09T10:47:10.162Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CesjSKvDc9XmYATJcczQH\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-09T03:07:55.745Z",
+    "activas": 37,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-09T03:07:55.201Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Ces8R78fw8xsxaPCMirYn\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-09T03:07:55.283Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Ces8R8zYJD7rqebNPWC32\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-08T20:44:09.352Z",
+    "activas": 37,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-08T20:44:08.961Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cerd9kdq5SDkXd5tptSn2\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-08T20:44:09.050Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cerd9mxD2uUD8r334DNPJ\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-08T16:00:09.277Z",
+    "activas": 37,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-08T16:00:08.793Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CerFVeeRFyvRPpUU1dmkY\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-08T16:00:08.905Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CerFVg9TZEM8bCwycrocE\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-08T10:35:47.364Z",
+    "activas": 30,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-08T10:35:46.909Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Ceqpm1y54rnnNUgWS5YQz\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-08T10:35:47.017Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Ceqpm48Jctgsa4vEf39N9\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-08T03:06:13.280Z",
+    "activas": 37,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-08T03:06:12.796Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeqEUenhcn4vA3WjuCdGh\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-08T03:06:12.905Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeqEUgJyzUFULWe2rrs9N\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-07T21:07:43.683Z",
+    "activas": 30,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-07T21:07:43.230Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cepm968zdjns9NAiMvxq9\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-07T21:07:43.340Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cepm97a4aTJWr71g5iQ2C\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-07T17:15:42.439Z",
+    "activas": 37,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-07T17:15:41.881Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CepTStNE4D1uBUduzugqY\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-07T17:15:41.982Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CepTSun4G76a2wYgAkjDy\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-07T11:36:31.084Z",
+    "activas": 32,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-07T11:36:30.613Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cep1ahGRuqt33QGkiGZuN\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-07T11:36:30.725Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cep1ajT9KS24khDkZveck\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-07T02:56:33.394Z",
+    "activas": 32,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-07T02:56:32.897Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeoKvzJG4YRU7pWJn8tqh\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-07T02:56:33.019Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeoKw1wEU8XC4ZdYCDZ6R\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-06T20:00:25.610Z",
+    "activas": 37,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-06T20:00:25.143Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CennCWXsuGRPrVwSDzpCj\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-06T20:00:25.249Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CennCXwTu53yKiKpsHcBb\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-06T14:56:44.458Z",
+    "activas": 37,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-06T14:56:44.009Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CenP3MCckDeMvxq4TEGBD\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-06T14:56:44.124Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CenP3Nm8TAMQmPfzqzp1j\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-06T10:16:48.882Z",
+    "activas": 37,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-06T10:16:48.411Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cen1hGmUHvZu1wPc5FLZF\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-06T10:16:48.512Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cen1hJQCU1S1ojRkHj4vV\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-06T02:58:39.762Z",
+    "activas": 30,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-06T02:58:39.295Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CemSHPZF1NufdmRthwZKu\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-06T02:58:39.407Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CemSHR8VXaB1iQn5suvw2\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-05T19:56:55.714Z",
+    "activas": 37,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-05T19:56:55.271Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cekt87xeoNEo32Tdj6gHJ\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-05T19:56:55.381Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cekt89VRc5UhEU78481By\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-05T14:36:32.071Z",
+    "activas": 37,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-05T14:36:31.599Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CekTh4a24P577QvVsvkaD\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-05T14:36:31.702Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CekTh69GRMufsFb5y9ri7\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-05T09:58:02.819Z",
+    "activas": 37,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-05T09:58:02.452Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cek6TMsEpH6MGbGZ8VMAh\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-05T09:58:02.524Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cek6TP79i6g1c9Sp3KQv8\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-05T02:59:13.638Z",
+    "activas": 37,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-05T02:59:13.204Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CejYWyS18LDFNwRBCzgJ6\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-05T02:59:13.294Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CejYWzxHDoqyqqUBx22cx\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-04T20:17:36.723Z",
+    "activas": 37,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-04T20:17:36.248Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cej1tggBq5mkbyTEn9Cws\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-04T20:17:36.353Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cej1tiDTqS9TKqZKaNWQC\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-04T15:46:36.406Z",
+    "activas": 37,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-04T15:46:35.933Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeifE4oHyBgZgvvKe9oQS\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-04T15:46:36.038Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeifE6MZLTd2VqJdzGhU2\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-04T10:36:45.247Z",
+    "activas": 36,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-04T10:36:44.786Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeiFbdjEdTTzUrpKQHzLS\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-04T10:36:44.905Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeiFbfAoe3ijzLjD7NZgc\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-04T02:59:29.262Z",
+    "activas": 36,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-04T02:59:28.620Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CehejCHgnK3frtinMAsNL\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-04T02:59:28.728Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CehejEb6GqFYzoDXKEuJk\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-03T20:31:09.795Z",
+    "activas": 29,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-03T20:31:09.331Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Ceh97hj7Ucm32fDts9Qpa\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-03T20:31:09.434Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Ceh97jHNqmxjJfC825uo9\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-03T15:48:08.372Z",
+    "activas": 36,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-03T15:48:07.869Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CegmXvmnkCpLduv7m8AXQ\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-03T15:48:07.971Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CegmXxQGWwdQdMfy8FfKv\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-03T10:41:18.342Z",
+    "activas": 36,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-03T10:41:17.861Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CegN8r7fxQkU5yQAwfQMM\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-03T10:41:17.986Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CegN8sdD4eDXVDeT8hDyp\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-03T02:58:51.249Z",
+    "activas": 36,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-03T02:58:50.778Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CefksUSCRaN9ioJQ5byQt\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-03T02:58:50.890Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CefksWsJ5JNskhGd88GMf\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-02T20:31:03.963Z",
+    "activas": 36,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-02T20:31:03.508Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CefFJMoYmn6JeVTCmbnaF\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-02T20:31:03.614Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CefFJPGMY1CusiAbosNfw\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-02T15:58:44.575Z",
+    "activas": 36,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-02T15:58:44.097Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeetXupo53Np555N89SAk\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-02T15:58:44.211Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeetXwPJaVNLQNEm98VSY\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-02T10:39:26.631Z",
+    "activas": 35,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-02T10:39:26.149Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeeUBhPq2AFVFH4QjKx4Q\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-02T10:39:26.267Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeeUBiucS3CP71aHyk8xL\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-02T02:55:00.898Z",
+    "activas": 35,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-02T02:55:00.414Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CedrmbSf4DT9ShjGoxEEJ\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-02T02:55:00.525Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cedrmd1fLfQ5HqmbqoCVi\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-01T20:34:17.818Z",
+    "activas": 37,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-01T20:34:17.329Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CedMjjTBJ1tmRpTjEzuC5\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-01T20:34:17.448Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CedMjkt1DngwRiCUh9LZi\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-01T16:04:19.283Z",
+    "activas": 37,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-01T16:04:18.784Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Ced19fayt6WeUj1ftQ46X\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-01T16:04:18.894Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Ced19hEhcTMeKVVmEykEb\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-01T11:07:08.977Z",
+    "activas": 37,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-01T11:07:08.502Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeccVKW8Nrtx6yBZ41ekF\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-01T11:07:08.614Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeccVM4t9V59Rkj7aeusK\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-09-01T03:36:54.752Z",
+    "activas": 30,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-09-01T03:36:54.266Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cec29z4LsBrZKSWd5Eo9q\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-09-01T03:36:54.377Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cec2A1ccCsXuTqPGP57Zd\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-08-31T22:27:42.457Z",
+    "activas": 30,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-08-31T22:27:41.999Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CebcaR6cMWVsRzgndB5hE\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-08-31T22:27:42.108Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CebcaSddsJ6ZuJFPniBVZ\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-08-31T12:43:25.999Z",
+    "activas": 36,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-08-31T12:43:25.532Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cear2FinefuVNVCcaRfbn\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-08-31T12:43:25.637Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cear2HB6e9oRcHAeRHqZH\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-08-31T03:41:56.274Z",
+    "activas": 36,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-08-31T03:41:55.823Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cea8jJ89bY1TY3NfScbMC\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-08-31T03:41:55.928Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cea8jKh9txopW77r3rqYw\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-08-30T20:35:00.360Z",
+    "activas": 39,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-08-30T20:34:59.929Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeZaB3K3jyh5VCL1x68Ti\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-08-30T20:35:00.025Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeZaB4hPv5yvLL1bTQdnw\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-08-30T16:03:22.155Z",
+    "activas": 39,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-08-30T16:03:21.644Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeZDTd92hWuh5zxKvdAui\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-08-30T16:03:21.753Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeZDTefZ29C72JrsmidXm\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-08-30T11:17:05.027Z",
+    "activas": 39,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-08-30T11:17:04.557Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeYqdRjPnmyc6JiAGttLP\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-08-30T11:17:04.668Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeYqdTBDUpTVB7HSnSbhB\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-08-30T03:41:13.530Z",
+    "activas": 39,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-08-30T03:41:13.044Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeYEsEBBVSwvpP5RTAnaa\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-08-30T03:41:13.157Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeYEsFjSxJGLgQHa5bUtH\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-08-29T20:25:25.219Z",
+    "activas": 39,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-08-29T20:25:24.742Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeXfdj1JCqxjaCNEU4LhJ\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-08-29T20:25:24.849Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeXfdkX5fwgCw8QDnCjoW\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-08-29T12:18:22.528Z",
+    "activas": 39,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-08-29T12:18:22.076Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeX2VbbmhahG5WqWQxdYj\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-08-29T12:18:22.186Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeX2Vczs49eKpJFdbcces\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-08-29T05:40:47.545Z",
+    "activas": 39,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-08-29T05:40:47.080Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeWWB9EmC4jyPC9q43T4r\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-08-29T05:40:47.185Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeWWBAjJjL8U3KYzUnixk\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-08-28T21:43:55.287Z",
+    "activas": 40,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-08-28T21:43:54.836Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeVsp1eqDJHi5VKfRwniP\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-08-28T21:43:54.947Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeVsp33RaNUe2kPJfksE5\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-08-28T09:35:00.347Z",
+    "activas": 40,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-08-28T09:34:59.875Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeUvE7tmZpKX6iSjNow8x\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-08-28T09:34:59.989Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeUvE9PKDe34Jhwn4xUtV\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-08-28T04:07:58.898Z",
+    "activas": 39,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-08-28T04:07:58.439Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeUVHjow1uLeMoyKWXAcH\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-08-28T04:07:58.552Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeUVHmE1p9Jn2s64m9KPF\"}"
+    }
+  },
+  {
+    "corrida_en": "2026-08-27T18:49:54.791Z",
+    "activas": 39,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-08-27T18:49:54.107Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeTkjTiXP1Wn8Dg3xczes\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-08-27T18:49:54.216Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeTkjWHogFZmkghr49DYS\"}"
+    }
+  }
+]

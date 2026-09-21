@@ -1,0 +1,79 @@
+name: CENTINELA — Rastreo autónomo de convocatorias
+
+on:
+  schedule:
+    # Cada 6 horas, todos los días — sin depender de ninguna máquina encendida.
+    - cron: '0 */6 * * *'
+  workflow_dispatch: {}  # permite lanzarlo manualmente desde la pestaña Actions de GitHub
+
+permissions:
+  contents: write
+
+concurrency:
+  group: centinela-scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v4
+
+      - name: Preparar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Instalar dependencias
+        run: npm install --no-save axios cheerio
+
+      - name: 1. Rastreo directo de fuentes conocidas (scraper.js)
+        run: node scraper.js
+        continue-on-error: true
+
+      - name: 2. Descubrimiento activo con IA (búsqueda real en la web)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node discover.js
+        continue-on-error: true
+
+      - name: 3. Verificación activa de vigencia (¿siguen abiertas de verdad?)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node verify.js
+        continue-on-error: true
+
+      - name: 4. Purga por fecha de cierre vencida
+        run: node purge.js
+
+      - name: Registrar resumen de la corrida
+        run: |
+          mkdir -p data
+          node -e "
+            const fs=require('fs');
+            const read=(f,d)=>{try{return JSON.parse(fs.readFileSync(f,'utf8'))}catch{return d}};
+            const summary={
+              corrida_en: new Date().toISOString(),
+              activas: read('data.json',[]).length,
+              archivadas_total: read('ruido.json',[]).length,
+              discover: read('data/discover-log.json',[])[0] || null,
+              verify: read('data/verify-log.json',[])[0] || null
+            };
+            const log = read('data/centinela-log.json', []);
+            log.unshift(summary);
+            fs.writeFileSync('data/centinela-log.json', JSON.stringify(log.slice(0,200), null, 2)+'\n');
+            console.log(JSON.stringify(summary, null, 2));
+          "
+
+      - name: Publicar cambios (si hay)
+        run: |
+          git config user.name "centinela-bot"
+          git config user.email "centinela-bot@users.noreply.github.com"
+          git add data.json ruido.json data/
+          if git diff --cached --quiet; then
+            echo "Sin cambios en esta corrida."
+          else
+            git commit -m "🛰️ Rastreo autónomo $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
