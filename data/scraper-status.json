@@ -1,7 +1,7 @@
 {
-  "last_run": "2026-09-24T11:07:45.919Z",
-  "active_opportunities": 34,
-  "scraped_opportunities": 30,
+  "last_run": "2026-09-24T16:31:12.162Z",
+  "active_opportunities": 40,
+  "scraped_opportunities": 36,
   "sources_ok": 9,
   "sources_failed": 0,
   "sources_skipped": 0,
@@ -52,7 +52,7 @@
       "id": "red-exposocial",
       "name": "Red ExpoSocial",
       "status": "success",
-      "found": 0,
+      "found": 6,
       "message": "HTTP 200"
     },
     {

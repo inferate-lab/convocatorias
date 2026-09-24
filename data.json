@@ -90,7 +90,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-24T11:07:40.319Z"
+    "capturado_en": "2026-09-24T16:31:03.222Z"
   },
   {
     "id": "scraped-wepropel-the-next-move-0855771345",
@@ -114,7 +114,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-24T11:07:40.321Z"
+    "capturado_en": "2026-09-24T16:31:03.224Z"
   },
   {
     "id": "cop31_climate_finance",
@@ -160,7 +160,31 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-24T11:07:40.309Z"
+    "capturado_en": "2026-09-24T16:31:03.212Z"
+  },
+  {
+    "id": "scraped-red-exposocial-apoyos-de-respuesta-rapida-convocatoria-para--97707cba23",
+    "titulo": "Apoyos de Respuesta Rápida: convocatoria para OSC",
+    "donante": "Red ExpoSocial",
+    "fuente": "Red ExpoSocial",
+    "sector": "Desarrollo social / Convocatorias",
+    "dimension": "social",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "Revisar en plataforma",
+    "estado": "VERIFICAR VIGENCIA EN LA FUENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 81,
+    "pivot": "Fondo de Acción Urgente para América Latina y el Caribe (FAU-LAC) presenta esta oportunidad para organizaciones de la sociedad civil. Fecha de cierre: Permanente.",
+    "obstaculo": "La fuente no publica una fecha estructurada; verificar vigencia antes de postular.",
+    "fuente_url": "https://redexposocial.org/apoyos-de-respuesta-rapida/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "RED EXPOSOCIAL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "red-exposocial",
+    "capturado_en": "2026-09-24T16:31:07.388Z"
   },
   {
     "id": "scraped-wepropel-billion-acts-of-peace-changemaker-fellowship-cabe8edb51",
@@ -184,7 +208,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-24T11:07:40.312Z"
+    "capturado_en": "2026-09-24T16:31:03.215Z"
   },
   {
     "id": "scraped-wepropel-giving-joy-2026-grant-cycle-cycle-2-fall-2026-a45bd4c10e",
@@ -208,7 +232,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-24T11:07:40.314Z"
+    "capturado_en": "2026-09-24T16:31:03.217Z"
   },
   {
     "id": "scraped-wepropel-social-impact-fellowship-eaabe51396",
@@ -232,7 +256,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-24T11:07:40.315Z"
+    "capturado_en": "2026-09-24T16:31:03.218Z"
   },
   {
     "id": "scraped-wepropel-entrepreneurs-for-resilience-2027-fd74ebb0c4",
@@ -256,7 +280,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-24T11:07:40.320Z"
+    "capturado_en": "2026-09-24T16:31:03.223Z"
   },
   {
     "id": "scraped-wepropel-fondo-juventud-y-accion-climatica-bogota-2026-865788c4b5",
@@ -280,7 +304,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-24T11:07:40.322Z"
+    "capturado_en": "2026-09-24T16:31:03.224Z"
   },
   {
     "id": "scraped-wepropel-4th-global-innovation-challenge-request-for-p-0f3bff5c4d",
@@ -304,7 +328,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-24T11:07:40.323Z"
+    "capturado_en": "2026-09-24T16:31:03.225Z"
   },
   {
     "id": "scraped-wepropel-miller-center-accelerator-program-cohorte-202-740a547e4f",
@@ -328,7 +352,31 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-24T11:07:40.324Z"
+    "capturado_en": "2026-09-24T16:31:03.227Z"
+  },
+  {
+    "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
+    "titulo": "Google para Nonprofits",
+    "donante": "Red ExpoSocial",
+    "fuente": "Red ExpoSocial",
+    "sector": "Tecnología / Innovación",
+    "dimension": "social",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "Revisar en plataforma",
+    "estado": "VERIFICAR VIGENCIA EN LA FUENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Google. Tecnología / comunicación / publicidad / recaudación. Cierre: Permanente. Apoyo: Apoyos en especie.",
+    "obstaculo": "La fuente no publica una fecha estructurada; verificar vigencia antes de postular.",
+    "fuente_url": "https://redexposocial.org/google-para-nonprofits-google-2026-7db59f71/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "RED EXPOSOCIAL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "red-exposocial",
+    "capturado_en": "2026-09-24T16:31:07.387Z"
   },
   {
     "id": "rie-convocatoria-2026-manual",
@@ -380,7 +428,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-24T11:07:40.311Z"
+    "capturado_en": "2026-09-24T16:31:03.214Z"
   },
   {
     "id": "scraped-wepropel-world-summit-award-a0bb3a8022",
@@ -404,7 +452,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-24T11:07:40.313Z"
+    "capturado_en": "2026-09-24T16:31:03.216Z"
   },
   {
     "id": "scraped-wepropel-sense-foundation-brussels-grants-ec15f90de8",
@@ -428,7 +476,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-24T11:07:40.316Z"
+    "capturado_en": "2026-09-24T16:31:03.219Z"
   },
   {
     "id": "scraped-wepropel-artists-contacts-f6363f0f76",
@@ -452,7 +500,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-24T11:07:40.318Z"
+    "capturado_en": "2026-09-24T16:31:03.220Z"
   },
   {
     "id": "scraped-wepropel-2026-cso-call-for-expressions-of-project-inte-019366c463",
@@ -476,7 +524,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-24T11:07:40.323Z"
+    "capturado_en": "2026-09-24T16:31:03.226Z"
   },
   {
     "id": "scraped-wepropel-small-grants-program-19th-request-for-proposa-8d31eab58a",
@@ -500,7 +548,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-24T11:07:40.328Z"
+    "capturado_en": "2026-09-24T16:31:03.231Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -524,7 +572,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-24T11:07:40.328Z"
+    "capturado_en": "2026-09-24T16:31:03.231Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -548,7 +596,103 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-24T11:07:40.329Z"
+    "capturado_en": "2026-09-24T16:31:03.232Z"
+  },
+  {
+    "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
+    "titulo": "Google para Nonprofits: convocatoria para OSC",
+    "donante": "Red ExpoSocial",
+    "fuente": "Red ExpoSocial",
+    "sector": "Desarrollo social / Convocatorias",
+    "dimension": "social",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "Revisar en plataforma",
+    "estado": "VERIFICAR VIGENCIA EN LA FUENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 67,
+    "pivot": "Google presenta esta oportunidad para organizaciones de la sociedad civil. Fecha de cierre: Permanente.",
+    "obstaculo": "La fuente no publica una fecha estructurada; verificar vigencia antes de postular.",
+    "fuente_url": "https://redexposocial.org/google-para-nonprofits/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "RED EXPOSOCIAL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "red-exposocial",
+    "capturado_en": "2026-09-24T16:31:07.387Z"
+  },
+  {
+    "id": "scraped-red-exposocial-fondo-de-coyuntura-politica-convocatoria-para-593b5a2ab5",
+    "titulo": "Fondo de Coyuntura Política: convocatoria para OSC",
+    "donante": "Red ExpoSocial",
+    "fuente": "Red ExpoSocial",
+    "sector": "Desarrollo social / Convocatorias",
+    "dimension": "social",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "Revisar en plataforma",
+    "estado": "VERIFICAR VIGENCIA EN LA FUENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 67,
+    "pivot": "Alianza Surge presenta esta oportunidad para organizaciones de la sociedad civil. Fecha de cierre: Hasta agotar recursos.",
+    "obstaculo": "La fuente no publica una fecha estructurada; verificar vigencia antes de postular.",
+    "fuente_url": "https://redexposocial.org/fondo-de-coyuntura-politica/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "RED EXPOSOCIAL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "red-exposocial",
+    "capturado_en": "2026-09-24T16:31:07.388Z"
+  },
+  {
+    "id": "scraped-red-exposocial-holohil-programa-de-subvenciones-convocatoria-c4f0d54530",
+    "titulo": "Holohil – Programa de subvenciones: convocatoria para OSC",
+    "donante": "Red ExpoSocial",
+    "fuente": "Red ExpoSocial",
+    "sector": "Desarrollo social / Convocatorias",
+    "dimension": "social",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-10-15",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 67,
+    "pivot": "Holohil presenta esta oportunidad para organizaciones de la sociedad civil. Fecha de cierre: 15/10/2026 (próxima ronda).",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://redexposocial.org/holohil-programa-de-subvenciones/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "RED EXPOSOCIAL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "red-exposocial",
+    "capturado_en": "2026-09-24T16:31:07.388Z"
+  },
+  {
+    "id": "scraped-red-exposocial-convocatoria-2027-de-fundacion-alsea-convocat-9561833e7d",
+    "titulo": "Convocatoria 2027 de Fundación Alsea: convocatoria para OSC",
+    "donante": "Red ExpoSocial",
+    "fuente": "Red ExpoSocial",
+    "sector": "Desarrollo social / Convocatorias",
+    "dimension": "social",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-09-30",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 67,
+    "pivot": "Fundación Alsea presenta esta oportunidad para organizaciones de la sociedad civil. Fecha de cierre: 30/09/2026.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://redexposocial.org/convocatoria-2027-de-fundacion-alsea/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "RED EXPOSOCIAL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "red-exposocial",
+    "capturado_en": "2026-09-24T16:31:07.389Z"
   },
   {
     "id": "teeem-foundation-2026-manual",
@@ -600,7 +744,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-24T11:07:40.308Z"
+    "capturado_en": "2026-09-24T16:31:03.210Z"
   },
   {
     "id": "scraped-wepropel-global-changemaker-fellowship-2026-bd8be3fd2a",
@@ -624,7 +768,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-24T11:07:40.310Z"
+    "capturado_en": "2026-09-24T16:31:03.213Z"
   },
   {
     "id": "afd-osc-2026-manual",
@@ -705,7 +849,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-09-24T11:07:33.506Z"
+    "capturado_en": "2026-09-24T16:30:56.249Z"
   },
   {
     "id": "scraped-wepropel-endangered-languages-documentation-programme--37c01239f2",
@@ -729,7 +873,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-24T11:07:40.318Z"
+    "capturado_en": "2026-09-24T16:31:03.221Z"
   },
   {
     "id": "scraped-wepropel-youth-forum-on-un-global-goals-2026-adf6d58da5",
@@ -753,7 +897,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-24T11:07:40.327Z"
+    "capturado_en": "2026-09-24T16:31:03.230Z"
   },
   {
     "id": "global-eba-fund-small-2026-manual",
