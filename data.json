@@ -90,7 +90,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-24T21:09:31.744Z"
+    "capturado_en": "2026-09-25T03:28:58.434Z"
   },
   {
     "id": "scraped-wepropel-the-next-move-0855771345",
@@ -114,7 +114,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-24T21:09:31.746Z"
+    "capturado_en": "2026-09-25T03:28:58.436Z"
   },
   {
     "id": "cop31_climate_finance",
@@ -139,30 +139,6 @@
     "tipo": "roja"
   },
   {
-    "id": "scraped-wepropel-indigenous-women-s-program-fellowship-2027-co-f11f565138",
-    "titulo": "Indigenous Women’s Program Fellowship 2027 - Cohort V",
-    "donante": "Land is Life",
-    "fuente": "Oportunidades Propel",
-    "sector": "Educación / Juventud",
-    "dimension": "social",
-    "presupuesto_usd": 3600,
-    "fecha_cierre": "2026-09-24",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Colombia mencionada ✓",
-    "afinidad_pivot": 81,
-    "pivot": "Fellowship de un año para mujeres indígenas de 18 a 35 años que lideran iniciativas comunitarias. Ofrece mentoría, formación, un estipendio y un microgrant para desarrollar un proyecto comunitario.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.landislife.org/indigenous-womens-program-fellowship-8928/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-24T21:09:31.732Z"
-  },
-  {
     "id": "scraped-red-exposocial-apoyos-de-respuesta-rapida-convocatoria-para--97707cba23",
     "titulo": "Apoyos de Respuesta Rápida: convocatoria para OSC",
     "donante": "Red ExpoSocial",
@@ -184,7 +160,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-24T21:09:35.628Z"
+    "capturado_en": "2026-09-25T03:29:02.605Z"
   },
   {
     "id": "scraped-wepropel-billion-acts-of-peace-changemaker-fellowship-cabe8edb51",
@@ -208,7 +184,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-24T21:09:31.734Z"
+    "capturado_en": "2026-09-25T03:28:58.425Z"
   },
   {
     "id": "scraped-wepropel-giving-joy-2026-grant-cycle-cycle-2-fall-2026-a45bd4c10e",
@@ -232,7 +208,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-24T21:09:31.737Z"
+    "capturado_en": "2026-09-25T03:28:58.430Z"
   },
   {
     "id": "scraped-wepropel-social-impact-fellowship-eaabe51396",
@@ -256,7 +232,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-24T21:09:31.738Z"
+    "capturado_en": "2026-09-25T03:28:58.430Z"
   },
   {
     "id": "scraped-wepropel-entrepreneurs-for-resilience-2027-fd74ebb0c4",
@@ -280,7 +256,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-24T21:09:31.745Z"
+    "capturado_en": "2026-09-25T03:28:58.435Z"
   },
   {
     "id": "scraped-wepropel-fondo-juventud-y-accion-climatica-bogota-2026-865788c4b5",
@@ -304,7 +280,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-24T21:09:31.746Z"
+    "capturado_en": "2026-09-25T03:28:58.437Z"
   },
   {
     "id": "scraped-wepropel-4th-global-innovation-challenge-request-for-p-0f3bff5c4d",
@@ -328,7 +304,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-24T21:09:31.747Z"
+    "capturado_en": "2026-09-25T03:28:58.438Z"
   },
   {
     "id": "scraped-wepropel-miller-center-accelerator-program-cohorte-202-740a547e4f",
@@ -352,7 +328,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-24T21:09:31.749Z"
+    "capturado_en": "2026-09-25T03:28:58.440Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
@@ -376,7 +352,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-24T21:09:35.627Z"
+    "capturado_en": "2026-09-25T03:29:02.604Z"
   },
   {
     "id": "rie-convocatoria-2026-manual",
@@ -428,7 +404,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-24T21:09:31.734Z"
+    "capturado_en": "2026-09-25T03:28:58.424Z"
   },
   {
     "id": "scraped-wepropel-world-summit-award-a0bb3a8022",
@@ -452,7 +428,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-24T21:09:31.736Z"
+    "capturado_en": "2026-09-25T03:28:58.429Z"
   },
   {
     "id": "scraped-wepropel-sense-foundation-brussels-grants-ec15f90de8",
@@ -476,7 +452,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-24T21:09:31.739Z"
+    "capturado_en": "2026-09-25T03:28:58.431Z"
   },
   {
     "id": "scraped-wepropel-artists-contacts-f6363f0f76",
@@ -500,7 +476,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-24T21:09:31.740Z"
+    "capturado_en": "2026-09-25T03:28:58.432Z"
   },
   {
     "id": "scraped-wepropel-2026-cso-call-for-expressions-of-project-inte-019366c463",
@@ -524,7 +500,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-24T21:09:31.748Z"
+    "capturado_en": "2026-09-25T03:28:58.439Z"
   },
   {
     "id": "scraped-wepropel-small-grants-program-19th-request-for-proposa-8d31eab58a",
@@ -548,7 +524,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-24T21:09:31.750Z"
+    "capturado_en": "2026-09-25T03:28:58.441Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -572,7 +548,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-24T21:09:31.751Z"
+    "capturado_en": "2026-09-25T03:28:58.442Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -596,7 +572,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-24T21:09:31.752Z"
+    "capturado_en": "2026-09-25T03:28:58.443Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
@@ -620,7 +596,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-24T21:09:35.627Z"
+    "capturado_en": "2026-09-25T03:29:02.605Z"
   },
   {
     "id": "scraped-red-exposocial-fondo-de-coyuntura-politica-convocatoria-para-593b5a2ab5",
@@ -644,7 +620,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-24T21:09:35.628Z"
+    "capturado_en": "2026-09-25T03:29:02.605Z"
   },
   {
     "id": "scraped-red-exposocial-holohil-programa-de-subvenciones-convocatoria-c4f0d54530",
@@ -668,7 +644,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-24T21:09:35.628Z"
+    "capturado_en": "2026-09-25T03:29:02.606Z"
   },
   {
     "id": "scraped-red-exposocial-convocatoria-2027-de-fundacion-alsea-convocat-9561833e7d",
@@ -692,7 +668,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-24T21:09:35.629Z"
+    "capturado_en": "2026-09-25T03:29:02.606Z"
   },
   {
     "id": "teeem-foundation-2026-manual",
@@ -723,30 +699,6 @@
     "analizado_ia": false
   },
   {
-    "id": "scraped-wepropel-tech-policy-press-fellowship-program-2027-48cc260d7e",
-    "titulo": "Tech Policy Press Fellowship Program 2027",
-    "donante": "Tech Policy Press",
-    "fuente": "Oportunidades Propel",
-    "sector": "Tecnología / Innovación",
-    "dimension": "social",
-    "presupuesto_usd": 10000,
-    "fecha_cierre": "2026-09-24",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 65,
-    "pivot": "Fellowship de 12 meses para profesionales de media carrera que investigan, analizan o comunican sobre tecnología y su impacto en la democracia y la sociedad. Ofrece acompañamiento editorial, mentoría, intercambio con una cohorte internacional y apoyo para desarrollar y publicar su trabajo. Se busca priorizar proyectos centrados en comunidades y regiones que suelen quedar excluidas de las conversaciones globales sobre política tecnológica.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.techpolicy.press/call-for-applications-2027-tech-policy-press-fellowship-program/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-24T21:09:31.730Z"
-  },
-  {
     "id": "scraped-wepropel-global-changemaker-fellowship-2026-bd8be3fd2a",
     "titulo": "Global Changemaker Fellowship 2026",
     "donante": "Global Changemaker Collective (GCC)",
@@ -768,7 +720,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-24T21:09:31.733Z"
+    "capturado_en": "2026-09-25T03:28:58.423Z"
   },
   {
     "id": "afd-osc-2026-manual",
@@ -849,7 +801,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-09-24T21:09:24.612Z"
+    "capturado_en": "2026-09-25T03:28:51.021Z"
   },
   {
     "id": "scraped-wepropel-endangered-languages-documentation-programme--37c01239f2",
@@ -873,7 +825,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-24T21:09:31.744Z"
+    "capturado_en": "2026-09-25T03:28:58.433Z"
   },
   {
     "id": "scraped-wepropel-youth-forum-on-un-global-goals-2026-adf6d58da5",
@@ -897,7 +849,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-24T21:09:31.750Z"
+    "capturado_en": "2026-09-25T03:28:58.440Z"
   },
   {
     "id": "global-eba-fund-small-2026-manual",
