@@ -24,29 +24,6 @@
     "tipo": "roja"
   },
   {
-    "id": "suqia_uae_water",
-    "titulo": "Mohammed bin Rashid Al Maktoum Global Water Award",
-    "donante": "Suqia UAE",
-    "fuente": "Portal Oficial Suqia",
-    "sector": "Agua / Medio Ambiente",
-    "dimension": "ambiental",
-    "presupuesto_usd": 1000000,
-    "fecha_cierre": "2026-09-30",
-    "estado": "VENTANA ABIERTA - Premio",
-    "pais_elegible": "Global ✓",
-    "afinidad_pivot": 90,
-    "pivot": "Premios de agua -> Gestión Ambiental. Plantas de EPM y comunidades pueden postular.",
-    "obstaculo": "Ninguno.",
-    "fuente_url": "https://www.suqia.ae/",
-    "tags": [
-      "NUEVA",
-      "OBLIGATORIA",
-      "AMBIENTAL",
-      "PREMIO"
-    ],
-    "tipo": "roja"
-  },
-  {
     "id": "onecarbon_world",
     "titulo": "One Carbon World Grants",
     "donante": "One Carbon World",
@@ -90,7 +67,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-30T21:52:55.532Z"
+    "capturado_en": "2026-10-01T04:12:39.872Z"
   },
   {
     "id": "scraped-wepropel-the-next-move-0855771345",
@@ -114,7 +91,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-30T21:52:55.535Z"
+    "capturado_en": "2026-10-01T04:12:39.883Z"
   },
   {
     "id": "cop31_climate_finance",
@@ -160,7 +137,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-30T21:52:59.349Z"
+    "capturado_en": "2026-10-01T04:12:43.866Z"
   },
   {
     "id": "scraped-wepropel-entrepreneurs-for-resilience-2027-fd74ebb0c4",
@@ -184,7 +161,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-30T21:52:55.534Z"
+    "capturado_en": "2026-10-01T04:12:39.880Z"
   },
   {
     "id": "scraped-wepropel-fondo-juventud-y-accion-climatica-bogota-2026-865788c4b5",
@@ -208,7 +185,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-30T21:52:55.536Z"
+    "capturado_en": "2026-10-01T04:12:39.884Z"
   },
   {
     "id": "scraped-wepropel-4th-global-innovation-challenge-request-for-p-0f3bff5c4d",
@@ -232,7 +209,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-30T21:52:55.537Z"
+    "capturado_en": "2026-10-01T04:12:39.886Z"
   },
   {
     "id": "scraped-wepropel-2do-incentivo-a-la-investigacion-bibliotecari-d59bedaf7f",
@@ -256,7 +233,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-30T21:52:55.537Z"
+    "capturado_en": "2026-10-01T04:12:39.886Z"
   },
   {
     "id": "scraped-wepropel-who-ibp-network-spark-grants-2026-993dec3e45",
@@ -280,7 +257,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-30T21:52:55.540Z"
+    "capturado_en": "2026-10-01T04:12:39.888Z"
   },
   {
     "id": "scraped-wepropel-miller-center-accelerator-program-cohorte-202-740a547e4f",
@@ -304,7 +281,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-30T21:52:55.541Z"
+    "capturado_en": "2026-10-01T04:12:39.890Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
@@ -328,7 +305,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-30T21:52:59.348Z"
+    "capturado_en": "2026-10-01T04:12:43.865Z"
   },
   {
     "id": "rie-convocatoria-2026-manual",
@@ -359,30 +336,6 @@
     "analizado_ia": false
   },
   {
-    "id": "scraped-wepropel-artists-contacts-f6363f0f76",
-    "titulo": "Artists Contacts",
-    "donante": "Institut für Auslandsbeziehungen",
-    "fuente": "Oportunidades Propel",
-    "sector": "Desarrollo social / Derechos",
-    "dimension": "social",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-09-30",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 67,
-    "pivot": "Programa de financiamiento para facilitar el intercambio internacional entre artistas y profesionales de la cultura de Alemania y el Sur Global. Financia la movilidad vinculada a exposiciones, residencias, talleres, viajes de investigación, conferencias y otras iniciativas de cooperación en artes visuales.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.ifa.de/en/funding/artists-contacts/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-30T21:52:55.530Z"
-  },
-  {
     "id": "scraped-wepropel-2026-impact-grant-71cb592958",
     "titulo": "2026 Impact Grant",
     "donante": "The Supporting Act Foundation",
@@ -404,7 +357,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-30T21:52:55.533Z"
+    "capturado_en": "2026-10-01T04:12:39.873Z"
   },
   {
     "id": "scraped-wepropel-launchpad-funds-c0217e4c4c",
@@ -428,7 +381,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-30T21:52:55.534Z"
+    "capturado_en": "2026-10-01T04:12:39.878Z"
   },
   {
     "id": "scraped-wepropel-premio-de-derechos-humanos-de-la-republica-fr-a238fb3397",
@@ -452,7 +405,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-30T21:52:55.536Z"
+    "capturado_en": "2026-10-01T04:12:39.885Z"
   },
   {
     "id": "scraped-wepropel-2026-cso-call-for-expressions-of-project-inte-019366c463",
@@ -476,7 +429,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-30T21:52:55.540Z"
+    "capturado_en": "2026-10-01T04:12:39.887Z"
   },
   {
     "id": "scraped-wepropel-species-conservation-grant-f1af2424bd",
@@ -500,7 +453,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-30T21:52:55.541Z"
+    "capturado_en": "2026-10-01T04:12:39.889Z"
   },
   {
     "id": "scraped-wepropel-small-grants-program-19th-request-for-proposa-8d31eab58a",
@@ -524,7 +477,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-30T21:52:55.542Z"
+    "capturado_en": "2026-10-01T04:12:39.892Z"
   },
   {
     "id": "scraped-wepropel-the-gadfly-project-1838c6a5c5",
@@ -548,7 +501,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-30T21:52:55.543Z"
+    "capturado_en": "2026-10-01T04:12:39.893Z"
   },
   {
     "id": "scraped-wepropel-d-prize-global-competition-2026-4621eabf77",
@@ -572,7 +525,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-30T21:52:55.543Z"
+    "capturado_en": "2026-10-01T04:12:39.895Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -596,7 +549,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-30T21:52:55.543Z"
+    "capturado_en": "2026-10-01T04:12:39.896Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -620,7 +573,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-30T21:52:55.544Z"
+    "capturado_en": "2026-10-01T04:12:39.896Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
@@ -644,7 +597,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-30T21:52:59.349Z"
+    "capturado_en": "2026-10-01T04:12:43.866Z"
   },
   {
     "id": "scraped-red-exposocial-fondo-de-coyuntura-politica-convocatoria-para-593b5a2ab5",
@@ -668,7 +621,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-30T21:52:59.349Z"
+    "capturado_en": "2026-10-01T04:12:43.866Z"
   },
   {
     "id": "scraped-red-exposocial-holohil-programa-de-subvenciones-convocatoria-c4f0d54530",
@@ -692,31 +645,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-30T21:52:59.349Z"
-  },
-  {
-    "id": "scraped-red-exposocial-convocatoria-2027-de-fundacion-alsea-convocat-9561833e7d",
-    "titulo": "Convocatoria 2027 de Fundación Alsea: convocatoria para OSC",
-    "donante": "Red ExpoSocial",
-    "fuente": "Red ExpoSocial",
-    "sector": "Desarrollo social / Convocatorias",
-    "dimension": "social",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-09-30",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 67,
-    "pivot": "Fundación Alsea presenta esta oportunidad para organizaciones de la sociedad civil. Fecha de cierre: 30/09/2026.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://redexposocial.org/convocatoria-2027-de-fundacion-alsea/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "RED EXPOSOCIAL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-09-30T21:52:59.350Z"
+    "capturado_en": "2026-10-01T04:12:43.866Z"
   },
   {
     "id": "teeem-foundation-2026-manual",
@@ -825,7 +754,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-09-30T21:52:49.106Z"
+    "capturado_en": "2026-10-01T04:12:32.272Z"
   },
   {
     "id": "scraped-wepropel-endangered-languages-documentation-programme--37c01239f2",
@@ -849,7 +778,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-30T21:52:55.531Z"
+    "capturado_en": "2026-10-01T04:12:39.871Z"
   },
   {
     "id": "scraped-wepropel-grants-for-endangered-language-documentation-dddda1d748",
@@ -873,7 +802,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-30T21:52:55.533Z"
+    "capturado_en": "2026-10-01T04:12:39.873Z"
   },
   {
     "id": "scraped-wepropel-youth-forum-on-un-global-goals-2026-adf6d58da5",
@@ -897,7 +826,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-09-30T21:52:55.542Z"
+    "capturado_en": "2026-10-01T04:12:39.891Z"
   },
   {
     "id": "global-eba-fund-small-2026-manual",
