@@ -43,7 +43,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-02T11:54:08.115Z"
+    "capturado_en": "2026-10-02T17:28:37.009Z"
   },
   {
     "id": "scraped-red-exposocial-apoyos-de-respuesta-rapida-convocatoria-para--97707cba23",
@@ -67,7 +67,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-02T11:54:12.027Z"
+    "capturado_en": "2026-10-02T17:28:42.323Z"
   },
   {
     "id": "scraped-wepropel-entrepreneurs-for-resilience-2027-fd74ebb0c4",
@@ -91,7 +91,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-02T11:54:08.114Z"
+    "capturado_en": "2026-10-02T17:28:37.008Z"
   },
   {
     "id": "scraped-wepropel-fondo-juventud-y-accion-climatica-bogota-2026-865788c4b5",
@@ -115,7 +115,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-02T11:54:08.116Z"
+    "capturado_en": "2026-10-02T17:28:37.010Z"
   },
   {
     "id": "scraped-wepropel-4th-global-innovation-challenge-request-for-p-0f3bff5c4d",
@@ -139,7 +139,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-02T11:54:08.118Z"
+    "capturado_en": "2026-10-02T17:28:37.012Z"
   },
   {
     "id": "scraped-wepropel-2do-incentivo-a-la-investigacion-bibliotecari-d59bedaf7f",
@@ -163,7 +163,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-02T11:54:08.119Z"
+    "capturado_en": "2026-10-02T17:28:37.013Z"
   },
   {
     "id": "scraped-wepropel-who-ibp-network-spark-grants-2026-993dec3e45",
@@ -187,7 +187,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-02T11:54:08.121Z"
+    "capturado_en": "2026-10-02T17:28:37.015Z"
   },
   {
     "id": "scraped-wepropel-miller-center-accelerator-program-cohorte-202-740a547e4f",
@@ -211,7 +211,55 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-02T11:54:08.124Z"
+    "capturado_en": "2026-10-02T17:28:37.017Z"
+  },
+  {
+    "id": "scraped-wepropel-global-eba-fund-8th-call-for-proposals-for-sm-2433d66796",
+    "titulo": "Global EbA Fund: 8th Call for Proposals for Small-Size Grants",
+    "donante": "Global EbA Fund",
+    "fuente": "Oportunidades Propel",
+    "sector": "Educación / Juventud",
+    "dimension": "social",
+    "presupuesto_usd": 250000,
+    "fecha_cierre": "2026-10-26",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Grant para organizaciones que trabajan en adaptación al cambio climático. Financia proyectos para ampliar la Adaptación basada en Ecosistemas (EbA), con prioridades como fortalecimiento de capacidades, generación de datos y evidencia, preparación de proyectos para financiamiento climático, tecnologías innovadoras, investigación aplicada y colaboración con otras iniciativas de EbA o soluciones basadas en la naturaleza.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://globalebafund.org/small-size-grants/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "roja",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-10-02T17:28:37.022Z"
+  },
+  {
+    "id": "scraped-wepropel-whitley-awards-2027-ec5a8e99d7",
+    "titulo": "Whitley Awards 2027",
+    "donante": "Whitley Fund for Nature (WFN)",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-10-30",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Premio para líderes de organizaciones sin fines de lucro que trabajan en conservación de la naturaleza y biodiversidad en países elegibles. Ofrece financiamiento para fortalecer y ampliar durante un año un proyecto de conservación que ya tenga resultados comprobados, involucre a comunidades locales y genere un impacto medible en especies, ecosistemas o biodiversidad.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://whitleyaward.org/apply-for-conservation-funding/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-10-02T17:28:37.023Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
@@ -235,7 +283,31 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-02T11:54:12.026Z"
+    "capturado_en": "2026-10-02T17:28:42.322Z"
+  },
+  {
+    "id": "scraped-wepropel-29-convocatoria-para-proyectos-de-cooperacion-20de482ef6",
+    "titulo": "29.ª Convocatoria para Proyectos de Cooperación Triangular",
+    "donante": "GIZ | BMZ Ministerio Federal de Cooperación Económica y Desarrollo de Alemania",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-10-31",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Colombia mencionada ✓",
+    "afinidad_pivot": 72,
+    "pivot": "Grant para proyectos de cooperación triangular de hasta 2 años de duración que promuevan el intercambio de conocimientos, experiencias y capacidades para el desarrollo sostenible. Ofrece financiamiento para iniciativas desarrolladas conjuntamente por un socio solicitante, un socio principal y Alemania como socio facilitador.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://fondo-cooperacion-triangular.net/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-10-02T17:28:37.026Z"
   },
   {
     "id": "rie-convocatoria-2026-manual",
@@ -266,30 +338,6 @@
     "analizado_ia": false
   },
   {
-    "id": "scraped-wepropel-launchpad-funds-c0217e4c4c",
-    "titulo": "Launchpad Funds",
-    "donante": "Coefficient Giving",
-    "fuente": "Oportunidades Propel",
-    "sector": "Educación / Juventud",
-    "dimension": "social",
-    "presupuesto_usd": 50000000,
-    "fecha_cierre": "2026-10-02",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 67,
-    "pivot": "Grant dirigido a personas, organizaciones sin fines de lucro, financiadoras y otras entidades que busquen crear o escalar fondos para abordar problemas importantes y subfinanciados de salud y bienestar global. Ofrece financiamiento para desarrollar, lanzar y escalar estos fondos.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://coefficientgiving.org/funds/global-health-wellbeing-opportunities/request-for-proposals-launchpad-funds/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "roja",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-02T11:54:08.113Z"
-  },
-  {
     "id": "scraped-wepropel-premio-de-derechos-humanos-de-la-republica-fr-a238fb3397",
     "titulo": "Premio de Derechos Humanos de la República Francesa 2026",
     "donante": "CNCDH",
@@ -311,7 +359,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-02T11:54:08.117Z"
+    "capturado_en": "2026-10-02T17:28:37.011Z"
   },
   {
     "id": "scraped-wepropel-2026-cso-call-for-expressions-of-project-inte-019366c463",
@@ -335,7 +383,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-02T11:54:08.120Z"
+    "capturado_en": "2026-10-02T17:28:37.014Z"
   },
   {
     "id": "scraped-wepropel-species-conservation-grant-f1af2424bd",
@@ -359,7 +407,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-02T11:54:08.122Z"
+    "capturado_en": "2026-10-02T17:28:37.016Z"
   },
   {
     "id": "scraped-wepropel-small-grants-program-19th-request-for-proposa-8d31eab58a",
@@ -383,7 +431,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-02T11:54:08.126Z"
+    "capturado_en": "2026-10-02T17:28:37.020Z"
   },
   {
     "id": "scraped-wepropel-the-gadfly-project-1838c6a5c5",
@@ -407,7 +455,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-02T11:54:08.127Z"
+    "capturado_en": "2026-10-02T17:28:37.021Z"
   },
   {
     "id": "scraped-wepropel-d-prize-global-competition-2026-4621eabf77",
@@ -431,7 +479,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-02T11:54:08.129Z"
+    "capturado_en": "2026-10-02T17:28:37.021Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -455,7 +503,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-02T11:54:08.130Z"
+    "capturado_en": "2026-10-02T17:28:37.027Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -479,7 +527,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-02T11:54:08.130Z"
+    "capturado_en": "2026-10-02T17:28:37.028Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
@@ -503,7 +551,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-02T11:54:12.027Z"
+    "capturado_en": "2026-10-02T17:28:42.322Z"
   },
   {
     "id": "scraped-red-exposocial-fondo-de-coyuntura-politica-convocatoria-para-593b5a2ab5",
@@ -527,7 +575,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-02T11:54:12.028Z"
+    "capturado_en": "2026-10-02T17:28:42.323Z"
   },
   {
     "id": "scraped-red-exposocial-holohil-programa-de-subvenciones-convocatoria-c4f0d54530",
@@ -551,7 +599,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-02T11:54:12.028Z"
+    "capturado_en": "2026-10-02T17:28:42.323Z"
   },
   {
     "id": "teeem-foundation-2026-manual",
@@ -580,6 +628,30 @@
     "primera_deteccion": "2026-09-21T21:41:30.866Z",
     "ultima_verificacion": "2026-09-21T21:41:30.866Z",
     "analizado_ia": false
+  },
+  {
+    "id": "scraped-wepropel-reshaping-education-for-the-ai-era-5027f232ff",
+    "titulo": "Reshaping education for the AI era",
+    "donante": "Atlassian Foundation",
+    "fuente": "Oportunidades Propel",
+    "sector": "Educación / Juventud",
+    "dimension": "social",
+    "presupuesto_usd": 1000000,
+    "fecha_cierre": "2026-10-30",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 65,
+    "pivot": "Grant dirigido a iniciativas de acción colectiva que trabajan para mejorar la educación de estudiantes de comunidades desfavorecidas. Ofrece apoyo monetario para transformar la educación y preparar a los jóvenes para desarrollarse en la era de la inteligencia artificial.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://nomination.goodstack.org/grantprogram_000000DOmv2rO99eX0M9t3Oqj1mQj",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "roja",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-10-02T17:28:37.024Z"
   },
   {
     "id": "afd-osc-2026-manual",
@@ -660,7 +732,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-10-02T11:54:00.568Z"
+    "capturado_en": "2026-10-02T17:28:30.171Z"
   },
   {
     "id": "scraped-wepropel-youth-forum-on-un-global-goals-2026-adf6d58da5",
@@ -684,7 +756,31 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-02T11:54:08.125Z"
+    "capturado_en": "2026-10-02T17:28:37.020Z"
+  },
+  {
+    "id": "scraped-wepropel-leading-scholarship-2026-1a38c4b325",
+    "titulo": "Leading Scholarship 2026",
+    "donante": "One Young World",
+    "fuente": "Oportunidades Propel",
+    "sector": "Educación / Juventud",
+    "dimension": "social",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-10-31",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 58,
+    "pivot": "Beca para jóvenes líderes que buscan asistir al One Young World Summit 2026 en Ciudad del Cabo, Sudáfrica. Está orientada a personas con liderazgo comprobado y compromiso con generar cambio positivo en su país, especialmente de países que han estado subrepresentados en foros globales. Además de la asistencia al Summit, brinda acceso a una red global de potenciales colaboradores y oportunidades exclusivas para embajadores, como eventos de oratoria, networking regional y sesiones de mentoría.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.oneyoungworld.com/scholarship/leading-scholarship-2026",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-10-02T17:28:37.025Z"
   },
   {
     "id": "global-eba-fund-small-2026-manual",
