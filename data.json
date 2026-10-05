@@ -43,7 +43,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-05T13:38:03.039Z"
+    "capturado_en": "2026-10-05T21:02:57.544Z"
   },
   {
     "id": "scraped-wepropel-4th-global-innovation-challenge-request-for-p-0f3bff5c4d",
@@ -67,7 +67,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-05T13:37:59.398Z"
+    "capturado_en": "2026-10-05T21:02:53.515Z"
   },
   {
     "id": "scraped-wepropel-2do-incentivo-a-la-investigacion-bibliotecari-d59bedaf7f",
@@ -91,7 +91,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-05T13:37:59.399Z"
+    "capturado_en": "2026-10-05T21:02:53.516Z"
   },
   {
     "id": "scraped-wepropel-who-ibp-network-spark-grants-2026-993dec3e45",
@@ -115,7 +115,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-05T13:37:59.401Z"
+    "capturado_en": "2026-10-05T21:02:53.518Z"
   },
   {
     "id": "scraped-wepropel-miller-center-accelerator-program-cohorte-202-740a547e4f",
@@ -139,7 +139,31 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-05T13:37:59.404Z"
+    "capturado_en": "2026-10-05T21:02:53.520Z"
+  },
+  {
+    "id": "scraped-wepropel-convocatoria-pensarconotros-2026-2ba37aefec",
+    "titulo": "Convocatoria #PensarConOtros 2026",
+    "donante": "Grupo SURA | Fundación Bolívar",
+    "fuente": "Oportunidades Propel",
+    "sector": "Desarrollo social / Derechos",
+    "dimension": "social",
+    "presupuesto_usd": 50000,
+    "fecha_cierre": "2026-10-22",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Grant dirigido a personas, organizaciones y colectivos que desarrollan iniciativas para fortalecer la ciudadanía y la democracia. Ofrece financiamiento para proyectos que promuevan el diálogo, la colaboración y la generación de conocimiento frente a desafíos sociales relevantes.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.gruposura.com/sostenibilidad/convocatoria-pensar-con-otros-2026/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-10-05T21:02:53.523Z"
   },
   {
     "id": "scraped-wepropel-global-eba-fund-8th-call-for-proposals-for-sm-2433d66796",
@@ -163,7 +187,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-05T13:37:59.409Z"
+    "capturado_en": "2026-10-05T21:02:53.529Z"
   },
   {
     "id": "scraped-wepropel-whitley-awards-2027-ec5a8e99d7",
@@ -187,7 +211,31 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-05T13:37:59.410Z"
+    "capturado_en": "2026-10-05T21:02:53.529Z"
+  },
+  {
+    "id": "scraped-wepropel-teeem-foundation-community-impact-grant-progr-2996df95fe",
+    "titulo": "TEEEM Foundation Community Impact Grant Program",
+    "donante": "TEEEM Foundation",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 30000,
+    "fecha_cierre": "2026-11-01",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Grant para organizaciones sin fines de lucro y organizaciones benéficas que desarrollan soluciones sostenibles y lideradas por las comunidades. Apoya proyectos de educación, salud, igualdad, empoderamiento, emprendimiento, oportunidades económicas e infraestructura comunitaria, priorizando iniciativas con impacto medible y sostenible.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://drive.google.com/file/d/1cGaV3q9cvYoMRotB88ZqCfaoankJHqI0/view?usp=sharing",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-10-05T21:02:53.532Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
@@ -211,7 +259,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-05T13:38:03.038Z"
+    "capturado_en": "2026-10-05T21:02:57.542Z"
   },
   {
     "id": "scraped-wepropel-29-convocatoria-para-proyectos-de-cooperacion-20de482ef6",
@@ -235,7 +283,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-05T13:37:59.415Z"
+    "capturado_en": "2026-10-05T21:02:53.531Z"
   },
   {
     "id": "rie-convocatoria-2026-manual",
@@ -287,7 +335,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-05T13:37:59.400Z"
+    "capturado_en": "2026-10-05T21:02:53.517Z"
   },
   {
     "id": "scraped-wepropel-species-conservation-grant-f1af2424bd",
@@ -311,7 +359,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-05T13:37:59.403Z"
+    "capturado_en": "2026-10-05T21:02:53.519Z"
   },
   {
     "id": "scraped-wepropel-small-grants-program-19th-request-for-proposa-8d31eab58a",
@@ -335,7 +383,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-05T13:37:59.406Z"
+    "capturado_en": "2026-10-05T21:02:53.522Z"
   },
   {
     "id": "scraped-wepropel-the-gadfly-project-1838c6a5c5",
@@ -359,7 +407,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-05T13:37:59.407Z"
+    "capturado_en": "2026-10-05T21:02:53.524Z"
   },
   {
     "id": "scraped-wepropel-d-prize-global-competition-2026-4621eabf77",
@@ -383,7 +431,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-05T13:37:59.408Z"
+    "capturado_en": "2026-10-05T21:02:53.528Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -407,7 +455,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-05T13:37:59.416Z"
+    "capturado_en": "2026-10-05T21:02:53.535Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -431,7 +479,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-05T13:37:59.417Z"
+    "capturado_en": "2026-10-05T21:02:53.535Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
@@ -455,7 +503,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-05T13:38:03.039Z"
+    "capturado_en": "2026-10-05T21:02:57.543Z"
   },
   {
     "id": "scraped-red-exposocial-fondo-de-coyuntura-politica-convocatoria-para-593b5a2ab5",
@@ -479,7 +527,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-05T13:38:03.039Z"
+    "capturado_en": "2026-10-05T21:02:57.544Z"
   },
   {
     "id": "scraped-red-exposocial-holohil-programa-de-subvenciones-convocatoria-c4f0d54530",
@@ -503,7 +551,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-05T13:38:03.040Z"
+    "capturado_en": "2026-10-05T21:02:57.545Z"
   },
   {
     "id": "teeem-foundation-2026-manual",
@@ -555,7 +603,31 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-05T13:37:59.411Z"
+    "capturado_en": "2026-10-05T21:02:53.530Z"
+  },
+  {
+    "id": "scraped-wepropel-swarovski-foundation-creatives-for-our-future-70960388c4",
+    "titulo": "Swarovski Foundation Creatives for Our Future programme",
+    "donante": "Swarovski Foundation",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-11-09",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 65,
+    "pivot": "Programa global para jóvenes de 21 a 30 años que trabajan en arte, diseño, moda, arquitectura, tecnología u otras disciplinas creativas para desarrollar soluciones a desafíos sociales y ambientales. Ofrece un grant, mentoría y formación para impulsar estos proyectos. Ofrece EUR 20,000, mentoría personalizada, masterclasses, networking y acceso a eventos de la industria.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://creatives.swarovskifoundation.org/application",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-10-05T21:02:53.533Z"
   },
   {
     "id": "afd-osc-2026-manual",
@@ -636,7 +708,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-10-05T13:37:48.582Z"
+    "capturado_en": "2026-10-05T21:02:46.364Z"
   },
   {
     "id": "scraped-wepropel-youth-forum-on-un-global-goals-2026-adf6d58da5",
@@ -660,7 +732,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-05T13:37:59.405Z"
+    "capturado_en": "2026-10-05T21:02:53.521Z"
   },
   {
     "id": "scraped-wepropel-leading-scholarship-2026-1a38c4b325",
@@ -684,7 +756,31 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-05T13:37:59.411Z"
+    "capturado_en": "2026-10-05T21:02:53.531Z"
+  },
+  {
+    "id": "scraped-wepropel-world-leaders-convention-2027-f535a6d822",
+    "titulo": "World Leaders Convention 2027",
+    "donante": "Organization for Global Policy & Dialogue (OGPD)",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-11-10",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 58,
+    "pivot": "Evento internacional para jóvenes líderes enfocados en liderazgo, diplomacia, políticas públicas, innovación y desarrollo sostenible. Ofrece becas completas y parciales para participar en una convención internacional en Viena con talleres, conferencias, diálogos y espacios de networking.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://theogpd.org/wlc-2027/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-10-05T21:02:53.534Z"
   },
   {
     "id": "global-eba-fund-small-2026-manual",
