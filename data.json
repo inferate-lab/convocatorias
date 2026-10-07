@@ -43,7 +43,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-07T12:40:16.091Z"
+    "capturado_en": "2026-10-07T19:16:58.560Z"
   },
   {
     "id": "scraped-wepropel-2do-incentivo-a-la-investigacion-bibliotecari-d59bedaf7f",
@@ -67,7 +67,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-07T12:40:12.675Z"
+    "capturado_en": "2026-10-07T19:16:54.460Z"
   },
   {
     "id": "scraped-wepropel-who-ibp-network-spark-grants-2026-993dec3e45",
@@ -91,7 +91,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-07T12:40:12.677Z"
+    "capturado_en": "2026-10-07T19:16:54.461Z"
   },
   {
     "id": "scraped-wepropel-miller-center-accelerator-program-cohorte-202-740a547e4f",
@@ -115,7 +115,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-07T12:40:12.681Z"
+    "capturado_en": "2026-10-07T19:16:54.463Z"
   },
   {
     "id": "scraped-wepropel-convocatoria-pensarconotros-2026-2ba37aefec",
@@ -139,7 +139,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-07T12:40:12.683Z"
+    "capturado_en": "2026-10-07T19:16:54.465Z"
   },
   {
     "id": "scraped-wepropel-global-eba-fund-8th-call-for-proposals-for-sm-2433d66796",
@@ -163,7 +163,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-07T12:40:12.686Z"
+    "capturado_en": "2026-10-07T19:16:54.467Z"
   },
   {
     "id": "scraped-wepropel-whitley-awards-2027-ec5a8e99d7",
@@ -187,7 +187,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-07T12:40:12.687Z"
+    "capturado_en": "2026-10-07T19:16:54.468Z"
   },
   {
     "id": "scraped-wepropel-teeem-foundation-community-impact-grant-progr-2996df95fe",
@@ -211,7 +211,31 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-07T12:40:12.690Z"
+    "capturado_en": "2026-10-07T19:16:54.470Z"
+  },
+  {
+    "id": "scraped-wepropel-interledger-local-impact-mini-grants-8d3d85dfd7",
+    "titulo": "Interledger Local Impact Mini Grants",
+    "donante": "Interledger Foundation",
+    "fuente": "Oportunidades Propel",
+    "sector": "Tecnología / Innovación",
+    "dimension": "social",
+    "presupuesto_usd": 3000,
+    "fecha_cierre": "2026-11-11",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Grant para impulsar iniciativas comunitarias relacionadas con pagos abiertos, acceso financiero digital, interoperabilidad, innovación abierta, inclusión financiera y ecosistemas fintech, infraestructura pública digital y temas relacionados.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://interledger.org/grant/local-impact",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-10-07T19:16:54.471Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
@@ -235,7 +259,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-07T12:40:16.091Z"
+    "capturado_en": "2026-10-07T19:16:58.559Z"
   },
   {
     "id": "scraped-wepropel-29-convocatoria-para-proyectos-de-cooperacion-20de482ef6",
@@ -259,7 +283,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-07T12:40:12.689Z"
+    "capturado_en": "2026-10-07T19:16:54.469Z"
   },
   {
     "id": "rie-convocatoria-2026-manual",
@@ -311,7 +335,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-07T12:40:12.676Z"
+    "capturado_en": "2026-10-07T19:16:54.461Z"
   },
   {
     "id": "scraped-wepropel-species-conservation-grant-f1af2424bd",
@@ -335,7 +359,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-07T12:40:12.678Z"
+    "capturado_en": "2026-10-07T19:16:54.462Z"
   },
   {
     "id": "scraped-wepropel-small-grants-program-19th-request-for-proposa-8d31eab58a",
@@ -359,7 +383,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-07T12:40:12.683Z"
+    "capturado_en": "2026-10-07T19:16:54.464Z"
   },
   {
     "id": "scraped-wepropel-the-gadfly-project-1838c6a5c5",
@@ -383,7 +407,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-07T12:40:12.684Z"
+    "capturado_en": "2026-10-07T19:16:54.466Z"
   },
   {
     "id": "scraped-wepropel-d-prize-global-competition-2026-4621eabf77",
@@ -407,7 +431,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-07T12:40:12.685Z"
+    "capturado_en": "2026-10-07T19:16:54.466Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -431,7 +455,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-07T12:40:12.692Z"
+    "capturado_en": "2026-10-07T19:16:54.474Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -455,7 +479,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-07T12:40:12.693Z"
+    "capturado_en": "2026-10-07T19:16:54.474Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
@@ -479,7 +503,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-07T12:40:16.091Z"
+    "capturado_en": "2026-10-07T19:16:58.560Z"
   },
   {
     "id": "scraped-red-exposocial-fondo-de-coyuntura-politica-convocatoria-para-593b5a2ab5",
@@ -503,7 +527,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-07T12:40:16.092Z"
+    "capturado_en": "2026-10-07T19:16:58.560Z"
   },
   {
     "id": "scraped-red-exposocial-holohil-programa-de-subvenciones-convocatoria-c4f0d54530",
@@ -527,7 +551,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-07T12:40:16.092Z"
+    "capturado_en": "2026-10-07T19:16:58.560Z"
   },
   {
     "id": "teeem-foundation-2026-manual",
@@ -579,7 +603,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-07T12:40:12.688Z"
+    "capturado_en": "2026-10-07T19:16:54.468Z"
   },
   {
     "id": "scraped-wepropel-swarovski-foundation-creatives-for-our-future-70960388c4",
@@ -603,7 +627,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-07T12:40:12.690Z"
+    "capturado_en": "2026-10-07T19:16:54.470Z"
   },
   {
     "id": "afd-osc-2026-manual",
@@ -684,7 +708,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-10-07T12:40:05.502Z"
+    "capturado_en": "2026-10-07T19:16:46.799Z"
   },
   {
     "id": "scraped-wepropel-youth-forum-on-un-global-goals-2026-adf6d58da5",
@@ -708,7 +732,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-07T12:40:12.682Z"
+    "capturado_en": "2026-10-07T19:16:54.463Z"
   },
   {
     "id": "scraped-wepropel-leading-scholarship-2026-1a38c4b325",
@@ -732,7 +756,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-07T12:40:12.688Z"
+    "capturado_en": "2026-10-07T19:16:54.469Z"
   },
   {
     "id": "scraped-wepropel-world-leaders-convention-2027-f535a6d822",
@@ -756,7 +780,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-07T12:40:12.691Z"
+    "capturado_en": "2026-10-07T19:16:54.471Z"
   },
   {
     "id": "global-eba-fund-small-2026-manual",
