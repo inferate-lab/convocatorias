@@ -43,7 +43,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-12T04:23:10.670Z"
+    "capturado_en": "2026-10-12T14:27:08.470Z"
   },
   {
     "id": "scraped-wepropel-nonprofit-technology-leadership-fellowship-256feb11a3",
@@ -67,7 +67,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-12T04:23:02.962Z"
+    "capturado_en": "2026-10-12T14:27:04.644Z"
   },
   {
     "id": "scraped-wepropel-miller-center-accelerator-program-cohorte-202-740a547e4f",
@@ -91,7 +91,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-12T04:23:02.966Z"
+    "capturado_en": "2026-10-12T14:27:04.646Z"
   },
   {
     "id": "scraped-wepropel-convocatoria-pensarconotros-2026-2ba37aefec",
@@ -115,7 +115,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-12T04:23:02.968Z"
+    "capturado_en": "2026-10-12T14:27:04.648Z"
   },
   {
     "id": "scraped-wepropel-global-eba-fund-8th-call-for-proposals-for-sm-2433d66796",
@@ -139,7 +139,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-12T04:23:02.970Z"
+    "capturado_en": "2026-10-12T14:27:04.650Z"
   },
   {
     "id": "scraped-wepropel-whitley-awards-2027-ec5a8e99d7",
@@ -163,7 +163,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-12T04:23:02.971Z"
+    "capturado_en": "2026-10-12T14:27:04.653Z"
   },
   {
     "id": "scraped-wepropel-fieldshaper-program-2db500794b",
@@ -187,7 +187,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-12T04:23:02.972Z"
+    "capturado_en": "2026-10-12T14:27:04.654Z"
   },
   {
     "id": "scraped-wepropel-teeem-foundation-community-impact-grant-progr-2996df95fe",
@@ -211,7 +211,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-12T04:23:02.974Z"
+    "capturado_en": "2026-10-12T14:27:04.655Z"
   },
   {
     "id": "scraped-wepropel-2027-global-health-challenge-3c6c18c3ff",
@@ -235,7 +235,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-12T04:23:02.974Z"
+    "capturado_en": "2026-10-12T14:27:04.655Z"
   },
   {
     "id": "scraped-wepropel-2027-global-climate-challenge-01b8352db8",
@@ -259,7 +259,55 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-12T04:23:02.975Z"
+    "capturado_en": "2026-10-12T14:27:04.656Z"
+  },
+  {
+    "id": "scraped-wepropel-100x-impact-accelerator-5bc7f0b13e",
+    "titulo": "100x Impact Accelerator",
+    "donante": "100x Impact Accelerator",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-11-02",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Aceleradora dirigida a organizaciones sociales y emprendimientos de impacto, con o sin fines de lucro, que cuentan con soluciones probadas y buscan escalar su impacto. Ofrece financiamiento, un programa de acompañamiento personalizado de 16 semanas, mentoría estratégica, acceso a investigaciones de LSE y conexiones con financiadores y aliados internacionales.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.100ximpact.org/resources/100x-impact-opens-applications-for-its-next-cohort-of-ventures-ready-to-scale-proven-solutions",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-10-12T14:27:04.656Z"
+  },
+  {
+    "id": "scraped-wepropel-2027-global-economic-prosperity-challenge-2e9fdacdfd",
+    "titulo": "2027 Global Economic Prosperity Challenge",
+    "donante": "MIT Solve",
+    "fuente": "Oportunidades Propel",
+    "sector": "Tecnología / Innovación",
+    "dimension": "social",
+    "presupuesto_usd": 200000,
+    "fecha_cierre": "2026-11-02",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Premio global dirigido a equipos y organizaciones que desarrollan soluciones tecnológicas innovadoras para fortalecer la prosperidad económica. Ofrece financiamiento, mentoría mediante un programa de acompañamiento de nueve meses y la posibilidad de acceder a premios adicionales para escalar soluciones enfocadas en inclusión financiera, empleo de calidad y acceso a viviendas asequibles y resilientes al cambio climático.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://solve.mit.edu/challenges/2027-global-economic-prosperity-challenge",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "roja",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-10-12T14:27:04.657Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
@@ -283,7 +331,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-12T04:23:10.669Z"
+    "capturado_en": "2026-10-12T14:27:08.470Z"
   },
   {
     "id": "scraped-wepropel-29-convocatoria-para-proyectos-de-cooperacion-20de482ef6",
@@ -307,7 +355,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-12T04:23:02.973Z"
+    "capturado_en": "2026-10-12T14:27:04.654Z"
   },
   {
     "id": "rie-convocatoria-2026-manual",
@@ -359,7 +407,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-12T04:23:02.962Z"
+    "capturado_en": "2026-10-12T14:27:04.645Z"
   },
   {
     "id": "scraped-wepropel-small-grants-program-19th-request-for-proposa-8d31eab58a",
@@ -383,7 +431,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-12T04:23:02.967Z"
+    "capturado_en": "2026-10-12T14:27:04.647Z"
   },
   {
     "id": "scraped-wepropel-the-gadfly-project-1838c6a5c5",
@@ -407,7 +455,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-12T04:23:02.968Z"
+    "capturado_en": "2026-10-12T14:27:04.648Z"
   },
   {
     "id": "scraped-wepropel-d-prize-global-competition-2026-4621eabf77",
@@ -431,7 +479,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-12T04:23:02.969Z"
+    "capturado_en": "2026-10-12T14:27:04.650Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -455,7 +503,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-12T04:23:02.976Z"
+    "capturado_en": "2026-10-12T14:27:04.658Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -479,7 +527,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-12T04:23:02.977Z"
+    "capturado_en": "2026-10-12T14:27:04.658Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
@@ -503,7 +551,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-12T04:23:10.669Z"
+    "capturado_en": "2026-10-12T14:27:08.470Z"
   },
   {
     "id": "scraped-red-exposocial-fondo-de-coyuntura-politica-convocatoria-para-593b5a2ab5",
@@ -527,7 +575,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-12T04:23:10.670Z"
+    "capturado_en": "2026-10-12T14:27:08.471Z"
   },
   {
     "id": "scraped-red-exposocial-holohil-programa-de-subvenciones-convocatoria-c4f0d54530",
@@ -551,7 +599,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-12T04:23:10.670Z"
+    "capturado_en": "2026-10-12T14:27:08.471Z"
   },
   {
     "id": "teeem-foundation-2026-manual",
@@ -603,31 +651,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-12T04:23:02.972Z"
-  },
-  {
-    "id": "scraped-wepropel-swarovski-foundation-creatives-for-our-future-70960388c4",
-    "titulo": "Swarovski Foundation Creatives for Our Future programme",
-    "donante": "Swarovski Foundation",
-    "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-11-09",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 65,
-    "pivot": "Programa global para jóvenes de 21 a 30 años que trabajan en arte, diseño, moda, arquitectura, tecnología u otras disciplinas creativas para desarrollar soluciones a desafíos sociales y ambientales. Ofrece un grant, mentoría y formación para impulsar estos proyectos. Ofrece EUR 20,000, mentoría personalizada, masterclasses, networking y acceso a eventos de la industria.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://creatives.swarovskifoundation.org/application",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-12T04:23:02.975Z"
+    "capturado_en": "2026-10-12T14:27:04.653Z"
   },
   {
     "id": "fondo-cooperacion-triangular-29-2026-manual",
@@ -680,7 +704,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-10-12T04:22:44.602Z"
+    "capturado_en": "2026-10-12T14:26:57.631Z"
   },
   {
     "id": "scraped-wepropel-youth-forum-on-un-global-goals-2026-adf6d58da5",
@@ -704,7 +728,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-12T04:23:02.966Z"
+    "capturado_en": "2026-10-12T14:27:04.646Z"
   },
   {
     "id": "scraped-wepropel-leading-scholarship-2026-1a38c4b325",
@@ -728,31 +752,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-12T04:23:02.973Z"
-  },
-  {
-    "id": "scraped-wepropel-world-leaders-convention-2027-f535a6d822",
-    "titulo": "World Leaders Convention 2027",
-    "donante": "Organization for Global Policy & Dialogue (OGPD)",
-    "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-11-10",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 58,
-    "pivot": "Evento internacional para jóvenes líderes enfocados en liderazgo, diplomacia, políticas públicas, innovación y desarrollo sostenible. Ofrece becas completas y parciales para participar en una convención internacional en Viena con talleres, conferencias, diálogos y espacios de networking.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://theogpd.org/wlc-2027/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-12T04:23:02.976Z"
+    "capturado_en": "2026-10-12T14:27:04.654Z"
   },
   {
     "id": "global-eba-fund-small-2026-manual",
