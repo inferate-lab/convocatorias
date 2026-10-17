@@ -1,5 +1,23 @@
 [
   {
+    "corrida_en": "2026-10-17T10:10:15.792Z",
+    "activas": 33,
+    "archivadas_total": 0,
+    "discover": {
+      "corrida_en": "2026-10-17T10:10:15.279Z",
+      "encontradas_por_ia": 0,
+      "nuevas_agregadas": 0,
+      "fuentes_sugeridas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cg7dMqDn7PL3GV3W526rF\"}"
+    },
+    "verify": {
+      "corrida_en": "2026-10-17T10:10:15.399Z",
+      "verificadas": 0,
+      "cerradas": 0,
+      "error": "API de Anthropic respondió 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cg7dMs5PkRiq3gW1uFcJP\"}"
+    }
+  },
+  {
     "corrida_en": "2026-10-17T03:01:40.432Z",
     "activas": 33,
     "archivadas_total": 0,
