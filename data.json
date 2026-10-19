@@ -22,6 +22,30 @@
     "tipo": "fondo"
   },
   {
+    "id": "scraped-wepropel-2027-indigenous-youth-fellowship-e4b42b6e60",
+    "titulo": "2027 Indigenous Youth Fellowship",
+    "donante": "Cultural Survival",
+    "fuente": "Oportunidades Propel",
+    "sector": "Educación / Juventud",
+    "dimension": "social",
+    "presupuesto_usd": 5000,
+    "fecha_cierre": "2026-10-25",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Colombia mencionada ✓",
+    "afinidad_pivot": 88,
+    "pivot": "Fellowship dirigido a jóvenes indígenas que lideran proyectos en sus comunidades para promover la participación comunitaria y la visibilización de problemáticas locales en espacios de diálogo global. Apoya iniciativas de adaptación climática, protección de ecosistemas, revitalización cultural y defensa de derechos, ofreciendo financiamiento, mentoría y acompañamiento para desarrollar su liderazgo.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.culturalsurvival.org/news/2027-indigenous-youth-fellowship-call-project-proposals",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "roja",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-10-19T19:11:13.058Z"
+  },
+  {
     "id": "scraped-red-exposocial-apoyos-de-respuesta-rapida-convocatoria-para--97707cba23",
     "titulo": "Apoyos de Respuesta Rápida: convocatoria para OSC",
     "donante": "Red ExpoSocial",
@@ -43,7 +67,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-19T12:09:30.365Z"
+    "capturado_en": "2026-10-19T19:11:18.083Z"
   },
   {
     "id": "scraped-wepropel-convocatoria-pensarconotros-2026-2ba37aefec",
@@ -67,7 +91,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-19T12:09:26.470Z"
+    "capturado_en": "2026-10-19T19:11:13.056Z"
   },
   {
     "id": "scraped-wepropel-global-eba-fund-8th-call-for-proposals-for-sm-2433d66796",
@@ -91,7 +115,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-19T12:09:26.473Z"
+    "capturado_en": "2026-10-19T19:11:13.059Z"
   },
   {
     "id": "scraped-wepropel-whitley-awards-2027-ec5a8e99d7",
@@ -115,7 +139,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-19T12:09:26.474Z"
+    "capturado_en": "2026-10-19T19:11:13.060Z"
   },
   {
     "id": "scraped-wepropel-reshaping-education-for-the-ai-era-5027f232ff",
@@ -139,7 +163,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-19T12:09:26.476Z"
+    "capturado_en": "2026-10-19T19:11:13.061Z"
   },
   {
     "id": "scraped-wepropel-fieldshaper-program-2db500794b",
@@ -163,7 +187,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-19T12:09:26.477Z"
+    "capturado_en": "2026-10-19T19:11:13.061Z"
   },
   {
     "id": "scraped-wepropel-teeem-foundation-community-impact-grant-progr-2996df95fe",
@@ -187,31 +211,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-19T12:09:26.479Z"
-  },
-  {
-    "id": "scraped-wepropel-2027-global-climate-challenge-01b8352db8",
-    "titulo": "2027 Global Climate Challenge",
-    "donante": "MIT Solve",
-    "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 150000,
-    "fecha_cierre": "2026-11-02",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 74,
-    "pivot": "Premio global dirigido a equipos y organizaciones que desarrollan soluciones tecnológicas innovadoras frente a la crisis climática. Ofrece financiamiento, mentoría mediante un programa de acompañamiento de nueve meses y la posibilidad de acceder a financiamiento adicional a través de un fondo de USD 1,000,000.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://solve.mit.edu/index.php/challenges/2027-global-climate-challenge",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "roja",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-19T12:09:26.480Z"
+    "capturado_en": "2026-10-19T19:11:13.064Z"
   },
   {
     "id": "scraped-wepropel-100x-impact-accelerator-0061b387cc",
@@ -235,23 +235,23 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-19T12:09:26.481Z"
+    "capturado_en": "2026-10-19T19:11:13.065Z"
   },
   {
-    "id": "scraped-wepropel-2027-global-learning-challenge-afd26a1d72",
-    "titulo": "2027 Global Learning Challenge",
-    "donante": "MIT Solve",
+    "id": "scraped-wepropel-unicef-femtech-ventures-2026-2a8a95c7ad",
+    "titulo": "UNICEF Femtech Ventures 2026",
+    "donante": "UNICEF",
     "fuente": "Oportunidades Propel",
     "sector": "Educación / Juventud",
     "dimension": "social",
-    "presupuesto_usd": 200000,
-    "fecha_cierre": "2026-11-02",
+    "presupuesto_usd": 100000,
+    "fecha_cierre": "2026-11-04",
     "estado": "CONVOCATORIA VIGENTE",
     "pais_elegible": "Validar elegibilidad",
     "afinidad_pivot": 74,
-    "pivot": "Premio dirigido a organizaciones, emprendimientos y equipos que desarrollan soluciones tecnológicas para reducir las brechas educativas y mejorar el aprendizaje. Ofrece financiamiento, mentoría, formación, conexiones estratégicas durante nueve meses y la posibilidad de acceder a financiamiento adicional a través de un fondo de USD 1,000,000.",
+    "pivot": "Financia empresas tecnológicas que desarrollan soluciones innovadoras para mejorar la salud y el bienestar de mujeres y niñas. Apoya iniciativas que facilitan el acceso a servicios de salud, promueven la salud sexual y reproductiva y fortalecen la prevención de la violencia de género.",
     "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://solve.mit.edu/challenges/2027-global-learning-challenge",
+    "fuente_url": "https://www.unicef.org/innovation/FemTechCall",
     "tags": [
       "RASTREO EN VIVO",
       "OPORTUNIDADES PROPEL"
@@ -259,7 +259,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-19T12:09:26.482Z"
+    "capturado_en": "2026-10-19T19:11:13.065Z"
   },
   {
     "id": "scraped-wepropel-2027-global-health-challenge-3c6c18c3ff",
@@ -283,7 +283,55 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-19T12:09:26.483Z"
+    "capturado_en": "2026-10-19T19:11:13.068Z"
+  },
+  {
+    "id": "scraped-wepropel-2027-global-climate-challenge-01b8352db8",
+    "titulo": "2027 Global Climate Challenge",
+    "donante": "MIT Solve",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 150000,
+    "fecha_cierre": "2026-11-06",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Premio global dirigido a equipos y organizaciones que desarrollan soluciones tecnológicas innovadoras frente a la crisis climática. Ofrece financiamiento, mentoría mediante un programa de acompañamiento de nueve meses y la posibilidad de acceder a financiamiento adicional a través de un fondo de USD 1,000,000.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://solve.mit.edu/index.php/challenges/2027-global-climate-challenge",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "roja",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-10-19T19:11:13.068Z"
+  },
+  {
+    "id": "scraped-wepropel-2027-global-learning-challenge-afd26a1d72",
+    "titulo": "2027 Global Learning Challenge",
+    "donante": "MIT Solve",
+    "fuente": "Oportunidades Propel",
+    "sector": "Educación / Juventud",
+    "dimension": "social",
+    "presupuesto_usd": 200000,
+    "fecha_cierre": "2026-11-06",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Premio dirigido a organizaciones, emprendimientos y equipos que desarrollan soluciones tecnológicas para reducir las brechas educativas y mejorar el aprendizaje. Ofrece financiamiento, mentoría, formación, conexiones estratégicas durante nueve meses y la posibilidad de acceder a financiamiento adicional a través de un fondo de USD 1,000,000.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://solve.mit.edu/challenges/2027-global-learning-challenge",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "roja",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-10-19T19:11:13.069Z"
   },
   {
     "id": "scraped-wepropel-2027-global-economic-prosperity-challenge-2e9fdacdfd",
@@ -307,7 +355,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-19T12:09:26.484Z"
+    "capturado_en": "2026-10-19T19:11:13.069Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
@@ -331,7 +379,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-19T12:09:30.364Z"
+    "capturado_en": "2026-10-19T19:11:18.082Z"
   },
   {
     "id": "scraped-wepropel-29-convocatoria-para-proyectos-de-cooperacion-20de482ef6",
@@ -355,7 +403,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-19T12:09:26.479Z"
+    "capturado_en": "2026-10-19T19:11:13.063Z"
   },
   {
     "id": "rie-convocatoria-2026-manual",
@@ -407,7 +455,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-19T12:09:26.466Z"
+    "capturado_en": "2026-10-19T19:11:13.056Z"
   },
   {
     "id": "scraped-wepropel-the-gadfly-project-1838c6a5c5",
@@ -431,7 +479,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-19T12:09:26.471Z"
+    "capturado_en": "2026-10-19T19:11:13.057Z"
   },
   {
     "id": "scraped-wepropel-d-prize-global-competition-2026-4621eabf77",
@@ -455,7 +503,31 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-19T12:09:26.472Z"
+    "capturado_en": "2026-10-19T19:11:13.058Z"
+  },
+  {
+    "id": "scraped-wepropel-girl-up-project-awards-2026-36ab623483",
+    "titulo": "Girl Up Project Awards 2026",
+    "donante": "Girl Up",
+    "fuente": "Oportunidades Propel",
+    "sector": "Educación / Juventud",
+    "dimension": "social",
+    "presupuesto_usd": 1000,
+    "fecha_cierre": "2026-10-31",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 67,
+    "pivot": "Micro grant para financiar proyectos comunitarios de justicia de género liderados por jóvenes de 13 a 25 años. Apoya iniciativas nuevas y proyectos en marcha que buscan ampliar su impacto, ofreciendo financiamiento, mentoría y espacios de aprendizaje para fortalecer el liderazgo juvenil.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://girlup.org/programs/fund-growth-nurture-the-movement",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-10-19T19:11:13.064Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -479,7 +551,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-19T12:09:26.486Z"
+    "capturado_en": "2026-10-19T19:11:13.070Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -503,7 +575,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-19T12:09:26.487Z"
+    "capturado_en": "2026-10-19T19:11:13.070Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
@@ -527,7 +599,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-19T12:09:30.365Z"
+    "capturado_en": "2026-10-19T19:11:18.083Z"
   },
   {
     "id": "scraped-red-exposocial-fondo-de-coyuntura-politica-convocatoria-para-593b5a2ab5",
@@ -551,7 +623,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-19T12:09:30.366Z"
+    "capturado_en": "2026-10-19T19:11:18.083Z"
   },
   {
     "id": "teeem-foundation-2026-manual",
@@ -580,30 +652,6 @@
     "primera_deteccion": "2026-09-21T21:41:30.866Z",
     "ultima_verificacion": "2026-09-21T21:41:30.866Z",
     "analizado_ia": false
-  },
-  {
-    "id": "scraped-wepropel-swarovski-foundation-creatives-for-our-future-70960388c4",
-    "titulo": "Swarovski Foundation Creatives for Our Future programme",
-    "donante": "Swarovski Foundation",
-    "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-11-09",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 65,
-    "pivot": "Programa global para jóvenes de 21 a 30 años que trabajan en arte, diseño, moda, arquitectura, tecnología u otras disciplinas creativas para desarrollar soluciones a desafíos sociales y ambientales. Ofrece un grant, mentoría y formación para impulsar estos proyectos. Ofrece EUR 20,000, mentoría personalizada, masterclasses, networking y acceso a eventos de la industria.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://creatives.swarovskifoundation.org/application",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-19T12:09:26.485Z"
   },
   {
     "id": "fondo-cooperacion-triangular-29-2026-manual",
@@ -656,7 +704,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-10-19T12:09:19.111Z"
+    "capturado_en": "2026-10-19T19:11:06.064Z"
   },
   {
     "id": "scraped-wepropel-leading-scholarship-2026-1a38c4b325",
@@ -680,31 +728,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-19T12:09:26.478Z"
-  },
-  {
-    "id": "scraped-wepropel-world-leaders-convention-2027-f535a6d822",
-    "titulo": "World Leaders Convention 2027",
-    "donante": "Organization for Global Policy & Dialogue (OGPD)",
-    "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-11-10",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 58,
-    "pivot": "Evento internacional para jóvenes líderes enfocados en liderazgo, diplomacia, políticas públicas, innovación y desarrollo sostenible. Ofrece becas completas y parciales para participar en una convención internacional en Viena con talleres, conferencias, diálogos y espacios de networking.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://theogpd.org/wlc-2027/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-19T12:09:26.486Z"
+    "capturado_en": "2026-10-19T19:11:13.062Z"
   },
   {
     "id": "global-eba-fund-small-2026-manual",
