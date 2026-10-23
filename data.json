@@ -43,7 +43,55 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-23T11:01:30.353Z"
+    "capturado_en": "2026-10-23T16:29:02.536Z"
+  },
+  {
+    "id": "scraped-wepropel-proyectos-de-derechos-humanos-2027-df989ca078",
+    "titulo": "Proyectos de derechos humanos 2027",
+    "donante": "Ministerio Federal de Relaciones Exteriores de Alemania",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-10-27",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Colombia mencionada ✓",
+    "afinidad_pivot": 88,
+    "pivot": "Grant dirigido a Organizaciones Sociales de Colombia que desarrollen iniciativas de defensa de los derechos humanos, con arraigo territorial y resultados verificables. Ofrece financiamiento para implementar sus proyectos.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://bogota.diplo.de/co-es/2805862-2805862",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "roja",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-10-23T16:29:02.538Z"
+  },
+  {
+    "id": "scraped-wepropel-29-convocatoria-para-proyectos-de-cooperacion-20de482ef6",
+    "titulo": "29.ª Convocatoria para Proyectos de Cooperación Triangular",
+    "donante": "GIZ | BMZ Ministerio Federal de Cooperación Económica y Desarrollo de Alemania",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-10-31",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Colombia mencionada ✓",
+    "afinidad_pivot": 81,
+    "pivot": "Grant para proyectos de cooperación triangular de hasta 2 años de duración que promuevan el intercambio de conocimientos, experiencias y capacidades para el desarrollo sostenible. Ofrece financiamiento para iniciativas desarrolladas conjuntamente por un socio solicitante, un socio principal y Alemania como socio facilitador.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://fondo-cooperacion-triangular.net/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-10-23T16:29:02.545Z"
   },
   {
     "id": "scraped-red-exposocial-apoyos-de-respuesta-rapida-convocatoria-para--97707cba23",
@@ -67,7 +115,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-23T11:01:33.962Z"
+    "capturado_en": "2026-10-23T16:29:06.288Z"
   },
   {
     "id": "scraped-wepropel-fortis-fellowship-2027-7087c164ab",
@@ -91,7 +139,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-23T11:01:30.360Z"
+    "capturado_en": "2026-10-23T16:29:02.555Z"
   },
   {
     "id": "scraped-wepropel-global-eba-fund-8th-call-for-proposals-for-sm-2433d66796",
@@ -115,7 +163,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-23T11:01:30.353Z"
+    "capturado_en": "2026-10-23T16:29:02.537Z"
   },
   {
     "id": "scraped-wepropel-whitley-awards-2027-ec5a8e99d7",
@@ -139,7 +187,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-23T11:01:30.354Z"
+    "capturado_en": "2026-10-23T16:29:02.538Z"
   },
   {
     "id": "scraped-wepropel-reshaping-education-for-the-ai-era-5027f232ff",
@@ -163,7 +211,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-23T11:01:30.355Z"
+    "capturado_en": "2026-10-23T16:29:02.539Z"
   },
   {
     "id": "scraped-wepropel-fieldshaper-program-2db500794b",
@@ -187,7 +235,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-23T11:01:30.356Z"
+    "capturado_en": "2026-10-23T16:29:02.540Z"
   },
   {
     "id": "scraped-wepropel-teeem-foundation-community-impact-grant-progr-2996df95fe",
@@ -211,7 +259,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-23T11:01:30.357Z"
+    "capturado_en": "2026-10-23T16:29:02.550Z"
   },
   {
     "id": "scraped-wepropel-100x-impact-accelerator-0061b387cc",
@@ -235,7 +283,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-23T11:01:30.357Z"
+    "capturado_en": "2026-10-23T16:29:02.550Z"
   },
   {
     "id": "scraped-wepropel-unicef-femtech-ventures-2026-2a8a95c7ad",
@@ -249,7 +297,7 @@
     "estado": "CONVOCATORIA VIGENTE",
     "pais_elegible": "Validar elegibilidad",
     "afinidad_pivot": 74,
-    "pivot": "Financia empresas tecnológicas que desarrollan soluciones innovadoras para mejorar la salud y el bienestar de mujeres y niñas. Apoya iniciativas que facilitan el acceso a servicios de salud, promueven la salud sexual y reproductiva y fortalecen la prevención de la violencia de género.",
+    "pivot": "Grant dirigido a empresas tecnológicas que desarrollan soluciones innovadoras para mejorar la salud y el bienestar de mujeres y niñas. Apoya iniciativas que facilitan el acceso a servicios de salud, promueven la salud sexual y reproductiva y fortalecen la prevención de la violencia de género.",
     "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
     "fuente_url": "https://www.unicef.org/innovation/FemTechCall",
     "tags": [
@@ -259,7 +307,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-23T11:01:30.358Z"
+    "capturado_en": "2026-10-23T16:29:02.551Z"
   },
   {
     "id": "scraped-wepropel-2027-global-health-challenge-3c6c18c3ff",
@@ -283,7 +331,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-23T11:01:30.358Z"
+    "capturado_en": "2026-10-23T16:29:02.552Z"
   },
   {
     "id": "scraped-wepropel-2027-global-climate-challenge-01b8352db8",
@@ -307,7 +355,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-23T11:01:30.359Z"
+    "capturado_en": "2026-10-23T16:29:02.552Z"
   },
   {
     "id": "scraped-wepropel-2027-global-learning-challenge-afd26a1d72",
@@ -331,7 +379,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-23T11:01:30.359Z"
+    "capturado_en": "2026-10-23T16:29:02.553Z"
   },
   {
     "id": "scraped-wepropel-2027-global-economic-prosperity-challenge-2e9fdacdfd",
@@ -355,7 +403,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-23T11:01:30.360Z"
+    "capturado_en": "2026-10-23T16:29:02.554Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
@@ -379,31 +427,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-23T11:01:33.962Z"
-  },
-  {
-    "id": "scraped-wepropel-29-convocatoria-para-proyectos-de-cooperacion-20de482ef6",
-    "titulo": "29.ª Convocatoria para Proyectos de Cooperación Triangular",
-    "donante": "GIZ | BMZ Ministerio Federal de Cooperación Económica y Desarrollo de Alemania",
-    "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-10-31",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Colombia mencionada ✓",
-    "afinidad_pivot": 72,
-    "pivot": "Grant para proyectos de cooperación triangular de hasta 2 años de duración que promuevan el intercambio de conocimientos, experiencias y capacidades para el desarrollo sostenible. Ofrece financiamiento para iniciativas desarrolladas conjuntamente por un socio solicitante, un socio principal y Alemania como socio facilitador.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://fondo-cooperacion-triangular.net/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-23T11:01:30.356Z"
+    "capturado_en": "2026-10-23T16:29:06.287Z"
   },
   {
     "id": "rie-convocatoria-2026-manual",
@@ -434,30 +458,6 @@
     "analizado_ia": false
   },
   {
-    "id": "scraped-wepropel-the-gadfly-project-1838c6a5c5",
-    "titulo": "The Gadfly Project",
-    "donante": "The Gadfly Project",
-    "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 100000,
-    "fecha_cierre": "2026-10-23",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 67,
-    "pivot": "Convocatoria de apoyo en especie para organizaciones sin fines de lucro que trabajen en bienestar humano o sostenibilidad ambiental. Pone a disposición recursos técnicos internos para construir soluciones digitales que mejoren las operaciones o amplíen el alcance de la organización. Especialmente relevante para quienes necesitan un software personalizado pero no cuentan con la capacidad técnica ni el presupuesto para desarrollarlo.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.thegadflyproject.org/guidelines.html",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "roja",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-23T11:01:30.352Z"
-  },
-  {
     "id": "scraped-wepropel-d-prize-global-competition-2026-4621eabf77",
     "titulo": "D-Prize Global Competition 2026",
     "donante": "D-Prize",
@@ -479,7 +479,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-23T11:01:30.352Z"
+    "capturado_en": "2026-10-23T16:29:02.535Z"
   },
   {
     "id": "scraped-wepropel-girl-up-project-awards-2026-36ab623483",
@@ -503,7 +503,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-23T11:01:30.357Z"
+    "capturado_en": "2026-10-23T16:29:02.549Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -527,7 +527,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-23T11:01:30.360Z"
+    "capturado_en": "2026-10-23T16:29:02.556Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -551,7 +551,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-23T11:01:30.361Z"
+    "capturado_en": "2026-10-23T16:29:02.557Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
@@ -575,7 +575,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-23T11:01:33.962Z"
+    "capturado_en": "2026-10-23T16:29:06.288Z"
   },
   {
     "id": "scraped-red-exposocial-fondo-de-coyuntura-politica-convocatoria-para-593b5a2ab5",
@@ -599,7 +599,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-23T11:01:33.963Z"
+    "capturado_en": "2026-10-23T16:29:06.288Z"
   },
   {
     "id": "teeem-foundation-2026-manual",
@@ -628,6 +628,30 @@
     "primera_deteccion": "2026-09-21T21:41:30.866Z",
     "ultima_verificacion": "2026-09-21T21:41:30.866Z",
     "analizado_ia": false
+  },
+  {
+    "id": "scraped-wepropel-swarovski-foundation-creatives-for-our-future-70960388c4",
+    "titulo": "Swarovski Foundation Creatives for Our Future programme",
+    "donante": "Swarovski Foundation",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-11-09",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 65,
+    "pivot": "Programa global para jóvenes de 21 a 30 años que trabajen en arte, diseño, moda, arquitectura, tecnología u otras disciplinas creativas para desarrollar soluciones a desafíos sociales y ambientales. Ofrece un grant, mentoría y formación para impulsar los proyectos.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://creatives.swarovskifoundation.org/application",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-10-23T16:29:02.556Z"
   },
   {
     "id": "fondo-cooperacion-triangular-29-2026-manual",
@@ -680,7 +704,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-10-23T11:01:23.031Z"
+    "capturado_en": "2026-10-23T16:28:55.487Z"
   },
   {
     "id": "scraped-wepropel-leading-scholarship-2026-1a38c4b325",
@@ -704,7 +728,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-23T11:01:30.356Z"
+    "capturado_en": "2026-10-23T16:29:02.544Z"
   },
   {
     "id": "global-eba-fund-small-2026-manual",
