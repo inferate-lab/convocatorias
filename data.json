@@ -43,7 +43,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-22T21:12:35.331Z"
+    "capturado_en": "2026-10-23T03:25:05.779Z"
   },
   {
     "id": "scraped-red-exposocial-apoyos-de-respuesta-rapida-convocatoria-para--97707cba23",
@@ -67,7 +67,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-22T21:12:39.335Z"
+    "capturado_en": "2026-10-23T03:25:08.744Z"
   },
   {
     "id": "scraped-wepropel-fortis-fellowship-2027-7087c164ab",
@@ -91,31 +91,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-22T21:12:35.349Z"
-  },
-  {
-    "id": "scraped-wepropel-convocatoria-pensarconotros-2026-2ba37aefec",
-    "titulo": "Convocatoria #PensarConOtros 2026",
-    "donante": "Grupo SURA | Fundación Bolívar",
-    "fuente": "Oportunidades Propel",
-    "sector": "Desarrollo social / Derechos",
-    "dimension": "social",
-    "presupuesto_usd": 50000,
-    "fecha_cierre": "2026-10-22",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 74,
-    "pivot": "Grant dirigido a personas, organizaciones y colectivos que desarrollan iniciativas para fortalecer la ciudadanía y la democracia. Ofrece financiamiento para proyectos que promuevan el diálogo, la colaboración y la generación de conocimiento frente a desafíos sociales relevantes.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.gruposura.com/sostenibilidad/convocatoria-pensar-con-otros-2026/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-22T21:12:35.328Z"
+    "capturado_en": "2026-10-23T03:25:05.789Z"
   },
   {
     "id": "scraped-wepropel-global-eba-fund-8th-call-for-proposals-for-sm-2433d66796",
@@ -139,7 +115,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-22T21:12:35.332Z"
+    "capturado_en": "2026-10-23T03:25:05.779Z"
   },
   {
     "id": "scraped-wepropel-whitley-awards-2027-ec5a8e99d7",
@@ -163,7 +139,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-22T21:12:35.334Z"
+    "capturado_en": "2026-10-23T03:25:05.782Z"
   },
   {
     "id": "scraped-wepropel-reshaping-education-for-the-ai-era-5027f232ff",
@@ -187,7 +163,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-22T21:12:35.335Z"
+    "capturado_en": "2026-10-23T03:25:05.783Z"
   },
   {
     "id": "scraped-wepropel-fieldshaper-program-2db500794b",
@@ -211,7 +187,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-22T21:12:35.337Z"
+    "capturado_en": "2026-10-23T03:25:05.783Z"
   },
   {
     "id": "scraped-wepropel-teeem-foundation-community-impact-grant-progr-2996df95fe",
@@ -235,7 +211,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-22T21:12:35.344Z"
+    "capturado_en": "2026-10-23T03:25:05.785Z"
   },
   {
     "id": "scraped-wepropel-100x-impact-accelerator-0061b387cc",
@@ -259,7 +235,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-22T21:12:35.345Z"
+    "capturado_en": "2026-10-23T03:25:05.785Z"
   },
   {
     "id": "scraped-wepropel-unicef-femtech-ventures-2026-2a8a95c7ad",
@@ -283,7 +259,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-22T21:12:35.346Z"
+    "capturado_en": "2026-10-23T03:25:05.786Z"
   },
   {
     "id": "scraped-wepropel-2027-global-health-challenge-3c6c18c3ff",
@@ -307,7 +283,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-22T21:12:35.346Z"
+    "capturado_en": "2026-10-23T03:25:05.786Z"
   },
   {
     "id": "scraped-wepropel-2027-global-climate-challenge-01b8352db8",
@@ -331,7 +307,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-22T21:12:35.347Z"
+    "capturado_en": "2026-10-23T03:25:05.787Z"
   },
   {
     "id": "scraped-wepropel-2027-global-learning-challenge-afd26a1d72",
@@ -355,7 +331,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-22T21:12:35.348Z"
+    "capturado_en": "2026-10-23T03:25:05.787Z"
   },
   {
     "id": "scraped-wepropel-2027-global-economic-prosperity-challenge-2e9fdacdfd",
@@ -379,7 +355,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-22T21:12:35.349Z"
+    "capturado_en": "2026-10-23T03:25:05.788Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
@@ -403,7 +379,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-22T21:12:39.334Z"
+    "capturado_en": "2026-10-23T03:25:08.744Z"
   },
   {
     "id": "scraped-wepropel-29-convocatoria-para-proyectos-de-cooperacion-20de482ef6",
@@ -427,7 +403,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-22T21:12:35.339Z"
+    "capturado_en": "2026-10-23T03:25:05.784Z"
   },
   {
     "id": "rie-convocatoria-2026-manual",
@@ -479,7 +455,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-22T21:12:35.329Z"
+    "capturado_en": "2026-10-23T03:25:05.778Z"
   },
   {
     "id": "scraped-wepropel-d-prize-global-competition-2026-4621eabf77",
@@ -503,7 +479,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-22T21:12:35.330Z"
+    "capturado_en": "2026-10-23T03:25:05.778Z"
   },
   {
     "id": "scraped-wepropel-girl-up-project-awards-2026-36ab623483",
@@ -527,7 +503,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-22T21:12:35.340Z"
+    "capturado_en": "2026-10-23T03:25:05.785Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -551,7 +527,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-22T21:12:35.350Z"
+    "capturado_en": "2026-10-23T03:25:05.789Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -575,7 +551,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-22T21:12:35.351Z"
+    "capturado_en": "2026-10-23T03:25:05.789Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
@@ -599,7 +575,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-22T21:12:39.334Z"
+    "capturado_en": "2026-10-23T03:25:08.744Z"
   },
   {
     "id": "scraped-red-exposocial-fondo-de-coyuntura-politica-convocatoria-para-593b5a2ab5",
@@ -623,7 +599,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-22T21:12:39.335Z"
+    "capturado_en": "2026-10-23T03:25:08.744Z"
   },
   {
     "id": "teeem-foundation-2026-manual",
@@ -704,7 +680,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-10-22T21:12:28.851Z"
+    "capturado_en": "2026-10-23T03:24:59.000Z"
   },
   {
     "id": "scraped-wepropel-leading-scholarship-2026-1a38c4b325",
@@ -728,7 +704,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-22T21:12:35.338Z"
+    "capturado_en": "2026-10-23T03:25:05.784Z"
   },
   {
     "id": "global-eba-fund-small-2026-manual",
