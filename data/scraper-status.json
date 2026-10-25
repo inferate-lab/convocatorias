@@ -1,9 +1,9 @@
 {
-  "last_run": "2026-10-25T15:34:15.172Z",
+  "last_run": "2026-10-25T17:01:38.494Z",
   "active_opportunities": 33,
   "scraped_opportunities": 32,
-  "sources_ok": 8,
-  "sources_failed": 1,
+  "sources_ok": 7,
+  "sources_failed": 2,
   "sources_skipped": 0,
   "sources": [
     {
@@ -16,9 +16,9 @@
     {
       "id": "premios-portafolio",
       "name": "Premios Portafolio",
-      "status": "success",
-      "found": 1,
-      "message": "HTTP 200"
+      "status": "failed",
+      "found": 0,
+      "message": "Request failed with status code 504"
     },
     {
       "id": "earthna-prize",
