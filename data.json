@@ -43,7 +43,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-26T12:16:34.861Z"
+    "capturado_en": "2026-10-26T19:06:31.276Z"
   },
   {
     "id": "scraped-wepropel-29-convocatoria-para-proyectos-de-cooperacion-20de482ef6",
@@ -67,7 +67,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-26T12:16:34.864Z"
+    "capturado_en": "2026-10-26T19:06:31.281Z"
   },
   {
     "id": "scraped-red-exposocial-apoyos-de-respuesta-rapida-convocatoria-para--97707cba23",
@@ -91,7 +91,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-26T12:16:38.719Z"
+    "capturado_en": "2026-10-26T19:06:34.363Z"
   },
   {
     "id": "scraped-wepropel-fortis-fellowship-2027-7087c164ab",
@@ -115,31 +115,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-26T12:16:34.870Z"
-  },
-  {
-    "id": "scraped-wepropel-global-eba-fund-8th-call-for-proposals-for-sm-2433d66796",
-    "titulo": "Global EbA Fund: 8th Call for Proposals for Small-Size Grants",
-    "donante": "Global EbA Fund",
-    "fuente": "Oportunidades Propel",
-    "sector": "Educación / Juventud",
-    "dimension": "social",
-    "presupuesto_usd": 250000,
-    "fecha_cierre": "2026-10-26",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 74,
-    "pivot": "Grant para organizaciones que trabajan en adaptación al cambio climático. Financia proyectos para ampliar la Adaptación basada en Ecosistemas (EbA), con prioridades como fortalecimiento de capacidades, generación de datos y evidencia, preparación de proyectos para financiamiento climático, tecnologías innovadoras, investigación aplicada y colaboración con otras iniciativas de EbA o soluciones basadas en la naturaleza.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://globalebafund.org/small-size-grants/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "roja",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-26T12:16:34.860Z"
+    "capturado_en": "2026-10-26T19:06:31.293Z"
   },
   {
     "id": "scraped-wepropel-whitley-awards-2027-ec5a8e99d7",
@@ -163,7 +139,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-26T12:16:34.861Z"
+    "capturado_en": "2026-10-26T19:06:31.277Z"
   },
   {
     "id": "scraped-wepropel-reshaping-education-for-the-ai-era-5027f232ff",
@@ -187,7 +163,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-26T12:16:34.862Z"
+    "capturado_en": "2026-10-26T19:06:31.278Z"
   },
   {
     "id": "scraped-wepropel-fieldshaper-program-2db500794b",
@@ -211,7 +187,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-26T12:16:34.863Z"
+    "capturado_en": "2026-10-26T19:06:31.279Z"
   },
   {
     "id": "scraped-wepropel-teeem-foundation-community-impact-grant-progr-2996df95fe",
@@ -235,7 +211,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-26T12:16:34.865Z"
+    "capturado_en": "2026-10-26T19:06:31.286Z"
   },
   {
     "id": "scraped-wepropel-100x-impact-accelerator-0061b387cc",
@@ -259,7 +235,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-26T12:16:34.866Z"
+    "capturado_en": "2026-10-26T19:06:31.287Z"
   },
   {
     "id": "scraped-wepropel-unicef-femtech-ventures-2026-2a8a95c7ad",
@@ -283,7 +259,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-26T12:16:34.867Z"
+    "capturado_en": "2026-10-26T19:06:31.288Z"
   },
   {
     "id": "scraped-wepropel-2027-global-health-challenge-3c6c18c3ff",
@@ -307,7 +283,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-26T12:16:34.868Z"
+    "capturado_en": "2026-10-26T19:06:31.289Z"
   },
   {
     "id": "scraped-wepropel-2027-global-climate-challenge-01b8352db8",
@@ -331,7 +307,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-26T12:16:34.868Z"
+    "capturado_en": "2026-10-26T19:06:31.290Z"
   },
   {
     "id": "scraped-wepropel-2027-global-learning-challenge-afd26a1d72",
@@ -355,7 +331,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-26T12:16:34.869Z"
+    "capturado_en": "2026-10-26T19:06:31.291Z"
   },
   {
     "id": "scraped-wepropel-2027-global-economic-prosperity-challenge-2e9fdacdfd",
@@ -379,7 +355,55 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-26T12:16:34.869Z"
+    "capturado_en": "2026-10-26T19:06:31.292Z"
+  },
+  {
+    "id": "scraped-wepropel-programa-de-ayuda-directa-f24d605b36",
+    "titulo": "Programa de Ayuda Directa",
+    "donante": "Australian Government: Department of Foreign Affairs and Trade",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-11-08",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Grant para organizaciones no gubernamentales sin fines de lucro que desarrollan proyectos a pequeña escala destinados a mejorar la calidad de vida de las comunidades locales. Ofrece financiamiento para implementar el proyecto.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://peru.embassy.gov.au/limacastellano/Development.html",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-10-26T19:06:31.294Z"
+  },
+  {
+    "id": "scraped-wepropel-interledger-local-impact-mini-grants-8d3d85dfd7",
+    "titulo": "Interledger Local Impact Mini Grants",
+    "donante": "Interledger Foundation",
+    "fuente": "Oportunidades Propel",
+    "sector": "Tecnología / Innovación",
+    "dimension": "social",
+    "presupuesto_usd": 3000,
+    "fecha_cierre": "2026-11-11",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Grant para impulsar iniciativas comunitarias relacionadas con pagos abiertos, acceso financiero digital, interoperabilidad, innovación abierta, inclusión financiera y ecosistemas fintech, infraestructura pública digital y temas relacionados.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://interledger.org/grant/local-impact",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-10-26T19:06:31.296Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
@@ -403,7 +427,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-26T12:16:38.718Z"
+    "capturado_en": "2026-10-26T19:06:34.362Z"
   },
   {
     "id": "rie-convocatoria-2026-manual",
@@ -455,7 +479,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-26T12:16:34.865Z"
+    "capturado_en": "2026-10-26T19:06:31.285Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -479,7 +503,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-26T12:16:34.871Z"
+    "capturado_en": "2026-10-26T19:06:31.297Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -503,7 +527,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-26T12:16:34.871Z"
+    "capturado_en": "2026-10-26T19:06:31.298Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
@@ -527,7 +551,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-26T12:16:38.719Z"
+    "capturado_en": "2026-10-26T19:06:34.363Z"
   },
   {
     "id": "scraped-red-exposocial-fondo-de-coyuntura-politica-convocatoria-para-593b5a2ab5",
@@ -551,7 +575,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-26T12:16:38.719Z"
+    "capturado_en": "2026-10-26T19:06:34.364Z"
   },
   {
     "id": "teeem-foundation-2026-manual",
@@ -603,7 +627,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-26T12:16:34.870Z"
+    "capturado_en": "2026-10-26T19:06:31.294Z"
   },
   {
     "id": "fondo-cooperacion-triangular-29-2026-manual",
@@ -656,7 +680,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-10-26T12:16:25.810Z"
+    "capturado_en": "2026-10-26T19:06:24.330Z"
   },
   {
     "id": "scraped-wepropel-leading-scholarship-2026-1a38c4b325",
@@ -680,7 +704,31 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-26T12:16:34.863Z"
+    "capturado_en": "2026-10-26T19:06:31.280Z"
+  },
+  {
+    "id": "scraped-wepropel-world-leaders-convention-2027-f535a6d822",
+    "titulo": "World Leaders Convention 2027",
+    "donante": "Organization for Global Policy & Dialogue (OGPD)",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-11-10",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 58,
+    "pivot": "Evento internacional para jóvenes líderes enfocados en liderazgo, diplomacia, políticas públicas, innovación y desarrollo sostenible. Ofrece becas completas y parciales para participar en una convención internacional en Viena con talleres, conferencias, diálogos y espacios de networking.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://theogpd.org/wlc-2027/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-10-26T19:06:31.295Z"
   },
   {
     "id": "global-eba-fund-small-2026-manual",
