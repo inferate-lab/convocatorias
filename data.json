@@ -22,30 +22,6 @@
     "tipo": "fondo"
   },
   {
-    "id": "scraped-wepropel-2027-indigenous-youth-fellowship-e4b42b6e60",
-    "titulo": "2027 Indigenous Youth Fellowship",
-    "donante": "Cultural Survival",
-    "fuente": "Oportunidades Propel",
-    "sector": "Educación / Juventud",
-    "dimension": "social",
-    "presupuesto_usd": 5000,
-    "fecha_cierre": "2026-10-25",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Colombia mencionada ✓",
-    "afinidad_pivot": 88,
-    "pivot": "Fellowship dirigido a jóvenes indígenas que lideran proyectos en sus comunidades para promover la participación comunitaria y la visibilización de problemáticas locales en espacios de diálogo global. Apoya iniciativas de adaptación climática, protección de ecosistemas, revitalización cultural y defensa de derechos, ofreciendo financiamiento, mentoría y acompañamiento para desarrollar su liderazgo.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.culturalsurvival.org/news/2027-indigenous-youth-fellowship-call-project-proposals",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "roja",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-25T20:23:18.888Z"
-  },
-  {
     "id": "scraped-wepropel-proyectos-de-derechos-humanos-2027-df989ca078",
     "titulo": "Proyectos de derechos humanos 2027",
     "donante": "Ministerio Federal de Relaciones Exteriores de Alemania",
@@ -67,7 +43,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-25T20:23:18.889Z"
+    "capturado_en": "2026-10-26T03:15:52.831Z"
   },
   {
     "id": "scraped-wepropel-29-convocatoria-para-proyectos-de-cooperacion-20de482ef6",
@@ -91,7 +67,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-25T20:23:18.893Z"
+    "capturado_en": "2026-10-26T03:15:52.835Z"
   },
   {
     "id": "scraped-red-exposocial-apoyos-de-respuesta-rapida-convocatoria-para--97707cba23",
@@ -115,7 +91,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-25T20:23:22.272Z"
+    "capturado_en": "2026-10-26T03:15:56.665Z"
   },
   {
     "id": "scraped-wepropel-fortis-fellowship-2027-7087c164ab",
@@ -139,7 +115,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-25T20:23:18.899Z"
+    "capturado_en": "2026-10-26T03:15:52.842Z"
   },
   {
     "id": "scraped-wepropel-global-eba-fund-8th-call-for-proposals-for-sm-2433d66796",
@@ -163,7 +139,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-25T20:23:18.888Z"
+    "capturado_en": "2026-10-26T03:15:52.831Z"
   },
   {
     "id": "scraped-wepropel-whitley-awards-2027-ec5a8e99d7",
@@ -187,7 +163,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-25T20:23:18.890Z"
+    "capturado_en": "2026-10-26T03:15:52.832Z"
   },
   {
     "id": "scraped-wepropel-reshaping-education-for-the-ai-era-5027f232ff",
@@ -211,7 +187,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-25T20:23:18.891Z"
+    "capturado_en": "2026-10-26T03:15:52.833Z"
   },
   {
     "id": "scraped-wepropel-fieldshaper-program-2db500794b",
@@ -235,7 +211,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-25T20:23:18.891Z"
+    "capturado_en": "2026-10-26T03:15:52.833Z"
   },
   {
     "id": "scraped-wepropel-teeem-foundation-community-impact-grant-progr-2996df95fe",
@@ -259,7 +235,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-25T20:23:18.895Z"
+    "capturado_en": "2026-10-26T03:15:52.836Z"
   },
   {
     "id": "scraped-wepropel-100x-impact-accelerator-0061b387cc",
@@ -283,7 +259,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-25T20:23:18.896Z"
+    "capturado_en": "2026-10-26T03:15:52.837Z"
   },
   {
     "id": "scraped-wepropel-unicef-femtech-ventures-2026-2a8a95c7ad",
@@ -307,7 +283,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-25T20:23:18.896Z"
+    "capturado_en": "2026-10-26T03:15:52.837Z"
   },
   {
     "id": "scraped-wepropel-2027-global-health-challenge-3c6c18c3ff",
@@ -331,7 +307,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-25T20:23:18.897Z"
+    "capturado_en": "2026-10-26T03:15:52.838Z"
   },
   {
     "id": "scraped-wepropel-2027-global-climate-challenge-01b8352db8",
@@ -355,7 +331,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-25T20:23:18.897Z"
+    "capturado_en": "2026-10-26T03:15:52.840Z"
   },
   {
     "id": "scraped-wepropel-2027-global-learning-challenge-afd26a1d72",
@@ -379,7 +355,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-25T20:23:18.898Z"
+    "capturado_en": "2026-10-26T03:15:52.841Z"
   },
   {
     "id": "scraped-wepropel-2027-global-economic-prosperity-challenge-2e9fdacdfd",
@@ -403,7 +379,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-25T20:23:18.899Z"
+    "capturado_en": "2026-10-26T03:15:52.841Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
@@ -427,7 +403,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-25T20:23:22.271Z"
+    "capturado_en": "2026-10-26T03:15:56.664Z"
   },
   {
     "id": "rie-convocatoria-2026-manual",
@@ -458,30 +434,6 @@
     "analizado_ia": false
   },
   {
-    "id": "scraped-wepropel-d-prize-global-competition-2026-4621eabf77",
-    "titulo": "D-Prize Global Competition 2026",
-    "donante": "D-Prize",
-    "fuente": "Oportunidades Propel",
-    "sector": "Cooperación / Grants",
-    "dimension": "social",
-    "presupuesto_usd": 20000,
-    "fecha_cierre": "2026-10-25",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 67,
-    "pivot": "Grant para emprendedores que quieran crear una nueva organización para distribuir soluciones contra la pobreza que ya han demostrado su efectividad. Apoya el lanzamiento y prueba de un modelo de distribución con potencial de escalar su impacto.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://d-prize.org/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-25T20:23:18.884Z"
-  },
-  {
     "id": "scraped-wepropel-girl-up-project-awards-2026-36ab623483",
     "titulo": "Girl Up Project Awards 2026",
     "donante": "Girl Up",
@@ -503,7 +455,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-25T20:23:18.894Z"
+    "capturado_en": "2026-10-26T03:15:52.836Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -527,7 +479,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-25T20:23:18.901Z"
+    "capturado_en": "2026-10-26T03:15:52.843Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -551,7 +503,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-25T20:23:18.901Z"
+    "capturado_en": "2026-10-26T03:15:52.843Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
@@ -575,7 +527,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-25T20:23:22.272Z"
+    "capturado_en": "2026-10-26T03:15:56.664Z"
   },
   {
     "id": "scraped-red-exposocial-fondo-de-coyuntura-politica-convocatoria-para-593b5a2ab5",
@@ -599,7 +551,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-25T20:23:22.272Z"
+    "capturado_en": "2026-10-26T03:15:56.665Z"
   },
   {
     "id": "teeem-foundation-2026-manual",
@@ -651,7 +603,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-25T20:23:18.900Z"
+    "capturado_en": "2026-10-26T03:15:52.842Z"
   },
   {
     "id": "fondo-cooperacion-triangular-29-2026-manual",
@@ -704,7 +656,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-10-25T20:23:11.873Z"
+    "capturado_en": "2026-10-26T03:15:45.938Z"
   },
   {
     "id": "scraped-wepropel-leading-scholarship-2026-1a38c4b325",
@@ -728,7 +680,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-25T20:23:18.892Z"
+    "capturado_en": "2026-10-26T03:15:52.834Z"
   },
   {
     "id": "global-eba-fund-small-2026-manual",
