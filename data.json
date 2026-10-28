@@ -22,30 +22,6 @@
     "tipo": "fondo"
   },
   {
-    "id": "scraped-wepropel-proyectos-de-derechos-humanos-2027-df989ca078",
-    "titulo": "Proyectos de derechos humanos 2027",
-    "donante": "Ministerio Federal de Relaciones Exteriores de Alemania",
-    "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-10-27",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Colombia mencionada ✓",
-    "afinidad_pivot": 88,
-    "pivot": "Grant dirigido a Organizaciones Sociales de Colombia que desarrollen iniciativas de defensa de los derechos humanos, con arraigo territorial y resultados verificables. Ofrece financiamiento para implementar sus proyectos.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://bogota.diplo.de/co-es/2805862-2805862",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "roja",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-27T21:50:07.670Z"
-  },
-  {
     "id": "scraped-wepropel-29-convocatoria-para-proyectos-de-cooperacion-20de482ef6",
     "titulo": "29.ª Convocatoria para Proyectos de Cooperación Triangular",
     "donante": "GIZ | BMZ Ministerio Federal de Cooperación Económica y Desarrollo de Alemania",
@@ -67,7 +43,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-27T21:50:07.677Z"
+    "capturado_en": "2026-10-28T04:01:49.656Z"
   },
   {
     "id": "scraped-red-exposocial-apoyos-de-respuesta-rapida-convocatoria-para--97707cba23",
@@ -91,7 +67,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-27T21:50:11.566Z"
+    "capturado_en": "2026-10-28T04:01:53.820Z"
   },
   {
     "id": "scraped-wepropel-fortis-fellowship-2027-7087c164ab",
@@ -115,7 +91,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-27T21:50:07.684Z"
+    "capturado_en": "2026-10-28T04:01:49.662Z"
   },
   {
     "id": "scraped-wepropel-whitley-awards-2027-ec5a8e99d7",
@@ -139,7 +115,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-27T21:50:07.671Z"
+    "capturado_en": "2026-10-28T04:01:49.654Z"
   },
   {
     "id": "scraped-wepropel-reshaping-education-for-the-ai-era-5027f232ff",
@@ -163,7 +139,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-27T21:50:07.672Z"
+    "capturado_en": "2026-10-28T04:01:49.655Z"
   },
   {
     "id": "scraped-wepropel-fieldshaper-program-2db500794b",
@@ -187,7 +163,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-27T21:50:07.676Z"
+    "capturado_en": "2026-10-28T04:01:49.655Z"
   },
   {
     "id": "scraped-wepropel-teeem-foundation-community-impact-grant-progr-2996df95fe",
@@ -211,7 +187,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-27T21:50:07.679Z"
+    "capturado_en": "2026-10-28T04:01:49.657Z"
   },
   {
     "id": "scraped-wepropel-100x-impact-accelerator-0061b387cc",
@@ -235,7 +211,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-27T21:50:07.679Z"
+    "capturado_en": "2026-10-28T04:01:49.658Z"
   },
   {
     "id": "scraped-wepropel-unicef-femtech-ventures-2026-2a8a95c7ad",
@@ -259,7 +235,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-27T21:50:07.680Z"
+    "capturado_en": "2026-10-28T04:01:49.659Z"
   },
   {
     "id": "scraped-wepropel-2027-global-health-challenge-3c6c18c3ff",
@@ -283,7 +259,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-27T21:50:07.681Z"
+    "capturado_en": "2026-10-28T04:01:49.660Z"
   },
   {
     "id": "scraped-wepropel-2027-global-climate-challenge-01b8352db8",
@@ -307,7 +283,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-27T21:50:07.682Z"
+    "capturado_en": "2026-10-28T04:01:49.660Z"
   },
   {
     "id": "scraped-wepropel-2027-global-learning-challenge-afd26a1d72",
@@ -331,7 +307,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-27T21:50:07.682Z"
+    "capturado_en": "2026-10-28T04:01:49.660Z"
   },
   {
     "id": "scraped-wepropel-2027-global-economic-prosperity-challenge-2e9fdacdfd",
@@ -355,7 +331,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-27T21:50:07.683Z"
+    "capturado_en": "2026-10-28T04:01:49.661Z"
   },
   {
     "id": "scraped-wepropel-programa-de-ayuda-directa-f24d605b36",
@@ -379,7 +355,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-27T21:50:07.685Z"
+    "capturado_en": "2026-10-28T04:01:49.662Z"
   },
   {
     "id": "scraped-wepropel-interledger-local-impact-mini-grants-8d3d85dfd7",
@@ -403,7 +379,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-27T21:50:07.686Z"
+    "capturado_en": "2026-10-28T04:01:49.665Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
@@ -427,7 +403,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-27T21:50:11.565Z"
+    "capturado_en": "2026-10-28T04:01:53.820Z"
   },
   {
     "id": "rie-convocatoria-2026-manual",
@@ -479,7 +455,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-27T21:50:07.678Z"
+    "capturado_en": "2026-10-28T04:01:49.657Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -503,7 +479,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-27T21:50:07.687Z"
+    "capturado_en": "2026-10-28T04:01:49.666Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -527,7 +503,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-27T21:50:07.687Z"
+    "capturado_en": "2026-10-28T04:01:49.666Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
@@ -551,7 +527,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-27T21:50:11.565Z"
+    "capturado_en": "2026-10-28T04:01:53.820Z"
   },
   {
     "id": "scraped-red-exposocial-fondo-de-coyuntura-politica-convocatoria-para-593b5a2ab5",
@@ -575,7 +551,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-27T21:50:11.566Z"
+    "capturado_en": "2026-10-28T04:01:53.821Z"
   },
   {
     "id": "teeem-foundation-2026-manual",
@@ -627,7 +603,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-27T21:50:07.685Z"
+    "capturado_en": "2026-10-28T04:01:49.663Z"
   },
   {
     "id": "fondo-cooperacion-triangular-29-2026-manual",
@@ -680,7 +656,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-10-27T21:50:00.752Z"
+    "capturado_en": "2026-10-28T04:01:41.993Z"
   },
   {
     "id": "scraped-wepropel-leading-scholarship-2026-1a38c4b325",
@@ -704,7 +680,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-27T21:50:07.676Z"
+    "capturado_en": "2026-10-28T04:01:49.655Z"
   },
   {
     "id": "scraped-wepropel-world-leaders-convention-2027-f535a6d822",
@@ -728,7 +704,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-27T21:50:07.686Z"
+    "capturado_en": "2026-10-28T04:01:49.664Z"
   },
   {
     "id": "interledger-local-impact-2026-manual",
