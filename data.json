@@ -1,29 +1,5 @@
 [
   {
-    "id": "scraped-wepropel-29-convocatoria-para-proyectos-de-cooperacion-20de482ef6",
-    "titulo": "29.ª Convocatoria para Proyectos de Cooperación Triangular",
-    "donante": "GIZ | BMZ Ministerio Federal de Cooperación Económica y Desarrollo de Alemania",
-    "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-10-31",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Colombia mencionada ✓",
-    "afinidad_pivot": 81,
-    "pivot": "Grant para proyectos de cooperación triangular de hasta 2 años de duración que promuevan el intercambio de conocimientos, experiencias y capacidades para el desarrollo sostenible. Ofrece financiamiento para iniciativas desarrolladas conjuntamente por un socio solicitante, un socio principal y Alemania como socio facilitador.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://fondo-cooperacion-triangular.net/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-31T20:59:21.200Z"
-  },
-  {
     "id": "scraped-red-exposocial-apoyos-de-respuesta-rapida-convocatoria-para--97707cba23",
     "titulo": "Apoyos de Respuesta Rápida: convocatoria para OSC",
     "donante": "Red ExpoSocial",
@@ -45,7 +21,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-31T20:59:24.548Z"
+    "capturado_en": "2026-11-01T04:27:38.514Z"
   },
   {
     "id": "scraped-wepropel-fortis-fellowship-2027-7087c164ab",
@@ -69,7 +45,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-31T20:59:21.217Z"
+    "capturado_en": "2026-11-01T04:27:34.594Z"
   },
   {
     "id": "scraped-wepropel-teeem-foundation-community-impact-grant-progr-2996df95fe",
@@ -93,7 +69,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-31T20:59:21.202Z"
+    "capturado_en": "2026-11-01T04:27:34.584Z"
   },
   {
     "id": "scraped-wepropel-100x-impact-accelerator-0061b387cc",
@@ -117,7 +93,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-31T20:59:21.203Z"
+    "capturado_en": "2026-11-01T04:27:34.585Z"
   },
   {
     "id": "scraped-wepropel-unicef-femtech-ventures-2026-2a8a95c7ad",
@@ -141,7 +117,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-31T20:59:21.208Z"
+    "capturado_en": "2026-11-01T04:27:34.585Z"
   },
   {
     "id": "scraped-wepropel-2027-global-climate-challenge-01b8352db8",
@@ -165,7 +141,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-31T20:59:21.212Z"
+    "capturado_en": "2026-11-01T04:27:34.590Z"
   },
   {
     "id": "scraped-wepropel-2027-global-learning-challenge-afd26a1d72",
@@ -189,7 +165,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-31T20:59:21.214Z"
+    "capturado_en": "2026-11-01T04:27:34.591Z"
   },
   {
     "id": "scraped-wepropel-2027-global-economic-prosperity-challenge-2e9fdacdfd",
@@ -213,7 +189,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-31T20:59:21.215Z"
+    "capturado_en": "2026-11-01T04:27:34.592Z"
   },
   {
     "id": "scraped-wepropel-mental-health-and-psychosocial-support-for-ch-4867620a81",
@@ -237,7 +213,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-31T20:59:21.216Z"
+    "capturado_en": "2026-11-01T04:27:34.593Z"
   },
   {
     "id": "scraped-wepropel-programa-de-ayuda-directa-f24d605b36",
@@ -261,7 +237,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-31T20:59:21.218Z"
+    "capturado_en": "2026-11-01T04:27:34.595Z"
   },
   {
     "id": "scraped-wepropel-interledger-local-impact-mini-grants-8d3d85dfd7",
@@ -285,7 +261,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-31T20:59:21.220Z"
+    "capturado_en": "2026-11-01T04:27:34.597Z"
   },
   {
     "id": "scraped-wepropel-american-express-leadership-academy-the-ameri-3cf1912c37",
@@ -309,7 +285,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-31T20:59:21.221Z"
+    "capturado_en": "2026-11-01T04:27:34.598Z"
   },
   {
     "id": "scraped-wepropel-fieldshaper-program-2db500794b",
@@ -333,7 +309,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-31T20:59:21.222Z"
+    "capturado_en": "2026-11-01T04:27:34.598Z"
   },
   {
     "id": "scraped-wepropel-global-solvers-accelerator-2027-385b53e1f6",
@@ -357,7 +333,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-31T20:59:21.224Z"
+    "capturado_en": "2026-11-01T04:27:34.599Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
@@ -381,7 +357,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-31T20:59:24.548Z"
+    "capturado_en": "2026-11-01T04:27:38.513Z"
   },
   {
     "id": "rie-convocatoria-2026-manual",
@@ -412,30 +388,6 @@
     "analizado_ia": false
   },
   {
-    "id": "scraped-wepropel-girl-up-project-awards-2026-36ab623483",
-    "titulo": "Girl Up Project Awards 2026",
-    "donante": "Girl Up",
-    "fuente": "Oportunidades Propel",
-    "sector": "Educación / Juventud",
-    "dimension": "social",
-    "presupuesto_usd": 1000,
-    "fecha_cierre": "2026-10-31",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 67,
-    "pivot": "Micro grant para financiar proyectos comunitarios de justicia de género liderados por jóvenes de 13 a 25 años. Apoya iniciativas nuevas y proyectos en marcha que buscan ampliar su impacto, ofreciendo financiamiento, mentoría y espacios de aprendizaje para fortalecer el liderazgo juvenil.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://girlup.org/programs/fund-growth-nurture-the-movement",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-31T20:59:21.201Z"
-  },
-  {
     "id": "scraped-wepropel-2027-global-health-challenge-3c6c18c3ff",
     "titulo": "2027 Global Health Challenge",
     "donante": "MIT Solve",
@@ -457,7 +409,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-31T20:59:21.209Z"
+    "capturado_en": "2026-11-01T04:27:34.587Z"
   },
   {
     "id": "scraped-wepropel-d-prize-global-competition-2026-4621eabf77",
@@ -481,7 +433,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-31T20:59:21.225Z"
+    "capturado_en": "2026-11-01T04:27:34.600Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -505,7 +457,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-31T20:59:21.226Z"
+    "capturado_en": "2026-11-01T04:27:34.600Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -529,7 +481,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-31T20:59:21.226Z"
+    "capturado_en": "2026-11-01T04:27:34.601Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
@@ -553,7 +505,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-31T20:59:24.548Z"
+    "capturado_en": "2026-11-01T04:27:38.513Z"
   },
   {
     "id": "scraped-red-exposocial-fondo-de-coyuntura-politica-convocatoria-para-593b5a2ab5",
@@ -577,7 +529,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-10-31T20:59:24.549Z"
+    "capturado_en": "2026-11-01T04:27:38.514Z"
   },
   {
     "id": "teeem-foundation-2026-manual",
@@ -629,36 +581,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-31T20:59:21.218Z"
-  },
-  {
-    "id": "fondo-cooperacion-triangular-29-2026-manual",
-    "titulo": "29ª Convocatoria — Fondo Regional para la Cooperación Triangular con socios de ALC",
-    "donante": "GIZ / BMZ (Cooperación Alemana)",
-    "fuente": "Verificado manualmente en fuente primaria",
-    "sector": "Cooperación triangular — sin restricción sectorial",
-    "dimension": "general",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-10-31",
-    "estado": "ABIERTA",
-    "pais_elegible": "Colombia y otros países de América Latina y el Caribe (al menos un socio debe ser de la región)",
-    "afinidad_pivot": 60,
-    "pivot": "Sin restricción sectorial — cualquier proyecto de la Fundación puede postularse si se estructura como cooperación triangular con al menos un socio facilitador (típicamente Alemania) y un socio de ALC.",
-    "obstaculo": "La entrega NO es directa: la propuesta debe presentarse oficialmente a través de la Embajada de Alemania correspondiente, con carta de aval de la institución rectora de cooperación. Requiere tiempo de gestión institucional, no solo llenar un formulario.",
-    "fuente_url": "https://fondo-cooperacion-triangular.net/convocatorias-de-proyecto/",
-    "tags": [
-      "Cooperación triangular",
-      "GIZ",
-      "Alemania",
-      "Colombia elegible"
-    ],
-    "tipo": "roja",
-    "rastreado": true,
-    "origen_rastreo": "verificado-manual",
-    "metodo_deteccion": "verificado_manual_usuario_y_claude",
-    "primera_deteccion": "2026-09-22T20:36:23.348Z",
-    "ultima_verificacion": "2026-09-22T20:36:23.348Z",
-    "analizado_ia": false
+    "capturado_en": "2026-11-01T04:27:34.596Z"
   },
   {
     "id": "scraped-premios-portafolio-premios-portafolio-2026-6c0d0fa3ff",
@@ -682,31 +605,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-10-31T20:59:14.414Z"
-  },
-  {
-    "id": "scraped-wepropel-leading-scholarship-2026-1a38c4b325",
-    "titulo": "Leading Scholarship 2026",
-    "donante": "One Young World",
-    "fuente": "Oportunidades Propel",
-    "sector": "Educación / Juventud",
-    "dimension": "social",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-10-31",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 58,
-    "pivot": "Beca para jóvenes líderes que buscan asistir al One Young World Summit 2026 en Ciudad del Cabo, Sudáfrica. Está orientada a personas con liderazgo comprobado y compromiso con generar cambio positivo en su país, especialmente de países que han estado subrepresentados en foros globales. Además de la asistencia al Summit, brinda acceso a una red global de potenciales colaboradores y oportunidades exclusivas para embajadores, como eventos de oratoria, networking regional y sesiones de mentoría.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.oneyoungworld.com/scholarship/leading-scholarship-2026",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-31T20:59:21.197Z"
+    "capturado_en": "2026-11-01T04:27:26.510Z"
   },
   {
     "id": "scraped-wepropel-world-leaders-convention-2027-f535a6d822",
@@ -730,7 +629,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-10-31T20:59:21.220Z"
+    "capturado_en": "2026-11-01T04:27:34.596Z"
   },
   {
     "id": "interledger-local-impact-2026-manual",
