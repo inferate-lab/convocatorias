@@ -21,7 +21,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-11-01T21:42:21.793Z"
+    "capturado_en": "2026-11-02T04:29:08.234Z"
   },
   {
     "id": "scraped-wepropel-fortis-fellowship-2027-7087c164ab",
@@ -45,31 +45,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-01T21:42:17.973Z"
-  },
-  {
-    "id": "scraped-wepropel-teeem-foundation-community-impact-grant-progr-2996df95fe",
-    "titulo": "TEEEM Foundation Community Impact Grant Program",
-    "donante": "TEEEM Foundation",
-    "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 30000,
-    "fecha_cierre": "2026-11-01",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 74,
-    "pivot": "Grant para organizaciones sin fines de lucro y organizaciones benéficas que desarrollan soluciones sostenibles y lideradas por las comunidades. Apoya proyectos de educación, salud, igualdad, empoderamiento, emprendimiento, oportunidades económicas e infraestructura comunitaria, priorizando iniciativas con impacto medible y sostenible.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://drive.google.com/file/d/1cGaV3q9cvYoMRotB88ZqCfaoankJHqI0/view?usp=sharing",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-01T21:42:17.968Z"
+    "capturado_en": "2026-11-02T04:29:05.022Z"
   },
   {
     "id": "scraped-wepropel-100x-impact-accelerator-0061b387cc",
@@ -93,7 +69,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-01T21:42:17.969Z"
+    "capturado_en": "2026-11-02T04:29:05.016Z"
   },
   {
     "id": "scraped-wepropel-unicef-femtech-ventures-2026-2a8a95c7ad",
@@ -117,7 +93,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-01T21:42:17.969Z"
+    "capturado_en": "2026-11-02T04:29:05.017Z"
   },
   {
     "id": "scraped-wepropel-2027-global-climate-challenge-01b8352db8",
@@ -141,7 +117,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-01T21:42:17.970Z"
+    "capturado_en": "2026-11-02T04:29:05.019Z"
   },
   {
     "id": "scraped-wepropel-2027-global-learning-challenge-afd26a1d72",
@@ -165,7 +141,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-01T21:42:17.971Z"
+    "capturado_en": "2026-11-02T04:29:05.020Z"
   },
   {
     "id": "scraped-wepropel-2027-global-economic-prosperity-challenge-2e9fdacdfd",
@@ -189,7 +165,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-01T21:42:17.972Z"
+    "capturado_en": "2026-11-02T04:29:05.021Z"
   },
   {
     "id": "scraped-wepropel-mental-health-and-psychosocial-support-for-ch-4867620a81",
@@ -213,7 +189,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-01T21:42:17.972Z"
+    "capturado_en": "2026-11-02T04:29:05.021Z"
   },
   {
     "id": "scraped-wepropel-programa-de-ayuda-directa-f24d605b36",
@@ -237,7 +213,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-01T21:42:17.973Z"
+    "capturado_en": "2026-11-02T04:29:05.023Z"
   },
   {
     "id": "scraped-wepropel-interledger-local-impact-mini-grants-8d3d85dfd7",
@@ -261,7 +237,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-01T21:42:17.974Z"
+    "capturado_en": "2026-11-02T04:29:05.025Z"
   },
   {
     "id": "scraped-wepropel-american-express-leadership-academy-the-ameri-3cf1912c37",
@@ -285,7 +261,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-01T21:42:17.975Z"
+    "capturado_en": "2026-11-02T04:29:05.026Z"
   },
   {
     "id": "scraped-wepropel-fieldshaper-program-2db500794b",
@@ -309,7 +285,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-01T21:42:17.975Z"
+    "capturado_en": "2026-11-02T04:29:05.027Z"
   },
   {
     "id": "scraped-wepropel-global-solvers-accelerator-2027-385b53e1f6",
@@ -333,7 +309,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-01T21:42:17.976Z"
+    "capturado_en": "2026-11-02T04:29:05.028Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
@@ -357,7 +333,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-11-01T21:42:21.793Z"
+    "capturado_en": "2026-11-02T04:29:08.233Z"
   },
   {
     "id": "rie-convocatoria-2026-manual",
@@ -409,7 +385,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-01T21:42:17.970Z"
+    "capturado_en": "2026-11-02T04:29:05.018Z"
   },
   {
     "id": "scraped-wepropel-d-prize-global-competition-2026-4621eabf77",
@@ -433,7 +409,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-01T21:42:17.977Z"
+    "capturado_en": "2026-11-02T04:29:05.028Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -457,7 +433,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-01T21:42:17.977Z"
+    "capturado_en": "2026-11-02T04:29:05.029Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -481,7 +457,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-01T21:42:17.978Z"
+    "capturado_en": "2026-11-02T04:29:05.030Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
@@ -505,7 +481,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-11-01T21:42:21.793Z"
+    "capturado_en": "2026-11-02T04:29:08.233Z"
   },
   {
     "id": "scraped-red-exposocial-fondo-de-coyuntura-politica-convocatoria-para-593b5a2ab5",
@@ -529,35 +505,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-11-01T21:42:21.794Z"
-  },
-  {
-    "id": "teeem-foundation-2026-manual",
-    "titulo": "TEEEM Foundation — Community Impact Grant Program 2026",
-    "donante": "TEEEM Foundation",
-    "fuente": "Verificado manualmente en fuente primaria y fuentes secundarias convergentes",
-    "sector": "Educación, salud, empoderamiento, emprendimiento, infraestructura comunitaria",
-    "dimension": "social",
-    "presupuesto_usd": 30000,
-    "fecha_cierre": "2026-11-01",
-    "estado": "ABIERTA",
-    "pais_elegible": "Organizaciones sin ánimo de lucro a nivel global (sin restricción geográfica explícita encontrada)",
-    "afinidad_pivot": 65,
-    "pivot": "Tres niveles de subvención (5.000-10.000 / 10.000-20.000 / 20.000-30.000 USD) para proyectos comunitarios de educación, salud o desarrollo económico — aplicable a proyectos sociales de menor escala de la Fundación.",
-    "obstaculo": "Fuente primaria (teeem.org) bloqueó el acceso automatizado directo (error 429); verificado por convergencia de múltiples fuentes secundarias independientes y snippet indexado de la propia página oficial.",
-    "fuente_url": "https://www.teeem.org/foundation",
-    "tags": [
-      "Social",
-      "Educación",
-      "USD 30.000"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "verificado-manual",
-    "metodo_deteccion": "verificado_manual_usuario_y_claude",
-    "primera_deteccion": "2026-09-21T21:41:30.866Z",
-    "ultima_verificacion": "2026-09-21T21:41:30.866Z",
-    "analizado_ia": false
+    "capturado_en": "2026-11-02T04:29:08.234Z"
   },
   {
     "id": "scraped-wepropel-swarovski-foundation-creatives-for-our-future-70960388c4",
@@ -581,7 +529,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-01T21:42:17.973Z"
+    "capturado_en": "2026-11-02T04:29:05.024Z"
   },
   {
     "id": "scraped-premios-portafolio-premios-portafolio-2026-6c0d0fa3ff",
@@ -605,7 +553,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-11-01T21:42:10.998Z"
+    "capturado_en": "2026-11-02T04:28:57.950Z"
   },
   {
     "id": "scraped-wepropel-world-leaders-convention-2027-f535a6d822",
@@ -629,7 +577,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-01T21:42:17.974Z"
+    "capturado_en": "2026-11-02T04:29:05.025Z"
   },
   {
     "id": "interledger-local-impact-2026-manual",
