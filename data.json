@@ -1,5 +1,29 @@
 [
   {
+    "id": "scraped-wepropel-women-in-ocean-food-3dfafb0edb",
+    "titulo": "Women in Ocean Food",
+    "donante": "Hatch Blue",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-11-07",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 88,
+    "pivot": "Programa de aceleración de 12 meses para fundadoras, emprendedoras, líderes comunitarias que desarrollen soluciones en acuicultura sostenible y regenerativa, biotecnología marina, tecnología acuícola, cadenas de valor de productos del mar, revalorización de residuos del mar y carbono azul. Ofrece gastos cubiertos para el encuentro presencial, mentoría de expertos globales, sesiones uno a uno y acceso a redes de inversionistas para acelerar el crecimiento comercial y el impacto.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.hatch.blue/es/programs/women-in-ocean-food-latin-america-caribbean",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "roja",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-11-02T14:47:23.010Z"
+  },
+  {
     "id": "scraped-red-exposocial-apoyos-de-respuesta-rapida-convocatoria-para--97707cba23",
     "titulo": "Apoyos de Respuesta Rápida: convocatoria para OSC",
     "donante": "Red ExpoSocial",
@@ -21,7 +45,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-11-02T04:29:08.234Z"
+    "capturado_en": "2026-11-02T14:47:26.984Z"
   },
   {
     "id": "scraped-wepropel-fortis-fellowship-2027-7087c164ab",
@@ -45,31 +69,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-02T04:29:05.022Z"
-  },
-  {
-    "id": "scraped-wepropel-100x-impact-accelerator-0061b387cc",
-    "titulo": "100x Impact Accelerator",
-    "donante": "100x Impact Accelerator",
-    "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-11-02",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 74,
-    "pivot": "Aceleradora dirigida a organizaciones sociales y emprendimientos de impacto, con o sin fines de lucro, que cuentan con soluciones probadas y buscan escalar su impacto. Ofrece financiamiento, un programa de acompañamiento personalizado de 16 semanas, mentoría estratégica, acceso a investigaciones de LSE y conexiones con financiadores y aliados internacionales.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.100ximpact.org/how-to-apply",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-02T04:29:05.016Z"
+    "capturado_en": "2026-11-02T14:47:23.011Z"
   },
   {
     "id": "scraped-wepropel-unicef-femtech-ventures-2026-2a8a95c7ad",
@@ -93,7 +93,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-02T04:29:05.017Z"
+    "capturado_en": "2026-11-02T14:47:23.005Z"
   },
   {
     "id": "scraped-wepropel-2027-global-climate-challenge-01b8352db8",
@@ -117,7 +117,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-02T04:29:05.019Z"
+    "capturado_en": "2026-11-02T14:47:23.007Z"
   },
   {
     "id": "scraped-wepropel-2027-global-learning-challenge-afd26a1d72",
@@ -141,7 +141,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-02T04:29:05.020Z"
+    "capturado_en": "2026-11-02T14:47:23.008Z"
   },
   {
     "id": "scraped-wepropel-2027-global-economic-prosperity-challenge-2e9fdacdfd",
@@ -165,7 +165,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-02T04:29:05.021Z"
+    "capturado_en": "2026-11-02T14:47:23.009Z"
   },
   {
     "id": "scraped-wepropel-mental-health-and-psychosocial-support-for-ch-4867620a81",
@@ -189,7 +189,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-02T04:29:05.021Z"
+    "capturado_en": "2026-11-02T14:47:23.009Z"
   },
   {
     "id": "scraped-wepropel-programa-de-ayuda-directa-f24d605b36",
@@ -213,7 +213,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-02T04:29:05.023Z"
+    "capturado_en": "2026-11-02T14:47:23.012Z"
   },
   {
     "id": "scraped-wepropel-interledger-local-impact-mini-grants-8d3d85dfd7",
@@ -237,7 +237,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-02T04:29:05.025Z"
+    "capturado_en": "2026-11-02T14:47:23.019Z"
   },
   {
     "id": "scraped-wepropel-american-express-leadership-academy-the-ameri-3cf1912c37",
@@ -261,7 +261,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-02T04:29:05.026Z"
+    "capturado_en": "2026-11-02T14:47:23.020Z"
   },
   {
     "id": "scraped-wepropel-fieldshaper-program-2db500794b",
@@ -285,7 +285,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-02T04:29:05.027Z"
+    "capturado_en": "2026-11-02T14:47:23.021Z"
   },
   {
     "id": "scraped-wepropel-global-solvers-accelerator-2027-385b53e1f6",
@@ -309,7 +309,79 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-02T04:29:05.028Z"
+    "capturado_en": "2026-11-02T14:47:23.021Z"
+  },
+  {
+    "id": "scraped-wepropel-itu-gender-champions-programme-500b0b6108",
+    "titulo": "ITU Gender Champions Programme",
+    "donante": "International Telecommunication Union (ITU)",
+    "fuente": "Oportunidades Propel",
+    "sector": "Educación / Juventud",
+    "dimension": "social",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-11-15",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Premio dirigido a mujeres jóvenes de 18 a 25 años que lideran iniciativas de transformación e inclusión digital. Ofrece participación en una cumbre internacional en Ginebra, gastos de viaje y alojamiento cubiertos, acceso a redes profesionales y la posibilidad de recibir financiamiento para fortalecer sus proyectos.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.itu.int/initiatives/gender-equality/gender-champions/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-11-02T14:47:23.023Z"
+  },
+  {
+    "id": "scraped-wepropel-edges-of-possibility-exploration-co-lab-2027-c1553ec25d",
+    "titulo": "Edges of Possibility Exploration Co-Lab 2027",
+    "donante": "Unearthodox",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-11-16",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Grant e incubadora dirigida a personas y organizaciones con iniciativas innovadoras en etapa temprana que aborden conjuntamente desafíos sociales y ambientales desde un enfoque de cambio sistémico. Ofrece financiamiento y acompañamiento para desarrollar iniciativas transformadoras.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://unearthodox.org/2026/09/open-call-edges-of-possibility-exploration-co-lab-2027/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-11-02T14:47:23.023Z"
+  },
+  {
+    "id": "scraped-wepropel-human-scale-ai-incubator-2027-d9ef969c65",
+    "titulo": "Human-Scale AI Incubator 2027",
+    "donante": "Mozilla Foundation",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 500000,
+    "fecha_cierre": "2026-11-20",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Programa global de incubación que ofrece financiamiento y acompañamiento a equipos que desarrollan soluciones de inteligencia artificial adaptadas a problemas y comunidades específicas. Busca tecnologías funcionales que utilicen modelos pequeños, reduzcan el consumo de recursos y permitan a las personas mayor control sobre sus datos. Seleccionará siete proyectos con evidencia inicial de uso y potencial para crecer, ofreciendo mentoría técnica, conexiones estratégicas y acceso a la red global de Mozilla.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.mozillafoundation.org/en/what-we-do/grantmaking/incubator/human-scale-ai/call-for-proposals/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "roja",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-11-02T14:47:23.024Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
@@ -333,7 +405,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-11-02T04:29:08.233Z"
+    "capturado_en": "2026-11-02T14:47:26.984Z"
   },
   {
     "id": "rie-convocatoria-2026-manual",
@@ -385,7 +457,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-02T04:29:05.018Z"
+    "capturado_en": "2026-11-02T14:47:23.006Z"
   },
   {
     "id": "scraped-wepropel-d-prize-global-competition-2026-4621eabf77",
@@ -409,7 +481,31 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-02T04:29:05.028Z"
+    "capturado_en": "2026-11-02T14:47:23.022Z"
+  },
+  {
+    "id": "scraped-wepropel-global-eba-fund-medium-size-grants-0f09f17ff9",
+    "titulo": "Global EbA Fund: Medium-Size Grants",
+    "donante": "Global EbA Fund",
+    "fuente": "Oportunidades Propel",
+    "sector": "Educación / Juventud",
+    "dimension": "social",
+    "presupuesto_usd": 500000,
+    "fecha_cierre": "2026-11-16",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 67,
+    "pivot": "Grant dirigido a organizaciones que desarrollen iniciativas innovadoras de Adaptación basada en Ecosistemas. Ofrece financiamiento para proyectos de hasta 24 meses que busquen escalar soluciones y generar cambios sistémicos frente al cambio climático.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://globalebafund.org/medium-size-grants/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "roja",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-11-02T14:47:23.024Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -433,7 +529,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-02T04:29:05.029Z"
+    "capturado_en": "2026-11-02T14:47:23.025Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -457,7 +553,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-02T04:29:05.030Z"
+    "capturado_en": "2026-11-02T14:47:23.026Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
@@ -481,7 +577,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-11-02T04:29:08.233Z"
+    "capturado_en": "2026-11-02T14:47:26.984Z"
   },
   {
     "id": "scraped-red-exposocial-fondo-de-coyuntura-politica-convocatoria-para-593b5a2ab5",
@@ -505,7 +601,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-11-02T04:29:08.234Z"
+    "capturado_en": "2026-11-02T14:47:26.984Z"
   },
   {
     "id": "scraped-wepropel-swarovski-foundation-creatives-for-our-future-70960388c4",
@@ -529,7 +625,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-02T04:29:05.024Z"
+    "capturado_en": "2026-11-02T14:47:23.013Z"
   },
   {
     "id": "scraped-premios-portafolio-premios-portafolio-2026-6c0d0fa3ff",
@@ -553,7 +649,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-11-02T04:28:57.950Z"
+    "capturado_en": "2026-11-02T14:47:15.866Z"
   },
   {
     "id": "scraped-wepropel-world-leaders-convention-2027-f535a6d822",
@@ -577,7 +673,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-02T04:29:05.025Z"
+    "capturado_en": "2026-11-02T14:47:23.014Z"
   },
   {
     "id": "interledger-local-impact-2026-manual",
