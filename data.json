@@ -11,7 +11,7 @@
     "estado": "CONVOCATORIA VIGENTE",
     "pais_elegible": "Validar elegibilidad",
     "afinidad_pivot": 88,
-    "pivot": "Programa de aceleración de 12 meses para fundadoras, emprendedoras, líderes comunitarias que desarrollen soluciones en acuicultura sostenible y regenerativa, biotecnología marina, tecnología acuícola, cadenas de valor de productos del mar, revalorización de residuos del mar y carbono azul. Ofrece gastos cubiertos para el encuentro presencial, mentoría de expertos globales, sesiones uno a uno y acceso a redes de inversionistas para acelerar el crecimiento comercial y el impacto.",
+    "pivot": "Programa de aceleración de 12 meses para fundadoras, emprendedoras y líderes comunitarias que desarrollen soluciones en acuicultura sostenible y regenerativa, biotecnología marina, tecnología acuícola, cadenas de valor de productos del mar, revalorización de residuos del mar y carbono azul. Ofrece gastos cubiertos para el encuentro presencial, mentoría de expertos globales, sesiones uno a uno y acceso a redes de inversionistas para acelerar el crecimiento comercial y el impacto.",
     "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
     "fuente_url": "https://www.hatch.blue/es/programs/women-in-ocean-food-latin-america-caribbean",
     "tags": [
@@ -21,7 +21,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-04T13:47:09.614Z"
+    "capturado_en": "2026-11-04T20:21:49.028Z"
   },
   {
     "id": "scraped-red-exposocial-apoyos-de-respuesta-rapida-convocatoria-para--97707cba23",
@@ -45,7 +45,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-11-04T13:47:13.331Z"
+    "capturado_en": "2026-11-04T20:21:53.062Z"
   },
   {
     "id": "scraped-wepropel-fortis-fellowship-2027-7087c164ab",
@@ -69,31 +69,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-04T13:47:09.615Z"
-  },
-  {
-    "id": "scraped-wepropel-unicef-femtech-ventures-2026-2a8a95c7ad",
-    "titulo": "UNICEF Femtech Ventures 2026",
-    "donante": "UNICEF",
-    "fuente": "Oportunidades Propel",
-    "sector": "Educación / Juventud",
-    "dimension": "social",
-    "presupuesto_usd": 100000,
-    "fecha_cierre": "2026-11-04",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 74,
-    "pivot": "Grant dirigido a empresas tecnológicas que desarrollan soluciones innovadoras para mejorar la salud y el bienestar de mujeres y niñas. Apoya iniciativas que facilitan el acceso a servicios de salud, promueven la salud sexual y reproductiva y fortalecen la prevención de la violencia de género.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.unicef.org/innovation/FemTechCall",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "roja",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-04T13:47:09.608Z"
+    "capturado_en": "2026-11-04T20:21:49.029Z"
   },
   {
     "id": "scraped-wepropel-2027-global-climate-challenge-01b8352db8",
@@ -117,7 +93,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-04T13:47:09.610Z"
+    "capturado_en": "2026-11-04T20:21:49.024Z"
   },
   {
     "id": "scraped-wepropel-2027-global-learning-challenge-afd26a1d72",
@@ -141,7 +117,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-04T13:47:09.610Z"
+    "capturado_en": "2026-11-04T20:21:49.025Z"
   },
   {
     "id": "scraped-wepropel-2027-global-economic-prosperity-challenge-2e9fdacdfd",
@@ -165,7 +141,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-04T13:47:09.611Z"
+    "capturado_en": "2026-11-04T20:21:49.026Z"
   },
   {
     "id": "scraped-wepropel-mental-health-and-psychosocial-support-for-ch-4867620a81",
@@ -189,7 +165,31 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-04T13:47:09.612Z"
+    "capturado_en": "2026-11-04T20:21:49.027Z"
+  },
+  {
+    "id": "scraped-wepropel-el-nino-asistencia-alimentaria-de-emergencia--535fd587d1",
+    "titulo": "El Niño: Asistencia alimentaria de emergencia para los hogares afectados por el Fenómeno El Niño",
+    "donante": "World Food Programme (WFP)",
+    "fuente": "Oportunidades Propel",
+    "sector": "Educación / Juventud",
+    "dimension": "social",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-11-06",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Grant orientado a seleccionar socios que implementen asistencia alimentaria de emergencia en Perú ante los efectos del Fenómeno El Niño. Busca apoyar a hogares vulnerables mediante transferencias monetarias y a ollas comunes mediante tarjetas alimentarias. También contempla actividades de educación nutricional, identificación de personas en riesgo nutricional y coordinación con autoridades locales para garantizar una respuesta humanitaria rápida.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.unpartnerportal.org/landing/opportunities/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-11-04T20:21:49.027Z"
   },
   {
     "id": "scraped-wepropel-programa-de-ayuda-directa-f24d605b36",
@@ -213,7 +213,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-04T13:47:09.615Z"
+    "capturado_en": "2026-11-04T20:21:49.030Z"
   },
   {
     "id": "scraped-wepropel-interledger-local-impact-mini-grants-8d3d85dfd7",
@@ -237,7 +237,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-04T13:47:09.617Z"
+    "capturado_en": "2026-11-04T20:21:49.034Z"
   },
   {
     "id": "scraped-wepropel-american-express-leadership-academy-the-ameri-3cf1912c37",
@@ -261,7 +261,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-04T13:47:09.617Z"
+    "capturado_en": "2026-11-04T20:21:49.035Z"
   },
   {
     "id": "scraped-wepropel-fieldshaper-program-2db500794b",
@@ -285,7 +285,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-04T13:47:09.618Z"
+    "capturado_en": "2026-11-04T20:21:49.036Z"
   },
   {
     "id": "scraped-wepropel-global-solvers-accelerator-2027-385b53e1f6",
@@ -309,7 +309,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-04T13:47:09.618Z"
+    "capturado_en": "2026-11-04T20:21:49.040Z"
   },
   {
     "id": "scraped-wepropel-itu-gender-champions-programme-500b0b6108",
@@ -333,7 +333,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-04T13:47:09.619Z"
+    "capturado_en": "2026-11-04T20:21:49.042Z"
   },
   {
     "id": "scraped-wepropel-edges-of-possibility-exploration-co-lab-2027-c1553ec25d",
@@ -357,31 +357,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-04T13:47:09.620Z"
-  },
-  {
-    "id": "scraped-wepropel-human-scale-ai-incubator-2027-d9ef969c65",
-    "titulo": "Human-Scale AI Incubator 2027",
-    "donante": "Mozilla Foundation",
-    "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 500000,
-    "fecha_cierre": "2026-11-20",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 74,
-    "pivot": "Programa global de incubación que ofrece financiamiento y acompañamiento a equipos que desarrollan soluciones de inteligencia artificial adaptadas a problemas y comunidades específicas. Busca tecnologías funcionales que utilicen modelos pequeños, reduzcan el consumo de recursos y permitan a las personas mayor control sobre sus datos. Seleccionará siete proyectos con evidencia inicial de uso y potencial para crecer, ofreciendo mentoría técnica, conexiones estratégicas y acceso a la red global de Mozilla.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.mozillafoundation.org/en/what-we-do/grantmaking/incubator/human-scale-ai/call-for-proposals/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "roja",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-04T13:47:09.621Z"
+    "capturado_en": "2026-11-04T20:21:49.042Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
@@ -405,7 +381,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-11-04T13:47:13.330Z"
+    "capturado_en": "2026-11-04T20:21:53.062Z"
   },
   {
     "id": "rie-convocatoria-2026-manual",
@@ -457,7 +433,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-04T13:47:09.609Z"
+    "capturado_en": "2026-11-04T20:21:49.023Z"
   },
   {
     "id": "scraped-wepropel-d-prize-global-competition-2026-4621eabf77",
@@ -481,7 +457,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-04T13:47:09.619Z"
+    "capturado_en": "2026-11-04T20:21:49.041Z"
   },
   {
     "id": "scraped-wepropel-global-eba-fund-medium-size-grants-0f09f17ff9",
@@ -505,7 +481,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-04T13:47:09.620Z"
+    "capturado_en": "2026-11-04T20:21:49.043Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -529,7 +505,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-04T13:47:09.621Z"
+    "capturado_en": "2026-11-04T20:21:49.043Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -553,7 +529,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-04T13:47:09.622Z"
+    "capturado_en": "2026-11-04T20:21:49.044Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
@@ -577,7 +553,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-11-04T13:47:13.331Z"
+    "capturado_en": "2026-11-04T20:21:53.062Z"
   },
   {
     "id": "scraped-red-exposocial-fondo-de-coyuntura-politica-convocatoria-para-593b5a2ab5",
@@ -601,7 +577,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-11-04T13:47:13.331Z"
+    "capturado_en": "2026-11-04T20:21:53.063Z"
   },
   {
     "id": "scraped-wepropel-swarovski-foundation-creatives-for-our-future-70960388c4",
@@ -625,7 +601,31 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-04T13:47:09.616Z"
+    "capturado_en": "2026-11-04T20:21:49.031Z"
+  },
+  {
+    "id": "scraped-wepropel-ev-fellowship-435b4899e8",
+    "titulo": "+EV Fellowship",
+    "donante": "+EV",
+    "fuente": "Oportunidades Propel",
+    "sector": "Educación / Juventud",
+    "dimension": "social",
+    "presupuesto_usd": 25000,
+    "fecha_cierre": "2026-11-10",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 65,
+    "pivot": "Fellowship dirigido a jóvenes con ideas ambiciosas que buscan desarrollar soluciones a problemas sociales desatendidos o sin resolver mediante emprendimientos, investigación o proyectos de comunicación. Ofrece grants flexibles sin participación accionaria, mentoría, conexiones con expertos e inversionistas y acceso a recursos tecnológicos.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://plusev.tech/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-11-04T20:21:49.034Z"
   },
   {
     "id": "scraped-premios-portafolio-premios-portafolio-2026-6c0d0fa3ff",
@@ -649,7 +649,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-11-04T13:47:01.489Z"
+    "capturado_en": "2026-11-04T20:21:41.203Z"
   },
   {
     "id": "scraped-wepropel-world-leaders-convention-2027-f535a6d822",
@@ -673,7 +673,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-04T13:47:09.616Z"
+    "capturado_en": "2026-11-04T20:21:49.033Z"
   },
   {
     "id": "interledger-local-impact-2026-manual",
