@@ -1,29 +1,5 @@
 [
   {
-    "id": "scraped-wepropel-women-in-ocean-food-3dfafb0edb",
-    "titulo": "Women in Ocean Food",
-    "donante": "Hatch Blue",
-    "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-11-07",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 88,
-    "pivot": "Programa de aceleración de 12 meses para fundadoras, emprendedoras y líderes comunitarias que desarrollen soluciones en acuicultura sostenible y regenerativa, biotecnología marina, tecnología acuícola, cadenas de valor de productos del mar, revalorización de residuos del mar y carbono azul. Ofrece gastos cubiertos para el encuentro presencial, mentoría de expertos globales, sesiones uno a uno y acceso a redes de inversionistas para acelerar el crecimiento comercial y el impacto.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.hatch.blue/es/programs/women-in-ocean-food-latin-america-caribbean",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "roja",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-07T21:28:19.469Z"
-  },
-  {
     "id": "scraped-red-exposocial-apoyos-de-respuesta-rapida-convocatoria-para--97707cba23",
     "titulo": "Apoyos de Respuesta Rápida: convocatoria para OSC",
     "donante": "Red ExpoSocial",
@@ -45,7 +21,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-11-07T21:28:23.547Z"
+    "capturado_en": "2026-11-08T04:29:54.260Z"
   },
   {
     "id": "scraped-wepropel-fortis-fellowship-2027-7087c164ab",
@@ -69,7 +45,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-07T21:28:19.471Z"
+    "capturado_en": "2026-11-08T04:29:50.214Z"
   },
   {
     "id": "scraped-wepropel-programa-de-ayuda-directa-f24d605b36",
@@ -93,7 +69,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-07T21:28:19.472Z"
+    "capturado_en": "2026-11-08T04:29:50.215Z"
   },
   {
     "id": "scraped-wepropel-interledger-local-impact-mini-grants-8d3d85dfd7",
@@ -117,7 +93,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-07T21:28:19.478Z"
+    "capturado_en": "2026-11-08T04:29:50.221Z"
   },
   {
     "id": "scraped-wepropel-american-express-leadership-academy-the-ameri-3cf1912c37",
@@ -141,7 +117,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-07T21:28:19.479Z"
+    "capturado_en": "2026-11-08T04:29:50.222Z"
   },
   {
     "id": "scraped-wepropel-fieldshaper-program-2db500794b",
@@ -165,7 +141,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-07T21:28:19.480Z"
+    "capturado_en": "2026-11-08T04:29:50.223Z"
   },
   {
     "id": "scraped-wepropel-global-solvers-accelerator-2027-385b53e1f6",
@@ -189,7 +165,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-07T21:28:19.481Z"
+    "capturado_en": "2026-11-08T04:29:50.224Z"
   },
   {
     "id": "scraped-wepropel-itu-gender-champions-programme-500b0b6108",
@@ -213,7 +189,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-07T21:28:19.482Z"
+    "capturado_en": "2026-11-08T04:29:50.225Z"
   },
   {
     "id": "scraped-wepropel-edges-of-possibility-exploration-co-lab-2027-c1553ec25d",
@@ -237,7 +213,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-07T21:28:19.484Z"
+    "capturado_en": "2026-11-08T04:29:50.227Z"
   },
   {
     "id": "scraped-wepropel-human-scale-ai-incubator-2027-d9ef969c65",
@@ -261,7 +237,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-07T21:28:19.486Z"
+    "capturado_en": "2026-11-08T04:29:50.229Z"
   },
   {
     "id": "scraped-wepropel-climate-democracy-accelerator-2ad7351e4c",
@@ -285,7 +261,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-07T21:28:19.488Z"
+    "capturado_en": "2026-11-08T04:29:50.231Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
@@ -309,7 +285,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-11-07T21:28:23.546Z"
+    "capturado_en": "2026-11-08T04:29:54.259Z"
   },
   {
     "id": "rie-convocatoria-2026-manual",
@@ -361,7 +337,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-07T21:28:19.482Z"
+    "capturado_en": "2026-11-08T04:29:50.225Z"
   },
   {
     "id": "scraped-wepropel-harvard-lead-fellowship-for-promoting-women-i-38c049e819",
@@ -385,7 +361,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-07T21:28:19.483Z"
+    "capturado_en": "2026-11-08T04:29:50.226Z"
   },
   {
     "id": "scraped-wepropel-global-eba-fund-medium-size-grants-0f09f17ff9",
@@ -409,7 +385,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-07T21:28:19.485Z"
+    "capturado_en": "2026-11-08T04:29:50.228Z"
   },
   {
     "id": "scraped-wepropel-regenerative-specialist-grant-00368a0729",
@@ -433,7 +409,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-07T21:28:19.486Z"
+    "capturado_en": "2026-11-08T04:29:50.229Z"
   },
   {
     "id": "scraped-wepropel-community-solutions-program-d365b56b8a",
@@ -457,7 +433,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-07T21:28:19.487Z"
+    "capturado_en": "2026-11-08T04:29:50.230Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -481,7 +457,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-07T21:28:19.493Z"
+    "capturado_en": "2026-11-08T04:29:50.232Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -505,7 +481,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-07T21:28:19.494Z"
+    "capturado_en": "2026-11-08T04:29:50.233Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
@@ -529,7 +505,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-11-07T21:28:23.547Z"
+    "capturado_en": "2026-11-08T04:29:54.260Z"
   },
   {
     "id": "scraped-red-exposocial-fondo-de-coyuntura-politica-convocatoria-para-593b5a2ab5",
@@ -553,7 +529,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-11-07T21:28:23.547Z"
+    "capturado_en": "2026-11-08T04:29:54.260Z"
   },
   {
     "id": "scraped-wepropel-swarovski-foundation-creatives-for-our-future-70960388c4",
@@ -577,7 +553,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-07T21:28:19.476Z"
+    "capturado_en": "2026-11-08T04:29:50.216Z"
   },
   {
     "id": "scraped-wepropel-ev-fellowship-435b4899e8",
@@ -601,7 +577,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-07T21:28:19.477Z"
+    "capturado_en": "2026-11-08T04:29:50.220Z"
   },
   {
     "id": "scraped-wepropel-creative-practitioner-in-residence-inclusion--55e5344233",
@@ -625,7 +601,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-07T21:28:19.492Z"
+    "capturado_en": "2026-11-08T04:29:50.232Z"
   },
   {
     "id": "scraped-premios-portafolio-premios-portafolio-2026-6c0d0fa3ff",
@@ -649,7 +625,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-11-07T21:28:12.639Z"
+    "capturado_en": "2026-11-08T04:29:43.060Z"
   },
   {
     "id": "scraped-wepropel-world-leaders-convention-2027-f535a6d822",
@@ -673,7 +649,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-07T21:28:19.477Z"
+    "capturado_en": "2026-11-08T04:29:50.219Z"
   },
   {
     "id": "interledger-local-impact-2026-manual",
