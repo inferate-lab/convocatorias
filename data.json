@@ -21,55 +21,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-11-08T21:41:15.842Z"
-  },
-  {
-    "id": "scraped-wepropel-fortis-fellowship-2027-7087c164ab",
-    "titulo": "Fortis Fellowship 2027",
-    "donante": "Fortis Society",
-    "fuente": "Oportunidades Propel",
-    "sector": "Educación / Juventud",
-    "dimension": "social",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-11-08",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 79,
-    "pivot": "Programa internacional de liderazgo para profesionales provenientes de entornos de bajos ingresos que buscan ampliar su impacto social. Ofrece mentoría, talleres de aprendizaje profesional y la construcción de relaciones con una cohorte global. Culmina con la participación en el Fortis Summit en junio de 2027. Las personas seleccionadas pasan a ser miembros vitalicios de la comunidad.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://fortissociety.org/fellowship",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-08T21:41:12.272Z"
-  },
-  {
-    "id": "scraped-wepropel-programa-de-ayuda-directa-f24d605b36",
-    "titulo": "Programa de Ayuda Directa",
-    "donante": "Australian Government: Department of Foreign Affairs and Trade",
-    "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-11-08",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 74,
-    "pivot": "Grant para organizaciones no gubernamentales sin fines de lucro que desarrollan proyectos a pequeña escala destinados a mejorar la calidad de vida de las comunidades locales. Ofrece financiamiento para implementar el proyecto.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://peru.embassy.gov.au/limacastellano/Development.html",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-08T21:41:12.273Z"
+    "capturado_en": "2026-11-09T04:42:33.315Z"
   },
   {
     "id": "scraped-wepropel-interledger-local-impact-mini-grants-8d3d85dfd7",
@@ -93,7 +45,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-08T21:41:12.276Z"
+    "capturado_en": "2026-11-09T04:42:30.054Z"
   },
   {
     "id": "scraped-wepropel-american-express-leadership-academy-the-ameri-3cf1912c37",
@@ -117,7 +69,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-08T21:41:12.277Z"
+    "capturado_en": "2026-11-09T04:42:30.055Z"
   },
   {
     "id": "scraped-wepropel-fieldshaper-program-2db500794b",
@@ -141,7 +93,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-08T21:41:12.279Z"
+    "capturado_en": "2026-11-09T04:42:30.056Z"
   },
   {
     "id": "scraped-wepropel-global-solvers-accelerator-2027-385b53e1f6",
@@ -165,7 +117,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-08T21:41:12.279Z"
+    "capturado_en": "2026-11-09T04:42:30.058Z"
   },
   {
     "id": "scraped-wepropel-itu-gender-champions-programme-500b0b6108",
@@ -189,7 +141,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-08T21:41:12.281Z"
+    "capturado_en": "2026-11-09T04:42:30.064Z"
   },
   {
     "id": "scraped-wepropel-edges-of-possibility-exploration-co-lab-2027-c1553ec25d",
@@ -213,7 +165,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-08T21:41:12.286Z"
+    "capturado_en": "2026-11-09T04:42:30.065Z"
   },
   {
     "id": "scraped-wepropel-human-scale-ai-incubator-2027-d9ef969c65",
@@ -237,7 +189,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-08T21:41:12.287Z"
+    "capturado_en": "2026-11-09T04:42:30.067Z"
   },
   {
     "id": "scraped-wepropel-climate-democracy-accelerator-2ad7351e4c",
@@ -261,7 +213,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-08T21:41:12.290Z"
+    "capturado_en": "2026-11-09T04:42:30.069Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
@@ -285,7 +237,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-11-08T21:41:15.841Z"
+    "capturado_en": "2026-11-09T04:42:33.314Z"
   },
   {
     "id": "rie-convocatoria-2026-manual",
@@ -337,7 +289,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-08T21:41:12.280Z"
+    "capturado_en": "2026-11-09T04:42:30.059Z"
   },
   {
     "id": "scraped-wepropel-harvard-lead-fellowship-for-promoting-women-i-38c049e819",
@@ -361,7 +313,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-08T21:41:12.285Z"
+    "capturado_en": "2026-11-09T04:42:30.065Z"
   },
   {
     "id": "scraped-wepropel-global-eba-fund-medium-size-grants-0f09f17ff9",
@@ -385,7 +337,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-08T21:41:12.286Z"
+    "capturado_en": "2026-11-09T04:42:30.066Z"
   },
   {
     "id": "scraped-wepropel-regenerative-specialist-grant-00368a0729",
@@ -409,7 +361,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-08T21:41:12.288Z"
+    "capturado_en": "2026-11-09T04:42:30.067Z"
   },
   {
     "id": "scraped-wepropel-community-solutions-program-d365b56b8a",
@@ -433,7 +385,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-08T21:41:12.289Z"
+    "capturado_en": "2026-11-09T04:42:30.068Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -457,7 +409,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-08T21:41:12.291Z"
+    "capturado_en": "2026-11-09T04:42:30.070Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -481,7 +433,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-08T21:41:12.292Z"
+    "capturado_en": "2026-11-09T04:42:30.071Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
@@ -505,7 +457,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-11-08T21:41:15.841Z"
+    "capturado_en": "2026-11-09T04:42:33.315Z"
   },
   {
     "id": "scraped-red-exposocial-fondo-de-coyuntura-politica-convocatoria-para-593b5a2ab5",
@@ -529,7 +481,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-11-08T21:41:15.842Z"
+    "capturado_en": "2026-11-09T04:42:33.315Z"
   },
   {
     "id": "scraped-wepropel-swarovski-foundation-creatives-for-our-future-70960388c4",
@@ -553,7 +505,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-08T21:41:12.273Z"
+    "capturado_en": "2026-11-09T04:42:30.051Z"
   },
   {
     "id": "scraped-wepropel-ev-fellowship-435b4899e8",
@@ -577,7 +529,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-08T21:41:12.275Z"
+    "capturado_en": "2026-11-09T04:42:30.053Z"
   },
   {
     "id": "scraped-wepropel-creative-practitioner-in-residence-inclusion--55e5344233",
@@ -601,7 +553,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-08T21:41:12.291Z"
+    "capturado_en": "2026-11-09T04:42:30.070Z"
   },
   {
     "id": "scraped-premios-portafolio-premios-portafolio-2026-6c0d0fa3ff",
@@ -625,7 +577,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-11-08T21:41:04.601Z"
+    "capturado_en": "2026-11-09T04:42:21.871Z"
   },
   {
     "id": "scraped-wepropel-world-leaders-convention-2027-f535a6d822",
@@ -649,7 +601,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-08T21:41:12.274Z"
+    "capturado_en": "2026-11-09T04:42:30.052Z"
   },
   {
     "id": "interledger-local-impact-2026-manual",
