@@ -21,7 +21,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-11-09T04:42:33.315Z"
+    "capturado_en": "2026-11-09T15:12:54.019Z"
   },
   {
     "id": "scraped-wepropel-interledger-local-impact-mini-grants-8d3d85dfd7",
@@ -45,7 +45,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-09T04:42:30.054Z"
+    "capturado_en": "2026-11-09T15:12:50.105Z"
   },
   {
     "id": "scraped-wepropel-american-express-leadership-academy-the-ameri-3cf1912c37",
@@ -69,7 +69,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-09T04:42:30.055Z"
+    "capturado_en": "2026-11-09T15:12:50.106Z"
   },
   {
     "id": "scraped-wepropel-fieldshaper-program-2db500794b",
@@ -93,7 +93,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-09T04:42:30.056Z"
+    "capturado_en": "2026-11-09T15:12:50.107Z"
   },
   {
     "id": "scraped-wepropel-global-solvers-accelerator-2027-385b53e1f6",
@@ -117,7 +117,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-09T04:42:30.058Z"
+    "capturado_en": "2026-11-09T15:12:50.107Z"
   },
   {
     "id": "scraped-wepropel-itu-gender-champions-programme-500b0b6108",
@@ -141,7 +141,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-09T04:42:30.064Z"
+    "capturado_en": "2026-11-09T15:12:50.111Z"
   },
   {
     "id": "scraped-wepropel-edges-of-possibility-exploration-co-lab-2027-c1553ec25d",
@@ -165,7 +165,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-09T04:42:30.065Z"
+    "capturado_en": "2026-11-09T15:12:50.113Z"
   },
   {
     "id": "scraped-wepropel-human-scale-ai-incubator-2027-d9ef969c65",
@@ -189,7 +189,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-09T04:42:30.067Z"
+    "capturado_en": "2026-11-09T15:12:50.114Z"
   },
   {
     "id": "scraped-wepropel-climate-democracy-accelerator-2ad7351e4c",
@@ -213,7 +213,55 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-09T04:42:30.069Z"
+    "capturado_en": "2026-11-09T15:12:50.116Z"
+  },
+  {
+    "id": "scraped-wepropel-cities-deliver-ai-solutions-for-public-servic-b27eb1fd32",
+    "titulo": "Cities Deliver: AI Solutions for Public Services",
+    "donante": "The Rockefeller Foundation | OpenAI Foundation",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 2000000,
+    "fecha_cierre": "2026-11-29",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Convocatoria global que financia proyectos de inteligencia artificial desarrollados por organizaciones en alianza con gobiernos municipales para mejorar los servicios públicos de comunidades vulnerables. Apoya iniciativas de salud pública, movilidad económica, resiliencia ambiental y participación ciudadana, desde proyectos piloto hasta soluciones listas para expandirse. Ofrece aprendizaje entre pares, mentoría, apoyo técnico ocasional y conexiones con financiadores y aliados estratégicos.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.rockefellerfoundation.org/cities-deliver-ai-solutions-for-public-services/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "roja",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-11-09T15:12:50.117Z"
+  },
+  {
+    "id": "scraped-wepropel-terre-de-femmes-international-award-2027-8a0a63880c",
+    "titulo": "Terre de Femmes International Award 2027",
+    "donante": "Yves Rocher Foundation",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-11-30",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Premio dirigido a mujeres que lideran proyectos de conservación de árboles en ciudades, a través de organizaciones sin fines de lucro. Ofrece financiamiento y acceso a una comunidad de mujeres comprometidas con el medioambiente.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.yves-rocher-fondation.org/en/how-to-apply-for-the-international-award/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-11-09T15:12:50.119Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
@@ -237,7 +285,31 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-11-09T04:42:33.314Z"
+    "capturado_en": "2026-11-09T15:12:54.019Z"
+  },
+  {
+    "id": "scraped-wepropel-premio-carlos-slim-en-salud-2027-b5aa7f0b22",
+    "titulo": "Premio Carlos Slim en Salud 2027",
+    "donante": "Fundación Carlos Slim",
+    "fuente": "Oportunidades Propel",
+    "sector": "Salud / Bienestar",
+    "dimension": "social",
+    "presupuesto_usd": 100000,
+    "fecha_cierre": "2026-11-30",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 72,
+    "pivot": "Premio que reconoce a instituciones sin fines de lucro e investigadores cuyo trabajo haya contribuido a mejorar la salud de la población de América Latina y el Caribe, mediante programas de atención, prevención, investigación o formación de profesionales de la salud.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://fundacioncarlosslim.org/inicio-la-xx-convocatoria-para-los-premios-carlos-slim-en-salud/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "roja",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-11-09T15:12:50.118Z"
   },
   {
     "id": "rie-convocatoria-2026-manual",
@@ -289,7 +361,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-09T04:42:30.059Z"
+    "capturado_en": "2026-11-09T15:12:50.108Z"
   },
   {
     "id": "scraped-wepropel-harvard-lead-fellowship-for-promoting-women-i-38c049e819",
@@ -313,7 +385,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-09T04:42:30.065Z"
+    "capturado_en": "2026-11-09T15:12:50.112Z"
   },
   {
     "id": "scraped-wepropel-global-eba-fund-medium-size-grants-0f09f17ff9",
@@ -337,7 +409,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-09T04:42:30.066Z"
+    "capturado_en": "2026-11-09T15:12:50.113Z"
   },
   {
     "id": "scraped-wepropel-regenerative-specialist-grant-00368a0729",
@@ -361,7 +433,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-09T04:42:30.067Z"
+    "capturado_en": "2026-11-09T15:12:50.114Z"
   },
   {
     "id": "scraped-wepropel-community-solutions-program-d365b56b8a",
@@ -385,7 +457,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-09T04:42:30.068Z"
+    "capturado_en": "2026-11-09T15:12:50.115Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -409,7 +481,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-09T04:42:30.070Z"
+    "capturado_en": "2026-11-09T15:12:50.120Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -433,7 +505,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-09T04:42:30.071Z"
+    "capturado_en": "2026-11-09T15:12:50.120Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
@@ -457,7 +529,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-11-09T04:42:33.315Z"
+    "capturado_en": "2026-11-09T15:12:54.019Z"
   },
   {
     "id": "scraped-red-exposocial-fondo-de-coyuntura-politica-convocatoria-para-593b5a2ab5",
@@ -481,31 +553,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-11-09T04:42:33.315Z"
-  },
-  {
-    "id": "scraped-wepropel-swarovski-foundation-creatives-for-our-future-70960388c4",
-    "titulo": "Swarovski Foundation Creatives for Our Future programme",
-    "donante": "Swarovski Foundation",
-    "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-11-09",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 65,
-    "pivot": "Programa global para jóvenes de 21 a 30 años que trabajen en arte, diseño, moda, arquitectura, tecnología u otras disciplinas creativas para desarrollar soluciones a desafíos sociales y ambientales. Ofrece un grant, mentoría y formación para impulsar los proyectos.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://creatives.swarovskifoundation.org/application",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-09T04:42:30.051Z"
+    "capturado_en": "2026-11-09T15:12:54.020Z"
   },
   {
     "id": "scraped-wepropel-ev-fellowship-435b4899e8",
@@ -529,7 +577,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-09T04:42:30.053Z"
+    "capturado_en": "2026-11-09T15:12:50.104Z"
   },
   {
     "id": "scraped-wepropel-creative-practitioner-in-residence-inclusion--55e5344233",
@@ -553,7 +601,31 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-09T04:42:30.070Z"
+    "capturado_en": "2026-11-09T15:12:50.117Z"
+  },
+  {
+    "id": "scraped-wepropel-eu-lac-digital-accelerator-open-call-1d88d96b8b",
+    "titulo": "EU-LAC Digital Accelerator Open Call",
+    "donante": "Fundación EU-LAC",
+    "fuente": "Oportunidades Propel",
+    "sector": "Tecnología / Innovación",
+    "dimension": "social",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-11-30",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 65,
+    "pivot": "Programa de aceleración dirigido a alianzas entre empresas y startups, scaleups o pymes tecnológicas de Europa, Latinoamérica y el Caribe que desarrollen soluciones digitales. Ofrece servicios de aceleración y financiamiento para startups que desarrollen una prueba de concepto con su empresa asociada",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://eulacdigitalaccelerator.com/open-call/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-11-09T15:12:50.118Z"
   },
   {
     "id": "scraped-premios-portafolio-premios-portafolio-2026-6c0d0fa3ff",
@@ -577,7 +649,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-11-09T04:42:21.871Z"
+    "capturado_en": "2026-11-09T15:12:42.427Z"
   },
   {
     "id": "scraped-wepropel-world-leaders-convention-2027-f535a6d822",
@@ -601,7 +673,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-09T04:42:30.052Z"
+    "capturado_en": "2026-11-09T15:12:50.103Z"
   },
   {
     "id": "interledger-local-impact-2026-manual",
