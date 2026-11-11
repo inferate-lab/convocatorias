@@ -1,7 +1,7 @@
 {
-  "last_run": "2026-11-11T13:35:03.065Z",
-  "active_opportunities": 28,
-  "scraped_opportunities": 28,
+  "last_run": "2026-11-11T20:06:02.333Z",
+  "active_opportunities": 30,
+  "scraped_opportunities": 30,
   "sources_ok": 7,
   "sources_failed": 2,
   "sources_skipped": 0,
@@ -45,7 +45,7 @@
       "id": "wepropel",
       "name": "Oportunidades Propel",
       "status": "success",
-      "found": 20,
+      "found": 22,
       "message": "HTTP 200"
     },
     {

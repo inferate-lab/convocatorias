@@ -1,5 +1,29 @@
 [
   {
+    "id": "scraped-wepropel-research-grant-competition-4-7fcf90c09a",
+    "titulo": "Research Grant Competition 4",
+    "donante": "Global Centre on Biodiversity for Climate (GCBC)",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-11-30",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Colombia mencionada ✓",
+    "afinidad_pivot": 88,
+    "pivot": "Grant de investigación para organizaciones sin fines de lucro que buscan abordar las causas de la pérdida de biodiversidad y la degradación de los ecosistemas en la Amazonía, la cuenca del Congo y el Triángulo de Coral. Financia proyectos de 24 a 48 meses que investiguen las dinámicas socioecológicas, los mercados y flujos financieros, y los sistemas de gobernanza relacionados con la biodiversidad, con el objetivo de fortalecer la resiliencia climática y reducir la pobreza.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://gcbc.metricsled.com/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "roja",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-11-11T20:05:54.289Z"
+  },
+  {
     "id": "scraped-red-exposocial-apoyos-de-respuesta-rapida-convocatoria-para--97707cba23",
     "titulo": "Apoyos de Respuesta Rápida: convocatoria para OSC",
     "donante": "Red ExpoSocial",
@@ -21,55 +45,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-11-11T13:34:58.687Z"
-  },
-  {
-    "id": "scraped-wepropel-interledger-local-impact-mini-grants-8d3d85dfd7",
-    "titulo": "Interledger Local Impact Mini Grants",
-    "donante": "Interledger Foundation",
-    "fuente": "Oportunidades Propel",
-    "sector": "Tecnología / Innovación",
-    "dimension": "social",
-    "presupuesto_usd": 3000,
-    "fecha_cierre": "2026-11-11",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 74,
-    "pivot": "Grant para impulsar iniciativas comunitarias relacionadas con pagos abiertos, acceso financiero digital, interoperabilidad, innovación abierta, inclusión financiera y ecosistemas fintech, infraestructura pública digital y temas relacionados.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://interledger.org/grant/local-impact",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-11T13:34:54.701Z"
-  },
-  {
-    "id": "scraped-wepropel-american-express-leadership-academy-the-ameri-3cf1912c37",
-    "titulo": "American Express Leadership Academy - The Americas 2027",
-    "donante": "Common Purpose | American Express",
-    "fuente": "Oportunidades Propel",
-    "sector": "Educación / Juventud",
-    "dimension": "social",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-11-13",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 74,
-    "pivot": "Programa para líderes sénior de organizaciones sin fines de lucro. Ofrece una experiencia de aprendizaje de seis meses con sesiones en línea, e intercambio con líderes de los sectores social, público y privado. Además, brinda herramientas prácticas de liderazgo, coaching individual, formación presencial en Nueva York y acceso a una red global de alumni.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://commonpurpose.org/american-express-leadership-academy",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-11T13:34:54.702Z"
+    "capturado_en": "2026-11-11T20:05:58.249Z"
   },
   {
     "id": "scraped-wepropel-fieldshaper-program-2db500794b",
@@ -93,7 +69,31 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-11T13:34:54.703Z"
+    "capturado_en": "2026-11-11T20:05:54.271Z"
+  },
+  {
+    "id": "scraped-wepropel-american-express-leadership-academy-the-ameri-3cf1912c37",
+    "titulo": "American Express Leadership Academy - The Americas 2027",
+    "donante": "Common Purpose | American Express",
+    "fuente": "Oportunidades Propel",
+    "sector": "Educación / Juventud",
+    "dimension": "social",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-11-15",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Programa para líderes sénior de organizaciones sin fines de lucro. Ofrece una experiencia de aprendizaje de seis meses con sesiones en línea, e intercambio con líderes de los sectores social, público y privado. Además, brinda herramientas prácticas de liderazgo, coaching individual, formación presencial en Nueva York y acceso a una red global de alumni.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://commonpurpose.org/american-express-leadership-academy",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-11-11T20:05:54.272Z"
   },
   {
     "id": "scraped-wepropel-global-solvers-accelerator-2027-385b53e1f6",
@@ -117,7 +117,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-11T13:34:54.704Z"
+    "capturado_en": "2026-11-11T20:05:54.273Z"
   },
   {
     "id": "scraped-wepropel-itu-gender-champions-programme-500b0b6108",
@@ -141,7 +141,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-11T13:34:54.706Z"
+    "capturado_en": "2026-11-11T20:05:54.274Z"
   },
   {
     "id": "scraped-wepropel-edges-of-possibility-exploration-co-lab-2027-c1553ec25d",
@@ -165,7 +165,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-11T13:34:54.707Z"
+    "capturado_en": "2026-11-11T20:05:54.276Z"
   },
   {
     "id": "scraped-wepropel-human-scale-ai-incubator-2027-d9ef969c65",
@@ -189,7 +189,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-11T13:34:54.710Z"
+    "capturado_en": "2026-11-11T20:05:54.278Z"
   },
   {
     "id": "scraped-wepropel-climate-democracy-accelerator-2ad7351e4c",
@@ -213,7 +213,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-11T13:34:54.712Z"
+    "capturado_en": "2026-11-11T20:05:54.280Z"
   },
   {
     "id": "scraped-wepropel-cities-deliver-ai-solutions-for-public-servic-b27eb1fd32",
@@ -237,7 +237,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-11T13:34:54.714Z"
+    "capturado_en": "2026-11-11T20:05:54.284Z"
   },
   {
     "id": "scraped-wepropel-terre-de-femmes-international-award-2027-8a0a63880c",
@@ -261,7 +261,31 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-11T13:34:54.716Z"
+    "capturado_en": "2026-11-11T20:05:54.288Z"
+  },
+  {
+    "id": "scraped-wepropel-echidna-global-scholar-visiting-fellowship-20-84045544d9",
+    "titulo": "Echidna Global Scholar Visiting Fellowship 2027",
+    "donante": "Brookings Institution",
+    "fuente": "Oportunidades Propel",
+    "sector": "Educación / Juventud",
+    "dimension": "social",
+    "presupuesto_usd": 26500,
+    "fecha_cierre": "2026-12-01",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Fellowship presencial de seis meses para profesionales con experiencia del Sur Global que trabajan por la igualdad de género en la educación. Ofrece estipendio, residencia de cuatro meses en Washington D. C., formación en liderazgo y acompañamiento.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.brookings.edu/about-the-echidna-global-scholars-program-and-the-application-process/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-11-11T20:05:54.291Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
@@ -285,7 +309,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-11-11T13:34:58.686Z"
+    "capturado_en": "2026-11-11T20:05:58.249Z"
   },
   {
     "id": "scraped-wepropel-premio-carlos-slim-en-salud-2027-b5aa7f0b22",
@@ -309,7 +333,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-11T13:34:54.715Z"
+    "capturado_en": "2026-11-11T20:05:54.286Z"
   },
   {
     "id": "rie-convocatoria-2026-manual",
@@ -361,7 +385,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-11T13:34:54.705Z"
+    "capturado_en": "2026-11-11T20:05:54.274Z"
   },
   {
     "id": "scraped-wepropel-harvard-lead-fellowship-for-promoting-women-i-38c049e819",
@@ -385,7 +409,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-11T13:34:54.707Z"
+    "capturado_en": "2026-11-11T20:05:54.275Z"
   },
   {
     "id": "scraped-wepropel-global-eba-fund-medium-size-grants-0f09f17ff9",
@@ -409,7 +433,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-11T13:34:54.709Z"
+    "capturado_en": "2026-11-11T20:05:54.277Z"
   },
   {
     "id": "scraped-wepropel-regenerative-specialist-grant-00368a0729",
@@ -433,7 +457,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-11T13:34:54.710Z"
+    "capturado_en": "2026-11-11T20:05:54.278Z"
   },
   {
     "id": "scraped-wepropel-community-solutions-program-d365b56b8a",
@@ -457,7 +481,31 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-11T13:34:54.711Z"
+    "capturado_en": "2026-11-11T20:05:54.280Z"
+  },
+  {
+    "id": "scraped-wepropel-thrive-seed-grant-6dd22bcb3e",
+    "titulo": "Thrive Seed Grant",
+    "donante": "Thrive Philanthropy",
+    "fuente": "Oportunidades Propel",
+    "sector": "Educación / Juventud",
+    "dimension": "social",
+    "presupuesto_usd": 5000,
+    "fecha_cierre": "2026-12-01",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 67,
+    "pivot": "Grant dirigido a organizaciones pequeñas o emergentes y personas que desarrollan iniciativas para promover alternativas a la ganadería industrial. Ofrece financiamiento para promover sistemas alimentarios basados en plantas y el acceso a alimentos vegetales nutritivos.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.thrivephilanthropy.org/seedgrant/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-11-11T20:05:54.290Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -481,7 +529,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-11T13:34:54.717Z"
+    "capturado_en": "2026-11-11T20:05:54.292Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -505,7 +553,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-11T13:34:54.717Z"
+    "capturado_en": "2026-11-11T20:05:54.293Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
@@ -529,7 +577,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-11-11T13:34:58.687Z"
+    "capturado_en": "2026-11-11T20:05:58.249Z"
   },
   {
     "id": "scraped-red-exposocial-fondo-de-coyuntura-politica-convocatoria-para-593b5a2ab5",
@@ -553,7 +601,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-11-11T13:34:58.687Z"
+    "capturado_en": "2026-11-11T20:05:58.249Z"
   },
   {
     "id": "scraped-wepropel-creative-practitioner-in-residence-inclusion--55e5344233",
@@ -577,7 +625,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-11T13:34:54.713Z"
+    "capturado_en": "2026-11-11T20:05:54.281Z"
   },
   {
     "id": "scraped-wepropel-eu-lac-digital-accelerator-open-call-1d88d96b8b",
@@ -601,7 +649,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-11T13:34:54.715Z"
+    "capturado_en": "2026-11-11T20:05:54.287Z"
   },
   {
     "id": "scraped-premios-portafolio-premios-portafolio-2026-6c0d0fa3ff",
@@ -625,7 +673,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-11-11T13:34:48.020Z"
+    "capturado_en": "2026-11-11T20:05:47.276Z"
   },
   {
     "id": "interledger-local-impact-2026-manual",
