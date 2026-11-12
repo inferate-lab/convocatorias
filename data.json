@@ -21,7 +21,31 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-12T14:38:32.507Z"
+    "capturado_en": "2026-11-12T20:43:28.296Z"
+  },
+  {
+    "id": "scraped-wepropel-the-illegal-wildlife-trade-challenge-fund-15efae0783",
+    "titulo": "The Illegal Wildlife Trade Challenge Fund",
+    "donante": "Gobierno del Reino Unido",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-11-23",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Colombia mencionada ✓",
+    "afinidad_pivot": 81,
+    "pivot": "Grants del Gobierno del Reino Unido para organizaciones que desarrollan proyectos contra el comercio ilegal de vida silvestre y otros delitos ambientales en países en desarrollo. Ofrece financiamiento para investigar, implementar o ampliar soluciones que reduzcan estas actividades ilegales y contribuyan a disminuir la pobreza. Apoya iniciativas de conservación, fortalecimiento de leyes, reducción de la demanda y desarrollo de medios de vida sostenibles.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://iwt.challengefund.org.uk/how-to-apply/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-11-12T20:43:28.288Z"
   },
   {
     "id": "scraped-red-exposocial-apoyos-de-respuesta-rapida-convocatoria-para--97707cba23",
@@ -45,7 +69,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-11-12T14:38:36.576Z"
+    "capturado_en": "2026-11-12T20:43:32.398Z"
   },
   {
     "id": "scraped-wepropel-fieldshaper-program-2db500794b",
@@ -69,7 +93,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-12T14:38:32.494Z"
+    "capturado_en": "2026-11-12T20:43:28.282Z"
   },
   {
     "id": "scraped-wepropel-american-express-leadership-academy-the-ameri-3cf1912c37",
@@ -93,7 +117,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-12T14:38:32.495Z"
+    "capturado_en": "2026-11-12T20:43:28.283Z"
   },
   {
     "id": "scraped-wepropel-global-solvers-accelerator-2027-385b53e1f6",
@@ -117,7 +141,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-12T14:38:32.495Z"
+    "capturado_en": "2026-11-12T20:43:28.283Z"
   },
   {
     "id": "scraped-wepropel-itu-gender-champions-programme-500b0b6108",
@@ -141,7 +165,31 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-12T14:38:32.496Z"
+    "capturado_en": "2026-11-12T20:43:28.284Z"
+  },
+  {
+    "id": "scraped-wepropel-convocatoria-rie-de-proyectos-educativos-tran-7b35e05c12",
+    "titulo": "Convocatoria RIE de Proyectos Educativos Transformadores",
+    "donante": "Red Internacional de Educación",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-11-15",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Premio dirigido a a organizaciones e instituciones que desarrollen proyectos educativos transformadores con al menos dos años de trayectoria. Ofrece apoyo económico, reconocimiento y difusión. Busca destacar iniciativas educativas con impacto social, sostenibilidad y potencial de replicarse en otros contextos.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://riedu.org/wp-content/uploads/2026/08/Bases_Convocatoria_RIE_2026-2027.pdf",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-11-12T20:43:28.285Z"
   },
   {
     "id": "scraped-wepropel-edges-of-possibility-exploration-co-lab-2027-c1553ec25d",
@@ -165,7 +213,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-12T14:38:32.498Z"
+    "capturado_en": "2026-11-12T20:43:28.286Z"
   },
   {
     "id": "scraped-wepropel-human-scale-ai-incubator-2027-d9ef969c65",
@@ -189,7 +237,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-12T14:38:32.499Z"
+    "capturado_en": "2026-11-12T20:43:28.287Z"
   },
   {
     "id": "scraped-wepropel-climate-democracy-accelerator-2ad7351e4c",
@@ -213,7 +261,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-12T14:38:32.502Z"
+    "capturado_en": "2026-11-12T20:43:28.291Z"
   },
   {
     "id": "scraped-wepropel-cities-deliver-ai-solutions-for-public-servic-b27eb1fd32",
@@ -237,7 +285,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-12T14:38:32.504Z"
+    "capturado_en": "2026-11-12T20:43:28.292Z"
   },
   {
     "id": "scraped-wepropel-terre-de-femmes-international-award-2027-8a0a63880c",
@@ -261,31 +309,31 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-12T14:38:32.506Z"
+    "capturado_en": "2026-11-12T20:43:28.295Z"
   },
   {
-    "id": "scraped-wepropel-echidna-global-scholar-visiting-fellowship-20-84045544d9",
-    "titulo": "Echidna Global Scholar Visiting Fellowship 2027",
-    "donante": "Brookings Institution",
+    "id": "scraped-wepropel-fifa-global-citizen-education-fund-abfe2fe6a4",
+    "titulo": "FIFA Global Citizen Education Fund",
+    "donante": "Global Citizen (en asociación con FIFA)",
     "fuente": "Oportunidades Propel",
-    "sector": "Educación / Juventud",
-    "dimension": "social",
-    "presupuesto_usd": 26500,
-    "fecha_cierre": "2026-12-01",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 250000,
+    "fecha_cierre": "2026-12-31",
     "estado": "CONVOCATORIA VIGENTE",
     "pais_elegible": "Validar elegibilidad",
     "afinidad_pivot": 74,
-    "pivot": "Fellowship presencial de seis meses para profesionales con experiencia del Sur Global que trabajan por la igualdad de género en la educación. Ofrece estipendio, residencia de cuatro meses en Washington D. C., formación en liderazgo y acompañamiento.",
+    "pivot": "Convocatoria para financiar proyectos que amplíen el acceso a educación de calidad y actividades educativas basadas en el deporte, especialmente el fútbol, en comunidades desfavorecidas de todo el mundo. Apoya a organizaciones de base que implementan programas que mejoran resultados de aprendizaje, infraestructura educativa, prácticas inclusivas y metodologías deportivas aplicadas a la educación.",
     "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.brookings.edu/about-the-echidna-global-scholars-program-and-the-application-process/",
+    "fuente_url": "https://www.globalcitizen.org/en/",
     "tags": [
       "RASTREO EN VIVO",
       "OPORTUNIDADES PROPEL"
     ],
-    "tipo": "fondo",
+    "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-12T14:38:32.509Z"
+    "capturado_en": "2026-11-12T20:43:28.297Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
@@ -309,7 +357,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-11-12T14:38:36.575Z"
+    "capturado_en": "2026-11-12T20:43:32.397Z"
   },
   {
     "id": "scraped-wepropel-premio-carlos-slim-en-salud-2027-b5aa7f0b22",
@@ -333,7 +381,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-12T14:38:32.505Z"
+    "capturado_en": "2026-11-12T20:43:28.293Z"
   },
   {
     "id": "rie-convocatoria-2026-manual",
@@ -385,7 +433,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-12T14:38:32.496Z"
+    "capturado_en": "2026-11-12T20:43:28.284Z"
   },
   {
     "id": "scraped-wepropel-harvard-lead-fellowship-for-promoting-women-i-38c049e819",
@@ -409,7 +457,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-12T14:38:32.497Z"
+    "capturado_en": "2026-11-12T20:43:28.284Z"
   },
   {
     "id": "scraped-wepropel-global-eba-fund-medium-size-grants-0f09f17ff9",
@@ -433,7 +481,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-12T14:38:32.498Z"
+    "capturado_en": "2026-11-12T20:43:28.287Z"
   },
   {
     "id": "scraped-wepropel-regenerative-specialist-grant-00368a0729",
@@ -457,7 +505,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-12T14:38:32.500Z"
+    "capturado_en": "2026-11-12T20:43:28.288Z"
   },
   {
     "id": "scraped-wepropel-community-solutions-program-d365b56b8a",
@@ -481,55 +529,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-12T14:38:32.501Z"
-  },
-  {
-    "id": "scraped-wepropel-thrive-seed-grant-6dd22bcb3e",
-    "titulo": "Thrive Seed Grant",
-    "donante": "Thrive Philanthropy",
-    "fuente": "Oportunidades Propel",
-    "sector": "Educación / Juventud",
-    "dimension": "social",
-    "presupuesto_usd": 5000,
-    "fecha_cierre": "2026-12-01",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 67,
-    "pivot": "Grant dirigido a organizaciones pequeñas o emergentes y personas que desarrollan iniciativas para promover alternativas a la ganadería industrial. Ofrece financiamiento para promover sistemas alimentarios basados en plantas y el acceso a alimentos vegetales nutritivos.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.thrivephilanthropy.org/seedgrant/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-12T14:38:32.508Z"
-  },
-  {
-    "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
-    "titulo": "AI for Changemakers Program 2025",
-    "donante": "Tech To The Rescue",
-    "fuente": "Oportunidades Propel",
-    "sector": "Tecnología / Innovación",
-    "dimension": "social",
-    "presupuesto_usd": 60000,
-    "fecha_cierre": "2026-12-31",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 67,
-    "pivot": "El programa AI for Changemakers de Tech To The Rescue conecta a organizaciones sin fines de lucro con innovadores tecnológicos para desarrollar soluciones de inteligencia artificial que aborden los desafíos más urgentes de la humanidad. La participación es gratuita y está abierta a organizaciones de todo el mundo.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.techtotherescue.org/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-12T14:38:32.509Z"
+    "capturado_en": "2026-11-12T20:43:28.289Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -553,7 +553,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-12T14:38:32.510Z"
+    "capturado_en": "2026-11-12T20:43:28.296Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
@@ -577,7 +577,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-11-12T14:38:36.576Z"
+    "capturado_en": "2026-11-12T20:43:32.398Z"
   },
   {
     "id": "scraped-red-exposocial-fondo-de-coyuntura-politica-convocatoria-para-593b5a2ab5",
@@ -601,7 +601,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-11-12T14:38:36.576Z"
+    "capturado_en": "2026-11-12T20:43:32.398Z"
   },
   {
     "id": "scraped-wepropel-creative-practitioner-in-residence-inclusion--55e5344233",
@@ -625,7 +625,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-12T14:38:32.503Z"
+    "capturado_en": "2026-11-12T20:43:28.291Z"
   },
   {
     "id": "scraped-wepropel-eu-lac-digital-accelerator-open-call-1d88d96b8b",
@@ -649,7 +649,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-12T14:38:32.505Z"
+    "capturado_en": "2026-11-12T20:43:28.294Z"
   },
   {
     "id": "scraped-premios-portafolio-premios-portafolio-2026-6c0d0fa3ff",
@@ -673,7 +673,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-11-12T14:38:25.404Z"
+    "capturado_en": "2026-11-12T20:43:21.167Z"
   },
   {
     "id": "avery-dennison-foundation-manual",
