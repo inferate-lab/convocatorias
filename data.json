@@ -1,5 +1,29 @@
 [
   {
+    "id": "scraped-wepropel-global-health-expression-of-interest-for-impl-38303e514e",
+    "titulo": "Global Health Expression of Interest for Implementing Organizations",
+    "donante": "The Rauch Family Foundation (RFF)",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 50000000,
+    "fecha_cierre": "2026-11-19",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 88,
+    "pivot": "Grant dirigido a organizaciones sin fines de lucro y consorcios que buscan implementar proyectos de salud en Bolivia, Haití, Honduras, Nicaragua, Venezuela y otros países de ingresos bajos y medios-bajos. Ofrece financiamiento para mejorar la salud de las comunidades. La postulación tiene dos etapas: primero se presenta una expresión de interés y las organizaciones preseleccionadas son invitadas a enviar una propuesta completa.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.therauchfamilyfoundation.org/rfp",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "roja",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-11-16T14:48:38.134Z"
+  },
+  {
     "id": "scraped-wepropel-research-grant-competition-4-7fcf90c09a",
     "titulo": "Research Grant Competition 4",
     "donante": "Global Centre on Biodiversity for Climate (GCBC)",
@@ -21,7 +45,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-16T04:47:14.726Z"
+    "capturado_en": "2026-11-16T14:48:38.148Z"
   },
   {
     "id": "scraped-wepropel-the-illegal-wildlife-trade-challenge-fund-15efae0783",
@@ -45,7 +69,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-16T04:47:14.721Z"
+    "capturado_en": "2026-11-16T14:48:38.137Z"
   },
   {
     "id": "scraped-red-exposocial-apoyos-de-respuesta-rapida-convocatoria-para--97707cba23",
@@ -69,31 +93,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-11-16T04:47:18.590Z"
-  },
-  {
-    "id": "scraped-wepropel-edges-of-possibility-exploration-co-lab-2027-c1553ec25d",
-    "titulo": "Edges of Possibility Exploration Co-Lab 2027",
-    "donante": "Unearthodox",
-    "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-11-16",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 74,
-    "pivot": "Grant e incubadora dirigida a personas y organizaciones con iniciativas innovadoras en etapa temprana que aborden conjuntamente desafíos sociales y ambientales desde un enfoque de cambio sistémico. Ofrece financiamiento y acompañamiento para desarrollar iniciativas transformadoras.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://unearthodox.org/2026/09/open-call-edges-of-possibility-exploration-co-lab-2027/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-16T04:47:14.719Z"
+    "capturado_en": "2026-11-16T14:48:41.854Z"
   },
   {
     "id": "scraped-wepropel-human-scale-ai-incubator-2027-d9ef969c65",
@@ -117,7 +117,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-16T04:47:14.720Z"
+    "capturado_en": "2026-11-16T14:48:38.135Z"
   },
   {
     "id": "scraped-wepropel-climate-democracy-accelerator-2ad7351e4c",
@@ -141,7 +141,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-16T04:47:14.722Z"
+    "capturado_en": "2026-11-16T14:48:38.139Z"
   },
   {
     "id": "scraped-wepropel-cities-deliver-ai-solutions-for-public-servic-b27eb1fd32",
@@ -165,7 +165,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-16T04:47:14.723Z"
+    "capturado_en": "2026-11-16T14:48:38.142Z"
   },
   {
     "id": "scraped-wepropel-terre-de-femmes-international-award-2027-8a0a63880c",
@@ -189,7 +189,103 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-16T04:47:14.725Z"
+    "capturado_en": "2026-11-16T14:48:38.147Z"
+  },
+  {
+    "id": "scraped-wepropel-echidna-global-scholar-visiting-fellowship-20-84045544d9",
+    "titulo": "Echidna Global Scholar Visiting Fellowship 2027",
+    "donante": "Brookings Institution",
+    "fuente": "Oportunidades Propel",
+    "sector": "Educación / Juventud",
+    "dimension": "social",
+    "presupuesto_usd": 26500,
+    "fecha_cierre": "2026-12-01",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Fellowship presencial de seis meses para profesionales con experiencia del Sur Global que trabajan por la igualdad de género en la educación. Ofrece estipendio, residencia de cuatro meses en Washington D. C., formación en liderazgo y acompañamiento.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.brookings.edu/about-the-echidna-global-scholars-program-and-the-application-process/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-11-16T14:48:38.149Z"
+  },
+  {
+    "id": "scraped-wepropel-climate-intervention-environmental-impact-fun-837a8e5a7b",
+    "titulo": "Climate Intervention Environmental Impact Fund",
+    "donante": "Climate Intervention Environmental Impact Fund",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 75000,
+    "fecha_cierre": "2026-12-01",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Grant dirigido a organizaciones que buscan evaluar los posibles impactos de tecnologías innovadoras de intervención climática antes de realizar pruebas de campo. Financia evaluaciones de impacto ambiental, estudios predictivos y consultas con comunidades y otros actores potencialmente afectados. Además, ofrece asesoramiento y consultas del equipo de CIEIF para acompañar el avance de los proyectos financiados.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://cieif.org/guidelines-for-grant-applicants/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-11-16T14:48:38.150Z"
+  },
+  {
+    "id": "scraped-wepropel-nature-culture-fellowship-program-a7798482b0",
+    "titulo": "Nature Culture Fellowship Program",
+    "donante": "Kinship",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 2000,
+    "fecha_cierre": "2026-12-01",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Fellowship dirigido a agentes de cambio interesados en explorar cómo la narración de historias, el activismo artístico y la cultura pueden impulsar el cambio socioambiental y transformar los sistemas. Ofrece un programa de aprendizaje en línea, financiamiento y mentoría personalizada para implementar el proyecto comunitario.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.kinship.earth/nature-culture-fellowship",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-11-16T14:48:38.151Z"
+  },
+  {
+    "id": "scraped-wepropel-f-m-kirby-impact-prize-2027-b49362cc3f",
+    "titulo": "F. M. Kirby Impact Prize 2027",
+    "donante": "CASE (Duke University Fuqua School of Business)",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 150000,
+    "fecha_cierre": "2026-12-02",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Premio global que otorga financiamiento sin restricciones a organizaciones sin fines de lucro, empresas y modelos híbridos que buscan escalar soluciones a problemas sociales o ambientales. Está dirigido a organizaciones con resultados de impacto comprobados, al menos tres años de indicadores de desempeño (KPIs) y una estrategia clara para ampliar el alcance o la profundidad de su impacto en los próximos 3 a 5 años.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://kirbyimpactprize.smapply.org/prog/2027kirbyprize/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "roja",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-11-16T14:48:38.152Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-561a7db41a",
@@ -213,7 +309,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-11-16T04:47:18.590Z"
+    "capturado_en": "2026-11-16T14:48:41.853Z"
   },
   {
     "id": "scraped-wepropel-premio-carlos-slim-en-salud-2027-b5aa7f0b22",
@@ -237,31 +333,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-16T04:47:14.723Z"
-  },
-  {
-    "id": "scraped-wepropel-global-eba-fund-medium-size-grants-0f09f17ff9",
-    "titulo": "Global EbA Fund: Medium-Size Grants",
-    "donante": "Global EbA Fund",
-    "fuente": "Oportunidades Propel",
-    "sector": "Educación / Juventud",
-    "dimension": "social",
-    "presupuesto_usd": 500000,
-    "fecha_cierre": "2026-11-16",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 67,
-    "pivot": "Grant dirigido a organizaciones que desarrollen iniciativas innovadoras de Adaptación basada en Ecosistemas. Ofrece financiamiento para proyectos de hasta 24 meses que busquen escalar soluciones y generar cambios sistémicos frente al cambio climático.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://globalebafund.org/medium-size-grants/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "roja",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-16T04:47:14.719Z"
+    "capturado_en": "2026-11-16T14:48:38.145Z"
   },
   {
     "id": "scraped-wepropel-regenerative-specialist-grant-00368a0729",
@@ -285,7 +357,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-16T04:47:14.720Z"
+    "capturado_en": "2026-11-16T14:48:38.136Z"
   },
   {
     "id": "scraped-wepropel-community-solutions-program-d365b56b8a",
@@ -309,7 +381,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-16T04:47:14.721Z"
+    "capturado_en": "2026-11-16T14:48:38.138Z"
   },
   {
     "id": "scraped-wepropel-thrive-seed-grant-6dd22bcb3e",
@@ -333,7 +405,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-16T04:47:14.726Z"
+    "capturado_en": "2026-11-16T14:48:38.148Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -357,7 +429,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-16T04:47:14.727Z"
+    "capturado_en": "2026-11-16T14:48:38.154Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -381,7 +453,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-16T04:47:14.727Z"
+    "capturado_en": "2026-11-16T14:48:38.154Z"
   },
   {
     "id": "scraped-red-exposocial-google-para-nonprofits-convocatoria-para-osc-1b17945299",
@@ -405,7 +477,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-11-16T04:47:18.590Z"
+    "capturado_en": "2026-11-16T14:48:41.854Z"
   },
   {
     "id": "scraped-red-exposocial-fondo-de-coyuntura-politica-convocatoria-para-593b5a2ab5",
@@ -429,7 +501,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "red-exposocial",
-    "capturado_en": "2026-11-16T04:47:18.590Z"
+    "capturado_en": "2026-11-16T14:48:41.854Z"
   },
   {
     "id": "scraped-wepropel-creative-practitioner-in-residence-inclusion--55e5344233",
@@ -453,7 +525,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-16T04:47:14.722Z"
+    "capturado_en": "2026-11-16T14:48:38.141Z"
   },
   {
     "id": "scraped-wepropel-eu-lac-digital-accelerator-open-call-1d88d96b8b",
@@ -477,7 +549,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-16T04:47:14.724Z"
+    "capturado_en": "2026-11-16T14:48:38.146Z"
   },
   {
     "id": "scraped-premios-portafolio-premios-portafolio-2026-6c0d0fa3ff",
@@ -501,7 +573,55 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-11-16T04:47:08.010Z"
+    "capturado_en": "2026-11-16T14:48:32.093Z"
+  },
+  {
+    "id": "scraped-wepropel-yale-world-fellows-2027-eb85526a6c",
+    "titulo": "Yale World Fellows 2027",
+    "donante": "Yale Jackson School of Global Affairs",
+    "fuente": "Oportunidades Propel",
+    "sector": "Educación / Juventud",
+    "dimension": "social",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-12-02",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 58,
+    "pivot": "Fellowship presencial dirigido a líderes internacionales con trayectoria profesional e impacto demostrado. Ofrece estipendio, alojamiento, seguro médico, viajes, formación en liderazgo, mentoría y conexiones profesionales en Yale University.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://jackson.yale.edu/international-leadership-center/yale-world-fellows",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-11-16T14:48:38.152Z"
+  },
+  {
+    "id": "scraped-wepropel-2027-nrdc-climate-storytelling-fellowship-b551ed75c4",
+    "titulo": "2027 NRDC Climate Storytelling Fellowship",
+    "donante": "The black list | Natural Resources Defense Council",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 20000,
+    "fecha_cierre": "2026-12-04",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 58,
+    "pivot": "Fellowship para guionistas que buscan incorporar el cambio climático en historias de cine y televisión. Ofrece financiamiento, mentoría de guionistas profesionales y asesoramiento de expertos en clima para revisar y mejorar sus guiones durante seis meses. Los proyectos revisados podrán ser considerados para su desarrollo por estudios, agencias y productoras audiovisuales.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://blcklst.com/programs/2027-nrdc-climate-storytelling-fellowship",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-11-16T14:48:38.153Z"
   },
   {
     "id": "avery-dennison-foundation-manual",
