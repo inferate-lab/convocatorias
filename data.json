@@ -1,29 +1,5 @@
 [
   {
-    "id": "scraped-wepropel-global-health-expression-of-interest-for-impl-38303e514e",
-    "titulo": "Global Health Expression of Interest for Implementing Organizations",
-    "donante": "The Rauch Family Foundation (RFF)",
-    "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 50000000,
-    "fecha_cierre": "2026-11-19",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 88,
-    "pivot": "Grant dirigido a organizaciones sin fines de lucro y consorcios que buscan implementar proyectos de salud en Bolivia, Haití, Honduras, Nicaragua, Venezuela y otros países de ingresos bajos y medios-bajos. Ofrece financiamiento para mejorar la salud de las comunidades. La postulación tiene dos etapas: primero se presenta una expresión de interés y las organizaciones preseleccionadas son invitadas a enviar una propuesta completa.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.therauchfamilyfoundation.org/rfp",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "roja",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-19T21:17:47.927Z"
-  },
-  {
     "id": "scraped-wepropel-research-grant-competition-4-7fcf90c09a",
     "titulo": "Research Grant Competition 4",
     "donante": "Global Centre on Biodiversity for Climate (GCBC)",
@@ -45,7 +21,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-19T21:17:47.938Z"
+    "capturado_en": "2026-11-20T00:18:58.125Z"
   },
   {
     "id": "scraped-wepropel-the-illegal-wildlife-trade-challenge-fund-15efae0783",
@@ -69,7 +45,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-19T21:17:47.929Z"
+    "capturado_en": "2026-11-20T00:18:58.115Z"
   },
   {
     "id": "scraped-wepropel-human-scale-ai-incubator-2027-d9ef969c65",
@@ -93,7 +69,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-19T21:17:47.928Z"
+    "capturado_en": "2026-11-20T00:18:58.114Z"
   },
   {
     "id": "scraped-wepropel-climate-democracy-accelerator-2ad7351e4c",
@@ -117,7 +93,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-19T21:17:47.931Z"
+    "capturado_en": "2026-11-20T00:18:58.117Z"
   },
   {
     "id": "scraped-wepropel-cities-deliver-ai-solutions-for-public-servic-b27eb1fd32",
@@ -141,7 +117,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-19T21:17:47.935Z"
+    "capturado_en": "2026-11-20T00:18:58.119Z"
   },
   {
     "id": "scraped-wepropel-terre-de-femmes-international-award-2027-8a0a63880c",
@@ -165,7 +141,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-19T21:17:47.937Z"
+    "capturado_en": "2026-11-20T00:18:58.120Z"
   },
   {
     "id": "scraped-wepropel-echidna-global-scholar-visiting-fellowship-20-84045544d9",
@@ -189,7 +165,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-19T21:17:47.939Z"
+    "capturado_en": "2026-11-20T00:18:58.126Z"
   },
   {
     "id": "scraped-wepropel-climate-intervention-environmental-impact-fun-837a8e5a7b",
@@ -213,7 +189,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-19T21:17:47.940Z"
+    "capturado_en": "2026-11-20T00:18:58.127Z"
   },
   {
     "id": "scraped-wepropel-nature-culture-fellowship-program-a7798482b0",
@@ -237,7 +213,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-19T21:17:47.940Z"
+    "capturado_en": "2026-11-20T00:18:58.127Z"
   },
   {
     "id": "scraped-wepropel-f-m-kirby-impact-prize-2027-b49362cc3f",
@@ -261,7 +237,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-19T21:17:47.942Z"
+    "capturado_en": "2026-11-20T00:18:58.128Z"
   },
   {
     "id": "scraped-wepropel-premio-carlos-slim-en-salud-2027-b5aa7f0b22",
@@ -285,7 +261,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-19T21:17:47.936Z"
+    "capturado_en": "2026-11-20T00:18:58.119Z"
   },
   {
     "id": "scraped-wepropel-regenerative-specialist-grant-00368a0729",
@@ -309,7 +285,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-19T21:17:47.929Z"
+    "capturado_en": "2026-11-20T00:18:58.115Z"
   },
   {
     "id": "scraped-wepropel-community-solutions-program-d365b56b8a",
@@ -333,7 +309,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-19T21:17:47.930Z"
+    "capturado_en": "2026-11-20T00:18:58.116Z"
   },
   {
     "id": "scraped-wepropel-thrive-seed-grant-6dd22bcb3e",
@@ -357,7 +333,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-19T21:17:47.938Z"
+    "capturado_en": "2026-11-20T00:18:58.126Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -381,7 +357,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-19T21:17:47.943Z"
+    "capturado_en": "2026-11-20T00:18:58.129Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -405,7 +381,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-19T21:17:47.944Z"
+    "capturado_en": "2026-11-20T00:18:58.129Z"
   },
   {
     "id": "scraped-wepropel-creative-practitioner-in-residence-inclusion--55e5344233",
@@ -429,7 +405,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-19T21:17:47.934Z"
+    "capturado_en": "2026-11-20T00:18:58.118Z"
   },
   {
     "id": "scraped-wepropel-eu-lac-digital-accelerator-open-call-1d88d96b8b",
@@ -453,7 +429,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-19T21:17:47.937Z"
+    "capturado_en": "2026-11-20T00:18:58.120Z"
   },
   {
     "id": "scraped-premios-portafolio-premios-portafolio-2026-6c0d0fa3ff",
@@ -477,7 +453,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-11-19T21:17:40.567Z"
+    "capturado_en": "2026-11-20T00:18:50.438Z"
   },
   {
     "id": "scraped-wepropel-yale-world-fellows-2027-eb85526a6c",
@@ -501,7 +477,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-19T21:17:47.941Z"
+    "capturado_en": "2026-11-20T00:18:58.128Z"
   },
   {
     "id": "scraped-wepropel-2027-nrdc-climate-storytelling-fellowship-b551ed75c4",
@@ -525,7 +501,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-19T21:17:47.943Z"
+    "capturado_en": "2026-11-20T00:18:58.129Z"
   },
   {
     "id": "avery-dennison-foundation-manual",
