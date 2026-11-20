@@ -21,7 +21,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-20T00:18:58.125Z"
+    "capturado_en": "2026-11-20T14:54:31.204Z"
   },
   {
     "id": "scraped-wepropel-the-illegal-wildlife-trade-challenge-fund-15efae0783",
@@ -45,31 +45,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-20T00:18:58.115Z"
-  },
-  {
-    "id": "scraped-wepropel-human-scale-ai-incubator-2027-d9ef969c65",
-    "titulo": "Human-Scale AI Incubator 2027",
-    "donante": "Mozilla Foundation",
-    "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 500000,
-    "fecha_cierre": "2026-11-20",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 74,
-    "pivot": "Programa global de incubación que ofrece financiamiento y acompañamiento a equipos que desarrollan soluciones de inteligencia artificial adaptadas a problemas y comunidades específicas. Busca tecnologías funcionales que utilicen modelos pequeños, reduzcan el consumo de recursos y permitan a las personas mayor control sobre sus datos. Seleccionará siete proyectos con evidencia inicial de uso y potencial para crecer, ofreciendo mentoría técnica, conexiones estratégicas y acceso a la red global de Mozilla.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.mozillafoundation.org/en/what-we-do/grantmaking/incubator/human-scale-ai/call-for-proposals/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "roja",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-20T00:18:58.114Z"
+    "capturado_en": "2026-11-20T14:54:31.194Z"
   },
   {
     "id": "scraped-wepropel-climate-democracy-accelerator-2ad7351e4c",
@@ -93,7 +69,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-20T00:18:58.117Z"
+    "capturado_en": "2026-11-20T14:54:31.199Z"
   },
   {
     "id": "scraped-wepropel-cities-deliver-ai-solutions-for-public-servic-b27eb1fd32",
@@ -117,7 +93,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-20T00:18:58.119Z"
+    "capturado_en": "2026-11-20T14:54:31.200Z"
   },
   {
     "id": "scraped-wepropel-terre-de-femmes-international-award-2027-8a0a63880c",
@@ -141,7 +117,31 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-20T00:18:58.120Z"
+    "capturado_en": "2026-11-20T14:54:31.204Z"
+  },
+  {
+    "id": "scraped-wepropel-catalyst-fellowship-2027-d7481ac190",
+    "titulo": "Catalyst Fellowship 2027",
+    "donante": "EDSAFE AI Alliance",
+    "fuente": "Oportunidades Propel",
+    "sector": "Educación / Juventud",
+    "dimension": "social",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-11-30",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Fellowship de liderazgo dirigido a docentes, directivos escolares, profesionales de tecnología, responsables de políticas públicas y líderes comunitarios de cualquier país interesados en la inteligencia artificial aplicada a la educación. Ofrece talleres interactivos, mentoría de especialistas. aprendizaje colaborativo y apoyo para desarrollar un proyecto práctico que promueva el uso seguro, ético y equitativo de la IA.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.edsafeai.org/fellowship",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-11-20T14:54:31.205Z"
   },
   {
     "id": "scraped-wepropel-echidna-global-scholar-visiting-fellowship-20-84045544d9",
@@ -165,7 +165,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-20T00:18:58.126Z"
+    "capturado_en": "2026-11-20T14:54:31.206Z"
   },
   {
     "id": "scraped-wepropel-climate-intervention-environmental-impact-fun-837a8e5a7b",
@@ -189,7 +189,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-20T00:18:58.127Z"
+    "capturado_en": "2026-11-20T14:54:31.207Z"
   },
   {
     "id": "scraped-wepropel-nature-culture-fellowship-program-a7798482b0",
@@ -213,31 +213,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-20T00:18:58.127Z"
-  },
-  {
-    "id": "scraped-wepropel-f-m-kirby-impact-prize-2027-b49362cc3f",
-    "titulo": "F. M. Kirby Impact Prize 2027",
-    "donante": "CASE (Duke University Fuqua School of Business)",
-    "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 150000,
-    "fecha_cierre": "2026-12-02",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 74,
-    "pivot": "Premio global que otorga financiamiento sin restricciones a organizaciones sin fines de lucro, empresas y modelos híbridos que buscan escalar soluciones a problemas sociales o ambientales. Está dirigido a organizaciones con resultados de impacto comprobados, al menos tres años de indicadores de desempeño (KPIs) y una estrategia clara para ampliar el alcance o la profundidad de su impacto en los próximos 3 a 5 años.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://kirbyimpactprize.smapply.org/prog/2027kirbyprize/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "roja",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-20T00:18:58.128Z"
+    "capturado_en": "2026-11-20T14:54:31.207Z"
   },
   {
     "id": "scraped-wepropel-premio-carlos-slim-en-salud-2027-b5aa7f0b22",
@@ -261,7 +237,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-20T00:18:58.119Z"
+    "capturado_en": "2026-11-20T14:54:31.201Z"
   },
   {
     "id": "scraped-wepropel-regenerative-specialist-grant-00368a0729",
@@ -285,7 +261,31 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-20T00:18:58.115Z"
+    "capturado_en": "2026-11-20T14:54:31.193Z"
+  },
+  {
+    "id": "scraped-wepropel-get-loud-award-2026-nonprofits-of-the-year-fba656adb3",
+    "titulo": "GET LOUD Award: 2026 Nonprofits of the Year",
+    "donante": "The Elevate Prize Foundation | Good Good Good News",
+    "fuente": "Oportunidades Propel",
+    "sector": "Cooperación / Grants",
+    "dimension": "social",
+    "presupuesto_usd": 25000,
+    "fecha_cierre": "2026-11-23",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 67,
+    "pivot": "Premio dirigido a organizaciones sin fines de lucro con ingresos anuales inferiores a USD 1 millón. Ofrece financiamiento no restringido a dos organizaciones que rara vez aparecen en los titulares de los medios, pero que trabajan constantemente junto a sus comunidades y generan un impacto significativo. Las organizaciones ganadoras serán seleccionadas mediante un proceso de nominación pública en Instagram.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://elevateprize.org/get-loud-award/?utm_source",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-11-20T14:54:31.198Z"
   },
   {
     "id": "scraped-wepropel-community-solutions-program-d365b56b8a",
@@ -309,7 +309,31 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-20T00:18:58.116Z"
+    "capturado_en": "2026-11-20T14:54:31.199Z"
+  },
+  {
+    "id": "scraped-wepropel-the-pollination-project-daily-grant-7665801bca",
+    "titulo": "The Pollination Project – Daily Grant",
+    "donante": "The Pollination Project",
+    "fuente": "Oportunidades Propel",
+    "sector": "Desarrollo social / Derechos",
+    "dimension": "social",
+    "presupuesto_usd": 500,
+    "fecha_cierre": "2026-11-30",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 67,
+    "pivot": "Grant para personas, grupos informales y organizaciones sin fines de lucro que desarrollen iniciativas de base en etapa inicial y ya hayan comenzado a implementarlas. Además del apoyo financiero, brinda acompañamiento, conexión con otros financiadores y visibilidad dentro de una comunidad global de agentes de cambio.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://thepollinationproject.org/apply/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-11-20T14:54:31.202Z"
   },
   {
     "id": "scraped-wepropel-thrive-seed-grant-6dd22bcb3e",
@@ -333,7 +357,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-20T00:18:58.126Z"
+    "capturado_en": "2026-11-20T14:54:31.206Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -357,7 +381,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-20T00:18:58.129Z"
+    "capturado_en": "2026-11-20T14:54:31.208Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -381,7 +405,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-20T00:18:58.129Z"
+    "capturado_en": "2026-11-20T14:54:31.209Z"
   },
   {
     "id": "scraped-wepropel-creative-practitioner-in-residence-inclusion--55e5344233",
@@ -405,7 +429,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-20T00:18:58.118Z"
+    "capturado_en": "2026-11-20T14:54:31.200Z"
   },
   {
     "id": "scraped-wepropel-eu-lac-digital-accelerator-open-call-1d88d96b8b",
@@ -429,7 +453,31 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-20T00:18:58.120Z"
+    "capturado_en": "2026-11-20T14:54:31.203Z"
+  },
+  {
+    "id": "scraped-wepropel-women-in-ai-fellowship-2027-4ab4b64a4f",
+    "titulo": "Women in AI Fellowship 2027",
+    "donante": "EDSAFE AI Alliance",
+    "fuente": "Oportunidades Propel",
+    "sector": "Educación / Juventud",
+    "dimension": "social",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-11-30",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 65,
+    "pivot": "Fellowship de 12 meses para mujeres que trabajan en tecnología, inteligencia artificial, educación, investigación o políticas educativas. Ofrece talleres virtuales, mentoría y aprendizaje entre pares para desarrollar un proyecto práctico que fortalezca su liderazgo e impulse el uso seguro, ético y equitativo de la inteligencia artificial en educación.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.edsafeai.org/fellowship",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-11-20T14:54:31.205Z"
   },
   {
     "id": "scraped-premios-portafolio-premios-portafolio-2026-6c0d0fa3ff",
@@ -453,7 +501,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-11-20T00:18:50.438Z"
+    "capturado_en": "2026-11-20T14:54:24.489Z"
   },
   {
     "id": "scraped-wepropel-yale-world-fellows-2027-eb85526a6c",
@@ -477,31 +525,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-20T00:18:58.128Z"
-  },
-  {
-    "id": "scraped-wepropel-2027-nrdc-climate-storytelling-fellowship-b551ed75c4",
-    "titulo": "2027 NRDC Climate Storytelling Fellowship",
-    "donante": "The black list | Natural Resources Defense Council",
-    "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 20000,
-    "fecha_cierre": "2026-12-04",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 58,
-    "pivot": "Fellowship para guionistas que buscan incorporar el cambio climático en historias de cine y televisión. Ofrece financiamiento, mentoría de guionistas profesionales y asesoramiento de expertos en clima para revisar y mejorar sus guiones durante seis meses. Los proyectos revisados podrán ser considerados para su desarrollo por estudios, agencias y productoras audiovisuales.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://blcklst.com/programs/2027-nrdc-climate-storytelling-fellowship",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-20T00:18:58.129Z"
+    "capturado_en": "2026-11-20T14:54:31.208Z"
   },
   {
     "id": "avery-dennison-foundation-manual",
