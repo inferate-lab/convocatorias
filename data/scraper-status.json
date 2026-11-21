@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-20T23:41:18.053Z",
+  "last_run": "2026-11-21T05:40:21.608Z",
   "active_opportunities": 23,
   "scraped_opportunities": 23,
   "sources_ok": 7,
@@ -39,7 +39,7 @@
       "name": "ONG Link",
       "status": "failed",
       "found": 0,
-      "message": "connect ETIMEDOUT 191.96.144.1:443; connect ENETUNREACH 2a02:4780:21:dc03:a0b1:a248:46c8:5d8f:443 - Local (:::0); connect ETIMEDOUT 195.35.60.104:443; connect ENETUNREACH 2a02:4780:1d:b788:1006:169e:fc16:2d2:443 - Local (:::0)"
+      "message": "Request failed with status code 404"
     },
     {
       "id": "wepropel",
