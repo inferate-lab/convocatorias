@@ -21,31 +21,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-23T05:48:48.131Z"
-  },
-  {
-    "id": "scraped-wepropel-the-illegal-wildlife-trade-challenge-fund-15efae0783",
-    "titulo": "The Illegal Wildlife Trade Challenge Fund",
-    "donante": "Gobierno del Reino Unido",
-    "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-11-23",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Colombia mencionada ✓",
-    "afinidad_pivot": 81,
-    "pivot": "Grants del Gobierno del Reino Unido para organizaciones que desarrollan proyectos contra el comercio ilegal de vida silvestre y otros delitos ambientales en países en desarrollo. Ofrece financiamiento para investigar, implementar o ampliar soluciones que reduzcan estas actividades ilegales y contribuyan a disminuir la pobreza. Apoya iniciativas de conservación, fortalecimiento de leyes, reducción de la demanda y desarrollo de medios de vida sostenibles.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://iwt.challengefund.org.uk/how-to-apply/",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-23T05:48:48.122Z"
+    "capturado_en": "2026-11-23T17:25:34.721Z"
   },
   {
     "id": "scraped-wepropel-climate-democracy-accelerator-2ad7351e4c",
@@ -69,7 +45,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-23T05:48:48.124Z"
+    "capturado_en": "2026-11-23T17:25:34.714Z"
   },
   {
     "id": "scraped-wepropel-cities-deliver-ai-solutions-for-public-servic-b27eb1fd32",
@@ -93,7 +69,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-23T05:48:48.126Z"
+    "capturado_en": "2026-11-23T17:25:34.716Z"
   },
   {
     "id": "scraped-wepropel-terre-de-femmes-international-award-2027-8a0a63880c",
@@ -117,7 +93,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-23T05:48:48.131Z"
+    "capturado_en": "2026-11-23T17:25:34.720Z"
   },
   {
     "id": "scraped-wepropel-catalyst-fellowship-2027-d7481ac190",
@@ -141,7 +117,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-23T05:48:48.132Z"
+    "capturado_en": "2026-11-23T17:25:34.722Z"
   },
   {
     "id": "scraped-wepropel-echidna-global-scholar-visiting-fellowship-20-84045544d9",
@@ -165,7 +141,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-23T05:48:48.134Z"
+    "capturado_en": "2026-11-23T17:25:34.724Z"
   },
   {
     "id": "scraped-wepropel-climate-intervention-environmental-impact-fun-837a8e5a7b",
@@ -189,7 +165,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-23T05:48:48.134Z"
+    "capturado_en": "2026-11-23T17:25:34.724Z"
   },
   {
     "id": "scraped-wepropel-nature-culture-fellowship-program-a7798482b0",
@@ -213,7 +189,55 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-23T05:48:48.135Z"
+    "capturado_en": "2026-11-23T17:25:34.728Z"
+  },
+  {
+    "id": "scraped-wepropel-convocatoria-de-proyectos-2027-c241c21ce0",
+    "titulo": "Convocatoria de Proyectos 2027",
+    "donante": "Fundación Dona Tu Cora",
+    "fuente": "Oportunidades Propel",
+    "sector": "Educación / Juventud",
+    "dimension": "social",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-12-04",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Convocatoria de grants para organizaciones sin fines de lucro de El Salvador con al menos tres años de trayectoria, que desarrollan proyectos sociales en salud, educación, oportunidades y valores. Ofrece financiamiento para iniciativas que buscan mejorar las condiciones de vida de personas en situación de necesidad. Las organizaciones seleccionadas recibirán fondos durante 2027 y deberán presentar informes periódicos sobre la ejecución de sus proyectos.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://drive.google.com/file/d/1j_4RwR_5sx4vYqeRSU8GprK-_ahR1qOr/view?fbclid=PAZXh0bgNhZW0CMTEAcGRvZgJzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAafWLcKcmnGJo961HQbL4aFtoV_pUrkeaRLesBYIRfUi-SCNYmzTOLFhPoLKsQ_aem_z9PICJM7kt4XDvEOgvK1qQ",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-11-23T17:25:34.730Z"
+  },
+  {
+    "id": "scraped-wepropel-erase-indifference-challenge-2026-09b7f671ff",
+    "titulo": "Erase Indifference Challenge 2026",
+    "donante": "Auschwitz Pledge Foundation",
+    "fuente": "Oportunidades Propel",
+    "sector": "Educación / Juventud",
+    "dimension": "social",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-12-04",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Premio global dirigido a ONG, empresas sociales, startups e instituciones públicas y educativas que hayan implementado iniciativas para reducir la indiferencia frente a la discriminación. Reconoce proyectos en curso o finalizados, con resultados demostrables, mediante premios económicos y visibilidad internacional.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://www.eraseindifference.org/challenge/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-11-23T17:25:34.730Z"
   },
   {
     "id": "scraped-wepropel-premio-carlos-slim-en-salud-2027-b5aa7f0b22",
@@ -237,31 +261,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-23T05:48:48.127Z"
-  },
-  {
-    "id": "scraped-wepropel-get-loud-award-2026-nonprofits-of-the-year-fba656adb3",
-    "titulo": "GET LOUD Award: 2026 Nonprofits of the Year",
-    "donante": "The Elevate Prize Foundation | Good Good Good News",
-    "fuente": "Oportunidades Propel",
-    "sector": "Cooperación / Grants",
-    "dimension": "social",
-    "presupuesto_usd": 25000,
-    "fecha_cierre": "2026-11-23",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 67,
-    "pivot": "Premio dirigido a organizaciones sin fines de lucro con ingresos anuales inferiores a USD 1 millón. Ofrece financiamiento no restringido a dos organizaciones que rara vez aparecen en los titulares de los medios, pero que trabajan constantemente junto a sus comunidades y generan un impacto significativo. Las organizaciones ganadoras serán seleccionadas mediante un proceso de nominación pública en Instagram.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://elevateprize.org/get-loud-award/?utm_source",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-23T05:48:48.123Z"
+    "capturado_en": "2026-11-23T17:25:34.716Z"
   },
   {
     "id": "scraped-wepropel-community-solutions-program-d365b56b8a",
@@ -285,7 +285,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-23T05:48:48.124Z"
+    "capturado_en": "2026-11-23T17:25:34.713Z"
   },
   {
     "id": "scraped-wepropel-the-pollination-project-daily-grant-7665801bca",
@@ -309,7 +309,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-23T05:48:48.130Z"
+    "capturado_en": "2026-11-23T17:25:34.719Z"
   },
   {
     "id": "scraped-wepropel-thrive-seed-grant-6dd22bcb3e",
@@ -333,7 +333,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-23T05:48:48.133Z"
+    "capturado_en": "2026-11-23T17:25:34.723Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -357,7 +357,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-23T05:48:48.137Z"
+    "capturado_en": "2026-11-23T17:25:34.732Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -381,7 +381,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-23T05:48:48.137Z"
+    "capturado_en": "2026-11-23T17:25:34.733Z"
   },
   {
     "id": "scraped-wepropel-creative-practitioner-in-residence-inclusion--55e5344233",
@@ -405,7 +405,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-23T05:48:48.125Z"
+    "capturado_en": "2026-11-23T17:25:34.715Z"
   },
   {
     "id": "scraped-wepropel-eu-lac-digital-accelerator-open-call-1d88d96b8b",
@@ -429,7 +429,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-23T05:48:48.130Z"
+    "capturado_en": "2026-11-23T17:25:34.719Z"
   },
   {
     "id": "scraped-wepropel-women-in-ai-fellowship-2027-4ab4b64a4f",
@@ -453,7 +453,31 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-23T05:48:48.132Z"
+    "capturado_en": "2026-11-23T17:25:34.723Z"
+  },
+  {
+    "id": "scraped-wepropel-nextgen-higher-education-grant-8b1ac29d6b",
+    "titulo": "NextGen Higher Education Grant",
+    "donante": "Interledger Foundation",
+    "fuente": "Oportunidades Propel",
+    "sector": "Educación / Juventud",
+    "dimension": "social",
+    "presupuesto_usd": 50000,
+    "fecha_cierre": "2026-12-14",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 65,
+    "pivot": "Grant dirigido a instituciones de educación superior para impulsar el desarrollo curricular, la investigación y el aprendizaje práctico en Open Payments, interoperabilidad y finanzas digitales inclusivas.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://interledger.org/grant/education/nextgen/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-11-23T17:25:34.731Z"
   },
   {
     "id": "scraped-premios-portafolio-premios-portafolio-2026-6c0d0fa3ff",
@@ -477,7 +501,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-11-23T05:48:41.884Z"
+    "capturado_en": "2026-11-23T17:24:54.300Z"
   },
   {
     "id": "scraped-wepropel-yale-world-fellows-2027-eb85526a6c",
@@ -501,7 +525,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-23T05:48:48.136Z"
+    "capturado_en": "2026-11-23T17:25:34.729Z"
   },
   {
     "id": "avery-dennison-foundation-manual",
