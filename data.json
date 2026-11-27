@@ -21,31 +21,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-27T01:29:44.049Z"
-  },
-  {
-    "id": "scraped-wepropel-climate-democracy-accelerator-2ad7351e4c",
-    "titulo": "Climate Democracy Accelerator",
-    "donante": "Waverley Street Foundation | People Powered",
-    "fuente": "Oportunidades Propel",
-    "sector": "Ambiente / Sostenibilidad",
-    "dimension": "ambiental",
-    "presupuesto_usd": 25000,
-    "fecha_cierre": "2026-11-27",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 74,
-    "pivot": "Grant y aceleradora de seis meses dirigido a organizaciones de la sociedad civil en alianza con instituciones gubernamentales que quieran diseñar e implementar proyectos enfocados en energía renovable o agricultura regenerativa. Ofrece financiamiento, mentoría personalizada durante todo el proceso, recursos prácticos, sesiones en vivo y espacios de colaboración entre participantes del mismo país.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.peoplepowered.org/climate-democracy-accelerator",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-27T01:29:44.044Z"
+    "capturado_en": "2026-11-27T16:09:27.032Z"
   },
   {
     "id": "scraped-wepropel-cities-deliver-ai-solutions-for-public-servic-b27eb1fd32",
@@ -69,7 +45,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-27T01:29:44.046Z"
+    "capturado_en": "2026-11-27T16:09:27.029Z"
   },
   {
     "id": "scraped-wepropel-terre-de-femmes-international-award-2027-8a0a63880c",
@@ -93,7 +69,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-27T01:29:44.048Z"
+    "capturado_en": "2026-11-27T16:09:27.032Z"
   },
   {
     "id": "scraped-wepropel-catalyst-fellowship-2027-d7481ac190",
@@ -117,7 +93,31 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-27T01:29:44.050Z"
+    "capturado_en": "2026-11-27T16:09:27.034Z"
+  },
+  {
+    "id": "scraped-wepropel-green-spark-fund-2a760e48a0",
+    "titulo": "Green Spark Fund",
+    "donante": "Communities for Nature",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 0,
+    "fecha_cierre": "2026-11-30",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Grant para organizaciones de base y grupos comunitarios que desarrollan iniciativas de conservación ambiental y fortalecimiento comunitario. Ofrece financiamiento inicial, mentoría y acompañamiento a largo plazo para que líderes locales transformen sus ideas en acciones ambientales duraderas, fortalezcan sus organizaciones y generen un impacto duradero.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://communitiesfornature.org/green-spark-fund-apply/",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-11-27T16:09:27.035Z"
   },
   {
     "id": "scraped-wepropel-echidna-global-scholar-visiting-fellowship-20-84045544d9",
@@ -141,7 +141,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-27T01:29:44.052Z"
+    "capturado_en": "2026-11-27T16:09:27.037Z"
   },
   {
     "id": "scraped-wepropel-climate-intervention-environmental-impact-fun-837a8e5a7b",
@@ -165,7 +165,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-27T01:29:44.053Z"
+    "capturado_en": "2026-11-27T16:09:27.037Z"
   },
   {
     "id": "scraped-wepropel-nature-culture-fellowship-program-a7798482b0",
@@ -189,7 +189,31 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-27T01:29:44.054Z"
+    "capturado_en": "2026-11-27T16:09:27.038Z"
+  },
+  {
+    "id": "scraped-wepropel-2027-crowder-messersmith-conservation-fund-1c73c8b2a1",
+    "titulo": "2027 Crowder-Messersmith Conservation Fund",
+    "donante": "Nature Forward",
+    "fuente": "Oportunidades Propel",
+    "sector": "Ambiente / Sostenibilidad",
+    "dimension": "ambiental",
+    "presupuesto_usd": 3000,
+    "fecha_cierre": "2026-12-01",
+    "estado": "CONVOCATORIA VIGENTE",
+    "pais_elegible": "Validar elegibilidad",
+    "afinidad_pivot": 74,
+    "pivot": "Grant dirigido a organizaciones, comunidades e individuos que desarrollan pequeños proyectos de conservación de la naturaleza y educación ambiental en países en desarrollo. Ofrece financiamiento inicial para proteger especies y hábitats amenazados, involucrando a las comunidades locales.",
+    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
+    "fuente_url": "https://natureforward.org/wp-content/uploads/2026/08/2027-C-M-Application-CRITERIA-and-INFORMATION.pdf",
+    "tags": [
+      "RASTREO EN VIVO",
+      "OPORTUNIDADES PROPEL"
+    ],
+    "tipo": "fondo",
+    "rastreado": true,
+    "origen_rastreo": "wepropel",
+    "capturado_en": "2026-11-27T16:09:27.038Z"
   },
   {
     "id": "scraped-wepropel-convocatoria-de-proyectos-2027-c241c21ce0",
@@ -213,7 +237,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-27T01:29:44.058Z"
+    "capturado_en": "2026-11-27T16:09:27.040Z"
   },
   {
     "id": "scraped-wepropel-erase-indifference-challenge-2026-09b7f671ff",
@@ -237,7 +261,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-27T01:29:44.059Z"
+    "capturado_en": "2026-11-27T16:09:27.047Z"
   },
   {
     "id": "scraped-wepropel-movenow-social-innovation-challenge-2026-9cfbea823f",
@@ -261,7 +285,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-27T01:29:44.061Z"
+    "capturado_en": "2026-11-27T16:09:27.048Z"
   },
   {
     "id": "scraped-wepropel-premio-carlos-slim-en-salud-2027-b5aa7f0b22",
@@ -285,7 +309,7 @@
     "tipo": "roja",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-27T01:29:44.046Z"
+    "capturado_en": "2026-11-27T16:09:27.030Z"
   },
   {
     "id": "scraped-wepropel-the-pollination-project-daily-grant-7665801bca",
@@ -309,7 +333,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-27T01:29:44.047Z"
+    "capturado_en": "2026-11-27T16:09:27.030Z"
   },
   {
     "id": "scraped-wepropel-thrive-seed-grant-6dd22bcb3e",
@@ -333,7 +357,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-27T01:29:44.052Z"
+    "capturado_en": "2026-11-27T16:09:27.036Z"
   },
   {
     "id": "scraped-wepropel-ai-for-changemakers-program-2025-da023f4ab3",
@@ -357,7 +381,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-27T01:29:44.063Z"
+    "capturado_en": "2026-11-27T16:09:27.048Z"
   },
   {
     "id": "scraped-wepropel-microgrants-for-ecosystem-restoration-2026-c2785389a1",
@@ -381,31 +405,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-27T01:29:44.064Z"
-  },
-  {
-    "id": "scraped-wepropel-creative-practitioner-in-residence-inclusion--55e5344233",
-    "titulo": "Creative Practitioner in Residence & Inclusion, Participation and Engagement Fellowships 2027",
-    "donante": "The School of Advanced Study University of London",
-    "fuente": "Oportunidades Propel",
-    "sector": "Educación / Juventud",
-    "dimension": "social",
-    "presupuesto_usd": 0,
-    "fecha_cierre": "2026-11-27",
-    "estado": "CONVOCATORIA VIGENTE",
-    "pais_elegible": "Validar elegibilidad",
-    "afinidad_pivot": 65,
-    "pivot": "Programa de residencias y fellowships de seis meses para profesionales creativos e investigadores en etapas iniciales de su carrera. Ofrece un estipendio, mentoría, formación y acceso a recursos académicos de la School of Advanced Study de la Universidad de Londres. Apoya proyectos que conecten la investigación en artes y humanidades con la sociedad mediante prácticas creativas, inclusión, participación y colaboración con comunidades.",
-    "obstaculo": "Validar requisitos, documentación y elegibilidad en la fuente oficial.",
-    "fuente_url": "https://www.sas.ac.uk/research-engagement/fellowships/creative-practitioner-residence-inclusion-participation-engagement-fellowships-2027",
-    "tags": [
-      "RASTREO EN VIVO",
-      "OPORTUNIDADES PROPEL"
-    ],
-    "tipo": "fondo",
-    "rastreado": true,
-    "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-27T01:29:44.045Z"
+    "capturado_en": "2026-11-27T16:09:27.049Z"
   },
   {
     "id": "scraped-wepropel-eu-lac-digital-accelerator-open-call-1d88d96b8b",
@@ -429,7 +429,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-27T01:29:44.048Z"
+    "capturado_en": "2026-11-27T16:09:27.031Z"
   },
   {
     "id": "scraped-wepropel-vanguard-fellowship-2027-f6ec7a3baa",
@@ -453,7 +453,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-27T01:29:44.049Z"
+    "capturado_en": "2026-11-27T16:09:27.033Z"
   },
   {
     "id": "scraped-wepropel-women-in-ai-fellowship-2027-4ab4b64a4f",
@@ -477,7 +477,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-27T01:29:44.051Z"
+    "capturado_en": "2026-11-27T16:09:27.035Z"
   },
   {
     "id": "scraped-wepropel-nextgen-higher-education-grant-8b1ac29d6b",
@@ -501,7 +501,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-27T01:29:44.060Z"
+    "capturado_en": "2026-11-27T16:09:27.047Z"
   },
   {
     "id": "scraped-premios-portafolio-premios-portafolio-2026-6c0d0fa3ff",
@@ -525,7 +525,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "premios-portafolio",
-    "capturado_en": "2026-11-27T01:29:36.647Z"
+    "capturado_en": "2026-11-27T16:09:20.665Z"
   },
   {
     "id": "scraped-wepropel-yale-world-fellows-2027-eb85526a6c",
@@ -549,7 +549,7 @@
     "tipo": "fondo",
     "rastreado": true,
     "origen_rastreo": "wepropel",
-    "capturado_en": "2026-11-27T01:29:44.055Z"
+    "capturado_en": "2026-11-27T16:09:27.039Z"
   },
   {
     "id": "avery-dennison-foundation-manual",
