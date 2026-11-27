@@ -1,9 +1,9 @@
 {
-  "last_run": "2026-11-26T22:12:30.989Z",
+  "last_run": "2026-11-27T01:29:49.662Z",
   "active_opportunities": 24,
   "scraped_opportunities": 24,
-  "sources_ok": 7,
-  "sources_failed": 2,
+  "sources_ok": 6,
+  "sources_failed": 3,
   "sources_skipped": 0,
   "sources": [
     {
@@ -51,9 +51,9 @@
     {
       "id": "red-exposocial",
       "name": "Red ExpoSocial",
-      "status": "success",
+      "status": "failed",
       "found": 0,
-      "message": "HTTP 200"
+      "message": "socket hang up"
     },
     {
       "id": "global-health-learning",
